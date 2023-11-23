@@ -1,0 +1,4750 @@
+The Bueno-Orovio–Cherry–Fenton model, also simply called Bueno-Orovio model, is a minimal ionic model for human ventricular cells. It belongs to the category of phenomenological models, because of its characteristic of describing the electrophysiological behaviour of cardiac muscle cells without taking into account in a detailed way the underlying physiology and the specific mechanisms occurring inside the cells.This mathematical model reproduces both single cell and important tissue-level properties, accounting for physiological action potential development and conduction velocity estimations. 
+It also provides specific parameters choices, derived from parameter-fitting algorithms of the MATLAB Optimization Toolbox, for the modeling of epicardial, endocardial and myd-myocardial tissues. 
+In this way it is possible to match the action potential morphologies, observed from experimental data, in the three different regions of the human ventricles.
+The Bueno-Orovio–Cherry–Fenton model is also able to describe reentrant and spiral wave dynamics, which occurs for instance during tachycardia or other types of arrhythmias.From the mathematical perspective, it consists of a system of four differential equations. One PDE, similar to the monodomain model, for an adimensional version of the transmembrane potential, and three ODEs that define the evolution of the so-called gating variables, i.e. probability density functions whose aim is to model the fraction of open ion channels across a cell membrane.
+
+Mathematical modeling
+The system of four differential equations reads as follows:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      
+                        
+                          ∂
+                          u
+                        
+                        
+                          ∂
+                          t
+                        
+                      
+                    
+                  
+                  =
+                  ∇
+                  ⋅
+                  (
+                  D
+                  ∇
+                  u
+                  )
+                  −
+                  (
+                  
+                    J
+                    
+                      f
+                      i
+                    
+                  
+                  +
+                  
+                    J
+                    
+                      s
+                      o
+                    
+                  
+                  +
+                  
+                    J
+                    
+                      s
+                      i
+                    
+                  
+                  )
+                
+                
+                  
+                    in 
+                  
+                  Ω
+                  ×
+                  (
+                  0
+                  ,
+                  T
+                  )
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          ∂
+                          v
+                        
+                        
+                          ∂
+                          t
+                        
+                      
+                    
+                  
+                  =
+                  
+                    
+                      
+                        
+                          (
+                          1
+                          −
+                          H
+                          (
+                          u
+                          −
+                          
+                            θ
+                            
+                              v
+                            
+                          
+                          )
+                          )
+                          (
+                          
+                            v
+                            
+                              ∞
+                            
+                          
+                          −
+                          v
+                          )
+                        
+                        
+                          τ
+                          
+                            v
+                          
+                          
+                            −
+                          
+                        
+                      
+                    
+                  
+                  −
+                  
+                    
+                      
+                        
+                          H
+                          (
+                          u
+                          −
+                          
+                            θ
+                            
+                              v
+                            
+                          
+                          )
+                          v
+                        
+                        
+                          τ
+                          
+                            v
+                          
+                          
+                            +
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    in 
+                  
+                  Ω
+                  ×
+                  (
+                  0
+                  ,
+                  T
+                  )
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          ∂
+                          w
+                        
+                        
+                          ∂
+                          t
+                        
+                      
+                    
+                  
+                  =
+                  
+                    
+                      
+                        
+                          (
+                          1
+                          −
+                          H
+                          (
+                          u
+                          −
+                          
+                            θ
+                            
+                              w
+                            
+                          
+                          )
+                          )
+                          (
+                          
+                            w
+                            
+                              ∞
+                            
+                          
+                          −
+                          w
+                          )
+                        
+                        
+                          τ
+                          
+                            w
+                          
+                          
+                            −
+                          
+                        
+                      
+                    
+                  
+                  −
+                  
+                    
+                      
+                        
+                          H
+                          (
+                          u
+                          −
+                          
+                            θ
+                            
+                              w
+                            
+                          
+                          )
+                          w
+                        
+                        
+                          τ
+                          
+                            w
+                          
+                          
+                            +
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    in 
+                  
+                  Ω
+                  ×
+                  (
+                  0
+                  ,
+                  T
+                  )
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          ∂
+                          s
+                        
+                        
+                          ∂
+                          t
+                        
+                      
+                    
+                  
+                  =
+                  
+                    
+                      
+                        1
+                        
+                          τ
+                          
+                            s
+                          
+                        
+                      
+                    
+                  
+                  
+                    (
+                    
+                      
+                        
+                          
+                            
+                              1
+                              +
+                              tanh
+                              ⁡
+                              (
+                              
+                                k
+                                
+                                  s
+                                
+                              
+                              (
+                              u
+                              −
+                              
+                                u
+                                
+                                  s
+                                
+                              
+                              )
+                              )
+                            
+                            2
+                          
+                        
+                      
+                      −
+                      s
+                    
+                    )
+                  
+                
+                
+                  
+                    in 
+                  
+                  Ω
+                  ×
+                  (
+                  0
+                  ,
+                  T
+                  )
+                
+              
+              
+                
+                  
+                    
+                      (
+                    
+                  
+                  D
+                  ∇
+                  u
+                  
+                    
+                      )
+                    
+                  
+                  ⋅
+                  
+                    N
+                  
+                  =
+                  0
+                
+                
+                  
+                    on 
+                  
+                  ∂
+                  Ω
+                  ×
+                  (
+                  0
+                  ,
+                  T
+                  )
+                
+              
+              
+                
+                  u
+                  =
+                  
+                    u
+                    
+                      0
+                    
+                  
+                  ,
+                  
+                  v
+                  =
+                  
+                    v
+                    
+                      0
+                    
+                  
+                  ,
+                  
+                  w
+                  =
+                  
+                    w
+                    
+                      0
+                    
+                  
+                  ,
+                  
+                  s
+                  =
+                  
+                    s
+                    
+                      0
+                    
+                  
+                
+                
+                  
+                    in 
+                  
+                  Ω
+                  ×
+                  {
+                  0
+                  }
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}{\dfrac {\partial u}{\partial t}}=\nabla \cdot (D\nabla u)-(J_{fi}+J_{so}+J_{si})&{\text{in }}\Omega \times (0,T)\\[5pt]{\dfrac {\partial v}{\partial t}}={\dfrac {(1-H(u-\theta _{v}))(v_{\infty }-v)}{\tau _{v}^{-}}}-{\dfrac {H(u-\theta _{v})v}{\tau _{v}^{+}}}&{\text{in }}\Omega \times (0,T)\\[5pt]{\dfrac {\partial w}{\partial t}}={\dfrac {(1-H(u-\theta _{w}))(w_{\infty }-w)}{\tau _{w}^{-}}}-{\dfrac {H(u-\theta _{w})w}{\tau _{w}^{+}}}&{\text{in }}\Omega \times (0,T)\\[5pt]{\dfrac {\partial s}{\partial t}}={\dfrac {1}{\tau _{s}}}\left({\dfrac {1+\tanh(k_{s}(u-u_{s}))}{2}}-s\right)&{\text{in }}\Omega \times (0,T)\\[5pt]{\big (}D\nabla u{\big )}\cdot {\boldsymbol {N}}=0&{\text{on }}\partial \Omega \times (0,T)\\[5pt]u=u_{0},\,v=v_{0},\,w=w_{0},\,s=s_{0}&{\text{in }}\Omega \times \{0\}\end{cases}}}
+  where 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+   is the spatial domain and 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is the final time. The initial conditions are 
+  
+    
+      
+        
+          u
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle u_{0}=0}
+  , 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle v_{0}=1}
+  , 
+  
+    
+      
+        
+          w
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle w_{0}=1}
+  , 
+  
+    
+      
+        
+          s
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle s_{0}=0}
+  .
+  
+    
+      
+        H
+        (
+        x
+        −
+        
+          x
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle H(x-x_{0})}
+   refers to the Heaviside function centered in 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+  . The adimensional transmembrane potential 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   can be rescaled in mV by means of the affine transformation 
+  
+    
+      
+        
+          V
+          
+            m
+            V
+          
+        
+        =
+        85.7
+        u
+        −
+        84
+      
+    
+    {\displaystyle V_{mV}=85.7u-84}
+  . 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  , 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   and 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   refer to gating variables, where in particular 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   can be also used as an indication of intracellular calcium 
+  
+    
+      
+        
+          
+            
+              
+                C
+                a
+              
+              
+                i
+              
+            
+          
+          
+            2
+            +
+          
+        
+      
+    
+    {\displaystyle {{Ca}_{i}}^{2+}}
+   concentration (given in the adimensional range [0, 1] instead of molar concentration).
+
+  
+    
+      
+        
+          J
+          
+            f
+            i
+          
+        
+        ,
+        
+          J
+          
+            s
+            o
+          
+        
+      
+    
+    {\displaystyle J_{fi},J_{so}}
+   and 
+  
+    
+      
+        
+          J
+          
+            s
+            i
+          
+        
+      
+    
+    {\displaystyle J_{si}}
+   are the fast inward, slow outward and slow inward currents respectively, given by the following expressions:
+  
+    
+      
+        
+          J
+          
+            f
+            i
+          
+        
+        =
+        −
+        
+          
+            
+              v
+              H
+              (
+              u
+              −
+              
+                θ
+                
+                  v
+                
+              
+              )
+              (
+              u
+              −
+              
+                θ
+                
+                  v
+                
+              
+              )
+              (
+              
+                u
+                
+                  u
+                
+              
+              −
+              u
+              )
+            
+            
+              τ
+              
+                f
+                i
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle J_{fi}=-{\frac {vH(u-\theta _{v})(u-\theta _{v})(u_{u}-u)}{\tau _{fi}}},}
+  
+  
+    
+      
+        
+          J
+          
+            s
+            o
+          
+        
+        =
+        
+          
+            
+              (
+              u
+              −
+              
+                u
+                
+                  o
+                
+              
+              )
+              (
+              1
+              −
+              H
+              (
+              u
+              −
+              
+                θ
+                
+                  w
+                
+              
+              )
+              )
+            
+            
+              τ
+              
+                o
+              
+            
+          
+        
+        +
+        
+          
+            
+              H
+              (
+              u
+              −
+              
+                θ
+                
+                  w
+                
+              
+              )
+            
+            
+              τ
+              
+                s
+                o
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle J_{so}={\frac {(u-u_{o})(1-H(u-\theta _{w}))}{\tau _{o}}}+{\frac {H(u-\theta _{w})}{\tau _{so}}},}
+  
+  
+    
+      
+        
+          J
+          
+            s
+            i
+          
+        
+        =
+        −
+        
+          
+            
+              H
+              (
+              u
+              −
+              
+                θ
+                
+                  w
+                
+              
+              )
+              w
+              s
+            
+            
+              τ
+              
+                s
+                i
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle J_{si}=-{\frac {H(u-\theta _{w})ws}{\tau _{si}}},}
+  All the above-mentioned ionic density currents are partially adimensional and are expressed in 
+  
+    
+      
+        
+          
+            
+              1
+              seconds
+            
+          
+        
+      
+    
+    {\displaystyle {\dfrac {1}{\text{seconds}}}}
+  .Different parameters sets, as shown in Table 1, can be used to reproduce the action potential development of epicardial, endocardial and mid-myocardial human ventricular cells. There are some constants of the model, which are not located in Table 1, that can be deduced with the following formulas:
+
+  
+    
+      
+        
+          τ
+          
+            v
+          
+          
+            −
+          
+        
+        =
+        (
+        1
+        −
+        H
+        (
+        u
+        −
+        
+          θ
+          
+            v
+          
+          
+            −
+          
+        
+        )
+        )
+        
+          τ
+          
+            
+              v
+              
+                1
+              
+            
+          
+          
+            −
+          
+        
+        +
+        H
+        (
+        u
+        −
+        
+          θ
+          
+            v
+          
+          
+            −
+          
+        
+        )
+        
+          τ
+          
+            
+              v
+              
+                2
+              
+            
+          
+          
+            −
+          
+        
+        ,
+      
+    
+    {\displaystyle \tau _{v}^{-}=(1-H(u-\theta _{v}^{-}))\tau _{v_{1}}^{-}+H(u-\theta _{v}^{-})\tau _{v_{2}}^{-},}
+  
+  
+    
+      
+        
+          τ
+          
+            w
+          
+          
+            −
+          
+        
+        =
+        
+          τ
+          
+            
+              w
+              
+                1
+              
+            
+          
+          
+            −
+          
+        
+        +
+        (
+        
+          τ
+          
+            
+              w
+              
+                2
+              
+            
+          
+          
+            −
+          
+        
+        −
+        
+          τ
+          
+            
+              w
+              
+                1
+              
+            
+          
+          
+            −
+          
+        
+        )
+        (
+        1
+        +
+        tanh
+        ⁡
+        (
+        
+          k
+          
+            w
+          
+          
+            −
+          
+        
+        (
+        u
+        −
+        
+          u
+          
+            w
+          
+          
+            −
+          
+        
+        )
+        )
+        )
+        
+          /
+        
+        2
+        ,
+      
+    
+    {\displaystyle \tau _{w}^{-}=\tau _{w_{1}}^{-}+(\tau _{w_{2}}^{-}-\tau _{w_{1}}^{-})(1+\tanh(k_{w}^{-}(u-u_{w}^{-})))/2,}
+  
+  
+    
+      
+        
+          τ
+          
+            s
+            o
+          
+        
+        =
+        
+          τ
+          
+            
+              
+                s
+                o
+              
+              
+                1
+              
+            
+          
+        
+        +
+        (
+        
+          τ
+          
+            
+              
+                s
+                o
+              
+              
+                2
+              
+            
+          
+        
+        −
+        
+          τ
+          
+            
+              
+                s
+                o
+              
+              
+                1
+              
+            
+          
+        
+        )
+        (
+        1
+        +
+        tanh
+        ⁡
+        (
+        
+          k
+          
+            s
+            o
+          
+        
+        (
+        u
+        −
+        
+          u
+          
+            s
+            o
+          
+        
+        )
+        )
+        )
+        
+          /
+        
+        2
+        ,
+      
+    
+    {\displaystyle \tau _{so}=\tau _{{so}_{1}}+(\tau _{{so}_{2}}-\tau _{{so}_{1}})(1+\tanh(k_{so}(u-u_{so})))/2,}
+  
+  
+    
+      
+        
+          τ
+          
+            s
+          
+        
+        =
+        (
+        1
+        −
+        H
+        (
+        u
+        −
+        
+          θ
+          
+            w
+          
+        
+        )
+        )
+        
+          τ
+          
+            
+              s
+              
+                1
+              
+            
+          
+        
+        +
+        H
+        (
+        u
+        −
+        
+          θ
+          
+            w
+          
+        
+        )
+        
+          τ
+          
+            
+              s
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \tau _{s}=(1-H(u-\theta _{w}))\tau _{s_{1}}+H(u-\theta _{w})\tau _{s_{2}},}
+  
+  
+    
+      
+        
+          τ
+          
+            o
+          
+        
+        =
+        (
+        1
+        −
+        H
+        (
+        u
+        −
+        
+          θ
+          
+            o
+          
+        
+        )
+        )
+        
+          τ
+          
+            
+              o
+              
+                1
+              
+            
+          
+        
+        +
+        H
+        (
+        u
+        −
+        
+          θ
+          
+            o
+          
+        
+        )
+        
+          τ
+          
+            
+              o
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \tau _{o}=(1-H(u-\theta _{o}))\tau _{o_{1}}+H(u-\theta _{o})\tau _{o_{2}},}
+  
+  
+    
+      
+        
+          v
+          
+            ∞
+          
+        
+        =
+        1
+        −
+        H
+        (
+        u
+        −
+        
+          θ
+          
+            v
+          
+          
+            −
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle v_{\infty }=1-H(u-\theta _{v}^{-}),}
+  
+  
+    
+      
+        
+          w
+          
+            ∞
+          
+        
+        =
+        (
+        1
+        −
+        H
+        (
+        u
+        −
+        
+          θ
+          
+            o
+          
+        
+        )
+        )
+        (
+        1
+        −
+        u
+        
+          /
+        
+        
+          τ
+          
+            
+              w
+              
+                ∞
+              
+            
+          
+        
+        )
+        +
+        H
+        (
+        u
+        −
+        
+          θ
+          
+            o
+          
+        
+        )
+        
+          w
+          
+            ∞
+          
+          
+            ∗
+          
+        
+        .
+      
+    
+    {\displaystyle w_{\infty }=(1-H(u-\theta _{o}))(1-u/\tau _{w_{\infty }})+H(u-\theta _{o})w_{\infty }^{*}.}
+  where the temporal constants, i.e. 
+  
+    
+      
+        
+          τ
+          
+            v
+          
+          
+            −
+          
+        
+        ,
+        
+          τ
+          
+            w
+          
+          
+            −
+          
+        
+        ,
+        
+          τ
+          
+            s
+            o
+          
+        
+        ,
+        
+          τ
+          
+            s
+          
+        
+        ,
+        
+          τ
+          
+            o
+          
+        
+      
+    
+    {\displaystyle \tau _{v}^{-},\tau _{w}^{-},\tau _{so},\tau _{s},\tau _{o}}
+   are expressed in seconds, whereas 
+  
+    
+      
+        
+          v
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle v_{\infty }}
+   and 
+  
+    
+      
+        
+          w
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle w_{\infty }}
+   are adimensional.The diffusion coefficient 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   results in a value of 
+  
+    
+      
+        1.171
+        ±
+        0.221
+        
+          
+            
+              
+                
+                  cm
+                
+                
+                  2
+                
+              
+              seconds
+            
+          
+        
+      
+    
+    {\displaystyle 1.171\pm 0.221{\dfrac {{\text{cm}}^{2}}{\text{seconds}}}}
+  , which comes from experimental tests on human ventricular tissues.In order to trigger the action potential development in a certain position of the domain 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+  , a forcing term 
+  
+    
+      
+        
+          J
+          
+            app
+          
+        
+        (
+        
+          x
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle J_{\text{app}}({\boldsymbol {x}},t)}
+  , which represents an externally applied density current, is usually added at the right hand side of the PDE and acts for a short time interval only.
+
+Weak formulation
+Assume that 
+  
+    
+      
+        
+          z
+        
+      
+    
+    {\displaystyle {\boldsymbol {z}}}
+   refers to the vector containing all the gating variables, i.e. 
+  
+    
+      
+        
+          z
+        
+        =
+        [
+        v
+        ,
+        w
+        ,
+        s
+        
+          ]
+          
+            T
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {z}}=[v,w,s]^{T}}
+  , and 
+  
+    
+      
+        
+          F
+        
+        :
+        
+          
+            R
+          
+          
+            4
+          
+        
+        →
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {F}}:\mathbb {R} ^{4}\rightarrow \mathbb {R} ^{3}}
+   contains the corresponding three right hand sides of the ionic model. The Bueno-Orovio–Cherry–Fenton model can be rewritten in the compact form:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      
+                        
+                          ∂
+                          u
+                        
+                        
+                          ∂
+                          t
+                        
+                      
+                    
+                  
+                  −
+                  ∇
+                  ⋅
+                  (
+                  D
+                  ∇
+                  u
+                  )
+                  +
+                  (
+                  
+                    J
+                    
+                      f
+                      i
+                    
+                  
+                  +
+                  
+                    J
+                    
+                      s
+                      o
+                    
+                  
+                  +
+                  
+                    J
+                    
+                      s
+                      i
+                    
+                  
+                  )
+                  =
+                  0
+                
+                
+                  
+                    in 
+                  
+                  Ω
+                  ×
+                  (
+                  0
+                  ,
+                  T
+                  )
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          ∂
+                          
+                            z
+                          
+                        
+                        
+                          ∂
+                          t
+                        
+                      
+                    
+                  
+                  =
+                  
+                    F
+                  
+                  (
+                  u
+                  ,
+                  
+                    z
+                  
+                  )
+                
+                
+                  
+                    in 
+                  
+                  Ω
+                  ×
+                  (
+                  0
+                  ,
+                  T
+                  )
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}{\dfrac {\partial u}{\partial t}}-\nabla \cdot (D\nabla u)+(J_{fi}+J_{so}+J_{si})=0&{\text{in }}\Omega \times (0,T)\\[5pt]{\dfrac {\partial {\boldsymbol {z}}}{\partial t}}={\boldsymbol {F}}(u,{\boldsymbol {z}})&{\text{in }}\Omega \times (0,T)\\\end{cases}}}
+  Let 
+  
+    
+      
+        p
+        ∈
+        U
+        =
+        
+          H
+          
+            1
+          
+        
+        (
+        Ω
+        )
+      
+    
+    {\displaystyle p\in U=H^{1}(\Omega )}
+   and 
+  
+    
+      
+        
+          q
+        
+        ∈
+        
+          W
+        
+        =
+        [
+        
+          L
+          
+            2
+          
+        
+        (
+        Ω
+        )
+        
+          ]
+          
+            3
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {q}}\in {\boldsymbol {W}}=[L^{2}(\Omega )]^{3}}
+   be two generic test functions.To obtain the weak formulation:
+multiply by 
+  
+    
+      
+        p
+        ∈
+        U
+      
+    
+    {\displaystyle p\in U}
+   the first equation of the model and by 
+  
+    
+      
+        
+          q
+        
+        ∈
+        
+          W
+        
+      
+    
+    {\displaystyle {\boldsymbol {q}}\in {\boldsymbol {W}}}
+   the equations for the evolution of the gating variables. Integrating both members of all the equations in the domain 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+  :
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    
+                      
+                        
+                          
+                            d
+                            u
+                            (
+                            t
+                            )
+                          
+                          
+                            d
+                            t
+                          
+                        
+                      
+                    
+                    p
+                    
+                    d
+                    Ω
+                    −
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    ∇
+                    ⋅
+                    (
+                    D
+                    ∇
+                    u
+                    (
+                    t
+                    )
+                    )
+                    p
+                    
+                    d
+                    Ω
+                    +
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    (
+                    
+                      J
+                      
+                        f
+                        i
+                      
+                    
+                    +
+                    
+                      J
+                      
+                        s
+                        o
+                      
+                    
+                    +
+                    
+                      J
+                      
+                        s
+                        i
+                      
+                    
+                    )
+                    p
+                    
+                    d
+                    Ω
+                    =
+                    0
+                  
+                
+                
+                  ∀
+                  p
+                  ∈
+                  U
+                
+              
+              
+                
+                  
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    
+                      
+                        
+                          
+                            d
+                            
+                              z
+                            
+                            (
+                            t
+                            )
+                          
+                          
+                            d
+                            t
+                          
+                        
+                      
+                    
+                    
+                      q
+                    
+                    
+                    d
+                    Ω
+                    =
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    
+                      F
+                    
+                    (
+                    u
+                    (
+                    t
+                    )
+                    ,
+                    
+                      z
+                    
+                    (
+                    t
+                    )
+                    )
+                    
+                      q
+                    
+                    
+                    d
+                    Ω
+                  
+                
+                
+                  ∀
+                  
+                    q
+                  
+                  ∈
+                  
+                    W
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}\displaystyle \int _{\Omega }{\dfrac {du(t)}{dt}}p\,d\Omega -\int _{\Omega }\nabla \cdot (D\nabla u(t))p\,d\Omega +\int _{\Omega }(J_{fi}+J_{so}+J_{si})p\,d\Omega =0&\forall p\in U\\[5pt]\displaystyle \int _{\Omega }{\dfrac {d{\boldsymbol {z}}(t)}{dt}}{\boldsymbol {q}}\,d\Omega =\int _{\Omega }{\boldsymbol {F}}(u(t),{\boldsymbol {z}}(t)){\boldsymbol {q}}\,d\Omega &\forall {\boldsymbol {q}}\in {\boldsymbol {W}}\end{cases}}}
+  perform an integration by parts of the diffusive term of the first monodomain-like equation:
+  
+    
+      
+        −
+        
+          ∫
+          
+            Ω
+          
+        
+        ∇
+        ⋅
+        (
+        D
+        ∇
+        u
+        (
+        t
+        )
+        )
+        p
+        
+        d
+        Ω
+        =
+        
+          ∫
+          
+            Ω
+          
+        
+        D
+        ∇
+        u
+        (
+        t
+        )
+        ∇
+        p
+        
+        d
+        Ω
+        −
+        
+          
+            
+              
+                ∫
+                
+                  ∂
+                  Ω
+                
+              
+              (
+              D
+              ∇
+              u
+              (
+              t
+              )
+              )
+              ⋅
+              
+                N
+              
+              p
+              
+              d
+              Ω
+            
+            
+              Neumann B.C.
+            
+          
+        
+      
+    
+    {\displaystyle -\int _{\Omega }\nabla \cdot (D\nabla u(t))p\,d\Omega =\int _{\Omega }D\nabla u(t)\nabla p\,d\Omega -{\cancelto {\text{Neumann B.C.}}{\int _{\partial \Omega }(D\nabla u(t))\cdot {\boldsymbol {N}}p\,d\Omega }}}
+  Finally the weak formulation reads: 
+
+Find 
+  
+    
+      
+        u
+        ∈
+        
+          L
+          
+            2
+          
+        
+        (
+        0
+        ,
+        T
+        ;
+        
+          H
+          
+            1
+          
+        
+        (
+        Ω
+        )
+        )
+      
+    
+    {\displaystyle u\in L^{2}(0,T;H^{1}(\Omega ))}
+   and 
+  
+    
+      
+        
+          z
+        
+        ∈
+        
+          L
+          
+            2
+          
+        
+        (
+        0
+        ,
+        T
+        ;
+        [
+        
+          L
+          
+            2
+          
+        
+        (
+        Ω
+        )
+        
+          ]
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle {\boldsymbol {z}}\in L^{2}(0,T;[L^{2}(\Omega )]^{3})}
+  , 
+  
+    
+      
+        ∀
+        t
+        ∈
+        (
+        0
+        ,
+        T
+        )
+      
+    
+    {\displaystyle \forall t\in (0,T)}
+  , such that
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    
+                      
+                        
+                          d
+                          u
+                          (
+                          t
+                          )
+                        
+                        
+                          d
+                          t
+                        
+                      
+                    
+                    p
+                    
+                    d
+                    Ω
+                    +
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    D
+                    ∇
+                    u
+                    (
+                    t
+                    )
+                    ⋅
+                    ∇
+                    p
+                    
+                    d
+                    Ω
+                    +
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    (
+                    
+                      J
+                      
+                        f
+                        i
+                      
+                    
+                    +
+                    
+                      J
+                      
+                        s
+                        o
+                      
+                    
+                    +
+                    
+                      J
+                      
+                        s
+                        i
+                      
+                    
+                    )
+                    p
+                    
+                    d
+                    Ω
+                    =
+                    0
+                  
+                
+                
+                  ∀
+                  p
+                  ∈
+                  U
+                
+              
+              
+                
+                  
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    
+                      
+                        
+                          d
+                          
+                            z
+                          
+                          (
+                          t
+                          )
+                        
+                        
+                          d
+                          t
+                        
+                      
+                    
+                    
+                      q
+                    
+                    
+                    d
+                    Ω
+                    =
+                    
+                      ∫
+                      
+                        Ω
+                      
+                    
+                    
+                      F
+                    
+                    (
+                    u
+                    (
+                    t
+                    )
+                    ,
+                    
+                      z
+                    
+                    (
+                    t
+                    )
+                    )
+                    
+                      q
+                    
+                    
+                    d
+                    Ω
+                  
+                
+                
+                  ∀
+                  
+                    q
+                  
+                  ∈
+                  
+                    W
+                  
+                
+              
+              
+                
+                  u
+                  (
+                  0
+                  )
+                  =
+                  
+                    u
+                    
+                      0
+                    
+                  
+                
+              
+              
+                
+                  
+                    z
+                  
+                  (
+                  0
+                  )
+                  =
+                  
+                    
+                      z
+                    
+                    
+                      0
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}\displaystyle \int _{\Omega }{\frac {du(t)}{dt}}p\,d\Omega +\int _{\Omega }D\nabla u(t)\cdot \nabla p\,d\Omega +\int _{\Omega }(J_{fi}+J_{so}+J_{si})p\,d\Omega =0&\forall p\in U\\[5pt]\displaystyle \int _{\Omega }{\frac {d{\boldsymbol {z}}(t)}{dt}}{\boldsymbol {q}}\,d\Omega =\int _{\Omega }{\boldsymbol {F}}(u(t),{\boldsymbol {z}}(t)){\boldsymbol {q}}\,d\Omega &\forall {\boldsymbol {q}}\in {\boldsymbol {W}}\\[5pt]u(0)=u_{0}\\[5pt]{\boldsymbol {z}}(0)={\boldsymbol {z}}_{0}\end{cases}}}
+
+Numerical discretization
+There are several methods to discretize in space this system of equations, such as the finite element method (FEM) or isogeometric analysis (IGA).Time discretization can be performed in several ways as well, such as using a backward differentiation formula (BDF) of order 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   or a Runge–Kutta method (RK).
+
+Space discretization with FEM
+Let 
+  
+    
+      
+        
+          
+            
+              T
+            
+          
+          
+            h
+          
+        
+      
+    
+    {\displaystyle {\mathcal {T}}_{h}}
+   be a tessellation of the computational domain 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+   by means of a certain type of elements (such as tetrahedrons or hexahedra), with 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   representing a chosen measure of the size of a single element 
+  
+    
+      
+        K
+        ∈
+        
+          
+            
+              T
+            
+          
+          
+            h
+          
+        
+      
+    
+    {\displaystyle K\in {\mathcal {T}}_{h}}
+  . 
+Consider the set 
+  
+    
+      
+        
+          
+            P
+          
+          
+            r
+          
+        
+        (
+        K
+        )
+      
+    
+    {\displaystyle \mathbb {P} ^{r}(K)}
+   of polynomials with degree smaller or equal than 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   over an element 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  . Define 
+  
+    
+      
+        
+          
+            
+              X
+            
+          
+          
+            h
+          
+          
+            r
+          
+        
+        =
+        {
+        f
+        ∈
+        
+          C
+          
+            0
+          
+        
+        (
+        
+          
+            
+              Ω
+              ¯
+            
+          
+        
+        )
+        :
+        f
+        
+          
+            |
+          
+          
+            K
+          
+        
+        ∈
+        
+          
+            P
+          
+          
+            r
+          
+        
+        (
+        K
+        )
+        
+        
+        ∀
+        K
+        ∈
+        
+          
+            
+              T
+            
+          
+          
+            h
+          
+        
+        }
+      
+    
+    {\displaystyle {\mathcal {X}}_{h}^{r}=\{f\in C^{0}({\bar {\Omega }}):f|_{K}\in \mathbb {P} ^{r}(K)\,\,\forall K\in {\mathcal {T}}_{h}\}}
+   as the finite dimensional space, whose dimension is 
+  
+    
+      
+        
+          N
+          
+            h
+          
+        
+        =
+        dim
+        ⁡
+        (
+        
+          
+            
+              X
+            
+          
+          
+            h
+          
+          
+            r
+          
+        
+        )
+      
+    
+    {\displaystyle N_{h}=\dim({\mathcal {X}}_{h}^{r})}
+  . 
+The set of basis functions of 
+  
+    
+      
+        
+          
+            
+              X
+            
+          
+          
+            h
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle {\mathcal {X}}_{h}^{r}}
+   is referred to as 
+  
+    
+      
+        {
+        
+          ϕ
+          
+            i
+          
+        
+        
+          }
+          
+            i
+            =
+            1
+          
+          
+            
+              N
+              
+                h
+              
+            
+          
+        
+      
+    
+    {\displaystyle \{\phi _{i}\}_{i=1}^{N_{h}}}
+  .The semidiscretized formulation of the first equation of the model reads: find 
+  
+    
+      
+        
+          u
+          
+            h
+          
+        
+        =
+        
+          u
+          
+            h
+          
+        
+        (
+        t
+        )
+        =
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            
+              N
+              
+                h
+              
+            
+          
+        
+        
+          
+            
+              
+                u
+                ¯
+              
+            
+          
+          
+            j
+          
+        
+        (
+        t
+        )
+        
+          ϕ
+          
+            j
+          
+        
+      
+    
+    {\displaystyle u_{h}=u_{h}(t)=\sum _{j=1}^{N_{h}}{\bar {u}}_{j}(t)\phi _{j}}
+   projection of the solution 
+  
+    
+      
+        u
+        (
+        t
+        )
+      
+    
+    {\displaystyle u(t)}
+   on 
+  
+    
+      
+        
+          
+            
+              X
+            
+          
+          
+            h
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle {\mathcal {X}}_{h}^{r}}
+  , 
+  
+    
+      
+        ∀
+        t
+        ∈
+        (
+        0
+        ,
+        T
+        )
+      
+    
+    {\displaystyle \forall t\in (0,T)}
+  , such that
+
+  
+    
+      
+        
+          ∫
+          
+            Ω
+          
+        
+        
+          
+            
+              
+                u
+                ˙
+              
+            
+          
+          
+            h
+          
+        
+        
+          ϕ
+          
+            i
+          
+        
+        
+        d
+        Ω
+        +
+        
+          ∫
+          
+            Ω
+          
+        
+        (
+        D
+        ∇
+        
+          u
+          
+            h
+          
+        
+        )
+        ⋅
+        ∇
+        
+          ϕ
+          
+            i
+          
+        
+        
+        d
+        Ω
+        +
+        
+          ∫
+          
+            Ω
+          
+        
+        
+          J
+          
+            ion
+          
+        
+        (
+        
+          u
+          
+            h
+          
+        
+        ,
+        
+          
+            z
+          
+          
+            h
+          
+        
+        )
+        
+          ϕ
+          
+            i
+          
+        
+        
+        d
+        Ω
+        =
+        0
+        
+        
+          for 
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        
+          N
+          
+            h
+          
+        
+      
+    
+    {\displaystyle \int _{\Omega }{\dot {u}}_{h}\phi _{i}\,d\Omega +\int _{\Omega }(D\nabla u_{h})\cdot \nabla \phi _{i}\,d\Omega +\int _{\Omega }J_{\text{ion}}(u_{h},{\boldsymbol {z}}_{h})\phi _{i}\,d\Omega =0\quad {\text{for }}i=1,\ldots ,N_{h}}
+  with 
+  
+    
+      
+        
+          u
+          
+            h
+          
+        
+        (
+        0
+        )
+        =
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            
+              N
+              
+                h
+              
+            
+          
+        
+        
+          (
+          
+            
+              ∫
+              
+                Ω
+              
+            
+            
+              u
+              
+                0
+              
+            
+            
+              ϕ
+              
+                j
+              
+            
+            
+            d
+            Ω
+          
+          )
+        
+        
+          ϕ
+          
+            j
+          
+        
+      
+    
+    {\displaystyle u_{h}(0)=\sum _{j=1}^{N_{h}}\left(\int _{\Omega }u_{0}\phi _{j}\,d\Omega \right)\phi _{j}}
+  , 
+  
+    
+      
+        
+          
+            z
+          
+          
+            h
+          
+        
+        =
+        
+          
+            z
+          
+          
+            h
+          
+        
+        (
+        t
+        )
+        =
+        [
+        
+          v
+          
+            h
+          
+        
+        (
+        t
+        )
+        ,
+        
+          w
+          
+            h
+          
+        
+        (
+        t
+        )
+        ,
+        
+          s
+          
+            h
+          
+        
+        (
+        t
+        )
+        
+          ]
+          
+            T
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {z}}_{h}={\boldsymbol {z}}_{h}(t)=[v_{h}(t),w_{h}(t),s_{h}(t)]^{T}}
+   semidiscretized version of the three gating variables, and 
+  
+    
+      
+        
+          J
+          
+            ion
+          
+        
+        (
+        
+          u
+          
+            h
+          
+        
+        ,
+        
+          
+            z
+          
+          
+            h
+          
+        
+        )
+        =
+        
+          J
+          
+            f
+            i
+          
+        
+        (
+        
+          u
+          
+            h
+          
+        
+        ,
+        
+          
+            z
+          
+          
+            h
+          
+        
+        )
+        +
+        
+          J
+          
+            s
+            o
+          
+        
+        (
+        
+          u
+          
+            h
+          
+        
+        ,
+        
+          
+            z
+          
+          
+            h
+          
+        
+        )
+        +
+        
+          J
+          
+            s
+            i
+          
+        
+        (
+        
+          u
+          
+            h
+          
+        
+        ,
+        
+          
+            z
+          
+          
+            h
+          
+        
+        )
+      
+    
+    {\displaystyle J_{\text{ion}}(u_{h},{\boldsymbol {z}}_{h})=J_{fi}(u_{h},{\boldsymbol {z}}_{h})+J_{so}(u_{h},{\boldsymbol {z}}_{h})+J_{si}(u_{h},{\boldsymbol {z}}_{h})}
+   is the total ionic density current.The space discretized version of the first equation can be rewritten as a system of non-linear ODEs by setting 
+  
+    
+      
+        
+          
+            U
+          
+          
+            h
+          
+        
+        (
+        t
+        )
+        =
+        {
+        
+          
+            
+              
+                u
+                ¯
+              
+            
+          
+          
+            j
+          
+        
+        (
+        t
+        )
+        
+          }
+          
+            j
+            =
+            1
+          
+          
+            
+              N
+              
+                h
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {U}}_{h}(t)=\{{\bar {u}}_{j}(t)\}_{j=1}^{N_{h}}}
+   and 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            h
+          
+        
+        (
+        t
+        )
+        =
+        {
+        
+          
+            
+              
+                z
+                ¯
+              
+            
+          
+          
+            j
+          
+        
+        (
+        t
+        )
+        
+          }
+          
+            j
+            =
+            1
+          
+          
+            
+              N
+              
+                h
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {Z}}_{h}(t)=\{{\bar {\boldsymbol {z}}}_{j}(t)\}_{j=1}^{N_{h}}}
+  :
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    M
+                  
+                  
+                    
+                      
+                        
+                          U
+                          ˙
+                        
+                      
+                    
+                    
+                      h
+                    
+                  
+                  (
+                  t
+                  )
+                  +
+                  
+                    K
+                  
+                  
+                    
+                      U
+                    
+                    
+                      h
+                    
+                  
+                  (
+                  t
+                  )
+                  +
+                  
+                    
+                      J
+                    
+                    
+                      ion
+                    
+                  
+                  (
+                  
+                    
+                      U
+                    
+                    
+                      h
+                    
+                  
+                  (
+                  t
+                  )
+                  ,
+                  
+                    
+                      Z
+                    
+                    
+                      h
+                    
+                  
+                  (
+                  t
+                  )
+                  )
+                  =
+                  0
+                
+                
+                  ∀
+                  t
+                  ∈
+                  (
+                  0
+                  ,
+                  T
+                  )
+                
+              
+              
+                
+                  
+                    
+                      U
+                    
+                    
+                      h
+                    
+                  
+                  (
+                  0
+                  )
+                  =
+                  
+                    
+                      U
+                    
+                    
+                      0
+                      ,
+                      h
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}\mathbb {M} {\dot {\boldsymbol {U}}}_{h}(t)+\mathbb {K} {\boldsymbol {U}}_{h}(t)+{\boldsymbol {J}}_{\text{ion}}({\boldsymbol {U}}_{h}(t),{\boldsymbol {Z}}_{h}(t))=0&\forall t\in (0,T)\\{\boldsymbol {U}}_{h}(0)={\boldsymbol {U}}_{0,h}\end{cases}}}
+  where 
+  
+    
+      
+        
+          
+            M
+          
+          
+            i
+            j
+          
+        
+        =
+        
+          ∫
+          
+            Ω
+          
+        
+        
+          ϕ
+          
+            j
+          
+        
+        
+          ϕ
+          
+            i
+          
+        
+        
+        d
+        Ω
+      
+    
+    {\displaystyle \mathbb {M} _{ij}=\int _{\Omega }\phi _{j}\phi _{i}\,d\Omega }
+  , 
+  
+    
+      
+        
+          
+            K
+          
+          
+            i
+            j
+          
+        
+        =
+        
+          ∫
+          
+            Ω
+          
+        
+        D
+        ∇
+        
+          ϕ
+          
+            j
+          
+        
+        ⋅
+        ∇
+        
+          ϕ
+          
+            i
+          
+        
+        
+        d
+        Ω
+      
+    
+    {\displaystyle \mathbb {K} _{ij}=\int _{\Omega }D\nabla \phi _{j}\cdot \nabla \phi _{i}\,d\Omega }
+   and
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  J
+                
+                
+                  ion
+                
+              
+              (
+              
+                
+                  U
+                
+                
+                  h
+                
+              
+              (
+              t
+              )
+              ,
+              
+                
+                  z
+                
+                
+                  h
+                
+              
+              (
+              t
+              )
+              )
+            
+            )
+          
+          
+            i
+          
+        
+        =
+        
+          ∫
+          
+            Ω
+          
+        
+        
+          J
+          
+            ion
+          
+        
+        (
+        
+          u
+          
+            h
+          
+        
+        ,
+        
+          
+            z
+          
+          
+            h
+          
+        
+        )
+        
+          ϕ
+          
+            i
+          
+        
+        
+        d
+        Ω
+      
+    
+    {\displaystyle \left({\boldsymbol {J}}_{\text{ion}}({\boldsymbol {U}}_{h}(t),{\boldsymbol {z}}_{h}(t))\right)_{i}=\int _{\Omega }J_{\text{ion}}(u_{h},{\boldsymbol {z}}_{h})\phi _{i}\,d\Omega }
+  .The non-linear term 
+  
+    
+      
+        
+          
+            J
+          
+          
+            ion
+          
+        
+        (
+        
+          
+            U
+          
+          
+            h
+          
+        
+        (
+        t
+        )
+        ,
+        
+          
+            Z
+          
+          
+            h
+          
+        
+        (
+        t
+        )
+        )
+      
+    
+    {\displaystyle {\boldsymbol {J}}_{\text{ion}}({\boldsymbol {U}}_{h}(t),{\boldsymbol {Z}}_{h}(t))}
+   can be treated in different ways, such as using state variable interpolation (SVI) or ionic currents interpolation (ICI).
+In the framework of SVI, by denoting with 
+  
+    
+      
+        {
+        
+          
+            x
+          
+          
+            s
+          
+          
+            K
+          
+        
+        
+          }
+          
+            s
+            =
+            1
+          
+          
+            
+              N
+              
+                q
+              
+            
+          
+        
+      
+    
+    {\displaystyle \{{\boldsymbol {x}}_{s}^{K}\}_{s=1}^{N_{q}}}
+   and 
+  
+    
+      
+        {
+        
+          ω
+          
+            s
+          
+          
+            K
+          
+        
+        
+          }
+          
+            s
+            =
+            1
+          
+          
+            
+              N
+              
+                q
+              
+            
+          
+        
+      
+    
+    {\displaystyle \{\omega _{s}^{K}\}_{s=1}^{N_{q}}}
+   the quadrature nodes and weights of a generic element of the mesh 
+  
+    
+      
+        K
+        ∈
+        
+          
+            
+              T
+            
+          
+          
+            h
+          
+        
+      
+    
+    {\displaystyle K\in {\mathcal {T}}_{h}}
+  , both 
+  
+    
+      
+        
+          u
+          
+            h
+          
+        
+      
+    
+    {\displaystyle u_{h}}
+   and 
+  
+    
+      
+        
+          
+            z
+          
+          
+            h
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {z}}_{h}}
+   are evaluated at the quadrature nodes:
+
+  
+    
+      
+        
+          ∫
+          
+            Ω
+          
+        
+        
+          J
+          
+            ion
+          
+        
+        (
+        
+          u
+          
+            h
+          
+        
+        ,
+        
+          
+            z
+          
+          
+            h
+          
+        
+        )
+        
+          ϕ
+          
+            i
+          
+        
+        
+        d
+        Ω
+        ≈
+        
+          ∑
+          
+            K
+            ∈
+            
+              
+                
+                  T
+                
+              
+              
+                h
+              
+            
+          
+        
+        
+          (
+          
+            
+              ∑
+              
+                s
+                =
+                1
+              
+              
+                
+                  N
+                  
+                    q
+                  
+                
+              
+            
+            
+              J
+              
+                ion
+              
+            
+            
+              (
+              
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    
+                      N
+                      
+                        h
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        u
+                        ¯
+                      
+                    
+                  
+                  
+                    j
+                  
+                
+                (
+                t
+                )
+                
+                  ϕ
+                  
+                    j
+                  
+                
+                (
+                
+                  
+                    x
+                  
+                  
+                    s
+                  
+                  
+                    K
+                  
+                
+                )
+                ,
+                
+                  ∑
+                  
+                    j
+                    =
+                    1
+                  
+                  
+                    
+                      N
+                      
+                        h
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        z
+                        ¯
+                      
+                    
+                  
+                  
+                    j
+                  
+                
+                (
+                t
+                )
+                
+                  ϕ
+                  
+                    j
+                  
+                
+                (
+                
+                  
+                    x
+                  
+                  
+                    s
+                  
+                  
+                    K
+                  
+                
+                )
+              
+              )
+            
+            
+              ϕ
+              
+                i
+              
+            
+            (
+            
+              
+                x
+              
+              
+                s
+              
+              
+                K
+              
+            
+            )
+            
+              ω
+              
+                s
+              
+              
+                K
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \int _{\Omega }J_{\text{ion}}(u_{h},{\boldsymbol {z}}_{h})\phi _{i}\,d\Omega \approx \sum _{K\in {\mathcal {T}}_{h}}\left(\sum _{s=1}^{N_{q}}J_{\text{ion}}\left(\sum _{j=1}^{N_{h}}{\bar {u}}_{j}(t)\phi _{j}({\boldsymbol {x}}_{s}^{K}),\sum _{j=1}^{N_{h}}{\bar {\boldsymbol {z}}}_{j}(t)\phi _{j}({\boldsymbol {x}}_{s}^{K})\right)\phi _{i}({\boldsymbol {x}}_{s}^{K})\omega _{s}^{K}\right)}
+  The equations for the three gating variables, which are ODEs, are directly solved in all the degrees of freedom (DOF) of the tessellation 
+  
+    
+      
+        
+          
+            
+              T
+            
+          
+          
+            h
+          
+        
+      
+    
+    {\displaystyle {\mathcal {T}}_{h}}
+   separately, leading to the following semidiscrete form:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      
+                        
+                          Z
+                          ˙
+                        
+                      
+                    
+                    
+                      h
+                    
+                  
+                  (
+                  t
+                  )
+                  =
+                  
+                    F
+                  
+                  (
+                  
+                    
+                      U
+                    
+                    
+                      h
+                    
+                  
+                  (
+                  t
+                  )
+                  ,
+                  
+                    
+                      Z
+                    
+                    
+                      h
+                    
+                  
+                  (
+                  t
+                  )
+                  )
+                
+                
+                  ∀
+                  t
+                  ∈
+                  (
+                  0
+                  ,
+                  T
+                  )
+                
+              
+              
+                
+                  
+                    
+                      Z
+                    
+                    
+                      h
+                    
+                  
+                  (
+                  0
+                  )
+                  =
+                  
+                    
+                      Z
+                    
+                    
+                      0
+                      ,
+                      h
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}{\dot {\boldsymbol {Z}}}_{h}(t)={\boldsymbol {F}}({\boldsymbol {U}}_{h}(t),{\boldsymbol {Z}}_{h}(t))&\forall t\in (0,T)\\{\boldsymbol {Z}}_{h}(0)={\boldsymbol {Z}}_{0,h}\end{cases}}}
+
+Time discretization with BDF (implicit scheme)
+With reference to the time interval 
+  
+    
+      
+        (
+        0
+        ,
+        T
+        ]
+      
+    
+    {\displaystyle (0,T]}
+  , let 
+  
+    
+      
+        Δ
+        t
+        =
+        
+          
+            
+              T
+              N
+            
+          
+        
+      
+    
+    {\displaystyle \Delta t={\dfrac {T}{N}}}
+   be the chosen time step, with 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   number of subintervals. A uniform partition in time 
+  
+    
+      
+        [
+        
+          t
+          
+            0
+          
+        
+        =
+        0
+        ,
+        
+          t
+          
+            1
+          
+        
+        =
+        Δ
+        t
+        ,
+        …
+        ,
+        
+          t
+          
+            k
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            N
+            −
+            1
+          
+        
+        ,
+        
+          t
+          
+            N
+          
+        
+        =
+        T
+        ]
+      
+    
+    {\displaystyle [t_{0}=0,t_{1}=\Delta t,\ldots ,t_{k},\ldots ,t_{N-1},t_{N}=T]}
+   is finally obtained.At this stage, the full discretization of the Bueno-Orovio ionic model can be performed both in a monolithic and segregated fashion.
+With respect to the first methodology (the monolithic one), at time 
+  
+    
+      
+        t
+        =
+        
+          t
+          
+            k
+          
+        
+      
+    
+    {\displaystyle t=t^{k}}
+  , the full problem is entirely solved in one step in order to get 
+  
+    
+      
+        (
+        
+          
+            U
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+        ,
+        
+          
+            Z
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle ({\boldsymbol {U}}_{h}^{k+1},{\boldsymbol {Z}}_{h}^{k+1})}
+   by means of either Newton method or Fixed-point iterations:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    M
+                  
+                  α
+                  
+                    
+                      
+                        
+                          
+                            
+                              U
+                            
+                            
+                              h
+                            
+                            
+                              k
+                              +
+                              1
+                            
+                          
+                          −
+                          
+                            
+                              U
+                            
+                            
+                              
+                                ext
+                              
+                              ,
+                              h
+                            
+                            
+                              k
+                            
+                          
+                        
+                        
+                          Δ
+                          t
+                        
+                      
+                    
+                  
+                  +
+                  
+                    K
+                  
+                  
+                    
+                      U
+                    
+                    
+                      h
+                    
+                    
+                      k
+                      +
+                      1
+                    
+                  
+                  +
+                  
+                    
+                      J
+                    
+                    
+                      ion
+                    
+                  
+                  (
+                  
+                    
+                      U
+                    
+                    
+                      h
+                    
+                    
+                      k
+                      +
+                      1
+                    
+                  
+                  ,
+                  
+                    
+                      Z
+                    
+                    
+                      h
+                    
+                    
+                      k
+                      +
+                      1
+                    
+                  
+                  )
+                  =
+                  0
+                
+              
+              
+                
+                  α
+                  
+                    
+                      
+                        
+                          
+                            
+                              Z
+                            
+                            
+                              h
+                            
+                            
+                              k
+                              +
+                              1
+                            
+                          
+                          −
+                          
+                            
+                              Z
+                            
+                            
+                              
+                                ext
+                              
+                              ,
+                              h
+                            
+                            
+                              k
+                            
+                          
+                        
+                        
+                          Δ
+                          t
+                        
+                      
+                    
+                  
+                  =
+                  
+                    F
+                  
+                  (
+                  
+                    
+                      U
+                    
+                    
+                      h
+                    
+                    
+                      k
+                      +
+                      1
+                    
+                  
+                  ,
+                  
+                    
+                      Z
+                    
+                    
+                      h
+                    
+                    
+                      k
+                      +
+                      1
+                    
+                  
+                  )
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}\mathbb {M} \alpha {\dfrac {{\boldsymbol {U}}_{h}^{k+1}-{\boldsymbol {U}}_{{\text{ext}},h}^{k}}{\Delta t}}+\mathbb {K} {\boldsymbol {U}}_{h}^{k+1}+{\boldsymbol {J}}_{\text{ion}}({\boldsymbol {U}}_{h}^{k+1},{\boldsymbol {Z}}_{h}^{k+1})=0\\\alpha {\dfrac {{\boldsymbol {Z}}_{h}^{k+1}-{\boldsymbol {Z}}_{{\text{ext}},h}^{k}}{\Delta t}}={\boldsymbol {F}}({\boldsymbol {U}}_{h}^{k+1},{\boldsymbol {Z}}_{h}^{k+1})\end{cases}}}
+  where 
+  
+    
+      
+        
+          
+            U
+          
+          
+            
+              ext
+            
+            ,
+            h
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {U}}_{{\text{ext}},h}^{k}}
+   and 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            
+              ext
+            
+            ,
+            h
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {Z}}_{{\text{ext}},h}^{k}}
+   are extrapolations of transmembrane potential and gating variables at previous timesteps with respect to 
+  
+    
+      
+        
+          t
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle t^{k+1}}
+  , considering as many time instants as the order 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   of the BDF scheme. 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is a coefficient which depends on the BDF order 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  .If a segregated method is employed, the equation for the evolution in time of the transmembrane potential and the ones of the gating variables are numerically solved separately:
+Firstly, 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {Z}}_{h}^{k+1}}
+   is calculated, using an extrapolation at previous timesteps 
+  
+    
+      
+        
+          
+            U
+          
+          
+            
+              ext
+            
+            ,
+            h
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {U}}_{{\text{ext}},h}^{k}}
+   for the transmembrane potential at the right hand side:
+  
+    
+      
+        α
+        
+          
+            
+              
+                
+                  
+                    Z
+                  
+                  
+                    h
+                  
+                  
+                    k
+                    +
+                    1
+                  
+                
+                −
+                
+                  
+                    Z
+                  
+                  
+                    
+                      ext
+                    
+                    ,
+                    h
+                  
+                  
+                    k
+                  
+                
+              
+              
+                Δ
+                t
+              
+            
+          
+        
+        =
+        
+          F
+        
+        (
+        
+          
+            U
+          
+          
+            
+              ext
+            
+            ,
+            h
+          
+          
+            k
+          
+        
+        ,
+        
+          
+            Z
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle \alpha {\dfrac {{\boldsymbol {Z}}_{h}^{k+1}-{\boldsymbol {Z}}_{{\text{ext}},h}^{k}}{\Delta t}}={\boldsymbol {F}}({\boldsymbol {U}}_{{\text{ext}},h}^{k},{\boldsymbol {Z}}_{h}^{k+1})}
+  Secondly, 
+  
+    
+      
+        
+          
+            U
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {U}}_{h}^{k+1}}
+   is computed, exploiting the value of 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {Z}}_{h}^{k+1}}
+   that has just been calculated:
+  
+    
+      
+        
+          M
+        
+        α
+        
+          
+            
+              
+                
+                  
+                    U
+                  
+                  
+                    h
+                  
+                  
+                    k
+                    +
+                    1
+                  
+                
+                −
+                
+                  
+                    U
+                  
+                  
+                    
+                      ext
+                    
+                    ,
+                    h
+                  
+                  
+                    k
+                  
+                
+              
+              
+                Δ
+                t
+              
+            
+          
+        
+        +
+        
+          K
+        
+        
+          
+            U
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+        +
+        
+          
+            J
+          
+          
+            ion
+          
+        
+        (
+        
+          
+            U
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+        ,
+        
+          
+            Z
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle \mathbb {M} \alpha {\dfrac {{\boldsymbol {U}}_{h}^{k+1}-{\boldsymbol {U}}_{{\text{ext}},h}^{k}}{\Delta t}}+\mathbb {K} {\boldsymbol {U}}_{h}^{k+1}+{\boldsymbol {J}}_{\text{ion}}({\boldsymbol {U}}_{h}^{k+1},{\boldsymbol {Z}}_{h}^{k+1})=0}
+  Another possible segregated scheme would be the one in which 
+  
+    
+      
+        
+          
+            U
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {U}}_{h}^{k+1}}
+   is calculated first, and then it is used in the equations for 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            h
+          
+          
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle {\boldsymbol {Z}}_{h}^{k+1}}
+  .
+
+See also
+Monodomain model
+Bidomain model
+
+
+== References ==

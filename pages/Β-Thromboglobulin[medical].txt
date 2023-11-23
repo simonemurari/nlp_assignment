@@ -1,0 +1,13 @@
+β-Thromboglobulin (β-TG), or beta-thromboglobulin, is a chemokine protein secreted by platelets. It is a type of chemokine (C-X-C motif) ligand 7. Along with platelet factor 4 (PF4), β-TG is one of the best-characterized platelet-specific proteins. β-TG and PF4 are stored in platelet alpha granules and are released during platelet activation. As a result, they are useful markers of platelet activation. β-TG also has multiple biological activities, for instance being involved in maturation of megakaryocytes.
+
+Biological actions
+β-TG is a chemoattractant, strongly for fibroblasts and weakly for neutrophils. It is a stimulator of mitogenesis, extracellular matrix synthesis, glucose metabolism, and plasminogen activator synthesis in human fibroblasts.β-TG also affects megakaryocyte maturation, and thus helps in regulating platelet production.
+
+Clinical uses
+Levels of β-TG is used to index platelet activation. It is measured by ELISA in blood plasma or urine, and often in conjunction with PF4.
+
+Influences
+β-TG levels may increase with age. It is elevated in diabetes mellitus.β-TG levels have been found to be increased by treatment with the synthetic estrogen ethinylestradiol, though were not significantly increased by the natural estrogen estradiol valerate. Levels of β-TG have also been found to be increased or unchanged during normal pregnancy.
+
+
+== References ==

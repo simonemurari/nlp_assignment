@@ -1,0 +1,50 @@
+An eyeglass prescription is an order written by an eyewear prescriber, such as an optometrist, that specifies the value of all parameters the prescriber has deemed necessary to construct and/or dispense corrective lenses appropriate for a patient. If an eye examination indicates that corrective lenses are appropriate, the prescriber generally provides the patient with an eyewear prescription at the conclusion of the exam.
+The parameters specified on spectacle prescriptions vary, but typically include the patient's name, power of the lenses, any prism to be included, the pupillary distance, expiration date, and the prescriber's signature. The prescription is typically determined during a refraction, using a phoropter and asking the patient which of two lenses is better, or by an automated refractor, or through the technique of retinoscopy. A dispensing optician will take a prescription written by an optometrist and order and/or assemble the frames and lenses to then be dispensed to the patient.
+
+Components of a sphero-cylindrical correction
+Sphere component
+Every corrective lens prescription includes a spherical correction in diopters. Convergent powers are positive (e.g., +4.00 D) and condense light to correct for farsightedness/long-sightedness (hyperopia) or allow the patient to read more comfortably (see presbyopia and binocular vision disorders). Divergent powers are negative (e.g., −3.75 D) and spread out light to correct for nearsightedness/short-sightedness (myopia). If neither convergence nor divergence is required in the prescription, "plano" is used to denote a refractive power of zero.
+The term "sphere" comes from the geometry of lenses. Lenses derive their power from curved surfaces. A spherical lens has the same curvature in every direction perpendicular to the optical axis. Spherical lenses are adequate correction when a person has no astigmatism.  To correct for astigmatism, the "cylinder" and "axis" components specify how a particular lens is different from a lens composed of purely spherical surfaces.
+
+Cylinder component
+Patients with astigmatism need a cylindrical lens, or more generally a toric lens to see clearly. The geometry of a toric lens focuses light differently in different meridians. A meridian, in this case, is a plane that is incident with the optical axis. For example, a toric lens, when rotated correctly, could focus an object to the image of a horizontal line at one focal distance while focusing a vertical line to a separate focal distance.
+The power of a toric lens can be specified by describing how the cylinder (the meridian that is most different from the spherical power) differs from the spherical power. Power evenly transitions between the two powers as you move from the meridian with the most convergence to the meridian with the least convergence. For regular toric lenses, these powers are perpendicular to each other and their location relative to vertical and horizontal are specified by the axis component.
+There are two different conventions for indicating the amount of cylinder: "plus cylinder notation" and "minus cylinder notation". In the former, the cylinder power is a number of diopters more convergent than the sphere power. That means the spherical power describes the most divergent meridian and the cylindrical component describes the most convergent. In the minus cylinder notation, the cylinder power is a number of diopters more divergent than the sphere component. In this convention, the sphere power describes the most convergent meridian and the cylinder component describes the most divergent. Europe typically follows the plus cylinder convention while in the US the minus cylinder notation is used by optometrists and the plus cylinder notation is used by ophthalmologists. Minus cylinder notation is also more common in Asia, although either style may be encountered there. There is no difference in these forms of notation and it is easy to convert between them:
+Add the sphere and cylinder numbers together to produce the converted sphere
+Invert the sign of cylinder value
+Add 90° to axis value, and if the new axis value exceeds 180°, subtract 180° from the resultFor example, a lens with a vertical power of −3.75 and a horizontal power of −2.25 could be specified as either −2.25 −1.50 × 180 or −3.75 +1.50 × 090.
+
+Axis component
+The axis defines the location of the sphere and cylinder powers. The name "axis" comes from the concept of generating a cylinder by rotating a line around an axis. The curve of that cylinder is 90° from that axis of rotation. When dealing with toric lenses, the axis defines the orientation of the steepest and flattest curvatures relative to horizontal and vertical. The "3 o'clock" position is defined as zero, and the 90th meridian is a vertical line. A horizontal line passes through both zero and the 180th meridians. By convention, a horizontal axis is recorded as 180.
+In a regular toric lens, the flattest and steepest curvatures are separated by 90°. As a result, the axis of the cylinder is also the meridian with the same power as the recorded sphere power. The cylinder power, as defined above is the power that is most different from the sphere power. Because they are defined relative to each other, it is important to know if the lens is being described in minus cylinder notation, where the sphere power is the most convergent / least divergent power. When using plus cylinder notation, the opposite is true.
+If the lens is spherical (there is no cylinder component) then there is no need for an axis. A prescription like this is written with D.S. (diopters sphere) after the sphere power (e.g., −3.00 D.S.).  This verifies that the prescription is truly spherical rather than the cylinder power being omitted in error.
+
+Summary
+correction power is measured in diopters
+by convention, an axis of 90° is vertical, 0° or 180° are horizontal
+if the cylinder power is positive, the lens is most convergent 90° from the axis
+if the cylinder power is negative, the lens is most divergent 90° from the axis
+if the cylinder power is zero, the lens is spherical and has the same power in every meridian
+
+Sample prescription
+A prescription of −1.00 +0.25 × 180 describes a lens that has a horizontal power of −1.00 D and a vertical power of −0.75 D. Only ophthalmologists write prescriptions in + cylinder.  An optometrist would write a prescription in - (minus) cylinder.  All spectacle and contact lenses would be made in minus cylinder. Therefore, the above prescription would be written as −0.75 −0.25 × 90.
+
+Abbreviations and terms
+Similar to medical prescriptions, eyeglass prescriptions are written on paper pads or included in a patient's electronic health record, and contain a number of different abbreviations and terms:
+
+DV is an abbreviation for distance vision. This specifies the part of the prescription designed primarily to improve far vision. In a bifocal lens, this generally indicates what is to be placed in the top segment.
+NV is an abbreviation for near vision. This may represent a single-vision lens prescription to improve near work, or the reading portion of a bifocal lens.
+OD is an abbreviation for oculus dexter, Latin for right eye from the patient's point of view. Oculus means eye.
+OS is an abbreviation for oculus sinister, Latin for left eye from the patient's point of view.
+OU is an abbreviation for oculi uterque, Latin for both eyes.
+N.B.: In some countries, such as the United Kingdom, RE (right eye), LE (left eye), and BE (both eyes) are used. Sometimes, just right and left are used.
+SPH, CYL, and AXIS are values for describing the power of the lens using plus cylinder or minus cylinder notation.
+ADD is an abbreviation for Near Addition. This is the additional refractive power to be combined, or added, to the distance power to achieve the ideal near power.
+Prism and Base Prism refers to a displacement of the image through the lens, often used to treat strabismus and other binocular vision disorders.  The prism value is measured in prism diopters, and Base refers to the direction of displacement.
+PL is an abbreviation for plano or plain, meaning no prescription
+PD or IPD Pupillary Distance or Interpupillary Distance, respectively. It is the distance between pupil centers.
+BVD Back vertex distance is the distance between the back of the spectacle lens and the front of the cornea (the front surface of the eye). This is significant in higher prescriptions (usually beyond ±4.00D) as slight changes in the vertex distance for in this range can cause a power to be delivered to the eye other than what was prescribed.
+
+References
+External links
+UK optical vouchers explained

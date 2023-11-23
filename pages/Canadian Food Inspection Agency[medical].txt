@@ -1,0 +1,76 @@
+The Canadian Food Inspection Agency (CFIA; French: Agence canadienne d'inspection des aliments (ACIA)) is a regulatory agency that is dedicated to the safeguarding of food, plants, and animals (FPA) in Canada, thus enhancing the health and well-being of Canada's people, environment and economy. The agency is responsible to the Minister of Health.The agency was created in April 1997 by the Canadian Food Inspection Agency Act for the purpose of consolidating the delivery of all federal food safety, animal health, and plant health regulatory programs in Canada. As such, the CFIA was established by combining and integrating the related inspection services of three separate federal government departments:
+Agriculture and Agri-Food Canada,
+Fisheries and Oceans Canada, and
+Health Canada.
+
+Role and responsibilities
+The agency is part of the larger federal public service. According to the CFIA statement of values, science is the basis for regulatory decisions, though the need to consider other factors is recognized. Through the enforcement of various acts and regulations, the CFIA works to protect Canadians from preventable health risks and provide a fair and effective food, animal and plant regulatory regime that supports competitive domestic and international markets. A CFIA technocrat is appointed to be Canada's delegate on the FAO committee that drafts the Codex Alimentarius, which is a vital component of the WTO framework.
+The CFIA is also responsible for monitoring pesticide residues in food. Health Canada establishes Maximum Residue Limits (MRLs) for pesticide residues in all foods. MRLs are supposedly set for each pesticide-crop combination.
+
+Agency officials
+The Minister of Health is responsible for:
+
+establishing policies and standards for the safety and nutritional quality of food sold in Canada;
+the administration of those provisions of the Canadian Food and Drugs Act that relate to public health, safety and nutrition; and
+for assessing the effectiveness of the Agency's activities related to food safety.The CFIA has had many Presidents over its lifetime:
+
+Paul Glover, was promoted in January 2019 to head Shared Services Canada.
+Dr. Siddika Mithani was appointed President on 25 February 2019.
+Dr. Harpreet S. Kochhar was appointed President in February 2023.The Chief Veterinary Officer (CVO) of Canada, Dr. Mary-Jane Ireland, resides in the CFIA hierarchy. As a delegate to the OIE, the CVO commits the nation to observe the standards created by the international body, which standards in turn serve the WTO.The Chief Food Safety Officer for Canada resides in the CFIA hierarchy, and plays a key leadership and advisory role for managing food safety incidents and for the development of policies, regulations and programs aimed at preventing and responding to food safety risks. Most recently, Isabelle Laberge was appointed to the role.
+The Chief Plant Health Officer for Canada also resides in the CFIA hierarchy. The occupant of this position sits on the North American Plant Protection Organization and the International Plant Protection Convention, the latter of which informs the WTO's Agreement on the Application of Sanitary and Phytosanitary Measures. Dr. Anthony Anyia is appointed to this post.The Chief Science Operating Officer, currently Dr. Primal Silva, is responsible for the CFIA's 13 laboratories (one of which is Canada's contribution to the BSL4ZNet: National Centre for Foreign Animal Disease) and sits on the Scientific Advisory Board of the Organisation for Economic Cooperation and Development as well as the Global Coalition of Regulatory Science Research.
+
+Food and Drugs Act
+One of the main acts and regulations that CFIA uses is the Food and Drugs Act. There have been ongoing regulatory amendments brought forward with the most recent attempt at modernizing the Food and Drugs Act was the introduction of Bill C-51.
+Other Acts and Regulations also specify inspection requirements and for certain trade requirements, the need to register with CFIA to conduct business. Such companies are termed "registered establishments" as opposed to those "non-federally registered establishments" that fall solely under the Food and Drugs Act. While the Food and Drugs Act provide for core food safety standards, many companies opt to use third-party standards such as HACCP or ISO 22000 (which in any case incorporates HACCP) in order to meet client specified standards. Due to the race to globalize and the push to standardize it is no wonder that the Global Food Safety Initiative has been endorsed by the CFIA. All of these standards are closely observed by the food industry due to the potential loss of business. Here, the reader is encouraged to review the CFIA white paper Private Certification Policy (Food Safety), which at some point between 2014 and 2020 replaced the Guide to Food Safety.The Food and Drugs Act does not have any requirements for domestic manufacturers to notify the agency of their existence but companies generally require provincial registrations or municipal licenses to operate. Provincial authorities and local public health units carry out inspections and work with the CFIA to manage food safety risks.
+There is no requirement in the Food and Drugs Act for importers to directly notify the CFIA of their existence. Import notification is required for other commodities such as fish and meat. All commercial importers must have an import/export account with Canada Border Services Agency (CBSA) who refers food, animal and plant imports to the CFIA as required. Through various phytosanitary requirements, CBSA import controls often cause the CFIA to take notice.
+
+Power to recall
+The Food and Drugs Act does not provide the power to recall food products and all recalls are done on a voluntary basis. However, Section 19 of the Canadian Food Inspection Agency Act provides authority for the Minister of Agriculture to order a recall, where there are reasonable grounds that the product poses a risk to public, animal or plant health. CFIA rates their recalls in three classifications (see below). Public notification of Class I and sometimes class II recalls are done by the CFIA. Lower risk recalls are listed in a published database on the CFIA web site. Recall classifications are conducted by the Office of Food Safety and Recall based on risk advice from Health Canada.
+
+Class I is a situation in which there is a reasonable probability that the use of, or exposure to, a violative product will cause serious adverse health consequences or death.
+Class II is a situation in which the use of, or exposure to, a violative product may cause temporary adverse health consequences or where the probability of serious adverse health consequences is remote.
+Class III is a situation in which the use of, or exposure to, a violative product is not likely to cause any adverse health consequences.
+
+Food Inspector corps
+The CFIA Food Inspector Corps. is unionized by the Agriculture Union, which in turn is an affiliate of PSAC.
+On 11 May 2020, the embedded inspectors at slaughterhouses (as represented by the AU) said that CFIA management is "threatening disciplinary action against employees who refuse to be reassigned to work at COVID-19-infected meat plants", while the intrepid journalist was keen to note that Deputy PM Chrystia Freeland had previously said that "those who feel unsafe won't be forced back to work."
+
+Research laboratories
+The CFIA houses 13 practical research facilities, among which are at least three containment laboratories, Fallowfield, Lethbridge, and the Winnipeg NCFAD:
+Charlottetown Laboratory – Plant
+Dartmouth – Food
+Saint-Hyacinthe – Food and animal health
+Longueuil – Food
+Carling, Ottawa – Food, animal health, and plant - Central Experimental Farm
+Fallowfield, Ottawa – Food, animal health, and plant
+Greater Toronto Area – Food
+Winnipeg – Animal health/disease control - National Centre for Foreign Animal Disease
+Lethbridge – Animal health - National Centre for Animal Diseases
+Saskatoon – Food, plant and animal health
+Calgary – Food
+Burnaby – Food
+Sidney – Plant
+
+Incidents
+2008 Outsourcing controversy
+In July 2008, CFIA biologist Luc Pomerleau was fired for disloyalty to the government, because he transmitted to his union a sensitive Treasury Board minutes document, in which President Vic Toews and ministers approved the cuts proposed by the Minister of Health Tony Clement that were to affect the inspection of animal feed mills, the certification of commercial seed, eliminate mandatory label registration of meat and processed products, the Avian Influenza Preparedness Program, and also called for the consolidation of three "import service centres" into one central facility. Pomerleau is no longer able to work for the government because he was deemed "unreliable" and fired for "gross misconduct".
+
+August 2008 listeria outbreak
+According to the findings of the Independent Investigator that was appointed by the government following the 2008 Listeriosis outbreak, there were 75 confirmed cases of listeriosis and was also the underlying or contributing cause of death for 22 of these individuals. Although most cases were in Ontario, illnesses occurred in seven provinces. The report identified response actions that worked well at the federal and provincial levels and gaps in the system should be corrected.
+ Canadian researcher Sylvain Charlebois published a separate report suggesting that the listeria outbreak forces the agency to accept that food recalls are no longer mainly externally oriented; they are systemic in nature.
+
+2012 brucella bacteria smuggling to China
+In October 2012, Canadian Food Inspection Agency scientist Dr. Klaus Nielsen was arrested, with 17 vials of brucella bacteria, headed to Ottawa airport, en route to China. Nielsen pleaded guilty and was sentenced to two years' imprisonment. Wei Ling Yu, a fellow scientist, and Chinese national, fled from Canada. Both were fired from the Canadian Food Inspection Agency.
+
+2017 glyphosate residue tests
+In April 2017, it was reported that nearly a third of food samples in CFIA testing contain glyphosate residues. Glyphosate residues were detected in 29.7% of all food samples, with 1.3% containing residue levels above MRLs. For the grain products tested, 3.9% had residue levels about MRLs. The research focused on:
+482 samples of fresh and processed fruits and vegetables.
+2,497 samples of grains (barley, buckwheat, and quinoa), beverages, bean, pea, lentil, chickpea and soy products.
+209 retail samples of infant foods.
+
+See also
+Canada Border Services Agency
+
+References
+External links
+Canadian Food Inspection Agency

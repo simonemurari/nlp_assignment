@@ -1,0 +1,57 @@
+Behavioral medicine is concerned with the integration of knowledge in the biological, behavioral, psychological, and social sciences relevant to health and illness. These sciences include epidemiology, anthropology, sociology, psychology, physiology, pharmacology, nutrition, neuroanatomy, endocrinology, and immunology. The term is often used interchangeably, but incorrectly, with health psychology. The practice of behavioral medicine encompasses health psychology, but also includes applied psychophysiological therapies such as biofeedback, hypnosis, and bio-behavioral therapy of physical disorders, aspects of occupational therapy, rehabilitation medicine, and physiatry, as well as preventive medicine. In contrast, health psychology represents a stronger emphasis specifically on psychology's role in both behavioral medicine and behavioral health.Behavioral medicine is especially relevant in recent days, where many of the health problems are primarily viewed as behavioral in nature, as opposed to medical. For example, smoking, leading a sedentary lifestyle, and alcohol use disorder or other substance use disorder are all factors in the leading causes of death in the modern society. Practitioners of behavioral medicine include appropriately qualified nurses, social workers, psychologists, and physicians (including medical students and residents), and these professionals often act as behavioral change agents, even in their medical roles.Behavioral medicine uses the biopsychosocial model of illness instead of the medical model. This model incorporates biological, psychological, and social elements into its approach to disease instead of relying only on a biological deviation from the standard or normal functioning.
+
+Origins and history
+Writings from the earliest civilizations have alluded to the relationship between mind and body, the fundamental concept underlying behavioral medicine. The field of psychosomatic medicine is among its academic forebears, albeit it now obsolete as an academic discipline.In the form in which it is generally understood today, the field dates back to the 1970s. The earliest uses of the term were in the title of a book by Lee Birk (Biofeedback: Behavioral Medicine), published in 1973; and in the names of two clinical research units, the Center for Behavioral Medicine, founded by Ovide F. Pomerleau and John Paul Brady at the University of Pennsylvania in 1973, and the Laboratory for the Study of Behavioral Medicine, founded by William Stewart Agras at Stanford University in 1974. Subsequently, the field burgeoned, and inquiry into behavioral, physiological, and biochemical interactions with health and illness gained prominence under the rubric of behavioral medicine. In 1976, in recognition of this trend, the National Institutes of Health created the Behavioral Medicine Study Section to encourage and facilitate collaborative research across disciplines.The 1977 Yale Conference on Behavioral Medicine and a meeting of the National Academy of Sciences were explicitly aimed at defining and delineating the field in the hopes of helping to guide future research. Based on deliberations at the Yale conference, Schwartz and Weiss proposed the biopsychosocial model, emphasizing the new field's interdisciplinary roots and calling for the integration of knowledge and techniques broadly derived from behavioral and biomedical science.  Shortly after, Pomerleau and Brady published a book entitled Behavioral Medicine: Theory and Practice, in which they offered an alternative definition focusing more closely on the particular contribution of the experimental analysis of behavior in shaping the field.Additional developments during this period of growth and ferment included the establishment of learned societies (the Society of Behavioral Medicine and the Academy of Behavioral Medicine Research, both in 1978) and of journals (the Journal of Behavioral Medicine in 1977 and the Annals of Behavioral Medicine in 1979). In 1990, at the International Congress of Behavioral Medicine in Sweden, the International Society of Behavioral Medicine was founded to provide, through its many daughter societies and through its own peer-reviewed journal (the International Journal of Behavioral Medicine), an international focus for professional and academic development.
+
+Areas of study
+Behavior-related illnesses
+Many chronic diseases have a behavioral component, but the following illnesses can be significantly and directly modified by behavior, as opposed to using pharmacological treatment alone:
+
+Substance use: many studies demonstrate that medication is most effective when combined with behavioral intervention 
+Obesity: structured lifestyle interventions are more effective and widely suitable than drugs or bariatric surgery.
+Hypertension: deliberate attempts to reduce stress can also reduce high blood pressure
+Insomnia: cognitive and behavioural interventions are recommended as a first line treatment for insomnia
+
+Treatment adherence and compliance
+Medications work best for controlling chronic illness when the patients use them as prescribed and do not deviate from the physician's instructions. This is true for both physiological and mental illnesses. However, in order for the patient to adhere to a treatment regimen, the physician must provide accurate information about the regimen, an adequate explanation of what the patient must do, and should also offer more frequent reinforcement of appropriate compliance. Patients with strong social support systems, particularly through marriages and families, typically exhibit better compliance with their treatment regimen.Examples:
+
+telemonitoring through telephone or video conference with the patient
+case management by using a range of medical professionals to consistently follow up with the patient
+
+Doctor-patient relationship
+It is important for doctors to make meaningful connections and relationships with their patients, instead of simply having interactions with them, which often occurs in a system that relies heavily on specialist care. For this reason, behavioral medicine emphasizes honest and clear communication between the doctor and the patient in the successful treatment of any illness, and also in the maintenance of an optimal level of physical and mental health. Obstacles to effective communication include power dynamics, vulnerability, and feelings of helplessness or fear. Doctors and other healthcare providers also struggle with interviewing difficult or uncooperative patients, as well as giving undesirable medical news to patients and their families.The field has placed increasing emphasis on working towards sharing the power in the relationship, as well as training the doctor to empower the patient to make their own behavioral changes. More recently, behavioral medicine has expanded its area of practice to interventions with providers of medical services, in recognition of the fact that the behavior of providers can have a determinative effect on patient outcomes. Objectives include maintaining professional conduct, productivity, and altruism, in addition to preventing burnout, depression, and job dissatisfaction among practitioners.
+
+Learning principles, models and theories
+Behavioral medicine includes understanding the clinical applications of learning principles such as reinforcement, avoidance, generalisation, and discrimination, and of cognitive-social learning models as well, such as the cognitive-social learning model of relapse prevention by Marlatt.
+
+Learning theory
+Learning can be defined as a relatively permanent change in a behavioral tendency occurring as a result of reinforced practice. A behavior is significantly more likely to occur again in the future as a result of learning, making learning important in acquiring maladaptive physiological responses that can lead to psychosomatic disease. This also implies that patients can change their unhealthy behaviors in order to improve their diagnoses or health, especially in treating addictions and phobias.The three primary theories of learning are:
+
+classical conditioning
+operant conditioning
+modelingOther areas include correcting perceptual bias in diagnostic behavior; remediating clinicians' attitudes that impinge negatively upon patient treatment; and addressing clinicians' behaviors that promote disease development and illness maintenance in patients, whether within a malpractice framework or not.
+Our modern-day culture involves many acute, microstressors that add up to a large amount of chronic stress over time, leading to disease and illness. According to Hans Selye, the body's stress response is designed to heal and involves three phases of his General Adaptation Syndrome: alarm, resistance, and exhaustion.
+
+Applications
+An example of how to apply the biopsychosocial model that behavioral medicine utilizes is through chronic pain management. Before this model was adopted, physicians were unable to explain why certain patients did not experience pain despite experiencing significant tissue damage, which led them to see the purely biomedical model of disease as inadequate. However, increasing damage to body parts and tissues is generally associated with increasing levels of pain. Doctors started including a cognitive component to pain, leading to the gate control theory and the discovery of the placebo effect. Psychological factors that affect pain include self-efficacy, anxiety, fear, abuse, life stressors, and pain catastrophizing, which is particularly responsive to behavioral interventions. In addition, one's genetic predisposition to psychological distress and pain sensitivity will affect pain management. Finally, social factors such as socioeconomic status, race, and ethnicity also play a role in the experience of pain.Behavioral medicine involves examining all of the many factors associated with illness, instead of just the biomedical aspect, and heals disease by including a component of behavioral change on the part of the patient.In a review published 2011 Fisher et al. illustrates how a behavior medical approach can be applied on a number of common diseases and risk factors such as cardiovascular disease/diabetes, cancer, HIV/AIDS and tobacco use, poor diet, physical inactivity and excessive alcohol consumption. Evidence indicates that behavioral interventions are cost effectiveness and add in terms of quality of life. Importantly behavioral interventions can have broad effects and benefits on prevention, disease management, and well-being across the life span.
+
+Journals
+Annals of Behavioral Medicine
+International Journal of Behavioral Medicine
+Journal of Behavior Analysis of Sports, Health, Fitness and Behavioral Medicine Behavior Analyst Online
+Journal of Behavioral Health and Medicine Behavior Analyst Online
+Journal of Behavioral Medicine
+
+Organizations
+Association for Behavior Analysis International's Behavioral Medicine Special Interest Group [1]
+Society of Behavioral Medicine [2]
+International Society of Behavioral Medicine
+
+See also
+Health psychology
+Organizational psychology
+Medical psychology
+Occupational health psychology
+
+
+== References ==

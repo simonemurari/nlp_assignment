@@ -1,0 +1,47 @@
+Microbial corneal infection is the most serious and "most common vision threatening" complication of contact lens wear, which is believed to be strongly associated with contact lens cases. Such infections "are being increasingly recognized as an important cause of morbidity and blindness" and "may even be life-threatening."  While the cornea is believed to be the most common site for fungal eye infections, other parts of the eye such as the orbit, sclera, eyelids, and more may also be involved.  Contact lens cases are recognized as a "potential source of pathogens associated with corneal ulcers" and according to Moorfields Eye Hospital, contact lens wear is “the most prevalent risk factor for new cases of corneal ulcers.”  Contaminants "isolated from contact lens associated corneal ulcers have often been shown to be" the same as found in the patient's contact lens case, thus providing evidence contaminated contact lens cases may be a "replenishable source of pathogenic microbes."
+
+Research
+In the study Acanthamoeba, bacterial, and fungal contamination of contact lens storage cases, “101 asymptomatic daily wear cosmetic contact lens wearers” from one contact lens practice were studied to determine the occurrence of fungal, bacterial, and protozoal contamination of contact lens cases. The results of this study found that 24% of “contact lens cases were colonized by fungi” with a “majority growing Cladosporium species (10/24) or Candida species (9/24).”   Other fungi that were also isolated include Fusarium solani, Aspergillus versicolor, Exophiala, and Phoma.  Most of the fungi contaminants were also found to be associated with bacterial contaminants “but on three occasions, fungi were the only microbes isolated.”According to Current Perspectives on Ophthalmic Mycoses, along with the previously mentioned genus and species of fungi, other species of fungi that predominate in ophthalmic mycoses are Scedosporium and "dematiaceous fungi."  One of the difficulties stated in this study is the accuracy of assessing the identification of the genus or species of the "fungal strain isolated in culture."  In one instance, a fungal strain previously identified as Arthrobotrys oligospora in a patient was "later re-identified as Cephaliophora irregularis."  In the same patient, the fungus isolated from "a retained contact lens was identified as Scedosporium prolificans."  The issues of fungal identification observed as mentioned in this study do not pertain only to fungal contamination of contact lenses but also to the overall difficulties of fungal identification in vitro.
+In the study In Vitro Interactions of Fusarium and Acanthamoeba with Drying Residues of Multipurpose Contact Lens Solutions, the "effects of evaporation and drying of multipurpose contact lens solution" was observed on the survival of Fusarium.  The results of the study indicate that the drying effect of the disinfectant solution was not completely able to kill off Fusarium.  Fusarium was found to "aggregate immediately after introduction" of the solution, indicating the invasive nature of Fusarium.  The Fusarium were found to "redistribute themselves" into "discrete regions of the dried residues" which provides evidence that the use solely of multipurpose contact lens solution to prevent fungal contamination will not suffice. Due to the findings of this study, it is suggested that regular replacement of contact lens cases is essential.
+
+Causes
+Genus and species widely associated with fungal contamination of contact lenses include, but not limited to:
+
+Cladosporium
+Candida
+Fusarium, including F. solani
+Aspergillus versicolor
+Exophiala
+Phoma
+Scedosporium 
+Arthrobotrys oligospora
+Cephaliophora irregularis
+Scedosporium prolificansFactors which contribute to fungal contamination of contact lenses include, but not limited to, "hygiene negligence such as":
+Improper sterilization and disinfection of contact lenses
+Use of contaminated lenses
+Contaminated contact lens case
+Contaminated contact lens solution
+Wearing of "contact lenses during eye infections"
+"Introduction of micro-organisms from the environment."
+
+Prevention
+Studies suggest a number of "recommendations for contact lens wearers to prevent contamination" by both bacterial and fungal contaminants which include:
+
+Cleaning the contact lens case by scrubbing the interior of the case in order "to disrupt biofilms"
+Rinsing the contact lens case with very hot water, temperatures greater than 70 °C which "will kill Acanthamoeba contaminants"
+“Allow contact lens case to air dry between uses”
+If using hydrogen peroxide as a disinfecting agent, “use a two step system”
+And lastly, “replace contact lens case regularly.”
+
+Diagnosis and treatment
+Diagnosis is determined "by recognition of typical clinical features" and through "direct microscopic detection of fungi in scrapes, biopsy specimens, and other samples."  Ultimately, cultures made from the samples isolated from patients is what "confirms diagnosis."  Other tests that may also be used if needed include "histopathological, immunohistochemical, or DNA-based tests." Pathogenesis of the fungal contaminants include a wide range of factors such as "invasiveness, toxigenicity, and host factors."Once diagnosis is accessed, "specific anti-fungal therapy" can be administered.  One of the most popular and common treatments used "for life-threatening and severe ophthalmic mycoses" is amphotericin B which is a specific anti-fungal drug.  For the treatment for filamentous fungal keratitis, "topical natamycin is usually the first choice."  For the treatment of yeast keratitis, "topical amphotericin B is usually the first choice."  Current advances in further treatments include evaluations of triazoles such as itraconazole and fluconazole "as therapeutic options in ophthalmic mycoses."For invasive fungal eye infections, scleritis, and keratitis, "medical therapy alone" is usually not enough to treat the infections due to the invasive nature of certain species.  Such invasive fungi include Fusarium, Pythium, and Lasiodiplodia.  For these more serious type of infections which do not respond to medical therapy will need to be further treated by "surgical debridement" and other "various surgical procedures." Many fungal eye infections will also be associated with corticosteroids, which methods "to control inflammatory tissue damage" is being sought.  Immediate treatment for fungal contaminated contact lenses is to discard the contact lenses in question and replace with brand new contact lenses.  It is also recommended to replace the contact lens case as it may be a pathogenic source. Patients with eye infections caused by contaminated contact lenses should seek immediate help from a certified professional.
+
+See Also
+Effects of long-term contact lens wear on the cornea
+
+Notes
+References
+Gray, Trevor B; Cursons, Ray T M; Sherwan, Jane F; Rose, Paul R (1995). "Acanthamoeba, bacterial, and fungal contamination of contact lens storage cases". British Journal of Ophthalmology. 79 (6): 601–605. doi:10.1136/bjo.79.6.601. PMC 505174. PMID 7626578.
+Thomas, Philip A (2003). "Current Perspectives on Ophthalmic Mycoses". Clinical Microbiology Reviews. 16 (4): 730–797. doi:10.1128/cmr.16.4.730-797.2003. PMC 207127. PMID 14557297.
+Ahearn, Donald G; Zhang, Shangtong; Stulting, Doyle R; Simmons, Robert B; Ward, Michael A; Pierce, George E; Crow Jr, Sidney A (2011). "In Vitro Interactions of Fusarium and Acanthamoeba with Drying Residues of Multipurpose Contact Lens Solutions". Investigative Ophthalmology & Visual Science. 52 (3): 1793–1799. doi:10.1167/iovs.10-5956. PMID 21071741.
+Ahmad, Iqbal; Owais, Mohammad; Shahid, Mohammad; Aqil, Farrukh (2010). Combating Fungal Infections: Problems and Remedy. Springer Heidelberg Dordrecht London New York. p. 78. ISBN 978-3-642-12172-2.

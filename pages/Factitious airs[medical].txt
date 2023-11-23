@@ -1,0 +1,126 @@
+Factitious airs was a term used for synthetic gases which emerged around 1670 when Robert Boyle coined the term upon isolating what is now understood to be hydrogen. Factitious means "artificial, not natural", so the term means "man-made gases".
+
+Background
+Robert Boyle coined the term Factitious Air upon isolating hydrogen in 1670.Henry Cavendish (1731–1810) used the term "factitious air" to refer to "any kind of air which is contained in other bodies in an unelastic state, and is produced from thence by art".An archaic definition from 1747  for the production of factitious air was defined as being caused by: "1- by flow Degrees from Putrefactions and Fermentations of all Kinds; or 2- more expeditiously by some Sorts of chymical Dissolutions of Bodies; or 3- and lastly, almost instantaneously by the Explosion of Gunpowder, and the Mixture or some Kinds of Bodies. Thus, if Paste or Dough with Leaven be placed in an exhausted Receiver, it will, after some Time, by Fermentation, produce a considerable quantity of Air, which will appear very plainly by the Sinking the Quicksilver in the Gage. Thus also any Animal or Vegetable Substance, putrifying in Vacuo, will produce the same Effect."There are significant inconsistencies in the archaic nomenclature due to the limited knowledge of chemistry and primitive analytical technology of the era (i.e. based on the chemistry, it is clear the terms were mistakenly assigned to more than one gas by different investigators). Furthermore, in most cases the gases were not pure.
+
+Factitious Airs
+Names used for factitious airs may have included:
+
+ammonia
+ammonical gas
+ammoniac
+volatile alkali
+alkaline air
+gaseous ammonia
+azoturetted hydrogen
+
+carbon dioxide
+fixed air
+Fixed air, or fixible air, is an ancient term for carbon dioxideJoseph Priestley credited Joseph Black for discovering and coining "fixed air", which was thought to exist in a fixed state in alkaline salts, chalk, and other calcareous substances. Black considered substances containing fixed air to be "mild", and upon expulsion of the gas by heating the resulting state is "caustic" by corroding or burning plants and animals (e.g. CO2 released by chalk upon decomposition to calcium oxide). In other words, the fixed air (also known as fixible air) was thought to be fixated within a corrosive molecule.
+Priestley likewise credited the discovery of fixed air to contributions from several scientists including: David Macbride, John Pringle, William Brownrigg (regarded carbonated water to have an acidulous taste), Stephen Hales, and many others.Henry Cavendish provided a definition: "By fixed air, I mean that particular species of factitious air, which is separated from alkaline substances by solution in acids or by calcination". Cavendish essentially defined potassium oxide or calcium oxide as a base, which can contain a fixated air within its composition, setting the stage for the historical definition of carbonate.
+
+carbonic acid
+According to Claude Louis Berthollet, "What has long been called fixed, or fixible air, being really an acid in the state of gas, has of late received several new denominations. It has been called aerial acid, as existing very readily in the state of air, or more properly of gas, and plentifully in the atmosphere. The chalky acid, as procurable in large quantities from chalk, or other mild calcareous substances. The name given to it in this essay is derived from the knowledge of its composition, as lately ascertained by the French Chemists to consist of the elementary part of charcoal, named charbone, or char, united with oxygen, or the acidifying principle. Hence it is called, with strict propriety, carbonic acid in general; carbonic acid gas when in the aerial form; and carbonic acid liquor when combined with or dissolved in water."By French Chemists, Berthollet is generally referring to Laviosier's oxidation discoveries. The name oxygen is derived from Greek with oxy meaning acid, and gene to mean forming/expression, therefore carbonic acid is simply the union of carbon with oxygen (Laviosier's original degrees of oxidation could not fit the concept of carbon monoxide as it was based on diamond, graphite, coal and carbonic acid)
+
+carbonate
+Carbonate was defined as "a compound formed by the union of carbonic acid with an earth, alkali, or metallic oxide [...] they are distinguished by the property of effervescing on the addition of an acid" The definition expands upon fixed air being fixated within carbonate to suggest carbonic acid is a constituent of carbonate, therefore in the ancient language the suffix "-ic acid" and "-ate" were not interchangeable.
+The modern definition is similar, although equipped with the molecular knowledge of carbonate's structure and reassignment of the meaning of carbonic acid from CO2 to the H2CO3 molecule, "Carbonates are the salts of carbonic acids. They form when a positively charged metal ion comes into contact with the oxygen atoms of the carbonate ion."
+
+bicarbonate
+Bicarbonate, originally known as bi-carbonate of potash, was coined by William Hyde Wollaston in 1814 based on hydrocarbonate's potential to release two molar equivalents of carbon dioxide (referred to as carbonic acid at the time) as released by both potassium hydrocarbonate (initially known as carbonate of potash, suggested to become bicarbonate) and potassium carbonate (vaguely known as subcarbonate, suggested to become carbonate) upon formation of potash (potassium oxide).Bicarbonates have historically been defined as, "combinations of the bases with the carbonic acid, in which two atoms of the latter are united to one of the former" In other words, potash (potassium oxide) was well-understood to be a caustic base and essentially the core molecule that subsequent chemical nomenclature was built upon. Carbonate of potash (potassium carbonate) must contain a carbonic acid species fixated within potash's alternative composition (see fixed air above). Since "bi-carbonate of potash" liberates a double dose of carbonic acid, to distinguish between the similar substances, the prefix bi- indicates the bi-carbonate of potash (potassium hydrocarbonate) contains twice as much CO2 fixated in this form potash's composition relative to the carbonate of potash. The same ancient logic (prior to the understanding of molecular formulas and reaction stoichiometry) applied to soda, carbonate of soda, and bicarbonate of soda.
+The word saleratus, from Latin sal æratus (meaning "aerated salt"), was widely used beginning in the 1840s.
+
+carbonic acid gas
+Carbonic acid gas was an ancient term to specify the gaseous state of carbonic acid (synonymous with carbonic acid). It is listed as an alternative name for carbon dioxide in PubChem. In 1796 externally applied carbonic acid gas to the epidermis was reported to treat breast cancer; and inhalation treated tuberculosis and other indications.
+
+miscellaneous historical names
+gas silvestreAncient origin for fixed air by Jan Baptist van Helmont
+Spiritus sylvestris
+aerial acid
+acid of air
+luft-saeure
+carbonic anhydride
+Gas acide carbonique
+Gas carbonicum
+chalky acid
+acid of chalk
+kriedesaeure
+kohlensaeures gas
+choke-damp
+cretaceous acid
+Acide mephitique
+Mephitic air
+deutoxide of carbon
+
+carbon monoxide
+hydrocarbonateWater gas prepared by passing steam over charcoal/coke. Alternatively prepared from unspecified alcohol and sulphuric acid.
+Hydrocarbonate was recognized to brighten venous blood and compete with oxygen around 1796, although credit is widely awarded to Claude Bernard's work in the mid-1850s.
+hydrocarbonous acid
+heavy inflammable air
+carbonated hydrogene
+carbonic oxide / protoxide
+William Cruickshank discovered the composition of carbon monoxide and named it gaseous oxide of carbon. Cruickshank recognized water and hydrogen were not a constituent of the combustible base which contained the same ingredients as carbonic acid, although containing less oxygen.
+Carbonic oxide was identified in the intestine of cattle in the 1800s, marking a trace origin for endogenous carbon monoxide.
+carbonous oxydThe name carbonous oxyd relative to carbonic acid was once considered analogous to nitrous oxide to nitric acid based on the oxide not having sufficient oxygen to form the acid.
+
+hydrogen
+Hydrogen was initially thought to be toxic based on experiments by Lavoisier, however, the purity of the hydrogen was taken into question when later experiments discovered hydrogen to effectively treat measles in the 1790s.
+factitious air (Boyle)
+hydrogene - means "water former" from hydro- and gene-
+inflammable air
+inflammable gas
+base of inflammable air
+zincic inflammable air
+martial inflammable air
+
+hydrogen sulfide
+sulphurated hydrogene
+therapeutic application of H2S for gastrointestinal disorders dates as early as 1806
+hepatic air
+
+methane
+marsh gas/air
+carburetted hydrogen
+light carburetted hydrogen
+heavy inflammable air
+dicarburet of hydrogen
+fire-damp
+gas of the acetates
+
+nitrogen
+azotic air
+azote - means lifeless, or a-zote for "not life", generally regarded as the solid constituent whereas azotic gas was the gaseous form.
+phlogisticated air
+atmospherical memphitic gas
+mephitis
+nitrogene
+base of mephitis
+stickstoffgas
+
+nitrous oxide
+factitious air (Davy)
+dephlogisticated nitrous air
+protoxide of nitrogen
+hypo-nitrous oxide
+gaseous oxide of azote
+
+oxygen
+Blood has been understood to absorb and deliver oxygen since the mid-1790s.
+vital air
+highly respirable air
+pure air
+phosoxygen
+dephlogisticated air
+empyreal air
+base of vital air
+oxy-gene means acid-former or acid-expression, once thought all acids contained oxygen.
+
+miscellaneous
+animal inflammable air
+
+Therapeutics
+The study of these airs interfaced with phlogiston theory.
+The therapeutic potential of factitious airs were widely investigated with significant contributions by Thomas Beddoes, James Watt, James Lind, Humphry Davy, and others at the Pneumatic Institution. Georgiana Cavendish, Duchess of Devonshire (related to Henry through marriage) had a profound interest in chemistry with interest in Henry's research in pneumatic chemistry. She played a pivotal role in advancing the study of factitious airs through partnering with Thomas Beddoes to establish the Pneumatic Institution.Tuberculosis was a primary disease physicians had attempted to treat with factitious airs, particularly since James Watt's daughter died of the disease. John Carmichael had reported successfully treating a patient suffering from tuberculosis using hydrocarbonate. This application of factitious air was pioneering research relevant to the modern era as carbon monoxide currently has preclinical evidence of treating Mycobacterium tuberculosis infection progression by inducing dormancy, stimulating host immune response, and ameliorating host inflammation.
+
+
+== References ==

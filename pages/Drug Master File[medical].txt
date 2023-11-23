@@ -1,0 +1,300 @@
+Drug Master File or DMF is a document prepared by a pharmaceutical manufacturer and submitted solely at its discretion to the appropriate regulatory authority in the intended drug market. There is no regulatory requirement to file a DMF. However, the document provides the regulatory authority with confidential, detailed information about facilities, processes, or articles used in the manufacturing, processing, packaging, and storing of one or more human drugs. Typically, a drug master file is filed when two or more firms work in partnership on developing or manufacturing a drug product. The DMF filing allows a firm to protect its intellectual property from its partner while complying with regulatory requirements for disclosure of processing details.
+
+Description
+Drug Master File (DMF) is a document containing complete information on an Active Pharmaceutical Ingredient (API) or finished drug dosage form. An Active Substance Master File (ASMF) is the currently recognised term in Europe, formerly known as European Drug Master File (EDMF) or a US-Drug Master file (US-DMF) in the United States.
+The DMF contains factual and complete information on a drug product's chemistry, manufacture, stability, purity, impurity profile, packaging,
+and the cGMP status of any human drug product.
+A drug master file comprises two parts: the Applicant's Part (USA: Open Part), which contains all the information that the license-holder needs to assess the quality and submit a license or amendment application; and the Restricted Part (USA: Closed Part), which contains confidential information about the manufacturing procedure only disclosed to the authorities.
+
+DMFs in the United States
+In the United States, DMFs are submitted to the Food and Drug Administration (FDA). The Main Objective of the DMF is to support regulatory requirements and to prove the quality, safety and efficacy of the medicinal product for obtaining an Investigational New Drug Application (IND), a New Drug Application (NDA),As an Abbreviated New Drug Application (ANDA), another DMF, or an Export Application.
+In United States there are 5 types of Drug Master file:
+Type I Manufacturing Site, Facilities, Operating Procedures and PersonnelType II Drug Substance, Drug Substance Intermediate, and Material Used in Their Preparation, or Drug ProductType III Packaging MaterialType IV Excipient, Colorant, Flavor, Essence, or Material Used in Their PreparationType V FDA Accepted Reference Information
+
+DMFs in Europe
+The content and the format for drug master file used in United States differs from that used in European Countries to obtain market authorization (MA). The Main Objective of the EDMF is to support regulatory requirements of a medicinal product to prove its quality, safety and efficacy. This helps to obtain a Marketing Authorisation grant.
+DMF LISTS
+IMPORTANT NOTE
+The current list contains DMFs RECEIVED by March 31, 2012. However the submitted date is listed for each DMF.
+The list of DMFs is current as of March 31, 2012, through DMF 25923. Changes to the DMF activity status, DMF type, holder name, and subject made since the last update of January 11, 2012 are included.
+The list is available in Microsoft Excel and in ASCII (tab-delimited).
+The current lists are posted (1Q2012) as well as the lists from the last quarter (4Q2011) to permit users to compare lists for updates and changes.
+TYPES OF DMFs
+The types of DMFs are:
+Type I Manufacturing Site, Facilities, Operating Procedures, and Personnel (no longer applicable)
+Type II Drug Substance, Drug Substance Intermediate, and Material Used in Their Preparation, or Drug Product
+Type III Packaging Material
+Type IV Excipient, Colorant, Flavor, Essence, or Material Used in Their Preparation
+Type V FDA Accepted Reference Information
+STATUS OF DMFS
+“A” = Active. This means that the DMF was found acceptable for filing, administratively, and is up-to-date.
+“I” = Inactive
+“N” = Not an assigned number
+“P” = DMF Pending Filing Review
+The status conveys no information about whether DMF has been reviewed for technical content.
+INACTIVE STATUS OF DMFs
+There are three reasons to list a DMF as inactive:
+
+The holder requested that the DMF be closed (or retired, closed, inactivated, or withdrawn) by submitting a closure request.
+The FDA closed the DMF because the holder did not respond to an overdue notification letter within 90 days by updating the DMF.
+The DMF was overdue for update. The FDA considers DMFs submitted before March 31 overdue for update when the company has submitted no annual reports since that date. The FDA considers only an annual report sufficient to prevent them sending an overdue notice letter (ONL).The status Inactive in the list does not distinguish among the reasons listed above.
+DMFs must be current at the time of review. According to FDA regulations regarding DMFs (21 CFR 314.420(c)):
+
+“Any addition, change, or deletion of information in a drug master file (except the list required under paragraph (d) of this section) is required to be submitted in two copies and to describe by name, reference number, volume, and page number the information affected in the drug master file.”The Guideline for Drug Master Files (September 1989), recommends that DMF holders update their DMFs annually (see below under Annual reports).
+To ensure DMFs are current, the FDA sends overdue notification letters (ONLs) to DMF holders for DMFs that are overdue for update (see above). If a DMF holder does not respond to this letter within 90 days by submitting an annual report, the FDA considers the DMF closed by the FDA, and retired.
+Note that the FDA has a backlog sending out ONLs. DMF holders can forestall the sending of an ONL by updating their DMFs, following the procedure below under Retaining the activity of a DMF.
+
+Retiring DMFs
+A DMF can be retired only if it is closed. A retired DMF is unavailable for review.
+
+Retaining DMF activity
+A DMF holder that wants to retain the activity of a DMF listed as Inactive and not closed must submit an annual report (two copies). This is also the process used to respond to an ONL. The cover letter must specify that it is an annual report.
+
+Reactivating a closed DMF
+A company can return a closed DMF to active status only by submitting a reactivation. The reactivation must contain a complete re-submission of the DMF, updated to meet current guidance.
+
+Guidance
+For drug master files, the version posted on the web is the current version. The address for submitting DMF documentation to the FDA in the Guidance is dmfquestion@cder.fda.gov.
+FDA regulations require that all foreign language submissions to INDs and NDAs have complete, accurate translations. The same is true for DMFs. The FDA does not require a certified translation.
+
+More information about DMFs
+DMF guidance recommendations, in general, still apply. However, the information below provides additional information or clarification in three categories:
+
+Category 1: Recommendations no longer applicable due to changes in regulations or guidances
+Category 2: Additional clarification of recommendations in the Guidance
+Category 3: New information for DMF filing aspects not in effect when the company wrote the GuidanceMailing address for filing original DMFs and all subsequent DMF documents (Category 3):
+
+Food and Drug Administration
+Center for Drug Evaluation and Research
+Central Document Room
+5901-B Amendale Road
+Beltsville MD 20705-1266Companies send two paper copies of all submissions to an existing paper DMF to the address above. The FDA does not accept submissions via e-mail or CDs. Companies may submitted two-sided copies of DMFs.
+
+DMF reviews (Category 3)
+When the FDA receives a DMF, they review it for administrative content. This may take 2–3 weeks. If the DMF is acceptable from an administrative point of view, the FDA issues an acknowledgement letter, which notifies the holder of the DMF number. If the FDA finds the DMF not acceptable from an administrative view, they notify the holder of the deficiencies they must correct.
+The FDA reviews the DMF for technical information only after the following events occur:
+
+The DMF holder submits a Letter of Authorization (LOA) in two copies to the FDA. This LOA must contain the DMF number.
+The holder sends a copy of the LOA to the authorized party (customer).
+The customer submits an application to the FDA that contains a copy of the LOA.
+
+Pre-assignment of DMF Numbers (Category 3)
+The FDA grants requests for preassigned DMF numbers for electronic or paper DMFs. (See Requesting a Pre-Assigned Application number.)
+
+Format and content of the application's Chemistry, Manufacturing, and Controls section (Category 1)
+Companies submit DMFs following the format recommended in the Guidance for Industry M4Q: The CTD - Quality.
+
+Conversion to Common Technical Document
+Companies may convert an existing DMF in non-CTD format to CTD format. In such cases, the FDA advises DMF holders to submit an amendment that contains all applicable CTD-specified sections to the material in the DMF. Each section must be complete and current. For drug substances and excipients, companies must submit all sections of 3.2.S in Module 3. For drug products, companies must submit all sections of 3.2.P in Module 3. If the reformatting causes changes in the DMFs technical content—e.g., adds new information—the cover letter for the new submission must describe these changes. DMFs in CTD format must follow CTD Guidance, e.g., be paginated within each section. This supersedes DMF guidance.
+For conversion of a paper DMF to electronic CTD format, see Electronic DMF.
+DMFs that cover multiple items, e.g., Type III DMFs for components of container-closure systems or Type IV DMFs for flavors, can be submitted in CTD format. Technical information can be in Module 3, following the outline in the Drug Substance Section. Sections within 3.2.S. can be populated as appropriate. Each product, such as different flavors, must have a different name—e.g. 3.2.S.[Flavor 1], 3.2.S.[Flavor 2]. Information common to different products—e.g., analytical procedures—can be accessed by reference (or links in the case of an Electronic DMF) from the relevant section for that product, e.g., 3.2.4.2 [Flavor 1].
+DMF holders who submit DMFs for sterile manufacturing can consult the Manual of Policies and Procedures 5040.1: Product Quality Microbiology Information in the Common Technical Document - Quality (CTD-Q). Companies don't have to file separate sections for the same product manufactured at separate facilities unless the manufacturing processes are different.
+Module 1 must contain the following information
+Section 1.2: Cover Letter and Statement of Commitment
+Section 1.3: Administrative Information
+1.3.1 Contact/sponsor/Applicant information
+1.3.1.1 Change of address or corporate name
+Can be used to supply addresses of DMF holder and manufacturing and testing facilities
+1.3.1.2 Change in contact/agent
+Can be used to supply the name and address of contact persons and/or agents, including Agent Appointment Letter.
+1.4.1 - Letter of Authorization (LOA)
+Submission by the owner of information, giving authorization for the information to be used by another. An Agent Appointment Letter is NOT an LOA and should not be called “Letter of Authorization” and should not be submitted in Section 1.4.1
+1.4.2 - Statement of Right of Reference
+Submission by recipient of a Letter of Authorization with a copy of the LOA and statement of right of reference. Submitted in a DMF only when another DMF is referenced.
+1.4.3 - List of authorized persons to incorporate by reference
+This list should be submitted in DMF annual reports.
+Section 1.12.14 Environmental Analysis: See Environmental Assessment
+The language in the following sentence in the DMF Guidance, Section VII.B.1, has confused some DMF holders:
+
+“A DMF is required to contain a complete list of persons authorized to incorporate information in the DMF by reference [21 CFR 314.420(d)].”It does not mean to say that a company must list all individuals in the DMF holder's company who are authorized to submit information to the DMF.
+The language in the CFR is clearer:
+
+“The drug master file is required to contain a complete list of each person currently authorized to incorporate by reference any information in the file, identifying by name, reference number, volume, and page number the information that each person is authorized to incorporate.”
+
+Types of DMFs
+Type I DMFs (Category 1)
+The FDA no longer accepts Type I DMFs, per a final rule published on January 12, 2000 (65 FR 1776). See Type V DMFs below.
+Holders of Type II, III, and IV DMFs must not place information regarding facilities, personnel, or general operating procedures in these DMFs. They should only submit DMF holder addresses, manufacturing sites, and contact personnel. See Administrative Information in a DMF.
+Type II DMFs (Category 1)
+For Type II DMFs filed in CTD-Q format, the FDA expects Module 2.
+Drug Substance
+Type II DMFs for drug substances may be submitted in the format for "Drug substance" in the "Guidance for Industry M4Q: The CTD - Quality".(Category 3) Drug Substance:
+See the current Guideline for Submitting Supporting Documentation in Drug Applications for the Manufacture of Drug Substances.
+It is not necessary to include a Methods Validation Package (3.2.R.3). Methods Validation information should be submitted in Section 3.2.S.4.3.
+See also the DRAFT ICH Guidance “Q11 Development and Manufacture of Drug Substances
+Drug Product:
+Type II DMFs for drug products may be submitted in the format for "Drug product" in the "Guidance for Industry M4Q: The CTD - Quality".(Category 3) Drug Product.
+See the Guideline For Submitting Supporting Documentation In Drug Applications For The Manufacture Of Drug Products.
+It is not necessary to include a Methods Validation Package (3.2.R.3). Methods Validation information should be submitted in Section 3.2.P.5.3.
+Examples of drugs that would be classified as Type II DMFs include Amifostine, Caffeine, Desonide Micro, Ibuprofen Softgels, Vitamin E Oil, and Zinc Gluconate.Separate DMFs should be submitted for drug substances and drug products.
+Type III DMFs (Category 1)
+The applicable Guidance for Type III DMFs is the “Guidance for Industry: Container Closure Systems for Packaging Human Drugs and Biologics: Chemistry, Manufacturing, and Controls Documentation” and Questions and Answers. (Category 3)
+A Manual of Policies and Procedures covering reviewer responsibilities for review of Type III DMFs has been implemented. MAPP 5015.5 CMC Reviews of Type III DMFs for Packaging Materials This MAPP instructs reviewers to look for information regarding many packaging materials in the application (IND, NDA, ANDA) for the drug product that utilizes the packaging material before reviewing the DMF. Much of the information needed for review can be provided directly to the applicant for inclusion in the application, thereby avoiding the need to review the DMF.
+Examples of products that would be classified as Type III DMFs include bottles, seals, dispensers, and vials.Type IV DMFs (Category 3)
+Type IV DMFs should be used for products such as excipients, colorants, flavors, essences, or other materials used in product preparation. Examples of materials that would use a Type IV DMF include bases, waxes, and edible inks.See relevant section in the Guideline for Drug Master Files. Toxicology studies may be submitted in the same DMF as the CMC information but they should be in a separate volume or volumes. It is preferable for holders to submit such information as a separate Type V DMF. See also the “Guidance for Industry: Nonclinical Studies for the Safety Evaluation of Pharmaceutical Excipients
+Type V DMFs (Category 3)
+The following types of DMFs may be filed as Type V DMFs without requesting prior clearance from FDA.
+Manufacturing Site, Facilities, Operating Procedures, and Personnel for sterile manufacturing plants. See Guidance for Industry for the Submission Documentation for Sterilization Process Validation in Applications for Human and Veterinary Drug Products.
+Contract Facilities for the manufacture of biotech products. See Draft Guidance for Industry: Submitting Type V Drug Master Files to the Center for Biologics Evaluation and Research
+For other submissions as Type V DMFs the holder must request permission from FDA before filing a Type V DMF. (21 CFR 314.420(a)(5)). Prospective Type V DMF holders may send their request to dmfquestion@cder.fda.gov, explaining the necessity for filing the information in a Type V DMF.
+Examples of sites and procedures that would require Type V DMFs include clinical studies, sterilization facilities, and toxicological information.Administrative Information in a DMF (Category 3)
+The only elements of the administrative information that should be in a DMF are:
+The name and address of the holder
+The name and address of manufacturing facility
+For the contact person:
+Name
+Mailing Address
+Telephone number
+Fax number
+E-mail address
+Statement of Commitment
+The name and address of the agent (if applicable)
+For the contact person at the agent (if applicable):
+Name
+Mailing Address
+Telephone number
+Fax number
+E-mail address
+The appointment of an Agent is optional. See discussion below under “Agents”
+Submission of Amendments, Annual Reports, and Letters of Authorization(Category 3)
+To facilitate processing of documents that are submitted to an existing DMF, please list the Submission Type and the Category/Subcategory of the Amendment (Supporting Document) in bold type in the header on the transmittal letter. See list below. More than one Submission Type/Category/Subcategory can be used but all must be listed.
+Example: If updated stability data is submitted at the same time as an Annual Report, the heading of the Cover Letter should state:
+Annual Report
+Original: Quality/Stability
+FDA's database is structured as follows:
+Application:
+Submission
+Amendment (called "Supporting Document") in the database)
+Amendments (Supporting Documents) are named by a Category and Subcategory
+For the Application Type “Drug Master File” the Submission Types are
+Original: Information containing changes to technical information are filed in the “Original” submission. For Categories and Subcategories, see list below. Note that a new DMF does not need a “Category” designation by the holder.
+Annual Report: There are no Amendments (Supporting Documents) Categories and Subcategories
+Letter of Authorization: There is only one Category with two Subcategories:
+Letter of Authorization
+Withdrawal of Authorization
+Categories of Amendments (Supporting Documents) in General Information
+Category: Closure Request
+Category: Reactivation (Used only when a DMF has been Closed.)
+Category: Administrative
+Subcategories under Administrative Category
+change in the holder name
+change in holder address
+change in ownership of the DMF (either internal name change, or change in ownership)
+change in the agent name or address.
+change in the contact person at the holder or agent.
+change in the subject of the DMF.
+change in the type of DMF
+Categories of Amendments (Supporting Documents) in Original Submission:
+Category: Quality
+Subcategories under Quality Category (with corresponding CTD Sections, where applicable).
+Changes to a Subsection e.g. changes in Control of Materials (S.2.3) not specifically listed below should be reported as the next level up e.g. should be reported as Manufacture Information S.2.
+New item: Additional item e.g. flavor added to a multi-item DMF
+Controls Information (specifications) S.4 and P.5
+Dissolution Data (Usually applies to drug product only) P.5
+Facility Information (changes in manufacturing and or testing sites) S.2.1 and P.3.1
+Formulation Information (Usually applies to drug product only) P.1 and related sections
+Lot Release (batch analysis) S.4.4 and P.5.4
+Manufacture Information S.2 and P.3
+Microbiology Information
+New Strength (Usually applies to drug product only) P.1 and related sections
+Quality (Not covered by other subcategories)
+Packaging Information (Applies to packaging of the material that is the subject of the DMF e.g. plastic bags for packaging a bulk drug substance in a Type II DMF) S.6 and P.7
+Stability Information S.7 and P.8
+Response to Information Request
+Response to Deficiency Letter
+Category: Non-clinical
+Non-clinical
+Carcinogenicity Information
+A response to an Overdue Notice Letter (ONL) to retain activity of a DMF MUST be identified as an Annual Report (with additional amendments as applicable) and contain the information listed below for an Annual Report. Responses to ONLs that are not labeled as Annual Reports or that state that an update will be submitted in the future are NOT sufficient to keep the DMF in active status.
+FDA does not acknowledge, whether via e-mail or letter, any submission after the original DMF.
+Submissions that cover multiple DMFs MUST have a copy submitted for each DMF.
+When a company changes one part of a DMF, they should not resubmit the entire DMF. For DMFs in CTD format, the company should resubmit the entire changed “Document” (Section)—e.g., a change in the material used in the synthesis requires that the company resubmit Section S.2.3.
+All submissions must be paginated within the submission. For DMFs in CTD format, the company only resubmits the entire changed “Document” (Section)—e.g., a change in the material used in the synthesis requires resubmitting Section S.2.3.
+Pages that replace an already-numbered page from a previous submission should also contain the page number in the current submission (e.g. a page replacing Page 10 in the original submission may be page 14 in the new submission). For DMFs in CTD format, only the pages within the changed “Document” (Section) are subject to re-numbering.`
+No pages are ever physically replaced in a DMF.
+
+Electronic DMFs (Category 3)
+At this time, the FDA doesn't require that companies file DMFs electronically. They continue to accept paper DMFs. Beginning May 5, 2017 new DMFs and submissions to existing DMFs must be submitted using the eCTD standard. See Electronic Common Technical Document (eCTD)'
+All electronic submissions must have a pre-assigned number to populate in the US regional.xml. If a company converts a paper DMF to electronic format, they don't need to request a pre-assigned number.
+See also Guidance for Industry: Providing Regulatory Submissions in Electronic Format—Human Pharmaceutical Product Applications and Related Submissions Using the eCTD Specifications. To make sure you have the most recent versions of the specifications referenced in this guidance please check Electronic Common Technical Document (eCTD). Companies are encouraged to submit their DMFs in electronic form, including updating current paper DMFs. Note that all applications to CDER, including DMFs that are submitted in electronic format MUST be in ECTD format, unless a waiver is granted. Waivers are not granted for DMFs.
+All Letters of Authorization for electronic DMFs should specify that the DMF has been submitted in electronic format. A company may not submit an electronic resubmission to a paper DMF unless they resubmit the entire DMF in electronic format. Companies may convert an existing DMF in paper format to electronic format (ECTD only). See “Conversion to CTD” above.
+The ECTD format provides the backbone for the submission, and a guide as to where to place information. Companies need not submit all modules, nor submit all sections within a module. However, the FDA requires Module 1 for all eCTD submissions, as it contains the administrative information that identifies the DMF. Electronic signatures are accepted for electronic DMFs.
+
+Letters of authorization (Category 2)
+The company must submit two copies of all letters of authorization (LOAs) to the DMF. The DMF holder must then send a copy of the LOA to the authorized party (company or individual authorized to incorporate the DMF by reference). Failure to submit the LOA to the DMF may delay review of the DMF. LOAs must specify the name of the specific item referenced, and the date of the submission of information about that item. The LOA must not be called a letter of access. An LOA is required, even if the DMF holder is the same company as the authorized party.
+Companies must not submit LOAs with original paper DMFs, because the LOA must contain the DMF number. Therefore, DMF holders must wait to submit an LOA until they receive an acknowledgment letter with the DMF number. An LOA can be submitted with the original DMF if the DMF has received a pre-assigned number. It is not necessary to reissue LOAs if there have been no changes in the holder, authorized party, subject of the DMF or item referenced.
+If the holder or authorized party changes names, whether this represents a change in ownership or not, they should submit new LOAs to the DMF and copies sent to the authorized party.
+LOA Template
+AGENTS (Category 2)
+There is no regulatory requirement for an agent for any DMF, foreign or domestic. An agent for DMF purposes is not the same as an agent for the purposes of the Drug Listing and Registration System. (DRLS). Holders should not include the name of the agent for Registration purposes in the DMF. Also note that in the US, the process of “Registration” applies ONLY to “registering” an establishment with the FDA.
+All “Agent Appointment Letters” for DMFs MUST be sent by the holder. FDA recommends that such letters include the phrase “appoint AGENT NAME as the agent for DMF” rather than “authorize AGENT NAME to act as the agent for DMF,” since the latter can be confused with a “Letter of Authorization.”
+An “Agent Appointment Letter” may be included in an original DMF.
+If possible, the word “Agent” should be used for the legal entity (whether a company or an individual) who is authorized to act on behalf of the DMF holder. The word “Representative” should be used for an individual who is employed by the Agent or Holder as the contact point for FDA.
+If a company acting as an Agent changes its name, FDA recommends that the DMF holder issue a new Agent Appointment Letter.
+A different agent can be appointed for different DMFs submitted by the same holder.
+Agent Appointment Template
+HOLDER NAMES (Category 2)
+When the company that owns a DMF (DMF holder) changes its name, whether through sale of the company or simply a change in the company's name, the DMF holder must notify FDA. See Section VII.E. in the Guideline for DMFs for further recommendations on the procedure for transferring ownership. A change in the name of a company for registration purposes under DRLS will not change the DMF holder name.
+When a DMF is transferred from one company to another, the original holder should submit an administrative amendment stating that they are TRANSFERRING the DMF to the new holder. The new holder should then submit an administrative amendment stating that they are ACCEPTING the DMF from the former holder.
+If the DMF holder changes its name and there is no transfer of ownership, the holder may submit a single Holder Name Change amendment.
+A DMF holder is expected to retain a complete reference copy that is identical to, and maintained in the same chronological order as, their submissions to FDA (See Section IV.D.1 in the Guideline for DMFs). Therefore, the old owner of the DMF is expected to transfer that copy to the new owner of the DMF.
+If a holder name change affects multiple DMFs, all documentation must be submitted to each DMF as separate submissions.
+In general, the FDA expects that the manufacturer is the holder. If a manufacturer (company A) of a material wants another company (Company B) to submit the DMF, and Company B wishes to act as the holder—the DMF must include statements from both companies that Company B is responsible for all information in the DMF, and for all processes and testing performed by the manufacturer. The title of the DMF that appears on the list of DMFs is the format Material manufactured in [LOCATION OF COMPANY A] for [COMPANY B].
+ANNUAL REPORTS (Category 2)
+According to the DMF Guideline, companies must not use annual reports to report changes in the DMF. However, as described above, companies can submit an annual report at the same time as other information. The annual report must contain (for cover letter see Templates below):
+1. An administrative page that contains:
+
+Holder name
+Manufacturing site name if different from holder
+U.S. agent company name (if applicable)
+Name of contact person for each of the above
+Mailing address, phone number, fax and email address of responsible individuals
+AND 2. One of the followingDate(s) of the amendment(s) reporting changes since the last Annual Report or the original DMF filing date, whichever is most recent.OrA statement that no amendments have been submitted since the last Annual Report or the original DMF filing date, whichever is most recent.
+And3. One of the following:A complete list of all parties authorized to make reference to the DMF, identifying by name, reference number, volume, date, and page number the information that each person is authorized to incorporateOrA statement that no changes have been made to the list of authorized parties since the last annual report or the original DMF filing date, whichever is most recent.OrA statement that there are no authorized parties.And
+4. List of all parties whose authorization has been withdrawnNote that the DMF Guidance uses the terms “Annual Update” and “Annual Report” interchangeably. All submissions of Annual Reports should be labeled “Annual Report.” The term “Annual Update” should not be used.
+Note that the annual report must list the authorized parties. If the list is long and the holder wants to list only authorized parties added since the last annual report, they should highlight this in the cover letter. There should be a statement that there have been no changes in the list of authorized parties previously submitted.
+BIOLOGICS MASTER FILES (Category 3)
+Master Files submitted in support of products regulated by the Center for Biologics Evaluation and Research (CBER) must be submitted as BB-MFs. See the CBER web site for the products regulated by CBER.
+
+BINDERS (Category 2)
+
+See ”FDA IND, NDA, ANDA, or Drug Master File Binders
+“The “binders” are actually covers. These may be ordered from the
+U.S. Government Printing Office (GPO)
+Washington, DC 20404-0001
+(202) 512-1800
+In addition these can be ordered online using the following links
+Red Binder
+Blue Binder
+One copy of the DMF should use the blue cover and one should use the red cover.
+Fasteners must be obtained separately. Use 2 Piece Prong Fasteners, 8 1/2" Center to Center, 3 1/2" Capacity. Binders should be used for all subsequent submissions to FDA that are more than 10 pages.
+FEES (Category 3)
+There are no fees or charges for filing a DMF or any subsequent documents.
+FORMS (Category 2)
+Certain forms are required for submission of NDAs and INDs. However, there are no forms required or available for DMFs, except for the forms discussed above under Binders.
+CONFIDENTIALITY OF DMFs (Category 2)
+The public availability of the contents of DMFs is covered in 21 CFR 314.430(e). All requests for information about DMFs beyond that provided in the tables above must be made through the CDER Freedom of Information Web site.
+FILING DMFs AND PATENT EXPIRATION AND EXCLUSIVITY ISSUES (Category 2)
+DMFs may be filed at any time. The Patent Expiration date and the Exclusivity Expiration dates listed in the Orange Book have no impact on DMF filing. The submission of Abbreviated New Drug Applications (ANDAs) that reference DMFs are subject to the regulations regarding filing of ANDAs.
+ENVIRONMENTAL ASSESSMENTS (Category 2) Since DMFs are neither approved nor disapproved, there is no need to file an Environmental Assessment. However the DMF should contain a commitment by the firm that its facilities will be operated in compliance with applicable environmental laws.
+REORGANIZATION OF A DMF (Category 1)
+The advice in the Guidance does not apply. It is not necessary to consult with FDA before reorganizing a DMF.
+REQUEST FOR CLOSURE OF A DMF BY THE HOLDER (Category 2).
+It is not necessary to include a statement that "the holder's obligations as detailed in Section VII have been fulfilled," as recommended in the DMF Guidance. It is sufficient to include a statement that all of the parties authorized to reference the DMF have been notified that the DMF is being closed..
+LETTER TEMPLATES AND COVER LETTERS (Category 2)
+Note that a “Transmittal Letter” and a “Cover Letter” are the same thing.
+Cover Letter for Original DMFs
+Cover Letter for Subsequent Amendments and Annual Reports (Not applicable to Holder Transfer, New Holder Acceptance, Holder Name Change, Letter of Authorization, and Closure Requests)
+Cover Letter for Reactivation of a Closed Drug Master File
+The following Letters do not require a Cover Letter
+Holder Transfer
+New Holder Acceptance
+Holder Name Change
+Letter of Authorization
+Closure Request
+Withdrawal of Authorization
+
+References
+External links
+FDA: Guideline for drug master files
+[1]Third Party Manufacturing in Pharma 2022

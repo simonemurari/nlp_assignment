@@ -1,0 +1,208 @@
+Belote (French pronunciation: [bəlɔt]) is a 32-card, trick-taking, Ace-Ten game played primarily in France and certain European countries, namely Armenia, Bulgaria, Croatia, Cyprus, Georgia (mainly Guria), Greece, Luxembourg, Moldova, North Macedonia (mainly Bitola), Bosnia and Herzegovina and also in Saudi Arabia. It is one of the most popular card games in those countries, and the national card game of France, both casually and in gambling. It appeared around 1900 in France, and is a close relative of both Klaberjass (also known as bela) and Klaverjas. Closely related games are played throughout the world. Definitive rules of the game were first published in French in 1921.Within the game's terminology, belote is used to designate a pair of a King and a Queen of a trump suit, possibly yielding the game's name itself.
+Variations on the game include Belot in eastern Europe, Baloot in Saudi Arabia, and Pilotta in Cyprus.
+
+Deck
+Much like Skat, German style cards are used widely in former Yugoslav countries as well as Germany (mostly in Bavaria) for playing this card game while French style cards are used widely in French-speaking countries for playing this card game. Belote is played with a deck of 32 cards (A, K, Q, J, 10, 9, 8, 7)
+
+Rules
+The game is played differently in different locations, but most versions share a considerable set of common rules. The rules below describe the common version of this game.
+A typical 32-card piquet deck is used, 4 suits with 8 ranks, or {♥ ♠ ♦ ♣} × {A K Q J 10 9 8 7}, and is not shuffled between games. The game is mostly played by four people, but versions exist for five, three and two players, including a non-trivial two-player "open cards" version. Players form two teams in the usual 4 players version: North-South and East-West, and playing in turn in counterclockwise direction.
+
+Dealing
+The deck is never shuffled, but rather cut by the player who precedes the dealer, except for the first dealing in a game when the dealer's partner does that. The first dealing in a game is done by the winners from the previous game. At least three cards must be cut.
+The cards are dealt counter-clockwise starting from the dealer's successor (to their right), each player receives a packet of three cards, then another set of two. The rest of the cards remain temporarily face-down. If a contract is agreed upon, the remaining cards are dealt after the bidding — a group of three for each player except the player who got the card that was in the middle, who gets two.
+
+Bidding
+The possible contracts are:
+
+Clubs ♣
+Diamonds ♦
+Hearts ♥
+Spades ♠
+"No trumps"
+"All trumps"Every player must either suggest a higher contract, or bid:
+
+Pass
+Double (Coinchée, or Contré), if the current highest contract was not bid by the partner
+Re-double (Re-contra), if the other team have doubled bidder's or bidder partner's contract.Usually two levels of doubling are allowed.
+When doubling any contract, not only a bid in "all trumps", two levels are allowed. Some play it with a third level of doubling, which puts the whole match at stake. 
+The bidding phase is over when one of the following becomes true:
+
+Four passes were announced, thus the cards are collected and the dealer cuts the deck for the next player
+Three passes were announced after a contract was suggested
+An "all trumps" contract is re-doubled
+
+Play
+The play consists of eight tricks, the first one being started by the dealer's successor.
+The first player in a round can play any card, but subsequent players must obey the following rules (the first one which applies is binding):
+
+The dominant suit must be followed.
+If the dominant suit is a trump suit, a higher-ranking card (if available) must be played, except when the current trick winner is the partner.
+If the dominant suit is not a trump suit and it cannot be followed, a trump suit card must be played. If the player does not have a trump card, they must play any other card but cannot win the trick.The winner of a trick  starts the next trick. The last trick is a bit more significant, as its winner is awarded some points.
+The rank of the cards is different for trump and non-trump suits. The order is (from highest to lowest rank):
+
+In a trump suit: J 9 A 10 K Q 8 7
+In a non-trump suit: A 10 K Q J 9 8 7
+
+Declarations
+Declarations (melding) must be announced during the first trick:
+
+A tierce — a sequence of three (sequences are in the "A K Q J 10 9 8 7" order of the same suit) — is worth 20 points
+A quarte — a sequence of four — is worth 50 points.
+A quinte — a sequence of five — is worth 100 points (longer sequences are not awarded, a sequence of eight is counted as a quinte plus a tierce)
+A carré — 4 of the same rank — of Jacks is worth 200 points.
+A carré of Nines is worth 150 points.
+A carré of Aces, Kings, Queens, or Tens is worth 100 points. (Sevens and Eights are not awarded.)It is sufficient to specify the type of a declaration (one of the above), whereas the exact suit or ranks are not required. A card can participate in at most one declaration.
+A belote is a "royal" pair of a King and a Queen of a trump suit. A belote is worth 20 points, and must be declared when the first of them is played (not necessarily during the first round).
+In a "no trumps" contract declarations do not apply (four Aces may be considered as a carré of Jacks and worth 200 points, but no other bonuses are applied.)
+
+Scoring
+Each card rank has a specific scoring value; for Jacks and Nines the value depends on whether the suit is trump or not. The winner of the last trick gets 10 points.
+Declarations, including belotes, are added to the score. If the contract was no trumps, the result is multiplied by two, as it is for every double bid. If a team is committed to a contract and has less points, all points go to the opponents, and the losing team are said to be "inside" or the French equivalent, "être dedans". In a doubled contract, both teams are considered committed.
+The result is divided by ten, rounded, and added to the global score. The rounding is somewhat complicated as the sum of points is a multiple of ten only for a "No trumps" contract. It is 258 for "All trumps" and 162 for a suit contract. Therefore, the rounding limit is 5 in a "No trumps" contract, 4 in an "All trumps", and 6 in a suit contract.
+
+A score below the limit is rounded down. Example: 35 points in a suit contract yields 3 match points;
+A score above the limit is rounded up. Example: 125 points in an "All trumps" contract yields 13 MPs; 54 points in a "No trumps" contract yields 11MPs;
+When both teams have scores at the rounding limit, the lower score is rounded up and the higher score is rounded down. Example: if in an "All trumps" contract with two tierces the declarers have 154 points and the defenders have 144 points, both teams will get 15 MPs and it would be a narrow escape.
+When both teams have equal scores at the end of the round, the points are "hanging". What happens in this case is the following: the committed team doesn't add those points to their score, while the other team does. The remaining points (those that were not added by the committed team) "hang" over to the next round and they are given to the team that wins.A special valat (or capot) premium of 9 match points exists for not leaving a single trick for the opponents. Note, that this does not lift off the opponent's points from declaration. Valats are doubled at no trumps. If there is a valat in a doubled contract, the winning team's points are doubled.
+The first team to reach 151 in the global score is the winner, but the game cannot end while a valat takes place.
+
+French Belote
+This part describes the main differences between the classic French rules and the ones above.
+
+Dealing
+After the four players receive the first five cards, the remaining cards are left face down except the card on the top, which is turned face up.
+
+Bidding
+The biddings are made in two rounds.
+During the first round each player must either pass or accept the card face up. Doing so will set the cards of the same suit as the face up card as trumps.
+If every player passed, another round is made. The players can propose another card suit as trumps, but must take the face up card.
+As soon as a player has accepted the card, the remaining cards are dealt :
+
+2 cards for the player who took the card
+3 cards for the 3 other players
+
+Scoring
+To score the points for a game, the team of the player who accepted the face up card must score more than the other team. Otherwise, the other team wins all the points.
+Generally, this means a team needs to score at least 81 as there are a total of 162 points in the game. However, bonus points won from Belote or declarations might be taken into account.
+
+Belot
+Belot (commonly abbreviated as Bela, Armenian blot) is  a 32-card game variant of Belote for two to four players. Traditionally it is played with a French-suited or German-suited playing cards and is particularly popular in Croatia, Bosnia and Herzegovina, Bulgaria, North Macedonia and Arabia. It is still played in some states of the former Soviet Union (e.g. Russia or Ukraine) and by communities of the Armenian diaspora and Jewish communities around the world. In this game, however, there are relatively different interpretations of the rules, so that one cannot speak of a fixed, uniform ruleset. The rules are almost identical to the French national card game Belote and it is thus an Eastern European variant of the large Jass Jass family.
+The rules of Belot are close to those of Belote, and its ancestor, Klaberjass, but with a few significant differences in each. The game is played by 2, 3 or 4 players. The 4-player version is considered the standard game, and other two are truncated versions played only if there aren't enough players available. The 4 players are 2 teams of two. The other variations each player is alone. 2 player and 3 players use the 24-card deck (9 to Ace). 
+Note that these rules are slightly different among countries.
+Each round of Belot (no matter how many players) consists of these steps: dealing, bidding, declaration, playing and scoring:
+
+Dealing and bidding
+The game is played with a 32-card (A K Q J 10 9 8 7) German-suited pack which is first shuffled by dealer and then offered to the person sitting to the left of the dealer to cut. The cutter may cut or just tap on the top of the pack in which case no cutting is done. Cards are dealt three at a time, counter-clockwise beginning to the right of dealer. Initially only 6 cards are dealt.
+The possible bidding or contracts are:
+
+Clubs ♣
+Diamonds ♦
+Hearts ♥
+Spades ♠
+No trumps
+All trumpsEvery player must either suggest a higher contract, or bid:
+
+Pass
+Double (Coinchée, or Contré), but only if the current highest contract was not bid by the partner.
+Re-double (Re-contra), if the other team have doubled bidder's or bidder partner's contract.Usually two levels of doubling are allowed. In some areas of Bulgaria a third level is also used. It is called "сюр-контра" (Sur-Contre - derived from French; over-double), "чаршаф-контра" (bed sheet-double) or "излез-контра" (go out-double) and the aim is to win the whole match in a single game (26 MP x 8, see section Scoring below). 
+Note that if a player/team is afraid to play a doubled game, they can bid different colour suit. The higher contract will be in all trumps and can not be escaped.
+The bidding phase is over when one of the following becomes true:
+
+Four passes were announced
+Three passes were announced after a contract was suggested
+An "all trumps" contract is re-doubledEvery next dealing is done by the player on the right of the previous dealer (so whoever bid first, deals the next game).
+Particulars for the 2, 3, and 4-player games:
+
+2 players
+The two-handed version (known as белот на две ръце in Bulgarian), the first 6 cards are picked up by the players and bidding begins, starting from the player who didn't deal. The player looks at their 6 cards and proposes (chooses a trump suit based on the cards) or passes (says "pass"), in which case the other player has the right to bid up or pass. If both players passed the deal is over, cards are shuffled by the non-dealer and he deals. If a contract is agreed, another 3 cards are dealt. Total of 18 cards are in use, and the 6 left are not needed, and nobody can look in them.
+Another variation exists (known in Bulgaria as Open Belot (Открит Белот)). Full 32 card deck is used. It is played by dealing first three cards to each player then another two. After that and before the bidding additional 4 cards for each player are placed face-down on the table, and on top of them 4 cards placed face-up. The dealing of these cards is similar to Poker (one card is dealt at a time to each player). After all cards are dealt there are 6 cards in total left which will be dealt after the bidding unless both players say 'pass'. 
+The rules of play and counting are like standard 4-player belot with one exception each player is allowed to play all cards in his possession that are in his hands or faced up on the table. After a player plays a faced up card from the table (thus exposing the card below) the player then turns the exposed card face up. All additional points including declaring belot (king and queen) is made of cards of both hands and the face-up cards from the table. That includes if face-down cards that are turned up (e.g. Queen and King of the Trump) the player is allowed to declare Belot.
+
+3 players
+Every player receives 3 cards face down, then another 2 cards (making total of 5).
+The player on dealer's right bids (chooses a trump suit) or says pass. The next player has the right to take it up or pass. If all players passed the deal is over, cards are shuffled by the player on the right and he deals. If a contract is agreed, another 3 cards are dealt. Total of 8x3=24 cards are in use, and every player plays for himself.
+
+4 players
+Every player receives 3 cards face down, then 2 more cards (making total of 5).
+The first 5 cards are picked up by players and bidding begins starting from first player on dealers right (everything except cutting in Belot is done counter-clockwise). The Player assesses their 5 cards and takes (chooses a trump suit) or passes (says "pass") in which case next player has a right to bid up or pass, and so on. If everybody before dealer passed, dealer must take (choose) a trump suit, although this rule is a rarity. In some cases, like Croatia for example; the dealer hands out three cards followed by another three cards and the last two cards are kept face down until the trump suit has been declared or the player passes.  Some versions of Belot rules say dealer can cancel the round (and the next player starts as dealer) if he is to pass and he has 7 points or less in their hand, or even without the 7 point limit (if dealer passes, the round is canceled).
+When trump suit is chosen (from the 6 option above), players can get the remaining 3 cards, so every player has 8 cards in their hand.
+In most games the last 3 cards are dealt after the bidding to avoid cheating, but can be dealt with the first 5 and not touched.
+
+Declarations (announcements)
+Declarations are particular sets of cards held in players' hands, which give players extra points if announced. There are three sorts of declarations:
+4 cards of the same rank, called "square"
+
+4 Jacks: 200 points
+4 nines: 150 points
+4 Aces, Ks, Qs and tens (like in all declarations, 10s are weaker than Qs): 100 points(4 sevens and 4 eights are not awarded)
+Sequences from 3 to 8 cards of the same suit. The cards are ranked as follows: A, K, Q, J, 10, 9, 8, 7
+
+3 cards (A tierce): 20 points
+4 cards (A quarte): 50 points
+5 cards (A quinte): 100 pointsSequences of 6 or 7 cards of the same suit are declared and counted as the highest one of the 5-card sequences which they include. 8-card sequence is counted as 3 cards and 5 cards.
+These above must be declared during the first two hands being played.
+"Belot", "Bela", or in Bulgarian "белот" is King and Queen of any trump suit held together in one player's hand. The player holding them receives 20 points. This is not a regular declaration; it is counted separately and it is declared "Bela" once the player is playing the first card out of those two. When they play the second card, they can declare: "from the Bela". Belot can be declared only in three circumstances - when the player is first in a hand; when they are trumping another suit; and when they are replying to their parther in the same suit. Note that declaring Belot is not obligatory, a player can keep it quiet if the game is developing badly for him. See scoring below.
+When the one team holds Square, the other teams can score Sequences from 3 to 8 cards of the same suit and Belots.
+Between equally long sequences, declared by opposing teams, the one containing the higher ranked cards wins. If there are two or more opposing sequences of equal rank, they are all void.
+A particular card may or may not be involved in two or more declarations. This rule is sometimes set and sometimes isn't, depending on the local rules. Bela isn't included in this rule, cards making bela can always be included in another declaration.
+A player declares when he plays the first hand. If a player has nothing to declare he simply plays their first card. If player has something to declare, he declares it when it's their turn to play their first card. It is sufficient to specify the type of a declaration (one of the above), whereas the exact suit or ranks are not required. The question of which are the highest declarations is settled when the game finishes.
+In a no trumps game there are no declarations, not even belot.
+
+Playing
+The player to dealer's right plays their card first. The subsequent players must follow suit if they can. If a player can't follow suit he must play trump card. If he can't play trump either, he plays any suit.
+If the first card played is trump, subsequent players must follow suit and also play a trump card that beats all previous cards if they can. It is called raising and applies only for trump suits. If non-trump was played first, and then trump, the player on turn needs to follow the suit of the first card played and doesn't have to trump the card that beats the first one. The player who won the hand or trick collects the cards played in this trick and plays first in next hand/trick.
+If any of the above rules is broken, the opponent/opponents gets/get 162 or 258 points (which is sum of all card values) + all declarations declared in this round (no matter who declared) and current round ends. Two accidents like this can ruin the match.
+
+Scoring
+Every player/team counts the points he has from the tricks he won.
+The winner of last trick adds 10 points.
+The player or team is allowed to add points retrieved from declaration(s) only if they won at least one trick. Exception is the points from Belot which are always awarded.
+Each card rank has a specific scoring value; for Jacks and Nines the value depends on whether the suit is trump or not. Jack is 20 points trump and 2 points non-trump. 9 has 14 points for trump suit and zero for non-trump. Queen is 3, King is four, 10 is 10 and Ace is 11. 7 and 8s does not count.
+Declarations, including belotes, are added to the score. Remember that in a no trumps game there are no declarations, not even belot. If the contract was no trumps, the result is multiplied by two. So is done for every double bid. If a team bid the contract and has less points, all points go to the opposing team, and the losing team in Bulgarian Belote are said to be "вътре" (inside) similar to the French equivalent "être dedans". In a doubled contract, both teams are considered committed.
+A special valat (or capot) premium of 9 Match Points exists for not leaving a single trick for the opposing side. It is not doubled even if the contract is doubled.
+The result is divided by ten, rounded, and added up to the global score sheet. This is measured in Match Points (MPs). The rounding is somewhat complicated as the sum of points is a multiple of ten only for a "No trumps" contract, which is 130x2=260 total. It is 258 for "All trumps" and 162 for a suit contract. Therefore, the rounding limit is 5 in a "No trumps" contract, 4 in an "All trumps", and 6 in a suit contract. 
+The total of Match Points in a game is therefore at least 16 points for a suit contract and 26 for all-trump. Declarations and valat can increase it. The no-trump game has no declaration points and is always 26 MPs.
+A score below the limit is rounded down. Example: 125 points in a suit contract yields 12 Match Points ; 
+A score above the limit is rounded up. Example: 125 points in an "All trumps" contract yields 13 MPs; 54 points in a "No trumps" contract yields 11MPs;
+The funniest sentences can be heard around the table "65 plus 14 and the last 10 makes 9"!!
+When both teams have scores at the rounding limit, the lower score is rounded up and the higher score is rounded down. Example: if in an "All trumps" contract with two tierces the declarer have got 154 points and the defenders have got 144 points, both teams will get 15 MPs and it would be a narrow escape. 
+When both teams have equal scores at the end of the round, the points are "hanging". What happens in this case is the following: the committed team doesn't add those points to their score, while the other team do. The remaining points (those that were not added by the committed team) "hang" over to the next round and they are given to the team that wins.
+In some parts of Bulgaria, the rules of the game include a kirtik, which is a special −10 match points penalty for not winning when committed or for being valat.
+
+Winning
+The game score is kept on paper - the Match Points are recorded on a sheet of paper. The paper is divided in two columns - We and You.
+To win a round or a small game, also called a single deal the team or player who bid the contract must score more points.
+If the team who bid the contract won it, all teams/players score the number of points each of them collected through scoring.
+If team who bid lost it, the other team wins the number of points both teams collected through scoring and the bidding team  scores zero (which is marked by a dash (-), not by a number (0)).
+The first team to reach 151 Match Points in the global score is the winner, but the global game cannot end if a valat takes place. Then another round/deal must be played.
+
+Card values (points)
+Note that the sequence for declarations, which differs from that for scoring, is : A, K, Q, J, 10, 9, 8, 7.
+
+Worldwide variants
+Quebec: Bœuf
+Bulgaria: Бридж-белот, Bridge-Belote
+Greece: Βίδα, Vida; Μπουρλότ, Bourlot
+Cyprus: Πιλόττα, Pilotta
+Croatia: Bela or Belot
+North Macedonia: Бељот, Beljot
+Armenia: Բազար բլոտ, Bazaar Belote
+Arabian Peninsula: بلوت, Baloot
+Russia: Белот, Belot
+Tunisia: Belote
+Morocco: Belote
+Moldova: Belot
+Madagascar: Tsiroanomandidy or Beloty
+
+See also
+Bellot
+Clabber
+Manille
+Marjolet
+Preferans
+Twenty-eight
+Tarabish
+
+
+== Notes ==

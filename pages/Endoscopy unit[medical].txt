@@ -1,0 +1,33 @@
+An endoscopy unit refers to a dedicated area where medical procedures are performed with endoscopes, which are cameras used to visualize structures within the body, such as the digestive tract and genitourinary system.  Endoscopy units may be located within a hospital, incorporated within other medical care centres, or may be stand-alone in nature.
+In the early days of endoscopy, when fewer procedures were carried out, facilities such as operating theatres tended to be used; as the number of procedures carried out and the complexity of the procedures and equipment increased, the need for specialised rooms and staff became apparent.
+
+Components
+An endoscopy unit consists of the following components: trained and accredited endoscopists (which are usually gastroenterologists or surgeons); trained nursing and additional staff; endoscopes and other equipment; preparation, procedural and recovery areas; a disinfection and cleaning area for equipment; emergency equipment and personnel; and, a program for quality assurance.   Procedures performed within an endoscopy unit may include gastrointestinal endoscopy (such as gastroscopy, colonoscopy, ERCP, and endoscopic ultrasound), bronchoscopy, cystoscopy, or other more specialized procedures.  Endoscopy units may be part of a hospital, where emergency procedures may be performed on ill patients admitted to hospital; however, most endoscopies are performed on ambulatory patients in the outpatient setting.
+
+Layout
+Endoscopy units consist of a number of areas:
+Reception and waiting area for patients and relatives.
+Consultation rooms.
+Changing areas.
+Procedure rooms.
+Recovery area.
+Decontamination area.
+
+Procedure rooms
+These are the rooms where the endoscopic procedures are performed.
+Procedure rooms should to contain:
+Patient trolley.
+Endoscopy 'stack' and video monitor(s) – this equipment contains the light source and processor required for the endoscopes to produce images.
+Monitoring equipment to allow continuous monitoring of patient condition during procedures.
+suction equipment to allow both aspiration of airway secretions and to allow aspiration of fluid through the endoscope.
+Piped oxygen supply.
+Medication used to provide procedural sedation.
+Ancillary equipment - endoscopy biopsy forceps, snares, injectors (see Instruments used in gastroenterology).
+Diathermy and/or Argon plasma coagulation equipment.
+Computer(s) used to generate endoscopy reports.Procedure rooms should be at least 200 square feet (19 m2) in size, and hospitals should have at least two procedure rooms. Larger endoscopy units should contain one procedure room per 1,000 to 1,500 procedures performed annually.
+
+Recovery area
+Since a number of patients undergoing endoscopy receive sedation, and a few emergency patients may be unstable, there must be an area available for the observation of patients until they have recovered. These areas also need to have piped oxygen, full monitoring facilities (including pulse oximetry), suction, resuscitation equipment and emergency drugs.
+
+
+== References ==

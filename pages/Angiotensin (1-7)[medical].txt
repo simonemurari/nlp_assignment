@@ -1,0 +1,20 @@
+Angiotensin (1-7) (C41H62N12O11; Molecular weight = 899.02 g/mol; H-Asp-Arg-Val-Tyr-Ile-His-Pro-OH) is an active heptapeptide of the renin–angiotensin system (RAS).In 1988, Santos et al demonstrated that angiotensin (1-7) was a main product of the incubation of angiotensin I with brain micropunches and Schiavone et al reported the first biological effect of this heptapeptide.Angiotensin (1-7) is a vasodilator agent affecting cardiovascular organs, such as heart, blood vessels and kidneys, with functions frequently opposed to those attributed to the major effector component of the RAS, angiotensin II (Ang II).
+
+Synthesis
+The polypeptide Ang I can be converted into Ang (1-7) by the actions of neprilysin (NEP) and thimet oligopeptidase (TOP) enzymes. Also, Ang II can be hydrolyzed into Ang (1-7) through the actions of angiotensin-converting enzyme 2 (ACE2). Ang (1-7) binds and activates the G-protein coupled receptor Mas receptor leading to opposite effects of those of Ang II.
+
+Possible pathways
+Action of neprilysin on angiotensin I or angiotensin II.
+Action of prolyl endopeptidase on angiotensin I.
+Action of ACE on angiotensin 1-9.
+Action of neprilysin on angiotensin 1-9.
+Action of ACE2 on angiotensin II.
+
+Effects
+Ang (1-7) has been shown to have anti-oxidant and anti-inflammatory effects. It helps protect cardiomyocytes of spontaneously hypertensive rats by increasing the expression of endothelial and neuronal nitric oxide synthase enzymes, augmenting production of nitric oxide.
+
+Pharmacological interactions
+Ang (1-7) contributes to the beneficial effects of ACE inhibitors and angiotensin II receptor type 1 antagonists.
+
+
+== References ==

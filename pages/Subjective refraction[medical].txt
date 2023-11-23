@@ -1,0 +1,98 @@
+Subjective Refraction is a technique to determine the combination of lenses that will provide the best corrected visual acuity (BCVA). It is a clinical examination used by orthoptists, optometrists and ophthalmologists to determine a patient's need for refractive correction, in the form of glasses or contact lenses.
+The aim is to improve current unaided vision or vision with current glasses.  Glasses must also be comfortable visually. The sharpest final refraction is not always the final script the patient wears comfortably.
+
+Equipment & Requirements
+The following equipment is used to complete a Subjective Refraction:
+Trial frames
+Trial lens box & confirmation set: Including the pinhole and occluder
+Jackson Cross Cylinder: a combination of two cylinders whose powers are numerically equal and of opposite sign (+/-) and whose axis are perpendicular to one another.  This is used to search for astigmatism.
+Snellen chart
+Duochrome test: used to check the spherical component of the refraction
+
+Performing the test
+Test Requirements
+Before commencing a Subjective Refraction, ensure that:
+
+The patient is seated at a 6-metre distance from the Snellen Chart.
+The illumination in the testing room is at a comfortable level of brightness for an indoor setting
+
+Setting up the patient
+Comfortably fit the trial frames onto the patient, by adjusting the nose piece, Inter-Pupillary Distance (IPD) and vertex distance to ensure that they are properly centered.
+
+Preliminaries
+The examination begins by testing the patient's BCVA in both eyes separately, without correction. Conventionally, the right eye is tested first. An occluder is placed over the eye that is not being tested (e.g.: over the left eye, to test the right eye's vision).
+A pinhole occluder is then placed before the patient's eye, and their vision is then tested again (each eye separately) to determine if the patient's poor visual acuity is a result of optical irregularities, or pathological issues. If the patient is able to read more lines on the Snellen chart with the use of the pinhole, this indicates the presence of refractive error. This is based on the principle that the pinhole blocks out any peripheral rays of light, so that only the principal ray falls on the fovea, decreasing the size of blur circles.
+In the presence of refractive error in most patients, visual acuity will improve with the use of the pinhole. The examiner aims to achieve this level of visual acuity, or better, by the end of the Subjective Refraction.
+
+Steps
+The entire process of Subjective Refraction involves the patient fixating at the Snellen Chart, whilst the clinician presents a variety of lenses and alters the power of the lenses in the trial frames according to the patient's subjective responses regarding improvements to their vision.
+1) INITIAL BEST SPHERE CORRECTION
+
+A patient without astigmatism should be fully corrected after this step alone. However, if astigmatism is present, the aim of this step is to position the 2 focal lines so as to straddle the retina. This is known as the Circle of Confusion.
+First we need to establish whether the patient is myopic or hypermetropic, therefore determining the need for a minus or plus lens to correct their refractive error.
+Whilst holding the spherical lenses on the confirmation set centrally in front of the patient's eye, the clinician asks the patient: "Is it clearer with, or without the lens?"
+Adjust the spherical component by adding, increasing and refining the power as required. Initially, adjust by 0.50DS, then refine with 0.25DS.
+When prescribing minus lens correction, it is crucial that the clinician asks the patient if the letters appear clearer or if they appear smaller and darker (If smaller and darker, do not add the extra minus power).
+This process continues until the patient states that their visual acuity is the same or the letter is just smaller and darker with the extra lens power.2) SEARCH FOR Astigmatism
+
+The Jackson cross cylinder (JCC) is used in this step.
+The patient's fixation is directed to a round letter on the lowest line they can read.
+In order to determine if the patient has astigmatism at a particular meridian, the -0.50 JCC is presented at the following axes: 90°, 180° and then check the oblique axes at 35° and 145°.
+As the JCC is a combination of two cylindrical lenses, any cylindrical power that is added must be accompanied by a spherical lens equivalent, to keep the circle of least confusion on the retina.
+For example, the patient prefers the -0.50 JCC at 180°. The refraction of a -0.50JCC at 180° is: +0.50/-1.00 x 180°. Therefore, a -1.00DC will be inserted into the trial frames at 180°, and an additional +0.50DS is also added to compensate for the spherical equivalent.3) REFINE CYLINDER AXIS
+
+Once again the patient's fixation is directed to a round letter on the chart.
+The 0.50JCC is presented straddling the axis of the cylinder lens in the trial frames.
+The patient is shown the lens in both flip positions. Both options may be blurry, the patient is asked to indicate which is clearer of the two.
+The correcting cylinder is rotated towards the minus JCC axis in the patient’s preferred position by approximately 10 degrees and then back and forth in decreasing intervals until the axis is refined and the patient indicates that there is equal blur in both flip positions.
+Once equal blur has been achieved, we have now established the patient’s cylinder axis.4) REFINE CYLINDER POWER
+
+The cylinder power is refined by superimposing the 0.50JCC over the correcting cylinder axis in the trial frames.
+The patient is asked to indicate whether it is clearer with or without the lens.
+Dioptric changes are then made in 0.25 increments in order refine cylindrical correction.5) ADJUST FOR BEST SPHERE CORRECTION
+
+Recheck VA and direct patient's fixation to the smallest line visible.
+This step follows the principles in step 1.
+Using a 0.50DS lens on the confirmation set, adjust spherical lens power and if needed refine with 0.25DS
+
+Duochrome Test
+The red-green duochrome test is performed monocularly, and is used to refine the spherical component of the refraction. It is based on the principles of chromatic aberration; red (longer wavelength) is refracted less than green (the shorter wavelength). Therefore, a myope (generally with a longer axial length) sees red clearer as red focuses closer to retina than green. The examiner asks the patient: "Do the black letters stand out more on the red or green background? Or do they appear equal?"
+ Neutrality is achieved when the patient subjectively reports that the letters on both backgrounds appear equally as prominent.
+
+Recording
+1) It is important to record the initial level of visual acuity, including the pinhole:
+
+VA. sc R. 6/12 c ph: 6/9      L. 6/9 c ph: NIKEY:
+
+sc = without correction
+c ph = with pinhole
+NI = no improvement2) The final prescription is recorded as follows:
+
+-2.50/-1.00 x 90° -> 6/5KEY:
+
+Spherical Power/Cylindrical Power x Axis -> BCVA achieved with the prescription3) The Duochrome result is recorded as follows:
+
+Duochrome: R=GKEY:
+
+R = Red
+G = Green
+
+Evaluation
+Overall, the reliability of subjective refraction is high. However, it comes with advantages and disadvantages.
+
+Advantages
+Based on the patient's preference
+Not invasive
+Time effective
+
+Disadvantages
+Relies on patient's cooperation and ability to provide accurate responses 
+Can be difficult when there are language barriers and communication issues 
+Age (more difficult with children)
+
+See also
+Refraction
+Eye examination
+
+
+== References ==

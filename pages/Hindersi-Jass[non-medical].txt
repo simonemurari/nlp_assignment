@@ -1,0 +1,52 @@
+Hindersche or Hintersche [ˈhɪntɐʃə], also known as 4-Strich, is an unusual card game, of the trick-avoidance genre, that is still played in the Black Forest region of Germany. The game includes the unique feature – known as schleipfen – of allowing a player to take a trick won by an opponent, provided no-one objects.
+
+History
+Little is known about the origins of Hindersche, but the facts that it is played anticlockwise, that the Ten ranks low and that it still uses 36 cards all suggest considerable age. It was a game that was mainly played by farmers, foresters and journeymen in the former Principality of Fürstenberg, a territory in Swabia that covered what is now the southwestern part of the Black Forest and the region of Baar. Its rules were handed down orally from generation to generation. The earliest known written record is 1933 article about a Hindersche tournament held in the town of Schapbach with proceeds going towards the funds of the local gymnastics team to enable them to participate at a festival in Stuttgart. Today, it is only known in a few villages in the Schapbach area. It is particularly popular in the Wolf valley as well as villages like Schenkenzell and Kaltbrunn.In recent years, Hindersche tournaments have been held, for example, at Schapbach in the Wolf valley. Since 2003, Schapbach has hosted the Hindersche World Championships. The first 'world champion' was Freddy Heizmann from Schapbach. In 2015, Martin Thörmer, became the Hindersche World Champion in a competition at Schapbach in the festival hall. He was succeeded in 2016 by Emma Hoferer of Schapbach, Benjamin Heitzmann from Oberwolfach in 2018 and in 2019 by Bernd Dieterle. To become the world champion in Hindersche requires skill, experience and a bit of luck. The player who wins the wooden spoon by amassing the most penalty points is called the Bollenkönig ("Onion King", an 'onion' being a large dot drawn to represent a penalty point).Hindersche is a Swabian dialect word for "backwards" and refers to the fact that the aim of the game is to avoid scoring points which is the reverse of the normal aim in card games. Vier-Strich or 4-Strich means "four marks" or "four lines" and refers to the method of recording the score with marks on a slate.
+
+Aim
+A rubber comprises four games each of two halves or rounds. To win the rubber, alone or jointly, a player must not lose a game. Within each game, the aim is to be the first to have erased any penalty points accumulated in the first round. Each round comprises a number of deals; in each deal the aim is either to score as few card points as possible or, with the right cards and skilful play, to score at least 100 points (called "making a hundred"). There are no partnerships.
+
+Cards
+Hindersche is played by four players using the 36 cards of a French-suited pack. Players usually use a Jass/Tapp pack as a standard Piquet or French-suited Skat pack only has 32 cards. However, a standard 52-card pack may also be used by removing the 2s, 3s, 4s, 5s and Jokers. Cards rank in their natural order - A > K > Q > J > 10 > 9 > 8 > 7 > 6 - except that there are two top trumps. The trump Jack is the highest card in the game and known as "the Old Man" (de alt, der Alte); the Jack in the next suit is the second-highest card and is known as "the Little Man" (de kloei, der Kleine). For example, if Diamonds are trumps, the ♦J is the highest card and the ♥J is the second highest.Hindersche is a point-trick game with the points counting as follows:
+
+Thus there are 140 points in the pack.
+
+Rules
+The following rules are based on Schoch:
+
+Deal
+Deal and play are anticlockwise. The first dealer is determined either by lots (lowest card) or is the newest player to join the session. The dealer shuffles the pack and offers it to the player on the left for cutting. The dealer deals nine cards to each player in packets of three and turns the last for trump. When only two or three players are left in the game, the unused cards are stacked face down on the table and the top card turned for trump.
+
+Trick play
+Forehand (to the right of the dealer) leads to the first trick. A player with a card of the led suit, may either follow suit or play a trump. If unable to follow suit, a player may either trump or discard. The trick is won by the highest card of the led suit if no trumps are played, otherwise by the highest trump.A player may accidentally or deliberately pick up a trick that has legally been won by another player as long as no-one objects before a card is led to the next trick. This is known as a Schleipfe or as schleipfen.
+
+Scoring
+At the end of each deal, each player's score is reckoned by counting up the number of card points in tricks taken by that player. There are 140 points in total which acts as a check. A slate is used for scoring, each player being allocated a separate corner of the slate for recording his or her penalty points as 'marks' (Striche, singular: Strich) which are chalked as diagonal lines across the corner.
+
+First round – Vier-Strich
+The game is played in two halves or rounds. The first round consists of up to four deals in which the player with the most card points in each deal scores a penalty point recorded as a mark on the slate. Vier-Strich refers to the fact that the round ends as soon as four or more marks are chalked up. The procedure is as follows:
+The player who scores the most card points is penalized with 1 mark.
+A player who scores at least 100 points, intentionally or otherwise, has won a 'march' (Durchmarsch), also called 'making 100'. When this happens, the three opponents notch up 1 mark apiece.
+If two players tie for most points, they hold a play-off between themselves and the loser adds a mark.Normally the first round ends with 4 marks on the slate; if there are more, because someone has 'made 100' in the third or fourth deal, there will be excess marks (Überzählige). A player with a clean slate goes out and takes no part in the second half.
+
+Second round – Butzen
+The second round begins as soon as there are 4 or more marks on the slate. The game is played as before, except that the player who scores the fewest card points erases 1 mark, hence the name Butzen ("cleaning"). Marks are usually erased with a small damp sponge or cleaning cloth. The player with the highest score adds a mark to his corner of the slate, except in certain situations. The procedure is as follows:
+Whenever there are excess marks on the slate, they are erased in the next deal to get down to 4 marks. So if there are 5 marks, 1 mark is erased by the player with the lowest score; if there are 6 marks, the players with the two lowest scores each erase 1 mark. No one adds any marks.Whenever there are 4 marks on the slate, the player with the fewest points erases 1 mark, while the player with the most points 'receives' the mark erased by the winner, adding it to the slate. Thus there are always 4 marks on the slate at this stage.Whenever there are 3 marks on the slate, the player with the most card points in the next deal adds 1 mark to bring the total up to 4.When only two players remain, marks are erased by the winner of a deal, but no marks are added by the loser.As players clean all their marks off, they drop out until there is one left as the loser who is penalised with a single chalk mark on the frame of the slate, regardless of how many marks that person has left on the slate itself.Making 100. During Butzen, a 'march' is achieved either by 'making 100' or by taking all 9 tricks. A player who makes a march erases 2 marks and, unless the slate already has more than 4 marks, the opponents each add 1 to their tally.If the result cannot be determined because two players have tied, there is a separate play-off to decide it. For example, if there are three players and A and B tie for lowest score, C adds a mark and sits out while A and B hold a play-off, the winner of which erases a mark. The player with positional priority becomes forehand and leads to the first trick, after the player to the left has dealt. Once the play-off is settled, play picks up where it left off.
+
+Winning
+The rubber (Runde) ends when there are 4 marks on the frame. Usually those who have marks on the frame pay 5 € per mark to the rest. For example, if A has 3 marks, B has 1 and C and D have none; A pays 15 € to each opponent, while B pays 5 € to each opponent. Thus A loses 40 €, B breaks even, and C and D win € 20 each. A rubber typically takes 1 to 1½ hours.
+
+Tactics
+Undertrumping or underplaying is allowed and players should seek opportunities to smear high-scoring cards so that they count towards an opponent or to retain them to prevent an opponent scoring over 100 points. A Schleipfe may go through accidentally if it is a high value trick, because the player who legally should have picked it up may be content for the wrong person to collect it. Equally, someone may deliberate schleipfen because they want the trick, hoping to 'make 100'.
+
+Hindersi-Jass
+Similar in concept to Hindersche is the Swiss game of Hindersi-Jass. Four players are dealt 9 cards each in packets of 3, the lowest card being turned for trumps. The aim is to take the fewest points. However, the Swiss point system is used, making 157 points in all. By exception, a player who takes all tricks wins, and the others receive 157 points each. Rules of play are as in Hindersche, except that undertrumping is only permitted if the led suit is not held. The players with the two lowest scores after four games are each given a mark; the players with the two highest scores receive a minus mark.  The winner is the player with the most marks after an agreed number of parties. There is also a variant for three. Key differences are that there is no schleipfen, no dropping out and the scoring system is quite different.
+
+Footnotes
+References
+Literature
+Eaton, Paul (2022). "Playing the Game Backwards: Hindersche – a game from the Black Forest" in The Playing-Card, Vol. 51, No. 3. ed. by Peter Endebrock. ISSN 1752-671X pp. 109–115.
+Müller, Dani (2016). Stöck, Wys, Stich. Lenzburg: Fona. ISBN 978-3-03781-091-0
+
+External links
+Schoch, Uwe (2014).  im Hindersche: Spielregeln Bad Rippoldsau-Schapbach im Schwarzwald - Rules (German).

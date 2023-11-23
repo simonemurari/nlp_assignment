@@ -1,0 +1,669 @@
+The bidomain model is a mathematical model to define the electrical activity of the heart. It consists in a continuum (volume-average) approach in which the cardiac microstructure is defined in terms of muscle fibers grouped in sheets, creating a complex three-dimensional structure with anisotropical properties. Then, to define the electrical activity, two interpenetrating domains are considered, which are the intracellular and extracellular domains, representing respectively the space inside the cells and the region between them.The bidomain model was first proposed by Schmitt in 1969 before being formulated mathematically in the late 1970s.Since it is a continuum model, rather than describing each cell individually, it represents the average properties and behaviour of group of cells organized in complex structure. Thus, the model results to be a complex one and can be seen as a generalization of the cable theory to higher dimensions and, going to define the so-called bidomain equations.Many of the interesting properties of the bidomain model arise from the condition of unequal anisotropy ratios. The electrical conductivity in anisotropic tissues is not unique in all directions, but it is different in parallel and perpendicular direction with respect to the fiber one.
+Moreover, in tissues with unequal anisotropy ratios, the ratio of conductivities parallel and perpendicular to the fibers are different in the intracellular and extracellular spaces. For instance, in cardiac tissue, the anisotropy ratio in the intracellular space is about 10:1, while in the extracellular space it is about 5:2.
+Mathematically, unequal anisotropy ratios means that the effect of anisotropy cannot be removed by a change in the distance scale in one direction.
+Instead, the anisotropy has a more profound influence on the electrical behavior.Three examples of the impact of unequal anisotropy ratios are
+
+the distribution of transmembrane potential during unipolar stimulation of a sheet of cardiac tissue,
+the magnetic field produced by an action potential wave front propagating through cardiac tissue,
+the effect of fiber curvature on the transmembrane potential distribution during an electric shock.
+
+Formulation
+Bidomain domain
+The bidomain domain is principally represented by two main regions: the cardiac cells, called intracellular domain, and the space surrounding them, called extracellular domain. Moreover, usually another region is considered, called extramyocardial region. 
+The intracellular and extracellular domains, which are separate by the cellular membrane, are considered to be a unique physical space representing the heart (
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {H} }
+  ), while the extramyocardial domain is a unique physical space adjacent of them (
+  
+    
+      
+        
+          T
+        
+      
+    
+    {\displaystyle \mathbb {T} }
+  ). The extramyocardial region can be considered as a fluid bath, especially when one wants to simulate experimental conditions, or as a human torso to simulate physiological conditions.
+The boundary of the two principal physical domains defined are important to solve the bidomain model. Here the heart boundary is denoted as 
+  
+    
+      
+        ∂
+        
+          H
+        
+      
+    
+    {\displaystyle \partial \mathbb {H} }
+   while the torso domain boundary is 
+  
+    
+      
+        ∂
+        
+          T
+        
+        .
+      
+    
+    {\displaystyle \partial \mathbb {T} .}
+
+Unknowns and parameters
+The unknowns in the bidomain model are three, the intracellular potential 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+  , the extracellular potential 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle v_{e}}
+   and the transmembrane potential 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  , which is defined as the difference of the potential across the cell membrane 
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            i
+          
+        
+        −
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle v=v_{i}-v_{e}}
+  .Moreover, some important parameters need to be taken in account, especially the intracellular conductivity tensor matrix 
+  
+    
+      
+        
+          
+            Σ
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathbf {\Sigma } _{i}}
+  , the extracellular conductivity tensor matrix 
+  
+    
+      
+        
+          
+            Σ
+          
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \mathbf {\Sigma } _{e}}
+  . The transmembrane current flows between the intracellular and extracellular regions and it is in part described by the corresponding ionic current over the membrane per unit area 
+  
+    
+      
+        
+          I
+          
+            ion
+          
+        
+      
+    
+    {\displaystyle I_{\text{ion}}}
+  . 
+Moreover, the membrane capacitance per unit area 
+  
+    
+      
+        
+          C
+          
+            m
+          
+        
+      
+    
+    {\displaystyle C_{m}}
+   and the surface to volume ratio of the cell membrane 
+  
+    
+      
+        χ
+      
+    
+    {\displaystyle \chi }
+   need to be considered to derive the bidomain model formulation, which is done in the following section.
+
+Standard formulation
+The bidomain model is defined through two partial differential equations (PDE) the first of which is a reaction diffusion equation in terms of the transmembrane potential, while the second one computes the extracellular potential starting from a given transmembran potential distribution.Thus, the bidomain model can be formulated as follows:
+
+where 
+  
+    
+      
+        
+          I
+          
+            
+              s
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle I_{s_{1}}}
+   and 
+  
+    
+      
+        
+          I
+          
+            
+              s
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle I_{s_{2}}}
+   can be defined as applied external stimulus currents.
+
+Ionic current equation
+The ionic current is usually represented by an ionic model through a system of ordinary differential equations (ODEs). Mathematically, one can write 
+  
+    
+      
+        
+          I
+          
+            ion
+          
+        
+        =
+        
+          I
+          
+            ion
+          
+        
+        (
+        v
+        ,
+        
+          w
+        
+        )
+      
+    
+    {\displaystyle I_{\text{ion}}=I_{\text{ion}}(v,\mathbf {w} )}
+   where 
+  
+    
+      
+        
+          w
+        
+      
+    
+    {\displaystyle \mathbf {w} }
+   is called ionic variable. Then, in general, for all 
+  
+    
+      
+        t
+        >
+        0
+      
+    
+    {\displaystyle t>0}
+  , the system reads
+Different ionic models have been proposed:
+phenomenological models, which are the simplest ones and used to reproduce macroscopic behavior of the cell.
+physiological models, which take into account both macroscopic behaviour and cell physiology with a quite detailed description of the most important ionic current.
+
+Model of an extramyocardial region
+In some cases, an extramyocardial region is considered. This implies the addition to the bidomain model of an equation describing the potential propagation inside the extramyocardial domain.Usually, this equation is a simple generalized Laplace equation of type
+where 
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle v_{0}}
+   is the potential in the extramyocardial region and 
+  
+    
+      
+        
+          
+            Σ
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mathbf {\Sigma } _{0}}
+   is the corresponding conductivity tensor.
+Moreover, an isolated domain assumption is considered, which means that the following boundary conditions are added
+
+  
+    
+      
+        
+          
+            n
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mathbf {n} _{0}}
+   being the unit normal directed outside of the extramyocardial domain.If the extramyocardial region is the human torso, this model gives rise to the forward problem of electrocardiology.
+
+Derivation
+The bidomain equations are derived from the Maxwell's equations of the electromagnetism, considering some simplifications.The first assumption is that the intracellular current can flow only between the intracellular and extracellular regions, while the intracellular and extramyocardial regions can comunicate between them, so that the current can flow into and from the extramyocardial regions but only in the extracellular space.Using Ohm's law and a quasi-static assumption, the gradient of a scalar potential field 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   can describe an electrical field 
+  
+    
+      
+        
+          E
+        
+      
+    
+    {\displaystyle \mathbf {E} }
+  , which means that
+Then, if 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+   represent the current density of the electric field 
+  
+    
+      
+        
+          E
+        
+      
+    
+    {\displaystyle \mathbf {E} }
+  , two equations can be obtained
+where the subscript 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   represent the intracellular and extracellular quantities respectively.The second assumption is that the heart is isolated so that the current that leaves one region need to flow into the other. Then, the current density in each of the intracellular and extracellular domain must be equal in magnitude but opposite in sign, and can be defined as the product of the surface to volume ratio of the cell membrane and the transmembrane ionic current density 
+  
+    
+      
+        
+          I
+          
+            m
+          
+        
+      
+    
+    {\displaystyle I_{m}}
+   per unit area, which means that
+By combining the previous assumptions, the conservation of current densities is obtained, namely
+
+from which, summing the two equations
+This equation states exactly that all currents exiting one domain must enter the other.From here, it is easy to find the second equation of the bidomain model subtracting 
+  
+    
+      
+        ∇
+        ⋅
+        (
+        
+          
+            Σ
+          
+          
+            i
+          
+        
+        ∇
+        
+          v
+          
+            e
+          
+        
+        )
+      
+    
+    {\displaystyle \nabla \cdot (\mathbf {\Sigma } _{i}\nabla v_{e})}
+   from both sides. In fact, 
+and knowing that the transmembral potential is defined as 
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            i
+          
+        
+        −
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle v=v_{i}-v_{e}}
+   
+Then, knowing the transmembral potential, one can recover the extracellular potential.
+Then, the current that flows across the cell membrane can be modelled with the cable equation,
+
+Combining equations (1) and (2) gives
+Finally, adding and subtracting 
+  
+    
+      
+        ∇
+        ⋅
+        (
+        
+          
+            Σ
+          
+          
+            i
+          
+        
+        ∇
+        
+          v
+          
+            e
+          
+        
+        )
+      
+    
+    {\displaystyle \nabla \cdot (\mathbf {\Sigma } _{i}\nabla v_{e})}
+   on the left and rearranging 
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            i
+          
+        
+        −
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle v=v_{i}-v_{e}}
+  , one can get the first equation of the bidomain model
+which describes the evolution of the transmembrane potential in time.
+The final formulation described in the standard formulation section is obtained through a generalization, considering possible external stimulus which can be given through the external applied currents 
+  
+    
+      
+        
+          I
+          
+            
+              s
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle I_{s_{1}}}
+   and 
+  
+    
+      
+        
+          I
+          
+            
+              s
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle I_{s_{2}}}
+  .
+
+Boundary conditions
+In order to solve the model, boundary conditions are needed. The more classical boundary conditions are the following ones, formulated by Tung.First of all, as state before in the derive section, there ca not been any flow of current between the intracellular and extramyocardial domains. This can be mathematically described as
+where 
+  
+    
+      
+        
+          n
+        
+      
+    
+    {\displaystyle \mathbf {n} }
+   is the vector that represents the outwardly unit normal to the myocardial surface of the heart.
+Since the intracellular potential is not explicitily presented in the bidomain formulation, this condition is usually described in terms of the transmembrane and extracellular potential, knowing that 
+  
+    
+      
+        v
+        =
+        
+          v
+          
+            i
+          
+        
+        −
+        
+          v
+          
+            e
+          
+        
+      
+    
+    {\displaystyle v=v_{i}-v_{e}}
+  , namely
+For the extracellular potential, if the myocardial region is presented, a balance in the flow between the extracellular and the extramyocardial regions is considered
+Here the normal vectors from the perspective of both domains are considered, thus the negative sign are necessary. Moreover, a perfect transmission of the potential on the cardiac boundary is necessary, which gives
+Instead, if the heart is considered as isolated, which means that no myocardial region is presented, a possible boundary condition for the extracellular problem is
+
+Reduction to monodomain model
+By assuming equal anisotropy ratios for the intra- and extracellular domains, i.e. 
+  
+    
+      
+        
+          
+            Σ
+          
+          
+            i
+          
+        
+        =
+        λ
+        
+          
+            Σ
+          
+          
+            e
+          
+        
+      
+    
+    {\displaystyle \mathbf {\Sigma } _{i}=\lambda \mathbf {\Sigma } _{e}}
+   for some scalar 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  , the model can be reduced to one single equation, called monodomain equation
+
+where the only variable is now the transmembrane potential, and the conductivity tensor 
+  
+    
+      
+        
+          Σ
+        
+      
+    
+    {\displaystyle \mathbf {\Sigma } }
+   is a combination of 
+  
+    
+      
+        
+          
+            Σ
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathbf {\Sigma } _{i}}
+   and 
+  
+    
+      
+        
+          
+            Σ
+          
+          
+            e
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {\Sigma } _{e}.}
+
+Formulation with boundary conditions in an isolated domain
+If the heart is considered as an isolated tissue, which means that no current can flow outside of it, the final formulation with boundary conditions reads
+
+Numerical solution
+There are various possible techniques to solve the bidomain equations. Between them, one can find finite difference schemes, finite element schemes and also finite volume schemes. Special considerations can be made for the numerical solution of these equations, due to the high time and space resolution needed for numerical convergence.
+
+See also
+Monodomain model
+Forward problem of electrocardiology
+
+References
+External links
+Scholarpedia article about the bidomain model

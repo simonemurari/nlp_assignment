@@ -1,0 +1,34 @@
+Hormonal regulation occurs at every stage of development. A milieu of hormones simultaneously affects development of the fetus during embryogenesis and the mother, including human chorionic gonadotropin (hCG) and progesterone (P4).
+
+Embryogenesis
+Human chorionic gonadotropin (hCG), progesterone, 17β-estradiol, endorphins and gonadotropin-releasing hormone (GnRH) synthesis are rapidly upregulated by the developing embryo following fertilization of the ovum.During early embryonic development, paracrine/juxtacrine signaling of hCG induces blastulation and neurulation.  An in vitro model of early human embryogenesis (human embryonic stem cells (hESCs)) has demonstrated that hCG promotes cell proliferation via the LH/hCG receptor (LHCGR).  hCG signaling upregulates the expression of steroidogenic acute regulatory protein (StAR)-mediated cholesterol transport and the synthesis of progesterone in hESC.  The production of progesterone at this time induces embryroid body (akin to blastulation) and rosette (akin to neurulation) formation in vitro. Progesterone induces the differentiation of pluripotent hESC to neural precursor cells.Suppression of P4 signaling following withdrawal of progesterone, or treatment with the progesterone receptor antagonist RU-486 (mifepristone), inhibits the differentiation of hESC colonies into embryoid bodies (blastulation) or rosettes (neurulation).  RU-486, a drug commonly used to terminate pregnancy in its early stages, acts not only to abort the embryo, but also to inhibit normal embryonic development.
+
+Influence of maternal hormones
+Pregnancy-associated hormones such as hCG and sex steroids regulate numerous biological processes in the maternal system prior to and during pregnancy. The embryo orchestrates biological changes that occur in both the embryo and the mother.  The embryo upregulates hCG, drives growth of the cell, and upregulates P4 production driving development. hCG and P4 direct changes in the mother to enable successful pregnancy (see below) via upregulation of specific hormones that act to direct both endocrinological and biological changes within the mother for successful pregnancy.
+
+Maintenance of the endometrial lining
+The early embryo has 1–2 weeks in order to produce sufficient hCG in order to stabilize the endometrial lining to allow for blastocyst attachment.  The dramatic increase in trophoblastic and corpus luteal hCG synthesis signals both blastocyst  and corpus luteal  production of P4, crucial for the maintenance of the endometrium.
+
+Attachment and invasion of cytotrophoblast into endometrium
+hCG secreted by cytotrophoblastic cells of the blastocyst controls endometrial tissue remodeling by both activation of matrix matalloproteinases (MMP) that control the maternal extracellular matrix and inhibition of tissue-inhibitors of matrix-metalloproteinases (TIMP). hCG mediates invasion and attachment to the endometrium. Low levels of hCG increase risk of pre-eclampsia.
+
+Uterine angiogenesis
+Uterine angiogenesis is upregulated by human chorionic gonadotropin and progesterone and downregulated by estrogen.  The balance of influences of progesterone and estrogen determine the state of angiogenesis in the uterus during early pregnancy.
+
+Suppression of the maternal immune system
+High levels of progesterone produced by the embryonic placenta regulate lymphocyte proliferation at the maternal-fetal interface, locally suppressing maternal immune response against the developing embryo.
+
+Suppression of GnRH secretion to prevent further follicular maturation
+Negative feedback of progesterone inhibits hypothalamic pulsatile GnRH neurosecretion, ovulatory GnRH release and pituitary gonadotropin surges thereby effectively preventing further follicular maturation.
+
+Preparation of maternal metabolic systems
+Progesterone regulates metabolism of carbohydrates, proteins, and lipids, resulting in physiological changes associated with pregnancy. The mix of hormones characteristic of early pregnancy promote natural growth of maternal tissues and weight gain. In the second half of pregnancy, progesterone and prolactin prepare the mammary glands for lactation.
+
+Preparation of mammary glands for lactation
+Estrogens and progesterone promote mammary epithelial cell proliferation resulting in the formation of the primary and secondary ductal structure.  Progesterone induces formation of tertiary side-branches in the mammary glands during puberty and during the luteal phase of the menstrual cycle upon which lobuloalveolar structures form under the influence of prolactin.  Prolactin stimulates lactogenesis.
+
+Induction of sleep
+hCG appears to be soporific during pregnancy; levels of hCG correlate with sleep changes during pregnancy, and administration of hCG increases sleep in rats likely via neuronal LHCGR.
+
+
+== References ==

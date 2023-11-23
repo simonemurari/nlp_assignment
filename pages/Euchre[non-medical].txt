@@ -1,0 +1,225 @@
+Euchre or eucre () is a trick-taking card game commonly played in Australia, Canada, Great Britain, New Zealand, and the Midwestern United States. It is played with a deck of 24, 28, or 32 standard playing cards. There are normally four players, two on each team, although there are variations for two to nine players.
+Euchre emerged in the United States in the early 19th century. There are several theories regarding its origin, but the most likely is that it is derived from an old Alsatian game called Jucker or Juckerspiel. Euchre was responsible for introducing the joker into the modern deck of cards, first appearing in Euchre packs in the 1850s.Euchre has a large number of variants and has been described as "an excellent social game."
+
+Origins and popularity
+Eucre is briefly mentioned as early as 1810, being played in a gaming house alongside all fours, loo, cribbage, and whist. In 1829, uker was being played with bowers on a steamboat in the American Midwest. However, the earliest rules do not appear until 1844.The mode of play and terminology of Euchre have resulted in several theories which suggest that it has an origin in Spanish Trionfo, French Ecarté or Triomphe, or Alsatian Jucker. An early American theory was that Euchre was brought into the United States by the German settlers of Pennsylvania, and from that region it was disseminated throughout the nation. The 1864 edition of The American Hoyle disputes its alleged German heritage, tracing the game's origin to Pennsylvania itself in the 1820s. It goes on to surmise that a "rich German farmer's daughter" had visited Philadelphia and carried home a confused memory of Écarté, which then developed into Euchre.Yet another theory is that Euchre may have been introduced to America by immigrants from the counties of Cornwall or Devon in southwest England, where it remains a hugely popular game. Euchre was introduced into Devon in turn by French prisoners of The Napoleonic Wars, imprisoned in Dartmoor Prison between 1805 and 1816. American prisoners were also housed there after the War of 1812.
+Card game historian David Parlett believes that Euchre is derived from an eighteenth-century Alsatian card game named Jucker or Juckerspiel, pronounced "yooker". Clues to a possible German origin are the names of the trump Jacks; bower is phonetically identical with the German word Bauer which normally means farmer, but also refers to the Jack in playing cards. Another word probably derived from German is "march", which is the literal translation of Marsch, itself an abbreviation of Durchmarsch and the German for a slam in many card games. Other words or phrases that reflect a German origin are: "maker" from Macher, short for Spielmacher i.e. "game maker", the person who determines the type of game to be played; "euchred" from gejuckert; "having a dog from every county" from aus jedem Dorf ein Köter i.e. "a mongrel from every village", a common expression in German card games; "cards away" from Karten weg or Kart' ab, an expression in games from the Palatinate/Saarland region for the same announcement, "bridge" possibly from Pritsche, a plank bed (hence place of safety).
+The earliest known treatise is a lost book called Game of Euchre and Its Laws published in 1839 by an unknown author. However, the earliest surviving rules appeared in 1844, in which there is no Joker; instead 32 cards are used and the Right Bower, the trump Jack, is the "commanding card" with the Left Bower, the Jack of the same color, as the second-highest card. According to Parlett, the Joker was added to a 32-card pack in the 1850s specifically for the game of Euchre and is first mentioned in a set of rules in 1868 where it turns out to be a blank specimen card not intended for actual play. This gave rise to a variant called "Euchre with the Joker" in which the blank card ranked above all the rest. It must have been in use even earlier, however, since the term "Best Bower" appears in a satirical 1861 piece about the American Civil War. Later, the Joker was embellished with a motif and specifically intended for use as the top trump. It was later transferred to the game of Poker and initially called the Mistigris.In the late 19th century, Euchre was regarded as the national card game of the United States. It has since declined in popularity, although it retains a strong following in regions such as the Midwest. Euchre has also been described as Canada's national card game. However, with the rise of 20th century games such as Contract Bridge and Spades, Euchre has declined in popularity, though it is still played as a social game in the Midwest, Ontario, Australia, New Zealand, and Great Britain, especially Cornwall.
+
+Earliest rules (1844)
+The earliest surviving rules were published in America by Thomas Mathews in his 1844 work, The Whist Player's Hand-book, in which a four-hand version of Euchre is described right at the end. The following is a summary:
+
+Players and cards
+Euchre is played by two to five persons, but most often by two or four. A 32-card French-suited Piquet pack is used and cards rank in the trump suit as follows: Right Bower (trump knave), Left Bower (knave of same color), A > K > Q > 10 > 9 > 8 > 7. The side suits rank in their natural order. Deal and play are clockwise.
+
+Deal
+The pack is shuffled and four cards distributed; the players with two higher cards become partners and play the other two. The dealer deals five cards each in packets of two and three and turns the next for trump.
+
+Making trump
+Eldest hand (to the left of the dealer) opens the auction and may either 'order it up' (= accept the turnup as trump) or 'turn it down' (= pass), in which case the next player in turn has the same options and so on. The team that order it up are the 'makers'. If all pass, the dealer does not exchange, and another round of bidding begins with eldest who may make trump of any other suit. If all pass again and dealer does not want to make trump, the cards are thrown in and the next dealer deals. If anyone orders up, the dealer picks up the upcard and discards a card in return. The dealer's partner may bid "assist" in which case the dealer takes up trump and they become the makers. A player confident of taking 5 tricks single-handed may say "cards away" to the partner and play alone against the opponents.
+
+Play
+Eldest leads to the first trick. Players must follow suit if able; otherwise may play any card. The highest trump takes the trick or the highest card of the led suit if no trumps were played. The trick winner leads to the next trick.
+
+Winning
+The makers must take at least 3 tricks to win and score 1 point; otherwise they are euchred, i.e. have lost and their opponents score 2 points. Winning all 5 tricks is a march which earns 2 points. Announcing "cards away" and winning all 5 tricks alone scores 4 points. Points are tallied using the unused Deuce and Trey cards, or counters. Game is 5 points.
+
+Terminology
+The following terms were used by Mathews. Many continue to be used today:
+
+Bridge. The leading team are "at the bridge" when 1 point from winning and the trailing team are 4 points away (and could win by going alone).
+Cards Away. Now called going alone. To play alone against the two defenders.
+Dutching. When the dealer has turned down the upcard, to entrump the suit of the same colour.
+Euchre. When the makers fail to take at least 3 tricks they are euchred.
+March. Taking all tricks, which scores 2 points.
+Order up. As a non-dealer, to accept the turnup as trump.
+Turn down. As dealer, after everyone else has passed, to reject the turnup.
+
+British rules
+In Britain, euchre is played in southwestern England, especially Cornwall, and Guernsey, as well as in coastal East Anglia. A key feature is that a joker, called the Benny, is the highest trump. The following is a summary of modern British rules by John McLeod, supplemented by other sources where indicated.
+
+Players and cards
+Euchre is a four-player game using a pack of 25 cards with a joker and four suits comprising AKQJ109. Card ranking is as per the 1844 rules with the exception that the top trump is the Benny or Best Bower represented by the joker or ♠2. Deal and play are clockwise.
+
+Deal
+The first dealer is chosen by any random method. The dealer shuffles and deals each player a packet of 2 or 3 cards in any order and then a second packet making the hands up to 5 cards. The next card is turned as a potential trump.
+
+Making trump
+The process of making trump is as follows:
+
+Eldest opens by passing or saying "I order it up" (or just "up")
+If eldest passes, dealer's partner may pass or say "I turn it down"
+If the first two pass, third hand may pass or order it up
+If the first three pass, the dealer may say "I take it up" and pick up the upcard, or pass by saying "over" and turning it face down.As soon as someone makes trump (instead of passing) that player's team become the makers and their opponents are the defenders. Should either opponent order it up or the dealer take it up, the suit of the upcard becomes trump; the dealer picks it up and discards a card face down. Note that the dealer's partner cannot make trumps and play with the dealer, but can only pass or play alone by turning it down. If the upcard is the Benny, dealer must announce trumps before picking up own hand cards and dealer's team are the makers.
+
+Going alone
+Before the first trick any player may announce they are going "alone", whereupon the partner of the lone player puts their cards face down on the table and drops out of that hand. A maker and a defender may both go alone in which case it is one against one.
+
+Play and scoring
+Play and scoring are as in the 1844 rules, except that:
+
+If a maker is going alone, an active defender to the left of the loner leads; otherwise the remaining opponent leads
+If a defender plays alone and wins ≥ 3 tricks, the defenders score 4 points.
+Score is kept using a spare 5 and 6 card instead of a deuce and trey.
+Game is 11 points.
+
+British terminology
+Bump. Knock the cards instead of cutting.
+Dockyard play. When dealer's opponents have good cards but do not order up in the hope of euchring the makers.
+Have an eye. Have at least 1 point.
+Playing policemen. See dockyard play.
+Shout. Bid. A player going alone makes a "lone shout".
+Sleeping hand. The cards left face down.
+Trump caller. Player who makes trump.
+Whitewashed. Beaten without scoring e.g. 11-0.
+
+Rule variations
+The following rule variations are recorded:
+
+Game may be any other agreed number of points e.g. 10 or 21.
+Dealer's partner may play with a partner by ordering up and is not forced to go alone.
+Instead of cutting, the cutter may tap or bump the cards.
+At the start of a session, cards are dealt around and the player who receives the first jack, deals first.
+Euchring a lone trump caller earns 4 points.
+The deal is a packet of 3 cards each first, then a packet of two.
+Dealer is always the first to "shout" i.e. open the bidding.
+
+North American rules
+Euchre is played slightly differently in North America and there are numerous variations. The following account is a summary of the typical rules for the four-hand game.
+
+Players and cards
+Four players play in two teams, the partners sitting opposite one another. A 24-card pack is used with cards ranking as before with a right bower and left bower as the top two cards of the trump suit. A pack of 32 cards (AKQJ10987) or 28 cards (no 7s) may also be used, but 24 cards is the standard.
+
+Deal
+Deal and play are clockwise. The face-down pack is spread on the table and players draw a card each; the players with the two lowest cards playing together against the others and the player with the lowest card dealing first. For this purpose only, suits are irrelevant, aces rank low and jacks rank immediately below the queens. The dealer then shuffles the pack and offers it to the right for cutting. Five cards are dealt in two rounds. In the first, the dealer may deal either 2 or 3 cards each, in turn and in clockwise order beginning with eldest hand. This is followed by a second round to bring each player's hand to 5 cards. Whichever system is used initially, it must not subsequently be changed. The remaining four cards, called the kitty, are placed face down in the center of the table and its top card flipped.
+
+Making trump
+Eldest hand opens the bidding by passing (saying "pass") or accepting the suit of the upcard as trump by saying "I order it up" (or "pick it up"). If eldest passes, second hand, the dealer's partner, may pass or accept by saying "I assist" (or "I'll help you". If second hand passes, third hand may pass or accept; if the first three pass, the dealer may accept the turnup by discarding a card (called "taking it up") or turn it down by placing the upcard, face up, half under the kitty (called "turning it down"). 
+If the dealer acquires the top card (either by being ordered to pick it up or choosing to pick it up), it becomes part of the dealer's hand, but is left in place until played, and the dealer discards a card to the bottom of the kitty, face down. If no one orders up the top card and the dealer chooses not to take it up, each player is then given the opportunity, in turn, to pass again or call a different suit as trump. If no trump is selected, the hand is discarded and the deal passes to the left.
+When trumps are chosen, the trump jack becomes the top card or right bower and the jack of the same color is the second-highest trump, known as the left bower. Example. Spades are trump. In this case, the trump cards rank as follows (highest first):
+
+J♠ (right bower), J♣ (left bower), A♠, K♠, Q♠, 10♠, 9♠The J♣ effectively becomes a spade during the playing of this hand. This expands the suit of spades to the seven cards above and reduces the suit of clubs by one card (its jack being seconded to the trump suit). Once the hand is over, the J♣ ceases to be a spade and becomes a club again unless spades are again named as trump during a subsequent hand.
+
+Going alone
+A player who fixes the trump suit may announce "alone" and play without the aid of a partner. The partner's hand cards are laid face down and the partner takes no part in the game.
+
+Play
+Play is as before: eldest leads and players must follow suit if able, otherwise may play any card.
+
+Scoring and winning
+The first team to score the target number of points (5, 7 or 10) wins the game. In Columbus, the target is 10.
+
+Scorekeeping markers
+Scores can be kept by using two otherwise unused cards as markers, with each team often using cards of the same color.
+Scoring begins using one card face up, covered by the other card face down. Upon winning points, the top card is moved to reveal the appropriate number of suit symbols on the bottom card. After all points are revealed on the lower card, the top card is flipped over, adding pips on both cards to indicate the score.In Columbus, score is kept with a 4 and a 6.A variation of scorekeeping in Western New York and Ontario involves each side using the 2 and 3 of one suit. Scoring starts with counting the symbols on the cards, for points 1 to 4; at 5, the cards are turned over and crossed. Crossing the cards indicates 5 points. Points 6 to 9 are counted similarly by counting the number of suit symbols showing and adding them to the 5 when the cards are crossed.
+In Canada and Michigan, it is common for each team to use two 5s of the same color to keep score, with one team red and the other black. The 5s are usually referred to as "counting cards" in this situation.
+
+Infringements
+Table talk
+Euchre does not require silence as in some other games; some table talk is acceptable. However, communicating with one's partner to influence the game is considered cheating. Unacceptable table talk may include code words, secret gestures, bidding out of turn or suggesting what the partner should play. Depending on the local rules, such infringements may incur a penalty.
+
+Revoking
+A player who does not follow suit when able has revoked. Sometimes this is called "reneging" but, strictly speaking, a renege refers to a situation in other card games when you may legally not follow suit when you can. If discovered, the opposing team is awarded two points or two points are deducted from the offending team.
+
+North American terminology
+Euchre terminology varies greatly from region to region and is highly colloquial. Some examples include:
+
+Ace, No-Face. Hand with an ace and four low cards (9s and 10s).
+Cut. Trump a led ace with the second card of the trick. (Indiana, Ohio).
+Dutchman's Point. Point won when holding both bowers and the trump ace.
+Euchre Bustle. Euchre tournament (used in northern Midwest of United States).
+Farmer's Hand. Weak hand consisting only of 9s and 10s). (Ohio). Sometimes called Poor Man's Hand, Bottom Hand or Grandma's Hand.
+In the Barn. A term used in the Midwest United States for having 9 points, being one away from winning. (Indiana, Ohio).
+Lay-Down. Hand that will win all five tricks if played in the correct order: for example, a Dutchman (both Bowers and the Ace of trumps) plus the King and Queen of that suit, any other two trump cards, or one more trump card and an off-trump Ace (when that player has the lead). Sometimes called a Lone Wolf or Loner, because the player will typically opt to go alone.
+Lay-Down Loner. Loner of unbeatable cards when the player has the first lead. (Indiana).
+Loner. Hand suitable for going alone. (Indiana).
+Loner Range. A score of between 6 and 9 points, because 4 or fewer points are needed to win. It can also be used to describe being 4 points away from the opposing team. For example, when it is 4–8, the trailing team is in loner range of the team in front.
+Next. Call to entrump the suit of the same color as the original turnup. (Indiana, Ohio).
+Set. Euchred. When the opposing team wins more tricks than the team who called the suit. (Indiana).
+Slough. Play a low value card. (Ohio).
+Sweep or March. Winning all tricks. (Indiana, Ohio).
+Throwing in. When the lead maker throws in the remaining hand cards once 3 tricks have been assured, but five tricks are unlikely, e.g. because 1 trick has already been won by the defenders, or is highly likely to be won by them, e.g. a right bower was ordered up but has not yet been played. The cards are thrown face up.
+Trump the Partner Refers to a situation where the last player plays the card that wins a trick that their partner would have otherwise won. It usually refers to a situation where the partner has an Ace that follows suit and the player plays a trump card but plays a higher trump or non-trump than the partner's qualifies.
+Walk. When a low card is led and takes the trick. (Indiana).
+
+Rule variations
+The following North American rule variations are recorded:
+
+Ace No Face. In Ace No Face the player must have one Ace and all 9s and 10s in their hand. The player then calls "ace no face" and exchanges three of their cards for the bottom three (must be called before the first card of the beginning trick has been led). Alternatively the player may call for a re-deal.
+Farmer's Hand. A player with a hand of 9s and 10s) may call "farmer's hand" (or equivalent – see above), show the cards and exchange three of them for the three cards in the kitty (also called "going under" or "under the table").
+First dealer. The pack is shuffled and dealt out; the first player to receive a jack deals first and, if desired, the second player with a jack is the partner.
+Deal. Cards are dealt in packets of twos and threes, but there is no requirement to follow a system.
+Defender going alone. If the trump maker goes alone, a defender may say "defend alone" before play begins.
+Kitty placement. Placed to the left of the dealer (not in the center), as a reminder of who is dealing next.
+Making trump rule. A player may not make trump with only a jack but must have another trump. Sometimes this only applies to the dealer. Infringement is often treated as a revoke.
+Point on partner. When a partner steals their own partner's deal successfully, in addition to retaining the deal, the team is also awarded one point.
+Robson rules. When a team wins all five tricks (normally or by going alone), they may choose to reduce the opposing team's score (by two or four, respectively) instead of adding to their own score. Additionally, if the dealer turns up a jack on the kitty, they may elect to go alone without seeing the rest of their hand. If all tricks are won via this "blind loner" hand, five points are awarded instead of the usual four; but a failure to win all tricks earns the defenders one point. This rule was named after four-time Northern Michigan regional tournament runner-up champion James Robson.
+Stick the Dealer. If trump is not called it must be called by the dealer. Used to speed up the game, as it eliminates throw-in hands.
+Upcard. The dealer picks the upcard up instead of leaving it on the table until played.
+
+Variants
+Euchre is a game with a large number of versions. They include versions for two to nine players, as well as changes in cards used, bidding, play, and scoring.
+
+Bid Euchre
+Bid Euchre, also known as Auction Euchre, Pepper, or Hasenpfeffer, is a group of North American variants. They introduce bidding in which the trump suit is decided by which player can bid to take the most tricks. There are variations in the number of cards dealt, the absence of any undealt cards, the bidding and scoring process, and the addition of a no trump declaration. It is typically a partnership game for four players.
+
+Set-Back Euchre
+Set-Back Euchre is recorded as early as 1843 in Arkansas, but its rules first appear in William Brisbane Dick's 1864 edition of The American Hoyle. The main difference is in the method of scoring. Although it can apply to games with 2, 3 or 4 players, in Dick's example, four players agree a pool of $1 and each antes 25¢. Players begin with a score of 5 points each and play for themselves aiming to be first to zero. The trump maker plays alone against three defenders. A player who fails to take a trick adds 1 point; anyone who is euchred adds 2 points and pays a stake of 25¢ to the pool. A player doubtful of taking any tricks may throw up the hand to save being set back. The first player to zero points wins the game and the pool. Dick describes variations including the option for any player to say "I declare" which is a bid to make a march and win the game and pool if successful. Failure, however, incurs a doubling of the point score and paying a stake. The march declarer leads to the first trick. Another variation was that, in the event of a euchre, the defenders deduct 2 points in addition to the maker adding 2.
+
+Three-handed Euchre
+A variant for three players, three-handed Euchre is played like 24-card Euchre, with the following changes:
+Players play alone, rather than in teams.
+Each player plays to ten points and keeps their own score (using 4s and 6s as markers)
+Seven cards are dealt to each player, leaving three in the kitty (the top card is turned up).
+The person who makes trump is the "maker". Both other players are "defenders", but compete with each other for tricks.
+If the maker takes four tricks, they receive one point. If the maker takes six tricks, they receive two points. Taking all seven tricks gives the maker four points.
+If the maker does not take four tricks, they are euchred (set). The defender who took the most tricks will then receive two points. If both defenders took an equal number of tricks, they each receive one point.Ace no face: a player dealt a hand that contains any number of aces but no face cards, may lay this hand on the table and call "ace no face". This is considered a misdeal, and all the cards are gathered and re-dealt.
+
+Regional variations
+In Australia and New Zealand, playing to 11 points (as in England) rather than 10 points (as in America) is common. In Ontario, parts of New Zealand, Britain and Australia, after the dealer turns up the top card on the kitty if the first player to the left passes and the dealer's partner would like to order up the dealer, the dealer's partner must play alone, whereas common practice in North America allows the dealer's partner to "assist" and thus play in partnership with the dealer as the maker.
+In Canada the standard rules are followed except that the dealer's partner, on ordering a card up, must go it alone.
+
+See also
+Euchre variants - other forms of Euchre
+Euchre variations - minor changes to standard Euchre
+Glossary of card game terms
+
+Footnotes
+References
+Bibliography
+BooksAnder, Tim (2018). How to Play Euchre: A Beginner's Guide to Learning the Euchre Card Game, Instructions, Scoring & Strategies to Win at Playing Euchre. [Middletown, DE]: Tim Ander. ISBN 978-1-9768-8006-3. OCLC 1061505589.
+Bumppo, Natty (1999). The Columbus Book of Euchre. Brownsville, KY: Borf. ISBN 0960489460
+Buzzy, Nick (2010). Euchre Explained. ASIN B004KAB9QU.
+Cowell, Joe (1844). Thirty Years Passed Among the Players in England and America. Vol. 2.
+Faulkner, Thomas C. (1861). History of the Revolution in the Southern States Including the Special Messages of President Buchanan: the Ordinances of Secession of the Six Withdrawing States ... Etc. J.F. Trow, printer. OCLC 18113349.
+Hoyle's Rules of Games: Descriptions of Indoor Games of Skill and Chance, with Advice on Skillful Play: Based on the Foundations Laid Down by Edmond Hoyle, 1672–1769 (3rd ed.). New York: Plume. 2001. ISBN 978-1-101-08538-7. OCLC 460720133.
+Kansil, Joli Quentin (2001). Bicycle Official Rules of Card Games. Cincinnati: USPCC.
+Katz, Nikki (2004). The Everything Card Games Book: A Complete Guide to Over 50 Games to Please Any Crowd. Avon, Mass.: Adams Media. ISBN 978-1-4405-2302-1. OCLC 777401280.
+Keller, John William (1887). The Game of Euchre. NY: F.A. Stokes
+Mathews, Thomas (1844). The Whist Player's Handbook. Philadelphia: Isaac M. Moss.
+Notes and Queries: A Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, Etc. Vol. 1. George Bell & Sons. 1862.
+Parlett, David (1991). A History of Card Games. Oxford: OUP. ISBN 978-0-19-282905-4
+Parlett, David (1992). A Dictionary of Card Games. Oxford: OUP. ISBN 978-0-19-869173-0
+Parlett, David (2007). "The Origins of Euchre" in The Playing-Card, Vol. 35, No. 4 (April–June 2007), pp. 255–261.
+Porter, Ian (2010). "Classifying Non-standard Playing Cards" in The Playing-Card, Vol. 38, No. 3 (Jan–Mar 2010). pp. 203–208. ISSN 1752-671X
+Roya, Will (2021). Card Night: Classic Games, Classic Decks, and the History Behind Them, 52 Games for All Ages (First ed.). New York: Black Dog & Leventhal Publishers. ISBN 978-0-7624-7351-9. OCLC 1178868181.
+Safire, William (2008). Safire's Political Dictionary. Oxford: Oxford University Press. ISBN 978-0-19-534061-7. OCLC 165082593.
+Spindler, Carl (1848). Vergissmeinnicht: Taschenbuch Der Liebe, Der Freundschaft Und Dem Familienleben Des Deutschen Volkes: Für Das Jahr. Franckh'scher Verlag. OCLC 871062868.
+The American Hoyle, or, Gentlemen's Hand-book of Games (4th ed.). New York: Dick & Fitzgerald. 1864.
+The Modern Pocket Hoyle. New York: Dick & Fitzgerald. 1868.
+Piomingo [John Robinson] (1810). The Savage. Philadelphia: Thomas S. ManningWebsites"Euchre: History of, by David Parlett". Parlett Games.
+Schossow, Breann (February 21, 2014). "Wisconsin's Passion For Euchre". Wisconsin Life. Wisconsin Public Radio. Retrieved June 27, 2017.
+
+External links
+Historical rulesets
+History at parlettgames.uk
+The Law and Practice of the Game of Euchre - Philadelphia, 1862
+
+ The Laws of Euchre, as adopted by the Somerset Club of Boston, March 1, 1888 at Project Gutenberg
+
+Current rulesets
+Euchre at pagat.com.
+Rules at bicyclecards.com
+Rules at Ohio Euchre.Com
+CCA Euchre Rules at ccasports.com
+Rules of the Chicago Sport & Social Club.

@@ -1,0 +1,1165 @@
+An algebraic Riccati equation is a type of nonlinear equation that arises in the context of infinite-horizon optimal control problems in continuous time or discrete time.
+A typical algebraic Riccati equation is similar to one of the following:
+the continuous time algebraic Riccati equation (CARE):
+
+  
+    
+      
+        
+          A
+          
+            T
+          
+        
+        P
+        +
+        P
+        A
+        −
+        P
+        B
+        
+          R
+          
+            −
+            1
+          
+        
+        
+          B
+          
+            T
+          
+        
+        P
+        +
+        Q
+        =
+        0
+        
+      
+    
+    {\displaystyle A^{T}P+PA-PBR^{-1}B^{T}P+Q=0\,}
+  or the discrete time algebraic Riccati equation (DARE):
+
+  
+    
+      
+        P
+        =
+        
+          A
+          
+            T
+          
+        
+        P
+        A
+        −
+        (
+        
+          A
+          
+            T
+          
+        
+        P
+        B
+        )
+        (
+        R
+        +
+        
+          B
+          
+            T
+          
+        
+        P
+        B
+        
+          )
+          
+            −
+            1
+          
+        
+        (
+        
+          B
+          
+            T
+          
+        
+        P
+        A
+        )
+        +
+        Q
+        .
+        
+      
+    
+    {\displaystyle P=A^{T}PA-(A^{T}PB)(R+B^{T}PB)^{-1}(B^{T}PA)+Q.\,}
+  P is the unknown n by n symmetric matrix and A, B, Q, R are known real coefficient matrices.
+Though generally this equation can have many solutions, it is usually specified that we want to obtain the unique stabilizing solution, if such a solution exists.
+
+Origin of the name
+The name Riccati is given to these equations because of their relation to the Riccati differential equation.  Indeed, the CARE is verified by the time invariant solutions of the associated matrix valued Riccati differential equation.  As for the DARE, it is verified by the time invariant solutions of the matrix valued Riccati difference equation (which is the analogue of the Riccati differential equation in the context of discrete time LQR).
+
+Context of the discrete-time algebraic Riccati equation
+In  infinite-horizon optimal control problems, one cares about the value of some variable of interest arbitrarily far into the future, and one must optimally choose a value of a controlled variable right now, knowing that one will also behave optimally at all times in the future.  The optimal current values of the problem's control variables at any time can be found using the solution of the Riccati equation and the current observations on evolving state variables. With multiple state variables and multiple control variables, the Riccati equation will be a matrix equation.
+The algebraic Riccati equation determines the solution of the infinite-horizon time-invariant Linear-Quadratic Regulator problem (LQR) as well as that of the infinite horizon time-invariant Linear-Quadratic-Gaussian control problem (LQG). These are two of the most fundamental problems in control theory.
+A typical specification of the discrete-time linear quadratic control problem is to minimize
+
+  
+    
+      
+        
+          ∑
+          
+            t
+            =
+            1
+          
+          
+            T
+          
+        
+        (
+        
+          x
+          
+            t
+          
+          
+            T
+          
+        
+        Q
+        
+          x
+          
+            t
+          
+        
+        +
+        
+          u
+          
+            t
+          
+          
+            T
+          
+        
+        R
+        
+          u
+          
+            t
+          
+        
+        )
+      
+    
+    {\displaystyle \sum _{t=1}^{T}(x_{t}^{T}Qx_{t}+u_{t}^{T}Ru_{t})}
+  subject to the state equation
+
+  
+    
+      
+        
+          x
+          
+            t
+          
+        
+        =
+        A
+        
+          x
+          
+            t
+            −
+            1
+          
+        
+        +
+        B
+        
+          u
+          
+            t
+            −
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle x_{t}=Ax_{t-1}+Bu_{t-1},}
+  where x is an n × 1 vector of state variables, u is a k × 1 vector of control variables, A is the n × n state transition matrix, B is the n × k matrix of control multipliers, Q (n × n) is a symmetric positive semi-definite state cost matrix, and R (k × k) is a symmetric positive definite control cost matrix.
+Induction backwards in time can be used to obtain the optimal control solution at each time,
+
+  
+    
+      
+        
+          u
+          
+            t
+          
+          
+            ∗
+          
+        
+        =
+        −
+        (
+        
+          B
+          
+            T
+          
+        
+        
+          P
+          
+            t
+            +
+            1
+          
+        
+        B
+        +
+        R
+        
+          )
+          
+            −
+            1
+          
+        
+        (
+        
+          B
+          
+            T
+          
+        
+        
+          P
+          
+            t
+            +
+            1
+          
+        
+        A
+        )
+        
+          x
+          
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle u_{t}^{*}=-(B^{T}P_{t+1}B+R)^{-1}(B^{T}P_{t+1}A)x_{t},}
+  with the symmetric positive definite cost-to-go matrix P evolving backwards in time from 
+  
+    
+      
+        
+          P
+          
+            T
+          
+        
+        =
+        Q
+      
+    
+    {\displaystyle P_{T}=Q}
+   according to
+
+  
+    
+      
+        
+          P
+          
+            t
+            −
+            1
+          
+        
+        =
+        Q
+        +
+        
+          A
+          
+            T
+          
+        
+        
+          P
+          
+            t
+          
+        
+        A
+        −
+        
+          A
+          
+            T
+          
+        
+        
+          P
+          
+            t
+          
+        
+        B
+        (
+        
+          B
+          
+            T
+          
+        
+        
+          P
+          
+            t
+          
+        
+        B
+        +
+        R
+        
+          )
+          
+            −
+            1
+          
+        
+        
+          B
+          
+            T
+          
+        
+        
+          P
+          
+            t
+          
+        
+        A
+        ,
+        
+      
+    
+    {\displaystyle P_{t-1}=Q+A^{T}P_{t}A-A^{T}P_{t}B(B^{T}P_{t}B+R)^{-1}B^{T}P_{t}A,\,}
+  which is known as the discrete-time dynamic Riccati equation of this problem. The steady-state characterization of P, relevant for the infinite-horizon problem in which T goes to infinity, can be found by iterating the dynamic equation repeatedly until it converges; then P is characterized by removing the time subscripts from the dynamic equation.
+
+Solution
+Usually solvers try to find the unique stabilizing solution, if such a solution exists.  A solution is stabilizing if using it for controlling the associated LQR system makes the closed loop system stable.
+For the CARE, the control is
+
+  
+    
+      
+        K
+        =
+        
+          R
+          
+            −
+            1
+          
+        
+        
+          B
+          
+            T
+          
+        
+        P
+      
+    
+    {\displaystyle K=R^{-1}B^{T}P}
+  and the closed loop state transfer matrix is
+
+  
+    
+      
+        A
+        −
+        B
+        K
+        =
+        A
+        −
+        B
+        
+          R
+          
+            −
+            1
+          
+        
+        
+          B
+          
+            T
+          
+        
+        P
+      
+    
+    {\displaystyle A-BK=A-BR^{-1}B^{T}P}
+  which is stable if and only if all of its eigenvalues have strictly negative real part.
+For the DARE, the control is
+
+  
+    
+      
+        K
+        =
+        (
+        R
+        +
+        
+          B
+          
+            T
+          
+        
+        P
+        B
+        
+          )
+          
+            −
+            1
+          
+        
+        
+          B
+          
+            T
+          
+        
+        P
+        A
+      
+    
+    {\displaystyle K=(R+B^{T}PB)^{-1}B^{T}PA}
+  and the closed loop state transfer matrix is
+
+  
+    
+      
+        A
+        −
+        B
+        K
+        =
+        A
+        −
+        B
+        (
+        R
+        +
+        
+          B
+          
+            T
+          
+        
+        P
+        B
+        
+          )
+          
+            −
+            1
+          
+        
+        
+          B
+          
+            T
+          
+        
+        P
+        A
+      
+    
+    {\displaystyle A-BK=A-B(R+B^{T}PB)^{-1}B^{T}PA}
+  which is stable if and only if all of its eigenvalues are strictly inside the unit circle of the complex plane.
+A solution to the algebraic Riccati equation can be obtained by matrix factorizations or by iterating on the Riccati equation.  One type of iteration can be obtained in the discrete time case by using the dynamic Riccati equation that arises in the finite-horizon problem: in the latter type of problem each iteration of the value of the matrix is relevant for optimal choice at each period that is a finite distance in time from a final time period, and if it is iterated infinitely far back in time it converges to the specific matrix that is relevant for optimal choice an infinite length of time prior to a final period—that is, for when there is an infinite horizon.
+It is also possible to find the solution by finding the eigendecomposition of a larger system.  For the CARE, we define the Hamiltonian matrix
+
+  
+    
+      
+        Z
+        =
+        
+          
+            (
+            
+              
+                
+                  A
+                
+                
+                  −
+                  B
+                  
+                    R
+                    
+                      −
+                      1
+                    
+                  
+                  
+                    B
+                    
+                      T
+                    
+                  
+                
+              
+              
+                
+                  −
+                  Q
+                
+                
+                  −
+                  
+                    A
+                    
+                      T
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle Z={\begin{pmatrix}A&-BR^{-1}B^{T}\\-Q&-A^{T}\end{pmatrix}}}
+  Since 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   is Hamiltonian, if it does not have any eigenvalues on the imaginary axis, then exactly half of its eigenvalues have a negative real part.  If we denote the 
+  
+    
+      
+        2
+        n
+        ×
+        n
+      
+    
+    {\displaystyle 2n\times n}
+   matrix whose columns form a basis of the corresponding subspace, in block-matrix notation, as
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  
+                    U
+                    
+                      1
+                      ,
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    U
+                    
+                      2
+                      ,
+                      1
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\begin{pmatrix}U_{1,1}\\U_{2,1}\end{pmatrix}}}
+  then
+
+  
+    
+      
+        P
+        =
+        
+          U
+          
+            2
+            ,
+            1
+          
+        
+        
+          U
+          
+            1
+            ,
+            1
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle P=U_{2,1}U_{1,1}^{-1}}
+  is a solution of the Riccati equation; furthermore, the eigenvalues of 
+  
+    
+      
+        A
+        −
+        B
+        
+          R
+          
+            −
+            1
+          
+        
+        
+          B
+          
+            T
+          
+        
+        P
+      
+    
+    {\displaystyle A-BR^{-1}B^{T}P}
+   are the eigenvalues of 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   with negative real part.
+For the DARE, when 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is invertible, we define the symplectic matrix
+
+  
+    
+      
+        Z
+        =
+        
+          
+            (
+            
+              
+                
+                  A
+                  +
+                  B
+                  
+                    R
+                    
+                      −
+                      1
+                    
+                  
+                  
+                    B
+                    
+                      T
+                    
+                  
+                  (
+                  
+                    A
+                    
+                      −
+                      1
+                    
+                  
+                  
+                    )
+                    
+                      T
+                    
+                  
+                  Q
+                
+                
+                  −
+                  B
+                  
+                    R
+                    
+                      −
+                      1
+                    
+                  
+                  
+                    B
+                    
+                      T
+                    
+                  
+                  (
+                  
+                    A
+                    
+                      −
+                      1
+                    
+                  
+                  
+                    )
+                    
+                      T
+                    
+                  
+                
+              
+              
+                
+                  −
+                  (
+                  
+                    A
+                    
+                      −
+                      1
+                    
+                  
+                  
+                    )
+                    
+                      T
+                    
+                  
+                  Q
+                
+                
+                  (
+                  
+                    A
+                    
+                      −
+                      1
+                    
+                  
+                  
+                    )
+                    
+                      T
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle Z={\begin{pmatrix}A+BR^{-1}B^{T}(A^{-1})^{T}Q&-BR^{-1}B^{T}(A^{-1})^{T}\\-(A^{-1})^{T}Q&(A^{-1})^{T}\end{pmatrix}}}
+  Since 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   is symplectic, if it does not have any eigenvalues on the unit circle, then exactly half of its eigenvalues are inside the unit circle.  If we denote the 
+  
+    
+      
+        2
+        n
+        ×
+        n
+      
+    
+    {\displaystyle 2n\times n}
+   matrix whose columns form a basis of the corresponding subspace, in block-matrix notation, as
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  
+                    U
+                    
+                      1
+                      ,
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    U
+                    
+                      2
+                      ,
+                      1
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\begin{pmatrix}U_{1,1}\\U_{2,1}\end{pmatrix}}}
+  where 
+  
+    
+      
+        
+          U
+          
+            1
+            ,
+            1
+          
+        
+      
+    
+    {\displaystyle U_{1,1}}
+   and 
+  
+    
+      
+        
+          U
+          
+            2
+            ,
+            1
+          
+        
+      
+    
+    {\displaystyle U_{2,1}}
+   result from the decomposition
+
+  
+    
+      
+        Z
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    U
+                    
+                      1
+                      ,
+                      1
+                    
+                  
+                
+                
+                  
+                    U
+                    
+                      1
+                      ,
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    U
+                    
+                      2
+                      ,
+                      1
+                    
+                  
+                
+                
+                  
+                    U
+                    
+                      2
+                      ,
+                      2
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    Λ
+                    
+                      1
+                      ,
+                      1
+                    
+                  
+                
+                
+                  
+                    Λ
+                    
+                      1
+                      ,
+                      2
+                    
+                  
+                
+              
+              
+                
+                  0
+                
+                
+                  
+                    Λ
+                    
+                      2
+                      ,
+                      2
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    U
+                    
+                      1
+                      ,
+                      1
+                    
+                    
+                      T
+                    
+                  
+                
+                
+                  
+                    U
+                    
+                      2
+                      ,
+                      1
+                    
+                    
+                      T
+                    
+                  
+                
+              
+              
+                
+                  
+                    U
+                    
+                      1
+                      ,
+                      2
+                    
+                    
+                      T
+                    
+                  
+                
+                
+                  
+                    U
+                    
+                      2
+                      ,
+                      2
+                    
+                    
+                      T
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle Z={\begin{pmatrix}U_{1,1}&U_{1,2}\\U_{2,1}&U_{2,2}\end{pmatrix}}{\begin{pmatrix}\Lambda _{1,1}&\Lambda _{1,2}\\0&\Lambda _{2,2}\end{pmatrix}}{\begin{pmatrix}U_{1,1}^{T}&U_{2,1}^{T}\\U_{1,2}^{T}&U_{2,2}^{T}\end{pmatrix}}}
+  then
+
+  
+    
+      
+        P
+        =
+        
+          U
+          
+            2
+            ,
+            1
+          
+        
+        
+          U
+          
+            1
+            ,
+            1
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle P=U_{2,1}U_{1,1}^{-1}}
+  is a solution of the Riccati equation; furthermore, the eigenvalues of 
+  
+    
+      
+        A
+        −
+        B
+        (
+        R
+        +
+        
+          B
+          
+            T
+          
+        
+        P
+        B
+        
+          )
+          
+            −
+            1
+          
+        
+        
+          B
+          
+            T
+          
+        
+        P
+        A
+      
+    
+    {\displaystyle A-B(R+B^{T}PB)^{-1}B^{T}PA}
+   are the eigenvalues of 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   which are inside the unit circle.
+
+See also
+Lyapunov equation
+Schur decomposition
+Sylvester equation
+
+References
+Peter Lancaster; Leiba Rodman (1995), Algebraic Riccati equations, Oxford University Press, p. 504, ISBN 0-19-853795-6
+Alan J. Laub, A Schur method for solving algebraic Riccati equations
+
+External links
+CARE solver help of MATLAB Control toolbox.
+DARE solver help of MATLAB Control toolbox.
+Online CARE solver for arbitrary sized matrices.
+Python CARE and DARE solvers.
+Mathematica function to solve the continuous-time algebraic Riccati equation.
+Mathematica function to solve the discrete-time algebraic Riccati equation.

@@ -1,0 +1,72 @@
+Autonomous mobility on demand (AMoD) is a service consisting of a fleet of autonomous vehicles used for one-way passenger mobility. An AMoD fleet operates in a specific and limited environment, such as a city or a rural area.
+
+Origin
+Mobility on demand (MoD)
+The idea of developing a form of passengers transportation based on shared vehicles rather than private cars comes from the research in the field of sustainable mobility, which aims at creating an efficient and environmentally-friendly way for people to move. As at the end of April 2022, the number of cars in the world has reached 1.1 billion, meaning that there is approximately a vehicle for every seven people on earth. Such large number of private vehicles in the streets causes several issues, namely a huge release of greenhouse gases and request for fossil fuels, since most cars are still fuel-powered, as well as infrastructural issues such as roads congestion and parking spots lacking. The concept of mobility-on-demand (MoD) addresses these issues providing a potential solution to them: in MoD, people do not need a private vehicle to travel. Mobility on demand is in fact a service in which shared vehicles are used for passenger mobility in one-way trips. The adoption of mobility-on-demand services has the potential of increasing the utilization rate of vehicles, which for private cars is on average below 10%, thus allowing to transport the same number of people with a lower number of vehicles. In this way, both the congestion and the pollution in the cities can be reduced. The service offered in the cities by taxi companies, which nowadays has been taken over also by other providers such as Uber and Bolt, is itself an expression of mobility on demand: upon request, a driver goes to pick up passengers to drive them to their desired destination, and then goes on with the next demand. The other manifestation of the concept of mobility on demand is the car-sharing, which allows people to rent a vehicle, drive it to their destination and then leave it there, so that it remains available for the next customers. The idea of car-sharing has become popular among the public since the end of 20th century, and is gaining more and more success in the present years, with companies such as ShareNow and Enjoy that are delivering it all over the world. A big drawback of mobility on demand systems is that an imbalance is periodically introduced in the system, consisting in an accumulation of vehicles in some areas and a lack in others, due to the fact that some zones are more popular than others. Imbalance makes the service inefficient, because customers are less likely to find a vehicle close to them.
+
+Autonomous cars in MoD
+The advent of the technology of self-driving cars has recently started to revolution the concept of mobility-on-demand, turning it into autonomous mobility on demand (AMoD). An AMoD fleet is composed of vehicles of level 5 autonomy, controlled in a centralized way. The communication with the customers happens via phone applications, where they can request a vehicle in a precise location, which then picks them up and drives them to their desired destination. Many academic researchers and market players are focusing on the development of AMoD systems, the main companies that are already developing fleets of vehicles for AMoD are shown in the following table.
+
+Control
+Different aspects of a fleet of vehicles used for AMoD are accurately controlled for it to function in a proper way.
+
+Routing
+Being the vehicles autonomous, an accurate control of their trajectories is operated by providing them with an optimized routing system. The routes of the cars are calculated in real-time according to specific objectives defined in the design phase of the fleet control algorithms. Those aim at minimizing the distance travelled or the time needed to reach a specific location, so they need to take into account different metrics such as the traffic in the streets and the condition of the roads.
+
+Dispatching
+A crucial aspect of AMoD technology is the assignment of vehicles to open customer requests. To take the dispatching decisions, the controller first registers the real-time positions of all the vehicles and open requests. Different strategies can be adopted to perform the assignments, and the choice among them affects the complexity of the fleet control and the effectiveness of the whole system. An option is to assign customers to the closest vehicle following a first come, first serve rule, which is easy in terms of computational time but only leads to suboptimal solutions. For this reason, researchers are proposing approaches based on the mathematical programming. Those consist in formulating an assignment problem by defining the cost value of each potential vehicle-customer assignment and the constraints present in the system. The problem is then solved using an algorithm for the optimal resource-task assignment. The cost value of each possible assignment can be computed basing on different metrics. Most of the dispatching strategies proposed up to now are based on one of the following parameters or on a combination of some of them:
+Spatial distance between vehicle and customer. It can be evaluated either in terms of Euclidean distance, less accurate but computationally lighter, or as shortest path, which is more precise but causes a sensible increase in computational time, thus might limit the scalability of the system to which the method can be applied
+Estimate of the time needed for the vehicle to reach the customer
+Customer waiting time
+Traffic
+Autonomy of the car before the next refuel
+Predictions about the future demand
+
+Rebalancing
+The stochasticity of the customer demand makes AMoD systems unstable, causing them to become unbalanced after some time. This results in an uneven distribution of resources along the network, which sensibly affects the quality of the service. For this reason the empty vehicles of an AMoD fleet are periodically redistributed in their whole operating area, for them to be available where they will be most needed in the future. When planning the rebalancing, it is necessary to take into account the fact that moving empty vehicles has a cost. Besides, this action contributes to the congestion of the streets. For these reasons, to compute the optimal rebalancing decisions an accurate trade-off between the different cost factors is operated. Various strategies can be adopted to decide where vehicles should be rebalanced:
+Studying records of the customer demand in each area during the previous days, and from there estimating the average number of vehicles necessary in each zone at every time of the day
+Periodically computing the imbalance between the number of cars and that of customers present in each zone, and issuing rebalancing actions aimed at minimizing such parameter in all the areas of the city
+Estimating the future customer demand in each zone through some forecasting method, and anticipating it by sending the necessary vehicles to the right areas in advance
+
+Benefits
+Sustainability and traffic reduction
+The introduction of AMoD fleets constitutes an alternative to the usage of private cars for passenger mobility, so it has the potential to sensibly reduce the number of vehicles in the streets. This has the effect of decreasing both the congestion in the streets and the emissions of greenhouse gases, besides bringing an increase in fuel efficiency.
+
+Safety
+Evidence shows that the vast majority of road accidents in the world is caused by human errors. The adoption of self-driving vehicles would then eliminate the human risk factor from car trips, thus sensibly decreasing the probability of an incident to occur.
+
+Automatic rebalancing
+The biggest limit that characterizes MoD systems is the problem if the imbalance of resources caused by uneven demand across the area serviced. The introduction of self-driving vehicles provides a solution to this issue, in fact the autonomous drive technology allows the fleet to periodically rebalance itself without the need of human intervention. This brings an increase in the quality of the service, in fact customers are more likely to find cars when and where they need them.
+
+Accessibility
+AMoD systems allow mobility for non-drivers, and give travellers the possibility to employ the time of the ride in useful ways, or even to relax. The absence of the drivers grants the same availability of the service during all the hours of the day and night: the only interruptions of the service happens in case of faults of the vehicles, or when they are being refueled.
+
+Limits
+Cost
+In order for an AMoD service to start making the difference in terms of congestion and pollution mitigation and safety, it needs to be adopted in large-scale. Before a large number of people can start preferring such kind of system to their private cars, it is necessary to optimize AMoD fleets and infrastructures production and management in order for it to be advantageous in terms of costs compared to owning a vehicle.
+
+Responsibility
+The emerging world of self-driving vehicles is full of open ethical questions that make the adoption of such technology complicated even from a moral point of view: who should be held accountable for accidents involving self-driving cars? When an autonomous vehicle is in a harmful situation when it is inevitable to harm somebody, how should it decide who to save? Agreed solutions to these questions do not yet exist in the scientific community, but researchers and legislators are working to produce regulations on the matter.
+
+Safety
+Autonomous vehicles have the potential of eliminating road accidents caused by human errors, but they are not exempt from concerns themselves. Failures might occur in their system and potentially harm passengers or other road users. They could also be subjected to criminal activities such as hacker attacks that could affect their safety and performance.
+
+Open challenges
+Ride sharing
+The possibility of sharing AMoD rides between strangers who have to travel along the same route would have the effect of improving both the quality of the service, by reducing waiting and travel times, and decreasing the cost, because the price of the ride would be divided between the passengers. Moreover, less vehicles would be necessary to fulfill the customer demand, bringing benefits also in terms of sustainability and traffic reduction. Researchers are thus working to develop control systems able to combine the needs of different customers to better satisfy all of them and optimize the whole system.
+
+Electric vehicles
+A further advancement in the technology of AMoD, that some companies such as Cruise are already working on, would be to use fleets of electric vehicles. This would bring a huge advantage in terms of sustainability, but introduces an additional complexity in the system. Charging an electric vehicle, in fact, takes longer than re-fuelling a petrol car, so the charging aspect needs to be optimized to see the benefits of such system.
+
+See also
+Self-driving car
+Vehicular automation
+Mobility as a service
+Demand-responsive transport
+
+External links
+"Ride-sharing Autonomous Mobility-on-Demand MATSim simulation". YouTube. 3 October 2018.
+"How to control electric autonomous taxi fleets in an energy efficient way – Chicago case study". YouTube. 15 June 2021.
+
+
+== References ==

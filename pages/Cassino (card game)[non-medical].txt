@@ -1,0 +1,103 @@
+Cassino, sometimes spelt Casino, is an English card game for two to four players using a standard, 52-card, French-suited pack. It is the only fishing game to have penetrated the English-speaking world. It is similar to the later Italian game of Scopa and is often said, without substantiation, to be of Italian origin. Cassino is still played today in Madeira, probably due to English influence.
+
+History
+Although Cassino is often claimed to be of Italian origin, detailed research by Franco Pratesi has shown that there is no evidence of it ever being played in Italy and the earliest references to its Italian cousins, Scopa and Scopone, post-date those of Cassino. The spelling "Cassino" is used in the earliest rules of 1792 and is the most persistent spelling since, although German sources invariably use the spelling "Casino" along with some English sources.
+Likewise an origin in gambling dens appears unlikely since a casino in the late 18th century was a summer house or country villa; the name was not transferred to gambling establishments until later.In fact, as "Cassino", the game is first recorded in 1792 in England where it appears to have become something of a fashionable craze, and certainly well known enough for Mrs. Scatter to declare "I do long for a game of Cassino" in Frederic Reynolds' 1797 comedy, Cheap Living. At that stage, the court cards had no numerical value and could only be paired, and there was no building; that did not appear in English rules until the second half of the century. The counting cards were the Aces and two special cards known as the 'Great Cassino' (♦10) and 'Little Cassino' (♠2). As the game developed, further counters were added.
+One country to follow hard on English heels was Austria-Hungary where, as early as 1795 in Vienna and Prague, rules were published that incorporated English terminology such as "sweep" and "lurch." Initially the rules followed those in English sources, but as early as 1810, a markedly different variant appeared in which the court cards, Aces and Cassinos became far more potent. The courts were given values of 11, 12 and 13 respectively, the Aces could be valued at 14 as well as 1, the Great Cassino at 10 or 16 and the Little Cassino at 2 or 15. This elaboration of the Cassino went unnoticed in its country of origin and across the Atlantic, apart from a fleeting observation in 1846 by Lady Sarah Nicolas in 1846 who recounts that "the game of Cassino is thus played in some parts of Germany:- Great Cassino takes sixteen. Little Cassino – fifteen. Every Ace – fourteen. King – thirteen. Queen – twelve. Knave – eleven."Rules continued to be published in German until at least 1975, but the game seems to have waned in Germany and Austria towards the end of the 19th century.
+However, while the game began to fade away in England, it was in America that Cassino gained its second wind in the second half of the 19th century, initially due to new moves such as building and calling and, later, through several interesting new variants that emerged, including what became Royal Cassino, in which court cards were given a numerical value as in German Cassino such that they could capture two or more cards, and Spade Cassino, in which players scored for the most Spades, and Diamond Cassino, in which three cards are dealt instead of four. Royal Cassino is mentioned as early as 1894 when we learn that a passenger on a line from New York to London played the game with a doctor and his wife but its rules first appear in English Foster's Complete Hoyle of 1897. Cassino was eventually eclipsed by Gin Rummy.By the early 20th century, Cassino itself was obsolete everywhere, but two successors were emerging. Zwickern,  a north German variant, introduced up to 6 Jokers as special cards and grew so popular that bespoke packs were made for it. Today the game is still played in a few villages in Schleswig. Tablanette, another apparent variant in which the Kings, Queens, Knaves and Tens are also counters, appeared in the late 19th in a German source and later featured in one of Hubert Phillips' games compendia in 1939. It does not seem to have caught on, although it may have gained more traction in its various eastern European forms.
+
+English Cassino
+These classic rules emerged in 1792 and remained largely unchanged until the mid-19th century. The following are based on Long:The game is for two players using a standard pack. The dealer deals four cards each and four to the table, placing the rest face down as the stock. Non-dealer plays the first card and aims to capture as many cards from the table as possible that match the card played. For example,  if the table cards are 6–9–3–9–J, by playing a 9, a player may capture the 6 and 3 in combination as well as two 9s. If a player is able to clear the table (later called a sweep) this scores 1 point. Captured cards are placed in a trick pile, face up, by the player who took them. A player unable to capture anything must trail (add) a card to the table.
+The players play cards alternately and when the first hand of four is exhausted, the dealer deals four more cards each from the stock, but none to the table this time. Play continues in this way until the stock is exhausted and the players have played their last hand of four. Any cards left on the table are claimed by the last player to take a trick, unless the last card played is a court card in which case its holder claims any remaining cards. In neither case does this score a point.At the end of the hand, score as follows:
+
+Thus there are 11 points in the game plus the bonus points for sweeps. If players tie on cards or spades, no point is awarded. The lower score is deducted from the higher and the winner scores the difference. Game is 11 points; if the loser has less than 6, he or she is lurched and loses double.
+
+Three-Handed Cassino
+Only the scoring differs. After totalling their points the two lower scores are combined and deducted from the highest score e.g. if A score 8, B 2 and C 1, A scores 8 - (2 + 1) = 5 game points; but if A has 5, B 4 and C 2, A scores nothing.
+
+Four-Handed Cassino
+There are two teams of two and they follow Whist rules for cutting for places, dealing and scoring the games singly or double. They play a rubber i.e. the best of 3 games.
+
+American Cassino
+In 1864, William Brisbane Dick, alias "Trumps", published the first rules that included the feature of "building up", whereby players were allowed to place a card on an existing table card and, by announcing their combined value, fix the build at that value. In 1867, however, Dick published an even more elaborate set of rules that included "calling" for the first time. The rules were based on research that included testing and approval by "the best players in this city". The following is a summary of those rules:
+
+Overview
+The game is played by two, three, four or six players with a 52-card pack. Four play as two pairs.
+
+Deal
+Players cut for deal and the player with the lowest card deals first. Ties 'cut over' and Aces are low. Dealer gives each player four cards, singly, eldest hand first. Four cards are dealt to the table either regularly as he deals or in packets of two, three or all four. After the first four hand cards are played, the dealer deals another four each, singly,  but none to the table, and this continues until all cards have been played out.
+
+Play
+Eldest hand leads a card and then each player in turn plays one card which may be used for:
+
+Capturing. The played card may capture all table cards either by pairing – taking cards of the same rank – or by combining – taking cards that, in combination, add up to the value of the played card.
+Sweeping. If a player captures all the table cards, this is a sweep and scores 1 point. The next player must trail a card.
+Calling. A player with 2 or more cards in hand of the same rank as one or more table cards, may play one of them and call their rank e.g. "Fives". An opponent may only capture the card by pairing, but may not build on that card or capture it as part of a combination.
+Building.
+Simple Build. A player may build by placing a hand card on a table card and announcing the total, thus fixing the value of the build, e.g. Andrew holds 5 and 3, and there is a 2 on the table; he places the 3 on the 2 and calls "Five". The cards of the build cannot now be taken separately but must be capturing by pairing with a 5 or as part of a combination where the build counts as 5.
+Multiple Build. A player may build on an opponent's build provided that player has a hand card matching the new total. Players may not build on their own build in succession, but only alternately on the same build.
+Second Build. Players may make a second build on a different card or make any other legal play before taking up the first build.
+Build and Call. A player with more than one card that matches a build may play it onto the build and call their values e.g. "Eights". This then counts as a call and fixes the value of both build and played card. The player must then capture both by playing the remaining card on a later turn.
+Trailing. A player unwilling or unable to do any of the above must trail a card i.e. add it to the existing table cards, face up.
+
+Scoring
+Points are scored at the end of each hand as in classic English Cassino, but instead of game being 11 points, each deal is a complete game and the player or team with the most points wins.
+
+Variants
+Twenty-one Point Cassino
+Twenty-one Point Cassino appears for the first time in print in Dick's 1880 Modern Pocket Hoyle where he says that "Cassino is now very generally played for a fixed number of points (usually twenty-one)". The first player to the target score wins and the points are scored as soon as made. Sweeps are not turned down "as in the single deal game" but scored as they are taken. A player who erroneously claims to have won loses the game.
+
+Royal Cassino
+Royal Cassino appears for the first time in Foster's Complete Hoyle (1897), however the concept of giving values to the court cards was a Austro-German invention of the early 19th century. The only difference from standard American Cassino is that Jacks are now worth 11, Queens 12 and Kings 13, so that, for example, a Queen can capture and Ace and a Jack or a 7 and a 5.
+In a variation recorded by David Parlett, the Ace is worth 1 or 14 as desired.
+
+Spade Cassino
+Also making its first appearance in 1897 was the "interesting variation" of Spade Cassino in which every spade scored a point except for the ♠J which scored 2. This replaced the usual score for "most spades" and gave 24 points per hand, excluding sweeps. Game is 61 and hence it is scored on a cribbage board, all points being pegged as they are made apart from "most cards" which is pegged at the end.
+
+Diamond Cassino
+Diamond Cassino is a recent variant that has been described as a "cross between Cassino and Scopa". Only 40 cards are used, the courts being removed. Players are dealt three cards each, and four cards are dealt to the table. Game is 11 up and players get 1 for most cards, 1 for most diamonds, 1 for the ♦7, 2 for all four 7s, 6s or As, and 1 for each sweep.
+
+Draw Cassino
+In Draw Cassino, first called Royal Draw Cassino, players draw a replacement card each time they make a play, so that they always have four cards in hand (until the end), rather than being dealt cards in discrete rounds of four. It is a two-player game.
+
+Related games
+There are a number of other European fishing games in the same family as Cassino.
+
+Callabra
+In this "fast and simple forerunner of Cassino", each player is dealt three cards, and five are dealt to the table. Players may trail or take cards from the table, if they have cards which match the cards on the table, or if they have two cards which add up to a card on the table and equal the table card's value. In this game, Jacks are worth eleven points, Queens are worth twelve points and Kings are worth thirteen points. Game ends when a player finally clears all the cards from the table.
+
+Tablanette
+Tablanette is said to be of Russian provenance. In this game, each player has six cards, and a player with a jack may use it to clear the whole table. At the end of a round, players score points for holding the most cards, and extra points if they are holding picture
+cards.
+
+Diloti
+In this Greek fishing game, players are dealt 6 cards. Matching face cards must be captured, so that no two face cards of the same value can ever be together in the pool. The scoring differs most notably in that there is no special suit, and sweeps are very valuable:
+
+Higher number of cards: 4
+10 of diamonds: 2
+2 of spades: 1
+Each ace: 1
+Each sweep (Xeri): 10 (!) extra points
+
+See also
+Pasur
+Mulle
+Zwickern
+
+Notes
+References
+Literature
+_ (1793). "Short Rules for Playing the Game of Cassino" in The Conjuror's Magazine, Locke, London. January issue.
+_ (1795). Der beliebte Weltmensch. Joseph Gerold, Vienna.
+Foster, R.F., ed. (1911). The Official Rules of Card Games, 15th edn. Cincinnati.
+Foster, Robert Frederick (1897). Foster’s Complete Hoyle. 3rd edn. Frederick.A. Stokes, New York and London.
+Grupp, Claus D. (1975/79). Kartenspiele. Falken, Niedernhausen. ISBN 3-8068-2001-5.
+Jones, Charles. (1796). Hoyle’s Games Improved. New, enlarged edn. London: R. Baldwin, etc.
+Long, Robert (1792). Short Rules for Playing the Game of Cassino. London: J Owens.
+Nicolas, Lady Sarah (1846). The Cairn: A Gathering of Precious Stones from Many Hands. London: George Bell.
+Parlett, David (2008). The Penguin Book of Card Games. London, New York, etc.: Penguin.
+Pratesi, Franco (1995). "Casino From Nowhere to Vaguely Everywhere" in The Playing-Card, Vol. XXIV, No. 1, Jul/Aug 1995, ISSN 0305-2133.
+Reynolds, Frederick (1797). Cheap Living, A Comedy in Five Acts as it is performed at The Theatre-Royal, Drury Lane. London: G.G. & J. Robinson.
+"Trumps" (1867). The American Hoyle. 4th edn. NY: Dick & Fitzgerald.
+"Trumps" (1880). The Modern Pocket Hoyle. 10th edn. rev. & corr. NY: Dick & Fitzgerald. FV
+von Abenstein, G.W. (1810). Spielalmanach für Karten-, Schach-, Bret-, Billard-, Kegel – und Ball-Spieler zum Selbstunterrichte von Julius Cäsar. Improved and expanded edn. Berlin: Gottfr. Hayn.

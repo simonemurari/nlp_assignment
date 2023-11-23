@@ -1,0 +1,364 @@
+The following is a list of mental disorders as defined by the Diagnostic and Statistical Manual of Mental Disorders (DSM) and the International Classification of Diseases (ICD).
+The DSM is the American Psychiatric Association's standard reference for psychiatry, which includes over 450 different definitions of mental disorders. The ICD published by the World Health Organization is the international standard system for classifying all medical diseases. It also includes a section on mental and behavioral disorders.
+The diagnostic criteria and information in the DSM and ICD are revised and updated with each new version. This list contains conditions which are currently recognized as mental disorders as defined by these two systems. There is disagreement in various fields of mental health care, including the field of psychiatry, over the definitions and criteria used to delineate mental disorders. Of concern to some professionals is whether certain mental disorders should be classified as "mental illnesses" or whether they would be better described as neurological disorders, or in other ways.
+Mental health disorders affect how many people work, act, and function. Broad diagnoses such as anxiety or depression, together with eating disorders, may also serve as umbrella terms for more specific conditions. An example of this would be Separation anxiety disorder, a specific anxiety disorder which exhibits symptoms that may not be present in Generalized anxiety disorder.
+
+Anxiety disorders
+Separation anxiety disorder
+Specific phobia
+Social anxiety disorder
+Panic disorder
+Agoraphobia
+Generalized anxiety disorder
+Selective mutism
+
+Dissociative disorders
+Dissociative identity disorder
+Dissociative amnesia (psychogenic amnesia)
+Depersonalization-derealization disorder
+Dissociative fugue
+Dissociative neurological symptom disorder (this includes Psychogenic non-epileptic seizures)
+Other specified dissociative disorder (OSDD)
+Unspecified dissociative disorder
+Ganser syndrome
+
+Mood disorders
+Depressive disorders
+Disruptive mood dysregulation disorder
+Major depressive disorder
+Dysthymia
+Premenstrual dysphoric disorder
+Psychotic depression
+Seasonal affective disorder (SAD)
+Atypical depression
+Postpartum depression
+
+Bipolar disorders
+Bipolar I disorder
+Bipolar II disorder
+Bipolar disorder not otherwise specified
+Cyclothymia
+
+Trauma and stressor related disorders
+Reactive attachment disorder
+Disinhibited social engagement disorder
+Post-traumatic stress disorder (PTSD)
+Post-traumatic embitterment disorder (PTED)
+Acute stress disorder
+Adjustment disorder
+Complex post-traumatic stress disorder (C-PTSD)
+Prolonged grief disorder
+
+Neuro-developmental disorders
+Intellectual disability
+Language disorder
+Speech sound disorder
+Stuttering
+Social communication disorder
+Communication disorder
+Autism spectrum disorder (formally a category that included Asperger syndrome, Classic autism and Rett syndrome)
+Attention deficit hyperactivity disorder (ADHD)
+Developmental coordination disorder
+Tourette syndrome
+Tic disorder
+Dyslexia
+Dyscalculia
+Dysgraphia
+Nonverbal learning Disorder (NVLD, NLD)
+
+Sleep-wake disorders
+Insomnia (including chronic insomnia and short-term insomnia)
+Hypersomnia
+Idiopathic hypersomnia
+Kleine–Levin syndrome
+Insufficient sleep syndrome
+Narcolepsy
+Restless legs syndrome
+Sleep apnea
+Night terrors (sleep terrors)
+Exploding head syndrome
+
+Parasomnias
+Nightmare disorder
+Rapid eye movement sleep behavior disorder
+Confusional arousals
+Sleepwalking
+Hypnagogic hallucinations
+Hypnopompic hallucinations
+
+Circadian rhythm sleep disorder
+Circadian rhythm sleep disorder
+Delayed sleep phase disorder
+Advanced sleep phase disorder
+Irregular sleep–wake rhythm
+Non-24-hour sleep–wake disorder
+Circadian rhythm sleep-wake disorder caused by irregular work shifts
+Jet lag
+
+Neuro-cognitive disorders
+Delirium
+Dementia
+Traumatic brain injury
+HIV-associated neurocognitive disorder (HAND)
+Amnesia
+Chronic traumatic encephalopathy
+Agnosia
+
+Substance-related and addictive disorders
+Substance related disorders
+Substance-induced disorder (Substance-induced psychosis, Substance-induced delirium, Substance-induced mood disorder)
+Substance intoxication
+Substance withdrawal
+Substance dependence
+
+Disorders due to use of alcohol
+Alcohol use disorder
+Alcoholic hallucinosis
+Alcohol withdrawal
+Harmful pattern of use of alcohol
+
+Disorders due to use of cannabis
+Cannabis use disorder
+Cannabis dependence
+Cannabis intoxication
+Harmful pattern of use of cannabis
+Cannabis withdrawal
+Cannabis-induced delirium
+Cannabis-induced psychosis
+Cannabis-induced mood disorder
+Cannabis-induced anxiety
+
+Disorders due to use of synthetic cannabinoids
+Episode of harmful use of synthetic cannabinoids
+Harmful pattern of use of synthetic cannabinoids
+Synthetic cannabinoid dependence
+Synthetic cannabinoid intoxication
+Synthetic cannabinoids withdrawal
+Synthetic cannabinoids induced delirium
+Synthetic cannabinoids induced psychotic disorder
+Synthetic cannabinoids induced mood disorder
+Synthetic cannabinoids induced anxiety
+
+Disorders due to use of opioids
+Episode of harmful use of Opioids
+Harmful pattern of use of Opioids
+Opioid dependence
+Opioid intoxication
+Opioids withdrawal
+Opioids induced delirium
+Opioids induced psychotic disorder
+Opioids induced mood disorder
+Opioids induced anxiety
+
+Disorders due to use of sedative, hypnotic or anxiolytic
+Episode of harmful use of Sedative, hypnotic or anxiolytic
+Harmful pattern of use of Sedative, hypnotic or anxiolytic
+Sedative, hypnotic or anxiolytic dependence
+Sedative, hypnotic or anxiolytic intoxication
+Sedative, hypnotic or anxiolytic withdrawal
+Sedative, hypnotic or anxiolytic induced delirium
+Sedative, hypnotic or anxiolytic induced psychotic disorder
+Sedative, hypnotic or anxiolytic induced mood disorder
+Sedative, hypnotic or anxiolytic induced anxiety
+Amnestic disorder due to use of sedatives, hypnotics or anxiolytics
+Dementia due to use of sedatives, hypnotics or anxiolytics
+
+Disorders due to use of Cocaine
+Episode of harmful use of Cocaine
+Harmful pattern of use of Cocaine
+Cocaine dependence
+Cocaine intoxication
+Cocaine withdrawal
+Cocaine induced delirium
+Cocaine induced psychotic disorder
+Cocaine induced mood disorder
+Cocaine induced anxiety
+Cocaine induced OCD
+Cocaine induced impulse control disorder
+
+Disorders due to use of Amphetamines
+Episode of harmful use of Amphetamines
+Harmful pattern of use of Amphetamines
+Amphetamines dependence
+Amphetamines intoxication
+Amphetamines withdrawal
+Amphetamines induced delirium
+Amphetamines induced psychotic disorder
+Amphetamines induced mood disorder
+Amphetamines induced anxiety
+Amphetamines induced OCD
+Amphetamines induced impulse control disorder
+
+Disorders due to use of synthetic cathinone
+Episode of harmful use of synthetic cathinone
+Harmful pattern of use of synthetic cathinone
+Synthetic cathinone dependence
+Synthetic cathinone intoxication
+Synthetic cathinone withdrawal
+Synthetic cathinone induced delirium
+Synthetic cathinone induced psychotic disorder
+Synthetic cathinone induced mood disorder
+Synthetic cathinone induced anxiety
+Synthetic cathinone induced OCD
+Synthetic cathinone induced impulse control disorder
+
+Disorders due to use of caffeine
+Episode of harmful use of caffeine
+Harmful pattern of use of caffeine
+Caffeine intoxication
+Caffeine withdrawal
+Caffeine induced anxiety disorder
+Caffeine-induced sleep disorder
+
+Disorders due to use of hallucinogens
+Episode of harmful use of hallucinogens
+Harmful pattern of use of hallucinogens
+Hallucinogens dependence
+Hallucinogen induced delirium
+Hallucinogens induced psychotic disorder
+Hallucinogens induced anxiety disorder
+Hallucinogens induced mood disorder
+Hallucinogen persisting perception disorder
+
+Disorders due to use of nicotine
+Episode of harmful use of nicotine
+Harmful pattern of use of nicotine
+nicotine intoxication
+nicotine withdrawal
+Nicotine dependence
+
+Disorders due to use of volatile inhalants
+Episode of harmful use of volatile inhalants
+Harmful pattern of use of volatile inhalants
+Opioid dependence
+Opioid intoxication
+Volatile inhalants withdrawal
+Volatile inhalants induced delirium
+Volatile inhalants induced psychotic disorder
+Volatile inhalants induced mood disorder
+Volatile inhalants induced anxiety
+
+Disorders due to use of dissociative drugs including ketamine and phencyclidine (PCP)
+Episode of harmful use of dissociative drugs including ketamine and phencyclidine [PCP]
+Harmful pattern of use of dissociative drugs including ketamine and phencyclidine [PCP]
+Dissociative drugs including ketamine and phencyclidine [PCP] dependence
+Dissociative drugs including ketamine and phencyclidine [PCP] intoxication
+Dissociative drugs including ketamine and phencyclidine [PCP] withdrawal
+Dissociative drugs including ketamine and phencyclidine [PCP] induced delirium
+Dissociative drugs including ketamine and phencyclidine [PCP] induced psychotic disorder
+Dissociative drugs including ketamine and phencyclidine [PCP]induced mood disorder
+Dissociative drugs including ketamine and phencyclidine [PCP] induced anxiety
+
+Non-substance related disorder
+Gambling disorder
+Video game addiction
+Internet addiction disorder
+Sexual addiction
+Food addiction
+Addiction to social media
+Pornography addiction
+Shopping addiction
+
+Paraphilias
+Voyeuristic disorder
+Exhibitionistic disorder
+Frotteuristic disorder
+Pedophilia
+Sexual masochism disorder
+Sexual sadism disorder
+Fetishistic disorder
+Transvestic disorder
+Other specified paraphilic disorder
+
+Somatic symptom related disorders
+Hypochondriasis
+Somatization disorder
+Conversion disorder (Functional Neurological Symptom Disorder)
+Factitious disorder imposed on self (munchausen syndrome)
+Factitious disorder imposed on another (munchausen by proxy)
+Pain disorder
+
+Sexual dysfunctions
+Delayed ejaculation
+Erectile dysfunction
+Anorgasmia
+Vaginismus
+Male hypoactive sexual desire disorder
+Female sexual arousal disorder
+Premature ejaculation
+Dyspareunia
+Sexual dysfunction
+
+Elimination disorders
+Enuresis (Involuntary urination)
+Nocturnal enuresis
+Encopresis (Involuntary defecation)
+
+Feeding and eating disorders
+Pica (disorder)
+Rumination syndrome
+Avoidant/restrictive food intake disorder
+Anorexia nervosa
+Binge eating disorder
+Bulimia nervosa
+Other specified feeding or eating disorder (OSFED)
+Purging disorder
+Diabulimia
+Night eating syndrome
+Orthorexia nervosa
+
+Disruptive impulse-control, and conduct disorders
+Intermittent explosive disorder
+Oppositional defiant disorder
+Conduct disorder
+Antisocial personality disorder
+Pyromania
+Kleptomania
+Disruptive mood dysregulation disorder
+
+Obsessive-compulsive and related disorders
+Obsessive–compulsive disorder (OCD)
+Body dysmorphic disorder
+Body integrity dysphoria
+Compulsive hoarding
+Trichotillomania
+Excoriation disorder (Skin picking disorder)
+Body-focused repetitive behavior disorder
+Olfactory reference syndrome
+Primarily obsessional obsessive-compulsive disorder
+Hoarding disorder
+
+Schizophrenia spectrum and other psychotic disorders
+Delusional disorder
+Schizophrenia
+Schizoaffective disorder
+Schizophreniform disorder
+Brief psychotic disorder
+
+Personality disorders
+Cluster A
+Paranoid personality disorder
+Schizoid personality disorder
+Schizotypal personality disorder
+
+Cluster B
+Antisocial personality disorder
+Borderline personality disorder
+Histrionic personality disorder
+Narcissistic personality disorder
+
+Cluster C
+Avoidant personality disorder
+Dependent personality disorder
+Obsessive–compulsive personality disorder
+
+Other
+Gender dysphoria (also known as gender integrity disorder or gender incongruence, there are different categorizations for children and non-children in the ICD-11)
+Medication-induced movement disorders and other adverse effects of medication
+Catatonia
+
+See also
+List of neurological conditions and disorders
+
+
+== References ==

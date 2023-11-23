@@ -1,0 +1,74 @@
+The graduated electronic decelerator (GED) is a device that delivers powerful electric shocks to the skin, described by the United Nations as torture, created by Matthew Israel for use on people at the Judge Rotenberg Center as part of the institution's behavior modification program. The school has since been condemned for torture by the United Nations special rapporteur on torture for its use of the GED and other inhumane punishments. In 2020, the device was banned in the United States by the Food and Drug Administration, however the ban was overturned in federal court a year later. In response, congress amended the Food, Drug, and Cosmetic Act to expand FDA's authority to ban such devices.Matthew Israel created the GED to replace the older punishments of spankings, pinches, and muscle squeezes, but continued to use restraints, sensory deprivation, and the withholding of food. These older punishments were often used in combination with the GED: For example, a student could be restrained to a board and then given several GED shocks in succession. While the school advertises its behavior modification program as safe, effective, and backed by science, these claims are disputed by independent experts.
+
+History
+The GED was created by Matthew Israel, the founder of Judge Rotenberg Center. Before it made use of electric shocks, the school used pinches, spankings, muscle squeezes, and a wide variety of other methods of aversive intervention including punitive restraints, sensory deprivation, and the withholding of food. Matthew Israel said that the school moved to electric shocks because “A lot of injuries were occurring” and also because it is more consistent. After the school began to use electric shocks as punishment, it phased out pinches, spankings, and muscle squeezes, but retained most other aversion interventions which were used alongside, and sometimes at the same time as, the electric shocks. For example, it was a common punishment to apply multiple GED shocks while the subject was restrained.The GED is based on the Self-Injurious Behavior Inhibiting System (SIBIS), a controversial device that delivered electric shocks to the skin for the purpose of inhibiting self-harming behavior. The SIBIS delivers a weak skin shock that lasts 0.2 seconds. The JRC used the SIBIS on 29 students between 1988 and 1990, but, in some cases, the shock was not powerful enough to produce compliance. Matthew Israel reported that one student was shocked by the SIBIS over 5,000 times in a day without producing the desired change in behavior. Israel asked the manufacturer of the SIBIS, Human Technologies, to build a device that delivered stronger shocks, but they refused. Israel then designed the GED-1, which could deliver a much more powerful shock than the SIBIS, that would last ten times as long. In 1994, the United States Food and Drug Administration (FDA) cleared the device for the treatment of self-harming behavior, as they considered it "substantially equivalent" to the SIBIS.By 1992, Matthew Israel had also designed and deployed the GED-3a and GED-4. The these new GEDs were built to deliver much more powerful shocks than the original GED-1, and were never cleared for use by the FDA. Israel stated that he created the more powerful devices "Because some students had adapted to the [GED-1]".In 2000, the FDA incorrectly notified the JRC that it qualified for exemption from registration of the GED-3a and GED-4. When the FDA recognized this error in 2011, it notified the JRC that the devices were not approved for use and ordered that they stop using them. The JRC ignored the FDA's demands and continued to use the devices until they were banned in 2020. At the time of the ban, the GED-3a and GED-4 were the only versions of the GED in use at the center.The use of the device was condemned as torture by the United Nations. The use of the GED has been condemned by human rights groups and disability rights organizations. In 2020, it became the third device ever banned by the FDA in the history of the organization.A federal court later found that the FDA ban was an "inappropriately promulgated rule".  The FDA rule was a ban on using these devices to treat violent or self-injurious behaviors, while not banning the device for "other purposes".  A three-judge panel of the U.S. Court of Appeals for the D.C. Circuit found that this was an overstep of its authority, as it cannot regulate the practice of medicine. In response, Congress amended the Federal Food, Drug, and Cosmetic Act to expand FDA's authority and allow them to ban a medical device for a particular use; irrespective, of any other approved use.
+
+Specifications and design
+Three versions of the GED are known to have been used: The GED-1, GED-3a, and GED-4. Of these devices, the GED-1 is the least powerful and the GED-4 is the most powerful. The GED-1 produces a shock of 30 mA, lasting two seconds. The GED-4 produces a shock of 90 mA, lasting two seconds. For comparison, a cattle prod produces a shock of not more than 10 mA lasting a fraction of a second. According to James Eason, a professor of biomedical engineering at Washington and Lee University, the GED's lowest shock setting is about twice the threshold that pain researchers consider tolerable to most adult humans.
+
+Use
+Intended use
+The center has stated that the GED was only used as a last resort to prevent aggressive or self-injurious behavior after positive behavioral support had failed. However, a 2006 report by the New York State Education Department found that no significant positive behavioral support program existed, and that the device was regularly used for minor infractions such as:
+Failing to be neat
+Wrapping one's foot around the leg of a chair
+Stopping work for more than ten seconds
+Closing one's eyes for more than five seconds
+Minor acts of noncomplianceOther reported reasons for administering shocks include:
+Using the bathroom without permission
+Urinating on oneself after being refused the right to use the bathroom
+Screaming while being shocked
+Attempting to remove the GEDAdditionally, the report found that the GED could be programmed to give automated skin shocks in response to targeted behaviors. For example, some students were made to sit on GED seats that would automatically administer skin shocks for the target behavior of standing up, while others wore waist holsters that would administer skin shocks if the student pulled a hand out of the holster. Shocks were administered continuously until the target behavior stopped occurring. The center did not have necessary approval from the FDA to use the device in this way.: 8 An FDA investigation found that some parents and guardians were pressured into giving consent to put their child on the GED, that they were not provided with accurate information about the device's risks, and that other options were not exhausted before resorting to the GED. The agency also found that the GED could cause both physical and psychological harm, including: pain, burns, tissue damage, depression, fear, and aggression. Furthermore, they concluded that the GED device may have caused one resident to enter a catatonic state, and that it can in some cases worsen the behaviors that it claims to treat.Residents were made to wear the GED devices at all hours, even during showers and sleep. Residents report that they were sometimes awoken by shocks at night, which were administered for reasons including nighttime incontinence, tensing up while asleep, and having broken a rule earlier in the day. Resident would also be shocked if they failed to stay awake at daytime. One resident reported that after being shocked while asleep, staff would not explain to her why she was shocked. Fear of these shocks produced extreme insomnia, which persisted even after she went off the GED.
+It was not explained to me why I got this shock. I was terrified and angry. I was crying. I kept asking why? And they kept telling me ‘No talking out’… After this incident I really stopped sleeping. Every time I closed my eyes they would jump open, anticipating that jolt somewhere in my body.At the time of the ban, the JRC was the only institution in the United States using electric skin shocks to control behavior.
+
+Accidental activation and malfunction
+The GEDs were known to sometimes malfunction, delivering repeated skin shocks until they were removed. Additionally, staff sometimes activated them by accident. Accidental activation by staff is called "misapplication."
+
+Court approval
+Before a resident could be put on the GED, they had to have a behavior plan approved by the school, a parent or guardian, and a court. JRC staff report that they followed the behavior plans to the letter. Greg Miller, a teacher's assistant at the JRC, reported that on one occasion, he saw a girl with cerebral palsy shocked for moaning and reaching out to hold a staff member's hand. On another occasion, he reached into his pocket without first announcing his intention to the class. Four children screamed out in fear, and he was forced to shock them. Miller said that this kind of scenario occurred "all the time" at the school. Staff were continually observed by cameras to ensure that they administered the prescribed shocks, and feared losing their jobs if they did not.
+All of these behaviors had to be consequated with a GED electric shock. There were no exceptions—a scream was a scream, a grab was a grab, and we had to follow court-approved orders.
+
+Efficacy and ethics
+When asked why the GED had not been studied in peer-reviewed scientific literature, Israel responded: "We've been so busy just managing and running the school and defending ourselves against enemies. It's been hard to justify the time." Israel reports that the GED has been used on children as young as "seven or eight". Since 2002, at least two peer-reviewed studies have been published on the GED. The first study compares the effect of applying repeated shocks to the same area versus alternating between different areas. The study concludes that repeated shocks to the same area are more painful, and thus more effective in altering behavior. A second study, co-authored by Israel himself, investigated the side effects of the GED and asserted that there are none.Matthew Israel said in an interview with Mother Jones that he thinks the GED should be used more often.
+[The GED] could be used everywhere... It could and should be used—not as a last resort, because it has no side effects. I think it should be used in the schools. Prisons have the problem that people see that as coercion. But if it works here, why shouldn't it be used elsewhere?
+
+Incidents
+Andre McCollins incident
+In 2002, Andre McCollins, an autistic student from New York City, was restrained on a four-point board and shocked 31 times with the GED over the course of seven hours. The first shock was given after he did not take off his coat when asked; subsequent shocks were given as punishments for screaming and tensing up while being shocked. The day after the incident, McCollins' mother had to drive him to the hospital, as he was unable to speak and had third-degree burns on many parts of his body. The doctor diagnosed him with acute stress disorder, a short-term disorder defined by the existence of posttraumatic stress symptoms. A video of event was released to the public, with clips airing on national news.
+
+Hoax phone call incident
+After the center received a phone call alleging that two of its residents had misbehaved earlier that evening, staff woke them from their beds, restrained them, and repeatedly gave them electric shocks. One of the residents received 77 shocks and the other received 29. After the incident, one of the residents had to be treated for burns. The phone call was later found to be a hoax perpetrated by a former resident who was pretending to be a supervisor.
+
+Reactions
+United Nations
+The use of the device was condemned as torture by the United Nations special rapporteur on torture.
+
+FDA
+In 2020, it became the third device ever banned by the FDA in the history of the organization.
+The Judge Rotenberg Center filed a lawsuit against the FDA, and in July 2021, the DC Circuit Court overturned the ban, meaning that the school can still use the devices. In response, congress expanded the FDA’s to ban medical devices for a particular use irrespective of approval for other uses. This effectively overturned the ruling reached by the court in 2021.
+
+Human rights groups
+The use of the GED has been condemned by human rights groups and disability rights organizations.
+
+Parents
+A number of parents have said that they were deceived by the JRC's claims, and would never have put their children through the program if they had known the truth. Some of these parents have filed and won lawsuits against the institute.
+They said it was like a bee sting, but I've seen my son being given shocks so powerful his limbs shook. He was being shocked up to 20 times a day. It was cruel. It was inhumane. I pray to God to forgive me for putting my son through that.
+Other parents have expressed support for the device, saying that it helped them control their child's behavior. One parent, Marguerite Famolare, claimed that all she had to do was show her son the remote control and "He'll automatically comply to whatever my signal command may be, whether it is 'Put on your seatbelt,' or 'Hand me that apple,' or 'Sit appropriately and eat your food.'"
+
+Lawsuits
+There have been numerous lawsuits related to the device. In 2006, the family of Evelyn Nicholson sued the school over the use of electric shocks, claiming that the treatment was inhumane and violated her civil rights. The lawsuit was later settled for $65,000.
+
+Ban
+In March 2020, the GED was banned by the FDA on the grounds that the devices present an "unreasonable and substantial risk of illness or injury." However, the ban was subsequently overturned in July of the following year on the fallacious grounds that the FDA was seeking to interfere with the practice of medicine, which is regulated by states. The ban has not yet been reinstated.
+
+See also
+Electrical injury
+Pain compliance
+Stun belt
+
+References
+Notes
+Further reading
+"Banned Devices; Electrical Stimulation Devices for Self-Injurious or Aggressive Behavior". Federal Register. 6 March 2020. Retrieved 9 August 2020.
+
+External links
+GED Patent Information

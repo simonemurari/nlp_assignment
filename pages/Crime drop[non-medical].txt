@@ -1,0 +1,72 @@
+The crime drop or crime decline is a pattern observed in many countries whereby rates of many types of crime declined by 50% or more beginning in the mid to late 1980s and early 1990s.
+
+Historical context
+The crime drop is not a new phenomenon emerging in the 1990s. For Europe, crime statistics show a declining pattern since the late Middle Ages. From the 1960s to the 1980s and 1990s, crime rates rose in all wealthy Western countries before the decline continued.
+
+Decline since the Middle Ages in Western Europe
+Since the early 2000s, the field of criminology has noted a decline of homicides in Europe. Manuel Eisner published a respective study in 2003.The diagram shows Eisner's data, with statistics from Our World in Data included, for the respective countries. The numbers are cases per 100,000 inhabitants per year. The diagram shows a dramatic decline of homicide rates since the year 1300. Rates dropped from between 20 and 70 cases per 100,000 to about one.
+
+Increase between the late 1950s and early 1990s
+In the second half of the 20th century, most countries of the Western World faced an increase of violent crime, like assault, robbery, and homicide. In some countries, this period started in the late 1950s and in some in the early 1960s. It took until the early 1990s to overcome this rise. Numerous attempts have been made to explain this period, but no general agreement has been reached, as some of these explanations contradict each other. Irrespective of the reason for the increase, this period appears as a relatively short deviation of the long-term decline beginning centuries ago and continuing after the early 1990s.
+
+Global level
+Homicide rates as comparative value
+Because of its relative unambiguousness and its small dark figures, intentional homicide is particularly amenable to long term and geographic (cross-national) comparisons. Homicide is an act that meets with virtually universal condemnation, and homicide statistics are accordingly considered to be relatively reliable and valid – both at the national level and for longitudinal and cross-national comparisons. As a readily measurable indicator, homicide is both a reasonable proxy for violent crime and a robust indicator of levels of violence within states.To bridge over remaining differences, the United Nations Office on Drugs and Crime (UNODC) developed a framework for the definition and classification of unlawful killings, both in conflict and non-conflict situations, the International Classification of Crime for Statistical Purposes (ICCS). In short, homicide is defined in ICCS as “unlawful death inflicted upon a person with the intent to cause death or serious injury”.
+
+Decline since the early 1990s
+The United Nations Office on Drugs and Crime investigates the international development of crime using homicide rates as indicator. Both diagrams in this paragraph are from the Global Study on Homicide 2019.A decline has been observed in the regions Europe, North America, Australia and New Zealand, and Asia. In Europe, the decline was most evident. Here, the rates dropped nearly by two thirds, from 8.8 cases per 100,000 per year in 1994 to below 3 in 2017.On a world level, there was only a small decline, from 7.4 in 1993 to 6 in 2007. Since then, the rates stagnated. The reason is that there are regions with increases counterbalancing the declines of other regions. Homicides increased in Central and South America, especially in the Caribbean. El Salvador and Jamaica topped the list, with 61.8 and 57 cases per 100,000 inhabitants respectively in 2017.No data are available for Africa and Pacific countries due to limited and unreliable data.
+
+Development by region
+On average, international crime declines from 1995 to 2004 were as follows: 77.1 percent in theft from cars, 60.3 percent in theft from person, 26.0 percent in burglary, 20.6 percent in assault and 16.8 percent in car theft. The crime drop since the early 1990s has occurred in many countries, including the United States, the United Kingdom, and New Zealand.
+
+Germany
+According to German police statistics on crime, cases overall peaked in 1993. Since then, they dropped by 20% from 8,336 per 100,000 inhabitants to 6,710 in 2018. (All rates for Germany mentioned here include attempts.) Criminal offenses against life declined by 40% from 6.3 in 1993 to 3.7 in 2012 but rose again to 3.9 in 2018. Theft dropped by 54% from 5,126 cases in 1993 to 2,338 in 2018. The statistical group violent crime did not peak in 1993 but in 2007 with 264.7 cases per 100,000. Until 2018 they dropped by 15% to 223.9.
+
+United States
+In the United States, for example, violent crime rates have fallen by over 50% in many major U.S. cities since these rates peaked in the early 1990s, often referred to as the "Great Crime Decline". In New York City, these rates had dropped by 75% from the early 1990s to 2010. In the United States, a second decline in the crime rate was also observed, with homicide rates declining first from 1994 to 2002, and then again from 2007 to 2011. The crime rate in Los Angeles decreased from 1993 onward, including e.g. a decrease in the crime rate of 10% during the first six months of 1998.
+
+Proposed explanations
+There is no universally accepted explanation for why crime rates are falling, though many hypotheses have been proposed, especially in the United States. Blumstein & Wallman (2006) conclude that a complex interaction between "prisons, drugs, guns, policing, economics," and "demography, including abortion" is the best explanation for the crime drop in the United States.Francis Fukuyama proposed the following account for the crime increase between the 1950s and the 1990s: postwar economic expansions produced prosperous and peaceable years in the 1950s. However, in short order came decolonization of most of Africa, much of the Caribbean, and parts of South America and the Middle East; the Vietnam War and youthful rebellions of the 1960s; the civil, women's, and gay rights movements; economic transformations including the OPEC oil embargoes of the 1970s, massive economic restructuring, and globalization; and vastly increased movements of people between countries. Fukuyama argues, in retrospect this has been all too much to be absorbed in a short time.Another explanation proposes that the international homicide decline is partially a consequence of the aging of populations around the world, which is causing a reduction in the size of the youth relative to other age groups. Since youth tend to commit the majority of violent crimes, and since older members of societies tend to be the more orderly and peaceful, as populations grow older their violence rates tend to decline. However, the most violent countries are not yet enjoying the pacifying benefits of the aging of their populations because other strong criminogenic forces are interfering with their homicide trends.
+
+Environmental factors
+The lead–crime hypothesis proposed a link between elevated blood lead levels in children and later increases in crime. Children exposed to forms of lead at young ages are hypothesized to be more likely to develop learning disabilities, attention deficit hyperactivity disorder, and problems with impulse control. These problems are suggested to lead to the commission of more crimes as these children reach adulthood, especially violent crimes.Air pollution has been found to highly correlate with increased aggression and higher crime rates with one study detailing that a 10% reduction in PM2.5 and ozone could result in $1.8billion in crime reduction. Multiple hypotheses have been developed to ascertain whether it is due to the aesthetic impact of air pollution which reduces ethicality or some biological factor related to PM2.5 and ozone exposure neurotoxicity. This may be correlated to the observed loss of IQ points in children who are heavily exposed to air pollution.
+
+Abortion
+The legalized abortion and crime effect popularized by Freakonomics coauthor Steven Levitt posits that the drop in violent crime in the United States correlates with the legalization of abortion in the Supreme Court ruling on Roe v Wade in 1973, due to fewer children being born to parents who were unwilling or unable to care for them. Therefore, the theory argues that with fewer children being affected by 'broken homes' the effect was to produce more well adjusted children and when they matured, they wouldn't cause as much crime. However, this theory neglects to explain the falling crime rates in countries around the world during the same time period that had no association with abortion measures.
+
+Drug use and demand
+Alfred Blumstein argues that part of the drop in the United States' violent crime rate is due to declining demand for crack cocaine. A 2014 report by the Home Office stated that changes in demand for illegal drugs (specifically, heroin) were a major contributor to the crime drop in the United Kingdom.
+
+Economic factors
+The mainstream view among criminologists is that unemployment and poverty are strongly related to crime, because a decrease in opportunities for legal employment, in theory, should increase the frequency of illegal employment. Multiple studies of the United States, for example, have found that the improvement of the American economy coincided with a drop in crime throughout the 1990s. A 2015 Brennan Center for Justice report, however, estimated that no more than 5 percent of the 1990s crime drop in the United States was attributable to changes in unemployment. The view that higher unemployment rates cause higher crime rates has also been challenged by the fact that the United States crime rate reached a 40-year low in 2010, despite America's lagging economy.
+
+Immigration
+Studies of the United States have shown that increases in the concentration of immigrants are associated with decreases in violent crime rates, especially homicide and robbery. This relationship suggests that increasing immigration to the United States may be responsible for part of the recent drop in violent crime rates in the United States.
+
+Incarceration
+A 2004 study found that 58 percent of the drop in violent crime during the 1990s was due to incarceration. A 2015 Brennan Center for Justice report found that increased incarceration was responsible for about 5% of the crime drop in the United States during the 1990s, and for essentially none of the crime drop there since 2000. Commentators and academics who question the role of incarceration in the crime drop have noted that Canada's crime rates followed similar trends as those in the United States during the 1990s; in contrast, Canada's incarceration rate did not change significantly during this time, while that of the United States increased significantly. In 2009, Steven Messner and Richard Rosenfeld found that incarceration was negatively related to burglary rates "...only after unusual policy interventions, such as Italy's 2006 clemency measure that dramatically reduced the size of its prison population."
+
+Policing
+Some have proposed that changes in policing practices (e.g. the adoption of broken windows policing) were responsible for the crime drop in the United States, especially in New York City. However, Canada did not change its policing practices significantly prior to their crime drop, which casts doubt on the extent to which policing was responsible for this phenomenon. Some of the most popular claims about policing reducing violent crime are not supported by the evidence.Levitt (2004) estimates that increases in the number of police accounted for between 5 and 6% of the crime drop in the United States during the 1990s. A 2007 study found that misdemeanor arrests were negatively associated with changes in total homicide rates in New York City.
+
+Security hypothesis
+A 2014 article in Crime and Justice reported that the "security hypothesis" was the best explanation for the drop out of the 17 hypotheses tested. This hypothesis proposes that improved and more widespread security devices, like electronic immobilizers and central locking, were responsible for a large part of the crime drop by preventing numerous crimes. Consistent with this hypothesis, attempted crime has also been declining, suggesting that would-be criminals are becoming discouraged by improved security.
+
+See also
+Criminal justice
+Police
+
+References
+Further reading
+Blumstein, Alfred; Wallman, Joel (2006). The Crime Drop in America. Cambridge University Press. ISBN 9780521681483.
+van Dijk, Jan; Tseloni, Andromachi; Farrell, Graham, eds. (2012). The International Crime Drop. Springer Science+Business Media. doi:10.1057/9781137291462. ISBN 978-1-349-33768-2.
+Steven Pinker, The Better Angels of Our Nature: Why Violence Has Declined (2011)
+Steven Pinker, Enlightenment Now: The Case for Reason, Science, Humanism, and Progress (February 13, 2018)
+
+External links
+Global Study on Homicide from United Nations Office on Drugs and Crime
+Homicides on Our World in Data
+International Classification of Crime for Statistical Purposes (ICCS) developed by United Nations Office on Drugs and Crime
+Violence Research Centre on University of Cambridge
+What Caused the Great Crime Decline in the U.S.? by Matt Ford, April 15, 2016, The Atlantic Monthly.
+What's Behind The Decline In Crime?, by Neil Howe, May 28, 2015, Forbes Magazine.

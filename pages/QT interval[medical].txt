@@ -1,0 +1,203 @@
+The QT interval is a measurement made on an electrocardiogram used to assess some of the electrical properties of the heart.  It is calculated as the time from the start of the Q wave to the end of the T wave, and approximates to the time taken from when the cardiac ventricles start to contract to when they finish relaxing. An abnormally long or abnormally short QT interval is associated with an increased risk of developing abnormal heart rhythms and sudden cardiac death. Abnormalities in the QT interval can be caused by genetic conditions such as long QT syndrome, by certain medications such as sotalol or pitolisant, by disturbances in the concentrations of certain salts within the blood such as hypokalaemia, or by hormonal imbalances such as hypothyroidism.
+
+Measurement
+The QT interval is most commonly measured in lead II for evaluation of serial ECGs, with leads I and V5 being comparable alternatives to lead II. Leads III, aVL and V1 are generally avoided for measurement of QT interval. The accurate measurement of the QT interval is subjective because the end of the T wave is not always clearly defined and usually merges gradually with the baseline. QT interval in an ECG complex can be measured manually by different methods, such as the threshold method, in which the end of the T wave is determined by the point at which the component of the T wave merges with the isoelectric baseline, or the tangent method, in which the end of the T wave is determined by the intersection of a tangent line extrapolated from the T wave at the point of maximum downslope to the isoelectric baseline.With the increased availability of digital ECGs with simultaneous 12-channel recording, QT measurement may also be done by the 'superimposed median beat' method. In the superimposed median beat method, a median ECG complex is constructed for each of the 12 leads. The 12 median beats are superimposed on each other and the QT interval is measured either from the earliest onset of the Q wave to the latest offset of the T wave or from the point of maximum convergence for the Q wave onset to the T wave offset.
+
+Correction for heart rate
+The QT interval changes in response to the heart rate - as heart rate increase the QT interval shortens.  These changes make it harder to compare QT intervals measured at different heart rates.  To account for this, and thereby improve the reliability of QT measurement, the QT interval can be corrected for heart rate (QTc) using  a variety of mathematical formulae, a process often performed automatically by modern ECG recorders.
+
+Bazett's formula
+The most commonly used QT correction formula is the Bazett's formula, named after physiologist Henry Cuthbert Bazett (1885–1950), calculating the heart rate-corrected QT interval (QTcB).
+Bazett's formula is based on observations from a study in 1920. 
+Bazett's formula is often given in a form that returns QTc in dimensionally suspect units, square root of seconds. The mathematically correct form of Bazett's formula is:
+
+  
+    
+      
+        Q
+        T
+        
+          c
+          
+            B
+          
+        
+        =
+        
+          
+            
+              Q
+              T
+            
+            
+              
+                
+                  
+                    R
+                    R
+                  
+                  
+                    1
+                    
+                       s
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle QTc_{B}={QT \over {\sqrt {RR \over 1{\text{ s}}}}}}
+  where QTcB is the QT interval corrected for heart rate, and RR is the interval from the onset of one QRS complex to the onset of the next QRS complex. This mathematically correct formula returns the QTc in the same units as QT, generally milliseconds.In some popular forms of this formula, it is assumed that QT is measured in milliseconds and that RR is measured in seconds, often derived from the heart rate (HR) as 60/HR. Therefore, the result will be given in seconds per square root of milliseconds. However, reporting QTc using this formula creates a "requirement regarding the units in which the original QT and RR are measured."In either form, Bazett's non-linear QT correction formula is generally not considered accurate, as it over-corrects at high heart rates and under-corrects at low heart rates. Bazett's correction formula is one of the most suitable QT correction formulae for neonates.
+
+Fridericia's formula
+Fridericia had proposed an alternative correction formula (QTcF) using the cube-root of RR.
+
+  
+    
+      
+        Q
+        T
+        
+          c
+          
+            F
+          
+        
+        =
+        
+          
+            
+              Q
+              T
+            
+            
+              
+                
+                  
+                    R
+                    R
+                  
+                  
+                    1
+                    
+                       s
+                    
+                  
+                
+                
+                  3
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle QTc_{F}={QT \over {\sqrt[{3}]{RR \over 1{\text{ s}}}}}}
+
+Sagie's formula
+The Framingham correction, also called as Sagie's formula based on the Framingham Heart Study, which used long-term cohort data of over 5,000 subjects, is considered a better method.
+
+  
+    
+      
+        Q
+        T
+        l
+        c
+        =
+        1000
+        
+          (
+          
+            
+              
+                
+                  Q
+                  T
+                
+                1000
+              
+            
+            +
+            0.154
+            (
+            1
+            −
+            R
+            R
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle QTlc=1000\left({\frac {QT}{1000}}+0.154(1-RR)\right)}
+  Again, here QT and QTlc are in milliseconds and RR is measured in seconds.
+
+Comparison of corrections
+A retrospective study suggests that Fridericia's method and the Framingham method may produce results most useful for stratifying the 30-day and 1-year risks of mortality.
+Definitions of normal QTc vary from being equal to or less than 0.40 s (≤ 400 ms), 0.41 s (≤ 410 ms), 0.42 s (≤ 420 ms) or 0.44 s (≤ 440 ms). For risk of sudden cardiac death, "borderline QTc" in males is 431–450 ms; and, in females, 451–470 ms. An "abnormal" QTc in males is a QTc above 450 ms; and, in females, above 470 ms.If there is not a very high or low heart rate, the upper limits of QT can roughly be estimated by taking QT = QTc at a heart rate of 60 beats per minute (bpm), and subtracting 0.02 s from QT for every 10 bpm increase in heart rate. For example, taking normal QTc ≤ 0.42 s, QT would be expected to be 0.42 s or less at a heart rate of 60 bpm. For a heart rate of 70 bpm, QT would roughly be expected to be equal to or below 0.40 s. Likewise, for 80 bpm, QT would roughly be expected to be equal to or below 0.38 s.
+
+Abnormal intervals
+Prolonged QTc causes premature action potentials during the late phases of depolarization. This increases the risk of developing ventricular arrhythmias, including fatal ventricular fibrillation. Higher rates of prolonged QTc are seen in females, older patients, high systolic blood pressure or heart rate, and short stature. Prolonged QTc is also associated with ECG findings called Torsades de Pointes, which are known to degenerate into ventricular fibrillation, associated with higher mortality rates. There are many causes of prolonged QT intervals, acquired causes being more common than genetic.
+
+Genetic causes
+An abnormally prolonged QT interval could be due to long QT syndrome, whereas an abnormally shortened QT interval could be due to short QT syndrome.
+The QTc length is associated with variations in the NOS1AP gene. The autosomal recessive syndrome of Jervell and Lange-Nielsen is characterized by a prolonged QTc interval in conjunction with sensorineural hearing loss.
+
+Due to adverse drug reactions
+Prolongation of the QT interval may be due to an adverse drug reaction.Antipsychotics (especially first generation/"typical")
+
+haloperidol
+thioridazine
+mesoridazine
+chlorpromazine
+sertindoleDMARDs and antimalarial drugs
+
+hydroxychloroquine
+chloroquine
+quinineAntibiotics
+
+macrolides
+fluoroquinolonesOther drugs
+
+methadone
+vemurafenib
+pitolisantSome second-generation antihistamines, such as astemizole, have this effect. The mechanism of action of certain antiarrhythmic drugs, like amiodarone or sotalol, involve intentional pharmacological QT prolongation. In addition, high blood alcohol concentrations prolong the QT interval. A possible interaction between selective serotonin reuptake inhibitors and thiazide diuretics is associated with QT prolongation.
+
+Due to pathological conditions
+Hypothyroidism, a condition of low function of the thyroid gland, can cause QT prolongation at the electrocardiogram.  Acute hypocalcemia causes prolongation of the QT interval, which may lead to ventricular dysrhythmias.
+A shortened QT can be associated with hypercalcemia.
+
+Use in drug approval studies
+Since 2005, the FDA and European regulators have required that nearly all new molecular entities be evaluated in a Thorough QT (TQT) or similar study to determine a drug's effect on the QT interval. The TQT study serves to assess the potential arrhythmia liability of a drug.  Traditionally, the QT interval had been evaluated by having an individual human reader measure approximately nine cardiac beats per clinical timepoint.  However, a substantial portion of drug approvals after 2010 have incorporated a partially automated approach, blending automated software algorithms with expert human readers reviewing a portion of the cardiac beats, to enable the assessment of significantly more beats in order to improve precision and reduce cost. In 2014, an industrywide consortium consisting of the FDA, iCardiac Technologies and other organizations released the results of a seminal study indicating how waivers from TQT studies can be obtained by the assessment of early phase data.  As the pharmaceutical industry has gained experience in performing TQT studies, it has also become evident that traditional QT correction formulas such as QTcF, QTcB, and QTcLC may not always be suitable for evaluation of drugs impacting autonomic tone.
+
+As a predictor of mortality
+Electrocardiography is a safe and noninvasive tool that can be used to identify those with a higher risk of mortality. In the general population, there has been no consistent evidence that prolonged QTc interval in isolation is associated with an increase in mortality from cardiovascular disease. However, several studies have examined prolonged QT interval as a predictor of mortality for diseased subsets of the population.
+
+Rheumatoid arthritis
+Rheumatoid arthritis is the most common inflammatory arthritis. Studies have linked rheumatoid arthritis with increased death from cardiovascular disease.
+In a 2014 study, Panoulas et al. found a 50 ms increase in QTc interval increased the odds of all-cause mortality by 2.17 in patients with rheumatoid arthritis. Patients with the highest QTc interval (> 424 ms) had higher mortality than those with a lower QTc interval. The association was lost when calculations were adjusted for C-reactive protein levels. The researchers proposed that inflammation prolonged the QTc interval and created arrhythmias that were associated with higher mortality rates. However, the mechanism by which C-reactive protein is associated with the QTc interval is still not understood.
+
+Type 1 diabetes
+Compared to the general population, type 1 diabetes may increase the risk of mortality, due largely to an increased risk of cardiovascular disease. Almost half of patients with type 1 diabetes have a prolonged QTc interval (> 440 ms). Diabetes with a prolonged QTc interval was associated with a 29% mortality over 10 years in comparison to 19% with a normal QTc interval. Anti-hypertensive drugs increased the QTc interval, but were not an independent predictor of mortality.
+
+Type 2 diabetes
+QT interval dispersion (QTd) is the maximum QT interval minus the minimum QT interval, and is linked with ventricular repolarization. A QTd over 80 ms is considered abnormally prolonged. Increased QTd is associated with mortality in type 2 diabetes. 
+QTd is a better predictor of cardiovascular death than QTc, which was unassociated with mortality in type 2 diabetes. QTd higher than 80 ms had a relative risk of 1.26 of dying from cardiovascular disease compared to a normal QTd.
+
+See also
+Electrocardiogram
+Long QT syndrome
+Short QT syndrome
+QT interval variability
+
+References
+External links
+Cardiac safety section in the Biopharmaceutical network
+Corrected QT interval calculation
+Comprehensive QTc Calculator with 5 formulas at TheCalculator.co

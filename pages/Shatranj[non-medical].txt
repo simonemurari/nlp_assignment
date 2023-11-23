@@ -1,0 +1,104 @@
+Shatranj (Arabic and Persian: شطرنج; from Middle Persian chatrang چترنگ) is an old form of chess, as played in the Sasanian Empire. Its origins are in the Indian game of chaturaṅga. Modern chess gradually developed from this game, as it was introduced to Europe by contacts in Muslim Al-Andalus (modern Spain) and in Sicily in the 10th century.
+
+Etymology and origins
+The Persian word shatranj ultimately derives from Sanskrit (Sanskrit: चतुरङ्ग; caturaṅga) (catuḥ: "four"; anga: "arm"), referring to the game of the same name: Chaturanga. In Middle Persian the word appears as chatrang, with the 'u' lost due to syncope and the 'a' lost to apocope, such as in the title of the text Mâdayân î chatrang ("Book of Chess") from the 7th century AD.  In Persian folk etymology, a Persian text refers to Shah Ardashir I, who ruled from 224 to 241, as a master of the game:
+
+"By the help of Providence, Ardeshir became more victorious and warlike than all, on the polo and the riding-ground, at Chatrang and Vine-Artakhshir, and in several other arts."However, Karnamak contains many fables and legends, and this only establishes the popularity of chatrang at the time of its composition.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+During the reign of the later Sassanid king Khosrau I (531–579), a gift from an Indian king (possibly a Maukhari Dynasty king of Kannauj) included a chess game with sixteen pieces of emerald and sixteen of ruby (green vs. red). The game came with a challenge which was successfully resolved by Khosrau's courtiers.  This incident, originally referred to in the Mâdayân î chatrang (c. 620 AD), is also mentioned in Ferdowsi's Shahnama (c. 1010).
+The rules of chaturanga seen in India today have enormous variation, but all involve four branches (angas) of the army: the horse (knight), the elephant (bishop), the chariot (rook) and the foot soldier (pawn), played on an 8×8 board.  Shatranj adapted much of the same rules as chaturanga, and also the basic 16-piece structure.  There is also a larger 10×11 board derivative; the 14th-century Tamerlane chess, or shatranj kamil (perfect chess), with a slightly different piece structure.
+In some later variants the darker squares were engraved.  The game spread Westwards after the Islamic conquest of Persia and a considerable body of literature on game tactics and strategy was produced from the 8th century onwards.
+In early Indian chaturanga (c. 500–700), the king could be captured and this ended the game. Persian shatranj (c. 700–800) introduced the idea of warning that the king was under attack (announcing check in modern terminology).  This was done to avoid the early and accidental end of a game.  Later the Persians added the additional rule that a king could not be moved into check or left in check. As a result, the king could not be captured, and checkmate was the only decisive way of ending a game.With the spread of Islam, chess diffused into the Maghreb and then to Andalusian Spain.  During the Islamic conquest of India (c. 12th century), some forms came back to India as well, as evidenced in the North Indian term māt (mate, derivative from Persian māt) or the Bengali borey (pawn, presumed derived from the Arabic baidaq). Over the following centuries, chess became popular in Europe, eventually giving rise to modern chess.
+
+Rules
+The initial setup in shatranj was essentially the same as in modern chess; however, the position of the white shah (king), on the right or left side was not fixed. Either the arrangement as in modern chess or as shown in the diagram were possible. In either case, the white and black shāh would be on the same file. The game was played with these pieces:
+
+Shāh ("king" in Persian) moves like the king in chess.
+Ferz ("counselor"; also spelled fers; Arabic firz, from Persian فرزين farzīn) moves exactly one square diagonally, which makes it a rather weak piece. It was renamed "queen" in Europe. Even today, the word for the queen piece is ферзь (ferz) in Russian, vezér in Hungarian, vezir in Turkish, vazīr in Persian and wazīr in Arabic. It has analogue to the guards in xiangqi.
+Rukh ("chariot"; from Persian رخ rokh) moves like the rook in chess.
+Pīl, alfil, aufin, and similar ("elephant"; from Persian پيل pīl; al- is the Arabic for "the") moves exactly two squares diagonally, jumping over the square between. Each pīl could reach only one-eighth of the squares on the board, and because their circuits were disjoint, they could never capture one another. This piece might have had a different move sometimes in chaturanga, where the piece is also called "elephant". The pīl was replaced by the bishop in modern chess. Even today, the word for the bishop piece is alfil in Spanish, alfiere in Italian, fil in Turkish, fīl in Persian and Arabic, and слон ("elephant") in Russian. As chess spread from Iran northward to Russia, and westward into eastern Europe, south to Italy, and finally westward, it mostly retained the original name and look of the piece as an elephant. Usually, it was carved as a rounded shape with two blunt points representing the elephant's tusks. In Christian Europe, this piece became a bishop because the two points looked like a bishop's mitre to those unfamiliar with elephants in Western Europe. An early example of the bishop being used is the Lewis chessmen chess set of the 12th century. The elephant piece survives in xiangqi with the limitations that the elephant in xiangqi cannot jump over an intervening piece and is restricted to the owner's half of the board. In janggi, its movement was changed to become a slightly further-reaching version of the horse.
+Asb (Faras) (current meaning of "horse" in Persian, from old Persian Asp (اسپ)), moves like the knight in chess.
+Sarbaz ("soldier"; also called piyādeh (پیاده "infantryman") in Persian and adopted later to Baidaq (بيدق) in Arabic (a new singular extracted by treating the Persian form as an Arabic broken plural), moves and captures like the pawns in chess, but not moving two squares on the first move. When they reach the eighth rank, they are promoted to ferz.Pieces are shown on the diagrams and recorded in the notation using the equivalent modern symbols, as in the table above. In modern descriptions of shatranj, the names king, rook, knight and pawn are commonly used for shah, rukh, faras, and baidaq.
+There were also other differences compared to modern chess: Castling was not allowed (it was invented much later). Stalemating the opposing king resulted in a win for the player delivering stalemate. Capturing all one's opponent's pieces apart from the king (baring the king) was a win, unless the opponent could capture the last piece on their next move, which was considered a draw in most places in the Islamic world (except for Medina, where it was a win).The possible movements of the main shatranj pieces, excluding that of the king and pawn, are complementary to one another, and without any omission or redundancy occupy all available squares with respect to the central position of a 5x5 grid, as shown in the figure to the right.
+
+History
+Middle Persian literature
+Three books written in Pahlavi, Kar-Namag i Ardashir i Pabagan, Khosrow and ridag, and Wizārišn ī čhatrang ("Treatise on Chess"), also known as the Chatrang Nama ("Book of Chess"), all mention chatrang. In Kār-nāmak it is said that Ardashīr "with the help of the gods became more victorious and experienced than all others in polo, horsemanship, chess, backgammon, and other arts," and in the small treatise on Khosrow and ridag, the latter declares that he is superior to his comrades in chess, backgammon, and hašt pāy. Bozorgmehr, the author of Wizārišn ī čhatrang, describes how the game of chess was sent as a test to Khosrow I (r. 531-79) by the "king of the Hindus Dēvsarm" with the envoy Takhtarītūs and how the test was answered by the vizier Bozorgmehr, who in his turn invented the game Backgammon as a test for the Hindus. These three Middle Persian sources do not give any certain indication of the date when chess was introduced into Persia. The mentions of chess in Kar-Namag i Ardashir i Pabagan and Khosrow and ridag are simply conventional and may easily represent late Sasanian or even post-Sasanian redactions. According to Touraj Daryaee, Kar-Namag i Ardashir i Pabagan is from 6th century. Wizārišn ī čhatrang was written in the 6th century.
+
+Early Arabic literature
+During the Islamic Golden Age, many works on shatranj were written, recording for the first time the analysis of opening moves, game problems, the knight's tour, and many more subjects common in modern chess books. Many of these manuscripts are missing, but their content is known due to compilation work done by the later authors.The earliest listing of works on chess is in the Fihrist, a general bibliography produced in 377 AH (988 AD) by Ibn al-Nadim. It includes an entire section on the topic of chess, listing:
+
+Al-Adli's Kitab ash-shatranj ('Book of Chess')
+Ar-Razi's Latif fi 'sh-shatranj ('Fun with Chess')
+As-Suli's Kitab ash-shatranj (two volumes)
+Al-Lajlaj's Kitab mansubat ash-shatranj ('Book: Strategies of Chess')
+B. Aluqlidisi's Kitab majmu' fi mansubat ash-shatranj ('Book: Intent of Strategies of Chess')There is a passage referring to chess in a work said to be by al-Hasan al-Basri, a philosopher from Basra who died in 728 AD. The attribution of authorship is dubious, however.
+
+Player classification
+Al-Adli as well as As-Suli introduced classifications of players by their playing strength. Both of them specify five classes of players:
+
+Aliyat (or aliya), grandees
+Mutaqaribat, proximes – players who could win 2–4 games out of 10 in the match against grandee. They received odds of a pawn from grandee (better players g-, a- or h-pawn, weaker ones d- or e-pawn).
+Third class – players who received odds of a ferz from grandee.
+Fourth class – received odds of a knight.
+Fifth class – received odds of a rook.To determine a player's class, a series or match would be undertaken with a player of a known class without odds. If the player won 7 or more games out of 10, he belonged to a higher class.
+
+Notable players
+During the reign of the Arab caliphs, shatranj players of highest class were called aliyat or grandees. There were only a few players in this category including:
+
+Jabir al-Kufi, Rabrab and Abun-Naam were three aliyat players during the rule of caliph al-Ma'mun.
+Al-Adli was the strongest player during the rule of caliph al-Wathiq. At this time he was the only player in aliyat category.
+Al-Razi (Persian polymath) in 847 won a match against an already old al-Adli in the presence of caliph al-Mutawakkil and so become a player of aliyat category.
+As-Suli was the strongest player during the reign of caliph al-Muktafi. Al-Razi was already dead and there were no players of comparable strength before as-Suli appeared on the scene. In the presence of al-Muktafi he easily won a match against a certain al-Mawardi and thus proved that he was the best player of that time. As-Suli considered Rabrab and al-Razi as the greatest of his predecessors.
+Al-Lajlaj was a pupil of as-Suli and also a great shatranj master of his time.
+
+Gameplay
+Openings
+Openings in shatranj were usually called taʿbīya تَعبِيّة (pl. taʿbīyāt), تَعبِيّات in Arabic, which can be translated as "battle array". Due to slow piece development in shatranj, the exact sequence of moves was relatively unimportant. Instead players aimed to reach a specific position, tabiya, mostly ignoring the play of their opponent.
+The works of al-Adli and as-Suli contain collections of tabiyat. Tabiyat were usually given as position on a half-board with some comments about them. The concrete sequence of moves to reach them was not specified. In his book Al-Lajlaj analyzed some tabiya in detail. He started his analysis from some given opening, for example "Double Mujannah" or "Mujannah–Mashaikhi", and then continued up to move 40, giving numerous variations.
+
+Piece values
+Both al-Adli and as-Suli provided estimation of piece values in their books on shatranj. They used a monetary system to specify piece values. For example, as-Suli gives piece values in dirhem, the currency in use in his time:
+
+Mansubat
+Persian chess masters composed many shatranj problems. Such shatranj problems were called manṣūba مَنصوبة (pl. manṣūbāt), منصوبات. This word can be translated from Arabic as "arrangement", "position" or "situation". Mansubat were typically composed in such a way that a win could be achieved as a sequence of checks. One's own king was usually threatened by immediate checkmate.
+One Mansuba is the Dilaram Problem (see diagram). Black threatens immediate checkmate by 1...Ra2#, Ra8#, or either Rb4#. But White can win with a two-rook sacrifice:
+
+1. Rh8+ Kxh8 2. Bf5+ Kg8 3. Rh8+ Kxh8 4. g7+ Kg8 5. Nh6#Note that the alfil (♗) moves two squares diagonally, jumping over intermediate pieces; this allows it to jump over the white knight to deliver the discovered check from the second rook with 2.Bf5+. It was said that a nobleman (playing White) wagered his wife Dilārām on a chess game and this position arose. She appealed "Sacrifice your two Rooks, and not me."
+
+See also
+Chess in early literature
+History of chess
+Tamerlane chess
+Timeline of chess
+
+References
+Bibliography
+
+Cazaux, Jean-Louis; Knowlton, Rick (2017). A World of Chess. McFarland. ISBN 978-0-7864-9427-9.
+Murray, H. J. R. (1913). A History of Chess (Reissued ed.). Oxford University Press. ISBN 0-19-827403-3.
+
+Further reading
+Parlett, David (1999). "Shatranj (Islamic Chess)". The Oxford History of Board Games. Oxford University Press Inc. pp. 296–99. ISBN 0-19-212998-8.
+
+External links
+Shatranj, the medieval Arabian Chess by Jean-Louis Cazaux
+Shatranj by Hans L. Bodlaender, The Chess Variant Pages
+The Time of Shatranj and the Aliyat by Miguel Villa
+ICC shatranj rules
+Shatranj   at BoardGameGeek

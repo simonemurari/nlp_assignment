@@ -1,0 +1,25 @@
+In cycling, cadence (or pedalling rate) is a measure of angular speed representing the number of revolutions per minute (r/min or rpm) of the crank, or in other words the rate at which a cyclist is pedalling or turning the pedals. Cadence is directly proportional to wheel speed, but is a distinct measurement and changes with gearing. In other words, the gearing changes the ratio of the crank's rotational speed (cadence) to that of the drive wheel's rotational speed.
+
+Typical cadence
+Cyclists typically have a cadence at which they feel most comfortable, and on bicycles with many gears it is possible to maintain a preferred cadence at a wide range of speeds. 
+
+60–80 r/min is a typical cadence for many recreational and utility cyclists
+According to cadence measurement of seven professional cyclists during three-week races they cycle about 90 r/min during flat and long (≈190 km) group stages and individual time trials of ≈50 km. During ≈15 km uphill cycling on high mountain passes they cycle about 70 r/min.Cyclists choose cadence to minimise muscular fatigue, and not metabolic demand, since oxygen consumption is lower at cadences 60-70 r/min.While fast cadence is also referred to as "spinning", slow cadence is referred to as "mashing" or "grinding".
+Any particular cyclist has only a narrow range of preferred cadences, often smaller than the general ranges listed above. This in turn influences the number and range of gears which are appropriate for any particular cycling conditions.
+
+Sensors
+Cadence can be measured via various types of sensors, for example a simple reed switch and a magnet which detects one revolution each time the crank arm passes a point on the frame, or more advanced sensors based on a force sensor (e.g. pedals), torque sensor (e.g. crank arms) or other types of cycling power sensors.
+
+Presentation
+The cadence can be presented on a smartphone via Bluetooth, on an LCD display via cable, or on a GPS or cyclocomputer via ANT+, typically mounted on the bicycle's handlebars.
+
+See also
+Cycling power meter
+Bicycle gearing
+Tachometer — a motor vehicle's tachometer is analogous to a bicycle's cadence; they are both measurements of the drive-train's rotational speed prior to the "transmission" (derailleur or hub gear)
+
+References
+External links
+Abbiss, C.R.; Peiffer, J.J.; Laursen, P.B. (2009), "Optimal cadence selection during cycling", International SportMed Journal, retrieved 5 May 2015
+Marsh, Anthony P. (Summer 1996). "What Determines The Optimal Cadence?". Cycling Science. Archived from the original on 2011-07-18. Retrieved 20 May 2011.
+Martin, J.C.; Spirduso, W.W. (2001). "Determinants of maximal cycling power: crank length, pedaling rate and pedal speed" (PDF). Eur J Appl Physiol. 84 (5): 413–418. doi:10.1007/s004210100400. PMID 11417428. S2CID 25701163. Archived from the original (PDF) on 2014-03-20. Retrieved 2014-03-20.

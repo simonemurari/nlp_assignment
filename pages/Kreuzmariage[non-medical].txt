@@ -1,0 +1,84 @@
+Mariage (German: [maʁiˈaːʒə]) or Mariagenspiel is a German 6-card trick-and-draw game for two players in which players score bonus points for the "marriage" of King and Queen of the same suit. The game, first documented in 1715 in Leipzig, spawned numerous offshoots throughout continental Europe and gives its name to the Marriage group of card games, the widest known of which is probably Sixty-Six. Many of these are still the national card games of their respective countries.
+
+History
+Parlett notes that "despite claims for its invention at Paderborn, Westphalia, in 1652, it is not attested earlier than 1715," although Kozietulski stated in 1888 that it had been popular in Poland for two centuries which dates its appearance there to the late 17th century and he doubts it is of Polish origin on account of its French name and the marriage feature which appears in old French games. The 1715 record, which gives an incomplete sketch of the rules of Mariage-Spiel, is listed in a ladies' encyclopaedia printed in Leipzig that year. The game's entry said that the game was popular among ladies, and the entry for playing card listed Mariage as first among nine card games played with the German pack. Despite its name, at that stage the bonus-earning combination of mariage was for a King and an Ober of the same suit. Shortly thereafter, in 1720, Mariage-Spiel is included as an illustration in a sermon text alongside Labet and Piquet, which reinforces that it must have already been well known at that time.The 1715 rules do not specify whether tens rank high (between Ace and King) or low (between Unter and Nine) and, as late as the 1820 re-edition of the Berlin Spielalmanach, one finds the comment that Mariagenspiel is the only game in which Tens rank high (the previous edition had not included the game.) Contemporary readers of the 1715 rules would probably have assumed, incorrectly, that Tens were low. On the other hand, around the same time the related French game Brusquembille was already described with Tens ranking high. The fuller description given in later 18th century publications makes clear that Tens are high and also includes the bonus for l'Amour, Duseur or Douceur, the Deuce-Ten pair of the trump suit.By the 19th century, the game is being played with French-suited cards and the feature of closing the stock has been added. The game of Sixty-Six first appears in 1860 as a variant alongside Mariage but, by the early 20th century, has superseded it; the last effective mention of Mariage being in 1905 when it was still described as being played with 32 cards and with bonuses for amour and whitewashing, all of which were dropped in Sixty-Six.
+
+Earliest known rules (1715)
+Rules
+The 1715 rules were as follows:
+Mariagen-Spiel is played by two players, each of whom receives a hand of 6 cards. Another card is turned face-up for trump and can be robbed with the seven of trumps. While the stock lasts, after each trick players fill up their hands. As soon as the stock is depleted, players must follow suit.
+A mariage of Ober and Unter of the same suit is worth 20 points, or 40 points in trumps.  The winner of the last trick receives 10 points. Players must not announce and show a mariage before they have won at least one trick.
+The rules mention that some play a variant in which the bonus points for marriages are replaced by side-payments, so that there are always 130 points in a deal.
+
+Ambiguities
+A number of ambiguities in this description correspond to variations in the game's offshoots. The number of cards is not specified, although from the encyclopaedia's entry for 'playing card' and from other early rules for Mariage it follows that it was most likely 32. The scoring scheme is not explained, although it is likely to have been the standard Ace-Ten scheme (see table). It is not specified when and how a mariage is announced. In some modern variants, players can announce a mariage from their hands at any time, or only after winning a trick. In others a mariage occurs when Ober and Unter (King and Queen) fall into the same trick. In the second phase of the game players must follow suit, but it is not specified whether they must win the trick if possible, or whether they must trump if they cannot follow suit. All these variations exist in modern offshoots of the game.
+
+Mariage (18th century)
+The earliest known more or less complete set of rules is listed in Palamedes Redivivus in 1739. It was described as "a very easy game" played with 32 German-suited cards. The pack is shuffled and cut before 3 cards are dealt to each player, non-dealer first. Then the dealer turns the next card for trump before dealing another 3 cards to each player. Again the trump upcard may be 'robbed' (rauben), i.e. exchanged by the player with the trump 7.
+
+Announcements
+In addition to the mariage of a King and Ober of the same suit, the player with the trump Ace and Ten may announce an amour or duseur (other sources: douceur) Both must be announced before the stock is used up, although in the case of a mariage this can be done after picking up the last card. Players may only make these announcements if they have already taken a trick (and presumably when on lead, although this is not clear). An amour must be announced before a player declares any mariages. Apparently if played in ladies' circles the player announcing amour gave her playing partner a kiss, presumably in those days this was on the hand. This practice, we are told, was being extended to mixed circles.Bonuses may count towards a player's point total or earn side payments in hard score. Thus a mariage in a plain suit is worth 20 points (Augen or Points) or earns 1 groschen or 3 pfennigs paid a parte (separately). Both the amour and a bon mariage, i.e. mariage in the trump suit, are worth 40 points or earn 2 groschen / 6 pfennigs.
+
+Playing
+To begin with players do not have to follow suit. Once the stock is exhausted however, players must follow suit or trump if unable. If a player fails to win any of the last six tricks he is a 'dirtbag' (Besudelter) and "had to be washed". The feat was known as a whitewash (Wäsche, literally laundry) and scored another 40 points or earned 2 groschen/6 pfennigs.
+
+Scoring and payment
+If bonuses were paid a part, then sixty-six points were needed to win; if both players scored 65, the deal was a draw and the next deal was worth double. Although not stated, it is likely that card values followed the familiar Ace-Ten schedule and that there were 10 points for winning the last trick. A simple win was worth 2 groschen, but a player who failed to score 33 points was a Schneider (literally "tailor") or Modes Commissair and the winner earned a further 2 groschen.
+
+Later descriptions
+These rules were reprinted, with minor changes, in 1756 and 1769 in Die Kunst die Welt published in Vienna and Nuremberg. They included mention of a three-hand game – where players took turns to be the 'king', shuffling and dealing, but then not participating in the game except to receive the same winnings – and a multi-player variant which appeared to consist merely of players playing two-at-a-time around the table.
+
+Mariage (19th century)
+In 1820, von Abenstein records that Mariagespiel is now played with a 32-card Piquet pack, each player being dealt 3 cards, the 7th being turned for trump and then each player receiving 3 more. The remaining 19 cards are placed face down to form the stock (Haufen). Cards rank from highest to lowest as follows: A > 10 > K > Q > J > 9 > 8 > 7. Cards score as per the usual Ace-Ten system (see table) and the last trick scores an additional 10 points.
+
+First phase
+In the first phase, players need not follow suit; nor are they required to trump if they have no card of the led suit. As usual, a player with the trump 7 in his hand may use it to 'rob' (Rauben) the trump upcard.Bonuses are paid in hard score (see Scoring and winning). Both cards of a mariage must be held in the hand and shown at the time or its suit named. As before, a player must have taken a trick in order to declare a mariage, which may be done at any time until the first trick of phase 2 is led (the rules here are not entirely clear). No rules are given around amour, but it is likely that they are similar to those in the 18th century descriptions.A new rule is that a player may 'close the book' (das Buch zumachen) which means that no more cards may be drawn from the stock. This is an undertaking to win the deal or even the game from one's hand cards. If the bid fails, the opponent automatically wins regardless of whether he has the most card points or not. As soon as the book is closed, phase 2 rules on following suit and trumping apply.
+
+Second phase
+Once the stock is exhausted, players must follow suit or trump if unable. Announcements may no longer be made. However, now a whitewash must be announced to count.
+
+Scoring and winning
+Sixty-six card points are needed to win the deal; if both score 65, the winner of the next deal is deemed to have won both. If a player fails to make 33 points, it is a matsch and he loses double.The value of a simple game is two chips; a double game (e.g. matsch or where previous game was a draw and carried forward) earns four. A plain mariage (K + Q) earns a bonus of one chip (Marke), a bon mariage (trump K + Q), two chips, and an amour (trump A + 10), three chips. A whitewash earns six chips if won and costs six if lost.Von Abenstein gives two other soft scoring options. The first is that lines or strokes (Striche) are chalked up on a slate instead of paying chips and the first to 9 strokes wins. The second is to agree a starting total such as 27 and deduct one every time instead of paying a chip. The first to zero is the winner. Closing the book may be done to win a deal or the entire game (partie).
+
+Three- or four-hand variants
+Von Abenstein records another three-hand game played "in many regions" using 36 cards, then goes on, paradoxically, to say that it is "very rare" and will probably not catch on. Each player is dealt 5 cards only and, after each trick, players replenish their hand cards in turn. Announcements are made as per the two-hand game except that they are paid by each opponent. Again, the player with the most card points at the end of the deal wins.He also describes a four-hand game called  Kreuz-Mariage ("Cross Mariage"), also spelt Kreuzmariage, where each player is dealt 8 cards, the last one, which belongs to the dealer, determining trumps. Melds are made at the beginning, in turn starting with forehand, and the bonus is paid by each of the three other players. Again the winner is the player with the most card points at the end of the deal. There is no matsch and a player achieving a slam earns 8 chips from each player. From the outset, players must follow suit, trump if unable and head the trick if possible. The game is also played in pairs i.e. each player always playing apparently only with the one opposite him.
+
+Closing the stock
+19th century game anthologies describe closing the stock (as in the later Sixty-six) as a standard element of the game. This does not appear in the earliest published rules, though, and the later rules are very sketchy about the details of winning and scoring.
+In the first phase a player may have cards good enough to win the game even without drawing further cards. To abbreviate the game and increase the odds of making match (keeping the opponent below 33 points), the player can close the stock.
+A player closes the stock by putting the turn-up card crosswise on top of the stock. The opponent may immediately make any undeclared melds they still holds. After this, the second phase starts.
+It is implicit in the 19th century rules that it is not sufficient that the player who closes the stock win more points. In fact, the rules states explicitly that if the player fails to win, the opponent wins even with fewer points. However, the rules do not state the precise winning condition.
+
+Variations
+So long as no mariage has been melded, a player may meld l'amour, consisting of Ace and King of trumps. Like a mariage in trumps, l'amour scores 40 points. Mariage in trumps can still be melded afterwards. A player who melds mariage must kiss the opponent, provided the opponent is of the opposite sex.
+A player who holds Ace and King of the same suit can meld l'amour and score 30 points, or 60 points in trumps.
+Melding is only allowed after winning a trick and before playing out.
+For a mariage to be valid, it is sufficient to play its first card to a trick led by the opposing player and win one's first trick with it. This does not apply to l'amour.
+A player must not rob the turn-up card with the trump seven before winning his or her first trick, except when the turn-up card is the Ace of trumps.
+There is no turn-up card, and initially there is no trump suit. The first mariage determines trumps and is worth 40 points. If both players want to meld the first mariage at the same tame, eldest hand comes first. Mariage can be melded even without having any tricks.
+The 20 bonus points for whitewashing the opponent are only paid if the intent has been declared before the last two cards were drawn from the stock. Declaring a whitewash but failing to do it costs 20 points but does not necessarily lose the game.
+Instead of bonus points for melds and whitewashing, side-payments are made.
+Regional variations of 66 style games in Baden/Alsasse may require that the cards of a marriage must be won by taking tricks containing the king and queen over one or two tricks, rather than simply receiving these from the deal and kitty.
+
+Adaptations to three players
+For three players, 19th century German anthologies recommend playing the basic two-player game with one player pausing, but briefly describe a 5-card Mariage variant for three in which all players play separately. The game is won by the player who wins the greatest number of points.
+Several modern games such as Mariáš,  Tysiąc and Ulti are best understood as three-handed Mariage-based solo games. These games were developed by the influence of Skat (Tarock-family card games) mixed in Marriage-family card games. Marias for three players is no-drawing game (unlike mariage for 2 players), some variants use a bidding process (licitation) like Contract bridge. You can play this variant in four players too (dealer has a pause), there are 10 tricks made by three players and two cards put-off in talon. Another variants of Marias are four-handed solo games (32 card – 8 tricks by four players) or five-handed (6 tricks and 2 cards put off by contractor).
+
+See also
+Royal Marriage, a solitaire game in which the goal is also the union of a King and Queen
+
+Footnotes
+References
+Literature
+Cruce), Pacificus (a (1720). "Concio XXXII. I. Mariage". Sylva Spiritualis Morum, Oder: Geistlicher Blumen-Wald. Vol. 2. Augsburg and Graz. p. 127.
+Palamedes redivivus. 1739.
+Die Kunst die Welt. Vol. 2. Vienna and Nuremberg: Bauer. 1756.
+Natürliches Zauberbuch oder neu eröffneter Spielplatz rarer Künste (Part 1, new and improved ed.). Nuremberg: Wolfgang Schwarzkopf. 1762.
+Die Kunst die Welt. Vol. 2. Nuremberg: Joh. Eberhard Zeh. 1769.
+Amaranthes (1715). Nutzbares, galantes und curiöses Frauenzimmer-Lexicon. Leipzig: Gleditsch.
+Kozietulski, Stanislaw [under the pseudonym Stary Gracz] (1888). Gry y Karty. Warsaw: Synow or Orgelbrand.
+Krünitz, J.G.; Floerken, F.J.; Flörke, H.G.; Korth, J.W.D.; Hoffmann, C.O.; Kossarski, L. (1833). Oekonomische encyklopädie. Oekonomische encyklopädie (in German). J. Pauli. p. 707. Retrieved 24 September 2018.
+Parlett, David (2008). The Penguin book of card games. London: Penguin. ISBN 978-0-141-03787-5.
+Von Abenstein, G.W. (1820), Neuester Spielalmanach für Karten-, Schach-, Brett-, Billard-, Kegel- und Ball-Spieler (in German), Berlin: Hayn
+von Hahn, Alban (1905). Buch der Spiele (in German) (4th ed.). Leipzig: O. Spamer.
+The Books of Jacob Chapter 4

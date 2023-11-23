@@ -1,0 +1,164 @@
+Canasta (; Spanish for "basket") is a card game of the rummy family of games believed to be a variant of 500 Rum. Although many variations exist for two, three, five or six players, it is most commonly played by four in two partnerships with two standard decks of cards. Players attempt to make melds of seven cards of the same rank and "go out" by playing all cards in their hands. It is "the most recent card game to have achieved worldwide status as a classic".
+
+History
+The game of Canasta was devised by attorney Segundo Sanchez Santos and his Bridge partner, architect Alberto Serrato in Montevideo, Uruguay, in 1939, in an attempt to design a time-efficient game that was as engaging as Bridge. They tried different formulas before inviting Arturo Gomez Hartley and Ricardo Sanguinetti to test their game.After a positive reception of Canasta at their local bridge club, the Jockey Club, in the 1940s the game quickly spread north throughout South America in myriad variations to Chile, Peru, Brazil and Argentina, where its rules were further refined. It was introduced to the United States in 1949 by Josefina Artayeta de Viel (New York), where it was then referred to as the Argentine Rummy game by Ottilie H. Reilly in 1949 and Michael Scully of Coronet magazine in 1953. In 1949/51 the New York Regency Club wrote the Official Canasta Laws, which were published together with game experts from South America by the National Canasta Laws Commissions of the US and Argentina.Canasta became rapidly popular in the United States in the 1950s with many card sets, card trays and books being produced. Interest in the game began to wane there during the 1960s, but the game still enjoys some popularity today, with Canasta leagues and clubs still existing in several parts of the United States.
+Santos and Serrato never patented the game rules, and thus never received royalties from the later Canasta boom.
+
+Rules for classic Canasta
+Cards and deal
+The classic game is for four players in two partnerships of two. Variations exist for two and three player games wherein each plays alone, and also for a six player game in two partnerships of three. If partners are chosen, they must sit opposite each other. Canasta usually uses two complete decks of 52 French-suited playing cards with two or three Jokers per deck, making a total of 108 or 110 cards. (The number of Jokers varies depending on the deck.)
+
+The initial dealer is chosen by any common method, although in Canasta there is no privilege or advantage to being the dealer. The deal then rotates clockwise after every hand. The dealer shuffles the pack, the player to the dealer's right cuts, and the dealer deals out a hand of 11 cards to each player. The remaining cards are left in a stack in the center of the table. One card is taken from the top of the stack and placed face up to start the discard pile. If that card is wild or a red three, another card is turned and placed on top of it. That continues until a natural card or a black three is turned up.
+If a player was dealt red threes, they must instantly play them face up in front of them and draw the same number of replacement cards.
+
+Play
+The player to the dealer's left has the first turn, and then play proceeds clockwise. A turn begins either by drawing the first card from the stock into the player's hand or by picking up the entire discard pile. However, there are restrictions on when one can pick up the discard pile. (See Picking up the discard pile, below). If the card drawn from the stock is a red three, the player must table it immediately, as one would if melding, and draw another card.
+Players may then make as many legal melds as they wish from the cards in their hands. A turn ends when the player discards one card from the hand to the top of the discard pile. No player may "undo" a meld or laid card, or change their mind after drawing a card from the deck.
+
+Melds and canastas
+Each player/team keeps separate melds of the various ranks of cards. A player may never play to an opponent's meld. A legal meld consists of at least three cards of the same rank, and there is no limit on how large it can grow. Suits are irrelevant except that black threes are treated differently from red threes. Wild cards can be used as any rank except for threes. Threes may never be melded in ordinary play, although three or more black threes may be melded in the final turn of a player going out.
+A meld must consist of at least two natural cards, and can never have more than three wild cards. Examples: 5♥ 5♣ 2♥ and 9♥ 9♣ 2♥ 2♣ Jkr are legal melds. 5♥ 2♣ 2♥  is not a legal meld as it contains only one natural card. 9♥ 9♣ 9♦ 2♥ 2♣ 2♦ Jkr is not legal as it contains more than three wild cards. One team/player cannot have two separate melds of the same rank. If more cards of the same rank are melded, they are automatically merged into the preexisting meld.
+A canasta is a meld of at least seven cards, whether natural or mixed. A natural canasta is one that comprises only cards of the same rank. A mixed canasta (or; dirty, unnatural, or black canasta) is one that comprises both natural and wild cards. Once a canasta is assembled, the cards are squared up, and one of the natural cards forming it is placed on top – a red one to indicate a natural canasta or a black one to indicate a mixed canasta.
+
+Initial melds
+Each card has a specific value which determines both the score and the minimum points players need before laying down their first melds:
+
+During each hand the first time a team lays cards on the table, the cards of the combined melds must equal a minimum meld requirement based on the values of each of the cards. At the beginning of a game, both teams have an initial meld requirement of 50 points. The count towards the requirement cannot include the value of the cards a player could possibly pick up from the discard pile, but must come only from the cards in their hand and the top discarded card in case of picking up the discard pile. If the combined value does not meet the minimum requirement, they cannot play the cards on the table nor pick up the discard pile. After the first hand, the minimum meld requirement is based on a team's score before the hand starts.
+
+Example: If a player/team has a score of 1,600 and has not yet made any melds in a hand, an initial meld of 7♣ 7♦ 7♥, Q♣ Q♦ Q♥ 2♦ cannot be made as it scores only 65 points and the requirement is 90. A meld of 7♣ 7♦ 7♥, A♣ A♦ A♥ 2♦ would score 95 points and can be played. Note that both initial melds can be played if the team's total score is below 1500, and that neither can be played if the team's total score is 3000 or higher. The minimum meld requirement for a team which has a negative score is 15. As any three cards are always worth at least 15 points it effectively means any meld is sufficient for laying down the first meld(s). Once a teammate has laid down cards on the table, the partner is free to meld whatever cards are legally allowed meaning they do not have to meet the minimum meld requirement.
+
+Picking up the discard pile
+The discard pile should be kept squared up, so only the top card is visible. A player cannot look through the discard pile.
+At the beginning of the turn, a player may pick up the entire discard pile instead of drawing a card from the stock. They may only pick up the discard pile if they can use the top card, either in an existing meld or by making a new meld along with at least two other cards from the hand (which can include wild cards). Only the top card is relevant for the player/team to pick up the rest of the discard pile. In addition, if the player/team has not yet melded, they must meet the initial meld requirement using the top card of the discard pile in order to pick up the pile. In this case the points of the top card are included to meet the initial meld requirement.
+Discarding a wild card freezes the pile. The card should be placed at right angles to the pile, so that it is still visible to indicate a frozen pile after more cards have been discarded. A frozen pile may only be picked up (unfrozen) if a player can meld the top card with two natural cards of the same rank from the player's hand.
+If a wild card or a black three is on top of the discard pile, it may not be picked up. Playing a black three does not freeze the pile; it just acts as a stop card, preventing the other player from picking up the pile. The card discarded after a black three allows the pile to be picked up again (unless it is a wild card or another black three).
+The discard pile is also frozen against a player/team that has not yet melded at all this hand, though at the same time it will not be frozen for another player/team that has melded.
+
+Going out and ending a hand
+A player may go out by using all the cards in hand only if that player/team has made at least one canasta. The player goes out by melding all his or her cards and may discard a single final card if necessary. It is not required to discard a card in the process of legally going out. If the player/team has not yet made any canastas, players in that team may not make a play which would leave them with no cards in the hand at the end of the turn. If a player can legally go out, but has three or more black threes in the hand, these may be melded at this time only. The hand ends immediately when any player goes out. Going out earns a bonus of 100 points.
+When considering going out, a player may ask the partner for permission to go out. It is not required to ask partner's permission, but if done the player must abide by the partner's answer. If the partner refuses permission, the player may not go out this turn. If the partner responds "yes", the player must go out this turn.
+If a player melds the whole hand in one turn (including at least one canasta) without previously melding, they earn an extra 100 points for going out concealed, making it 200 points. To earn the bonus, a player cannot add cards to the partner's melds. It is allowed to go out concealed while picking up the discard pile. The relevant initial meld requirement must be met.
+A hand can also be ended by exhausting the stock. Play can continue with no stock as long as players are able take the previous player's discard and meld it. In such a situation a player must take the discard if able to do so. As soon as a player cannot legally take the card, the hand ends. If a player draws a red three as the last card from the stock, it is counted towards that player's score, but the hand ends immediately since there is no replacement card to be taken. The player is not allowed to meld nor discard after picking up the red three in this case.
+
+Scoring
+At the end of each hand, the score for each team is calculated as follows:
+The total value of all cards melded by that player/team, including cards in canastas minus the total value of all cards remaining in the player's/team's hands, plus any bonuses:
+
+If a player/team has collected red threes, but has not yet made the initial melds when the opposition goes out, then the bonus value of red threes counts against them (it is subtracted from the score along with the rest of the cards in their hands). If they collected all four red threes, 800 points are deducted from their score.
+It is possible to have a negative total score. The game ends when a player/team's total score reaches 5000. If both players/teams reach 5000 at the end of hand, whoever has the higher score, wins the game. The margin of victory is the difference in points.
+
+Canasta for two or three players
+Canasta can be played with fewer than four players with some variations in the rules. The most significant changes are in the number of cards dealt at the beginning of the hand and the fact that each person plays individually. In a game with three players, each player receives 13 cards. In a two player game each player receives 15 cards and each player draws two cards on each of their turns and discards one. If each player draws two cards, there is usually the additional requirement that a player must have made two canastas in order to go out.
+
+The Canasta League of America
+The CLA was established in 2013 as a result of the growing popularity of Canasta. Utilizing the rules of Modern American Canasta, the CLA, has standardized the rules through their (currently) 9th Edition of the CLA Standard Rules and Instruction for Playing Modern Canasta. The Canasta League of America reports that they have endorsed Canasta Junction for online game play which plays according to the CLA Rules. Annual Membership in the CLA is open to anyone. The Standard Rules book is available on their website.
+
+US American Canasta
+This version of Canasta is widespread, especially in the United States, and it was the official tournament version used by the (possibly defunct) American Canasta Association. American Canasta can be found in few books. One notable exception is Scarne's Encyclopedia of Card Games, where the author claims to have invented a game which he calls International Canasta. Most of the elements of Modern American Canasta can be found in Scarne's International Canasta, although there are some differences.
+
+Setup and play
+13 cards are dealt to each player.
+Two Canasts are required to go out. Play is to 8,500.
+Initial meld requirements are the same – 125 for players with less than 3,000 points, 155 for players with 3,000 to less than 5,000, 180 thereafter. Moreover, melding a complete Natural Canasta is always considered to meet the initial meld requirement, regardless of the point values of the cards involved. (There is no other bonus for such a play).
+There are some limitations on legal discards. Threes can't be discarded, the same is true of wild cards (unless the player only has Wild Cards.) If the discard pile is empty, Aces and Sevens can't be discarded.
+
+Melding rules
+Melds that do not include sevens or aces work as in "classic" canasta, except that such melds can include at most two wild cards rather than three.Melds of more than seven cards are strictly forbidden, as are duplicate melds of the same rank by the same team. This has a few strategic implications; for example, it is impossible to pick up the pile on the strength of a pair of (say) jacks in a player's hand if their team already has a meld of five jacks, natural or otherwise.Sequences (such as those that define Samba, described below) are not legal melds and play no role in the normal play of American Canasta. The closest thing to a sequence that is normally allowed is one of the Special Hands, described below.Once a player on the team has opened, the Meld Base determines how many Natural Cards need to be in a meld before one or two Wild Cards can be added. The most common Meld Base is 5. Players must agree on this prior to playing.Melds of Sevens cannot include wild cards. A canasta of Sevens is worth 2,500 points rather than the usual 500. However, if the hand ends without a team completing this canasta, that team loses 2,500 points. Retaining three or more sevens in a player's hand is nearly as bad, carrying a penalty of 1,500.Aces are treated the same way as sevens, with one exception. If a team's initial meld includes aces, wild cards may be added at that time; if this is done, the aces are treated like any other meld rather than being treated in the special way sevens are. Otherwise, all the same rules, including the potential penalties, apply to aces as to sevens.•	A crucial defensive strategy in every round is to prevent the other team from completing a Pure Seven Canasta and a Pure Ace Canasta.•	It is very important that players strive to hold two Aces and Sevens in at least one of each team member’s hand.
+•	To potentially block the other team from completing a Pure Seven Canasta, do not throw the fifth Seven on the pack. The other team could then pick the pack and get 2,500 points for a Pure Seven Canasta. 
+
+Melds consisting entirely of wild cards are legal, much like in the below mentioned Bolivia variant. A canasta consisting of wild cards is worth 3,000 points if it consists entirely of twos, 2,500 points if it contains all four jokers, or 2,000 points for any other combination. However, failing to complete a canasta once such a meld is made carries a 2,000 point penalty.It is legal to meld certain special hands as a team's first and only meld. These are hands of exactly 14 cards which a player can conceivably have after drawing their card for the turn. If a team plays a special hand, the play ends immediately; the team scores only the points for the special hand (there are no penalties for the cards in the other partner's hand). This is also the only time a player is allowed to not discard a card; even when going out, a player must otherwise have something to discard. There is considerable variation in what special hands are allowed and how they are scored. Among the most commonly accepted special hands are the following (these are the ones that were legal in the tournament version):Straight – one card of every rank, including a three (the reason a player is allowed to retain threes in their hand), plus a joker. This is worth 3,000.Pairs – seven pairs, which either do not include wild cards (worth 2,500), or include twos, sevens and aces (all three must be present – this combination is worth 2,000).Garbage – Two sets of four of a kind and two sets of three of a kind, which do not include any wild cards or threes. For example,  4♣ 4♠ 4♥ 4♦ 7♣ 7♦ 7♥ 9♣ 9♠ 9♥ 9♦ Jkr Jkr Jkr would be considered a Garbage hand. This is worth 2,000.
+There are some common House Rules which are important to discuss before playing.
+
+Other scoring rules
+Yet another variation on scoring threes is used. Scoring is 100 for one three of a particular colour, 300 for two, 500 for three or 1,000 for four; red threes and black threes are counted separately. This is a penalty if the team has no canastas at the end of the hand (and for this purpose threes in a player's hand count as though they were on the table), ignored entirely if a team has exactly one canasta, and a bonus if a team has two or more canastas.
+If a team has no complete canastas when the play ends, any cards that have been melded count against that team, in addition to any of the above penalties that may apply. A team with at least one canasta gets positive points for these cards as usual.
+
+Samba
+Samba is a variant of Canasta, played with three decks, including jokers, for a total of 162 cards. 15 cards are dealt to each of four players, and an additional card is turned up. Two cards are drawn each turn, so the pace is quicker than traditional Canasta. The game is to 10,000 points instead of 5,000. Samba allows sequence melds of three or more (for example, the 4, 5, and 6 of hearts or the Queen, King and Ace of Spades). If a player is able to make a sequence of seven (for example, the 5 through J of diamonds), this is a samba and is worth 1,500 points. Rather than four red threes being worth 800 points, six red threes are worth 1,000 points. Two wild cards is the maximum allowed for a meld. The minimum initial meld is 150 if a partnership has 7,000 or more.
+
+Other "national" canastas
+Bolivian Canasta
+Bolivian Canasta is similar to Samba, as it uses three decks and sequence melds.  Play is to 15,000. Wild card canastas (bolivias) count 2,500. A side must have a samba (called escalera in this game) and at least one other canasta to go out. Red threes only count positive if two or more canastas have been melded. Black threes are negative 100 instead of negative 5 when left in hand.
+
+Brazilian Canasta
+Similar to Bolivia, but only to 10,000. The minimum meld requirements are 150 from 5,000 to 7,000; a canasta from 7,000 to 8,000; 200 from 8,000 to 9,000; and a natural canasta from 9,000 up. Wild card canastas count 2,000. Partnerships receive 1,000 for five red threes and 1,200 for all six. If a side has a sequence of five cards or less, it loses 1,000.
+
+British Canasta
+Similar to the original rules but with the important addition of 'Acaba' (Spanish for 'The End'). A player may say this at any point during their turn and will immediately forfeit the round awarding the opposing player or team 1,500 points and receiving 0 points, ending the very dull phase where one player or team has total control over the discard deck. When playing in teams a player may ask their teammate for permission to say acaba just as they may ask before going out and they will also be bound by the response in the same way.
+
+Chilean Canasta
+Allows both sambas and bolivias. Can be played with either three decks (162 cards) or four decks (216 cards).
+
+Cuban Canasta
+A two-deck variant to 7,500. Requires 150 for an initial meld if a partnership is over 5,000. The deck is always frozen. Wild card canastas are worth between 2,000 and 4,000; depending on the number of deuces. Threes are scored only if canastas are made; they count 100 for one, 300 for two, 500 for three and 1,000 for four. Black threes are removed from play if a discard pile is taken; a partnership that removes all four black threes this way gets 100 points.
+
+Italian Canasta
+Italian canasta is a Samba variant. The number of cards in the discard pile at the beginning of the game varies with the initial card turned up. The discard pile is always frozen. Deuces may, but a partnership may not play deuces as wild cards if deuces have been melded and a canasta is incomplete. Game is to 15,000
+
+Uruguayan Canasta
+It is exactly like the original canasta, in its original version.
+
+Boat Canasta
+This variation originates in Slovakia. Since the definition of Canasta rules differed from player to player a strong urge has risen for unified rules. This in turn was satisfied by the creation of Boat Canasta, which really is a mix of other known rules, but thoroughly optimized. Currently this variant of Canasta is steadily gaining popularity mainly in Slovakia, but also in countries such as France, Germany and England.
+
+Hand and Foot Canasta
+This version is a quad deck game that is played with a hand and a foot, unlike traditional canasta that just has a hand. Hand and Foot is a Canasta variant involving four to seven decks and is played by teams of two players (usually two teams, but it also works with three or four teams). The number of decks used is typically one more than the number of players, though this can vary. Due to the larger pool of available cards, it is much easier to form canastas in Hand and Foot than in standard Canasta, which changes the strategy considerably. Some players feel this version is more enjoyable for beginners. The variant was born in the 1970s; commercial decks to play Hand and Foot have been available since 1987. Important rule changes for this variant include:
+
+Each player is dealt two piles of 11 cards, which will be referred to as the "hand" and the "foot". The hand is picked up normally, while the foot remains face down until the hand is exhausted.
+A player who melds all cards from the original hand picks up the foot as a new hand and continues playing. A player who exhausts the original hand by discarding picks up the foot as a new hand, but does not play from it until the next turn.
+On each turn, players draw two cards from the stock. Each player discards one card on each turn.
+The number of canastas required to go out are three red (natural or clean, i.e. no wild cards) and four black (mixed or dirty, i.e. with wild cards) canastas. When playing a singles game (that is, without partners), the requirement is one red canasta and two black canastas.
+Discards may be picked up with a natural pair, but a player must take the top five cards from the discard pile.
+Threes may not be melded; so, since the only way to get rid of them is by discarding them one at a time, the number of threes in a player's hand represents a minimum number of turns before a player could possibly go out.
+Black threes (in a player's hand or foot) score five points, red threes are scored as negative 300 points.
+
+Initial melds
+At the beginning of a game, both teams have an initial meld requirement of 50. The requirement increases in value in subsequent hands.
+
+Rules for going out are:
+A player must have a minimum of three red (no wild cards) and 4 black canastas.
+A player asks their partner for permission to go out.
+
+The scoring
+At the end of each hand, the score for each team is calculated as follows:
+The total value of all cards melded by that player/team, including cards in canastas minus the total value of all cards remaining in the team's hands, plus any bonuses:
+
+Point values are:
+
+Miscellaneous variations for Classic Canasta and other types
+The discard pile is blocked for canastas. Only non-canasta melds can be used to pick up the discard pile.
+The number of wildcards in a meld must always be less than the number of natural cards.
+Card points inside canastas are counted as well as the canasta score.
+Real jokers can not be discarded and thus can not be used to block the discard pile
+The initial meld must be done before the discard pile can be taken, so the points of 2 natural cards together with the discard top card are not added to the initial meld requirement score.
+There is a special case where any player/team that manages to meld 7 canastas in one hand (natural or mixed) automatically gain 5000 points and thus win the game.
+A number of cards other than 11 may be dealt at the beginning of the game, 13 and 15 being common choices. Some groups vary the number of cards drawn inversely with the number of players.
+To make picking up the discard pile more challenging, require that a natural pair be played on the same turn that the pile is picked up.
+A concealed canasta occurs when a canasta is melded directly from a player's hand. Usually in also going out: going out concealed which earns an extra 100 point bonus over the standard 100 point going out bonus.
+One variant allows melding up to three wild cards in a meld, regardless of the number of natural cards melded.
+When the stock is depleted, consider flipping over the discard pile and turning it into a new stock to extend play.
+Another variation is to only take 10 cards after taking the discard pile. This allows for the game to be much more balanced the further you get into a round.
+
+In popular culture
+In the J. D. Salinger novel The Catcher in the Rye, protagonist Holden Caulfield says of fellow student Ackley, "'Listen,' I said, 'do you feel like playing a little Canasta?' He was a Canasta fiend."In the James Bond novel Goldfinger by Ian Fleming, Bond finds the titular villain, Auric Goldfinger, cheating at canasta with the help of a confederate who spies on the game from a hotel room balcony and feeds him information via radio.David Bowie refers to this card game in his art rock song "Lady Grinning Soul": She'll drive a beetle car and beat you down at cool canasta.
+Lucy Ricardo (Lucille Ball) and Ethel Mertz (Vivian Vance) play canasta (or are referenced as being regular players) in a few episodes of the classic U.S. sitcom I Love Lucy (1951–1957) such as "Job Switching" et al.
+
+See also
+Rummy
+Desmoche
+Mille (card game)
+Continental (card game)
+Ponytail Canasta
+
+References
+Bibliography
+Culbertson, Ely, Culbertson on Canasta: a Complete Guide for Beginners and Advanced Players With the Official Laws of Canasta, Faber 1949
+Holmberg, H.H. and Öhrling, Erkki, Canasta, Samba ja Sitoumussamba, 1962
+Morehead, Albert, Hoyle's Rules of Games (Third edition), Signet, 2001
+Parlett, David (2008). The Penguin Book of Card Games. London: Penguin.
+Scarne, John, Scarne's Encyclopedia of Card Games, 2001
+Collins, Dara and Miller-Small, Donna Modern American Canasta: The Complete Guide, Instruction for beginners and Strategies for seasoned players as well as the most commonly played rules.
+
+External links
+How Stuff Works – How to Play Canasta
+History of Canasta Archived 2017-01-21 at the Wayback Machine

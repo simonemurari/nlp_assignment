@@ -1,0 +1,80 @@
+Klammern is an Ace-Ten card game and variant of Jass, which is particularly widespread in the Alemannic region. It is played mainly in Switzerland, Liechtenstein, the Austrian state of Vorarlberg and in parts of southern Germany and Alsace. But the game is also finding more and more fans in the north-west of Germany, mainly in North Rhine-Westphalia. In Hamburg the game goes under the name Klapperjazz or Klapperjass and was initially played mainly by stevedores for "nen Heiermann", a 5 Mark piece. A die was used to keep score. In other parts of North Germany it is called Klappern or Klapper-Jas and was popular in the 1950s and 60s in pubs and bars and also among lorry drivers as they waited, for example, for customs clearance at Hamburg's free port.
+
+Rules
+In Klammern, 4 players play in two teams of 4 using a 32-card French-suited pack. The partners sit opposite each other. But it is also possible for just two or three to play with each player playing alone. These variants are often practised in the Berlin area.
+The aim of the game is to score as many points as possible.
+
+Cards
+Cards have the usual Ace-Ten values and ranking with the exception of two special trumps: the trump Jack, called Jappa (also called Jass in NRW and Hamburg), which is the highest trump, and the trump 9 or Mie (pronounced "Mia"), which is the second highest trump. Jappa is worth 20 points and Mie 14 points. The card values are:
+7, 8, 9: 0 points
+Jack: 2 points
+Queen: 3 points
+King: 4 points
+Ten: 10 points
+Ace: 11 points
+Mie: 14 points
+Jappa: 20 pointsThe ranking of the cards in the trump suit in descending order is: Jappa (J) >  Mie (9) > A > 10 > K > Q > 9 > 8 > 7. In the side suits the order is: A > 10 > K > Q > J > 9 > 8 > 7.
+
+Deal  and trumps
+The cards are always dealt in packets of 3-2-3. The middle of the dealer's last 3 cards is revealed as the proposed trump suit.Forehand (the player to the dealer's left) may play the suit of the upcard by accepting with the words "I'm going in" (ich gehe rein) or may reject the suit. Then it is the turn of the next player to the left, and so on. Thus, the players are always asked in clockwise order whether they want to accept the revealed suit as trumps or not.
+If no player wants to play the suit of the upcard, the dealer takes the card back and forehand may then announce a "little one" (Kleines), which he can use to specify a trump suit, unless another player calls "better" (Besser). If no player announces "better", the player who announced "little one" may choose the trump suit. However, if a player has called "better" then Clubs is automatically trumps.
+If forehand does not have a trump suit that is worthwhile playing (i.e. too many low cards or too few cards in one suit), he can reject a "little one" and the next player is then asked. If all players reject a "little one", the cards are thrown in and the same dealer redeals.
+
+Play
+During the game it is mandatory to follow suit. If you are unable to follow suit, you must play a trump. All subsequent players must overtrump in their turn if they are also unable to follow suit. If unable to overtrump a player may underplay with a trump card. If you can neither follow suit nor trump or overtrump, you may discard a card of a different suit.It makes tactical sense to give your partner a high value card in order to get a higher total of points at the end.
+
+First trick
+Forehand opens and may play any card. It is now necessary for each player in turn to meld combinations known as Terzen (singular: Terz, a sequence of three cards) or  Fifties (a sequence of four or more). In these sequences, the 10s and Jacks take their natural positions e.g. ...Q > J > 10 > 9...The played trick cards remain face up until it is clear who has the highest meld.
+A Fifty is always higher than a Terz. If 2 or more players have a Terz, the highest Terz always wins. If someone has a Terz headed by the Queen and someone else has a Terz up to the King, the latter wins.
+If 2 players have a Terz of equal value, for example both have a Terz up to the 
+Queen (10, J, Q), the one in the trump suit wins; if neither is in trumps the first meld wins (a variation that is not very common: the higher-ranking suit wins. The suit ranking in this case is: ♦ ♥ ♠ ♣) The precedence of Fifties is treated in the same way.
+The winner with the highest meld must show it to everyone else along with any other melds held. The winner's partner can now also show melds if held. A Terz scores 20 bonus points and a Fifty scores 50 bonus points. These points are added to the total points earned by the team for that deal.Once Terz and Fifty melds have been decided, the opponents now have the option of announcing "Contra" ("Kontra"). This indicates they are sure that the opponents will lose the game and thus doubles the "little " points. Now the other side has the opportunity to announce a "Re" which redoubles the little points.
+Terz and Fifty must be announced before the second trick. If the second trick has already taken place when they are announced, the points scored for Terz and Fifty are forfeited.
+
+Other melds and bonuses
+In addition to the bonus points for melding Terzen and Fifties players may score further bonuses during subsequent play as follows:
+
+BellaBella or Belle is the King and Queen of the trump suit. A player with this meld must announce "Bella" when discarding the first of the two cards (it doesn't matter which one). This scores 20 bonus points. Bella is not announced during the first trick. Moreover, the trump King and Queen have no special value on their own; they are normal trump cards and do not have to be announced. If Bella is not announced when discarding the trump Queen or trump King, the bonus points are forfeited.
+Last Trick.Winning the last trick attracts a 10 point bonus.
+
+Example
+Player A has a Terz (9, 10, jack), B has a Terz (7, 8, 9), C has 2 Terzen (2 × 8, 9, 10), and D has a Terz (Q, K, A).
+Thus, player D has the highest meld and B and D get the bonus for their team. In this case, B and D receive 40 points, since the two players have two Terzen between them.
+However, if D did not have a Terz, A and C would win and they score 60 points since the two players have three Terzen between them.
+In every game there is Jappa, Mie and the last trick. These together score 44 points. In addition, there are 120 points for the rest of the pack making 164 in toto. Half of the maximum, excluding melds, is 82 points.
+If melds are announced (Terz, Fifty, Bella, etc.), the so-called Beet (half of all possible points) increases by half the value of the melds.
+For example, a Terz increases the total by 10 points and a Fifty by 25 points, resulting in a Beet of 92 or 107 points.
+
+Scoring
+There are "small games" and the "big games". The team that starts a game and then wins it and plays it themselves get a small point.
+If the opposing team says "Contra", the winning team then receives 2 points.
+If the opposing team played and lost, the game is worth 2 small points (with Contra: 4 points).
+If there was a tie, i.e. both teams score e.g. 82 points without there having been a meld, the game counts as lost for the playing team. The playing team must always get one more point to win.
+It takes 5 small points to earn a "big" point. If you win the small game 5:0, this is a Kalte and scores 2 big points.
+If the big game is won, the next game starts again at 0:0, even if the previous game was won e.g. 6:3.
+If a team has 4 points in the "small game", it is in the Laube (trees). This means the opposing team to play every subsequent game if possible.
+
+Revoking
+Following suit is mandatory. If a player revokes i.e. discards the wrong suit despite holding a card of the led suit, the deal ends immediately. If the team has earned the necessary points to win by then, the point goes to them, otherwise the other side has won the deal. Terzen, Fifties and Bella may be added to the result - provided they have been properly melded beforehand. However, Jappa and Mie may not be counted if these cards are not in a trick. In other words, a player still holding the Mie or Jappa may not score them. Since the last trick was not played there is no bonus for that either. (Variant: all available points in the game are attributed to the team that played "clean", including points for Jappa, Mie, Bella and Terz or Fifty.)
+
+Matches
+In order that a Klammer evening doesn't just consist of 2 or 3 games (Partien), a league format is usually used. This is how a full match (Liga-Partie) goes, e.g. up to 51 points. The points counted after an individual game are converted into "match points" (Augen). One match point is worth 10 game points (e.g. 50 game points= 5 match points; 110 game points= 11 match points). 5 game points are rounded up to the next highest multiple of 5 (e.g. 55 game points = 6 match points; 115 game points = 12 match points; 64 game points = 6 match points).
+
+March
+It is possible to win the match early. All that is required is a game without a “countertrick” (Gegenstich). A player confident of playing a game and taking every trick may announce this before the deal starts. This move is called a march (Klammer Jass or Durchmarsch). If the march is successful, that player wins the entire match. That's how it is possible to win a match outright, even if you are 50 game points behind.
+However, if the opponent manages to take a trick, the match is also over and the player who attempted the march has lost. The match is won by the opponent with the most match points in the match at that point.
+
+Rule variations
+In the Hamburg area, the game is called Klabberjazz and is scored as follows:
+A player who plays the faced suit, i.e. the original trump, plays what is called an Orgi ("Original"). If all reject the upcard as trumps, a player playing in a different suit, plays a "little one".
+At the end of a deal the points are counted, but these are only evaluated from deal to deal. A game won is indicated by turning a die, which starts at "six". Each player or team (if there are four players) has a die. The player or team whose die comes back to “six” first wins the round.
+A successful Orgi scores 2 points to the player who played trumps. If the Orgi is lost, the opponents receive 4 points. If the "little one" is won, the player who declared trump gets 1 point. If the player loses his "little one", the opponents receive two points.
+Example: Ben wins an Orgi that he played himself in the first deal of a round, so he may turn his die from six to two. Sue wins a "little one" in the first deal of a round, which she played herself, so she turns her die from six to one.
+
+References
+Literature
+Egg, Göpf and Albert Hagenbucher (2007). Puur, Näll, As: Offizielles Schweizer Jassregelement. 9th edn. Neuhausen am Rheinfall: AGM. ISBN ISBN 3-905219-96-4
+
+External links
+Klabberjass - rules from Das Alte Land region of North Germany.
+Klammern website

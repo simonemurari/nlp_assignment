@@ -1,0 +1,33 @@
+Acoustic epidemiology refers to the study of the determinants and distribution of disease. It also refers to the analysis of sounds produced by the body (coughs, sneezes, wheezing, etc) through a single tool or a combination of diagnostic tools.In many cases, epidemiologists have worked across multiple disciplines and used different technologies in order to find answers pertaining to disease distribution. For example, in the 1800’s, John Snow determined that cholera was plaguing Europe through contaminated water. This led to the decision to remove a pump that was the cause of this contamination, thus effectively ending the epidemic. More broadly, Snow’s epidemiological efforts led to the development of sewage drainage and water purifying systems in other areas.As COVID-19 developed, genomic epidemiologists began using whole genomes to study the disease. On the CDC’s website, they have posted a “COVID-19 Genomic Epidemiology Toolkit”, which provides a means to expand the field of genomic epidemiology with regards to COVID-19 within state and local populations.Acoustic epidemiology is a field that studies bodily sounds, such as coughs and breath sounds, in order to better identify determinants and distribution of disease. Following in the footsteps of epidemiological tools and efforts such as those outlined above, acoustic epidemiology is concerned with using body sound data to improve disease surveillance capabilities for COVID-19 and any other applicable diseases of the future.
+
+Clinical relevance
+Being that epidemiology is a population-based area of study, findings from acoustic disease surveillance are important on a large scale, and have far-reaching implications for society as a whole. Cough and breath sounds provide rich epidemiological data.
+
+Baseline Measurements and Deviations
+Studying respiratory sounds and identifying deviations from baseline is an invaluable epidemiologic tool. On a community and population level, this can help to determine to what extent a disease may be spreading or changing. One of the major themes of concern throughout the COVID 19 pandemic has been travel safety, hotspots, and outbreaks in certain areas.
+
+Acoustic Epidemiology Through Use of Smartphone Apps
+As a means to overcome some of the restrictions imposed by the COVID-19 pandemic, smartphone apps were developed to capture and analyze respiratory health data safely.In a 2020-2021 study of acoustic epidemiology, in Navarra, Spain, the Hyfe app was used to track respiratory sounds in over 800 study participants.
+
+Syndromic Surveillance
+Syndromic surveillance is a complementary, and potentially faster method of health data collection and analysis as compared to standard methods of public health monitoring.
+
+Examples of Syndromic Surveillance
+Instances of syndromic surveillance are easy to find. Examples include:
+Logs that record missed school or work due to illness
+Symptoms recorded on patients in emergency rooms
+How often certain lab tests are ordered and performed
+
+Bias in Syndromic Surveillance
+Sources for syndromic surveillance may be biased, as they vary based on healthcare access in a given area. Therefore, some have questioned whether certain common methods of syndromic surveillance are truly representative of the larger population.
+
+The future of acoustic epidemiology
+The value of being able to track signs of deviations from baseline with regards to respiratory sounds at a population level is becoming clear through research. Epidemiologists predict that respiratory viruses could continue to be a problem in the future. Therefore, effective monitoring of acoustic data will need to be easy, affordable, and available on a wide scale.
+
+See also
+Cough Tracking
+Respiratory Health
+Pulmonary System
+
+
+== References ==

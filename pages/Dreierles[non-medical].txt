@@ -1,0 +1,60 @@
+Dreierles is a three-handed, trick-taking Tarot card game that is popular in the German region of central Baden. It is very old and appears to be a south German cousin of Tapp Tarock, the oldest known 54-card Tarot game. Dreierles is played with Cego cards - the only surviving German Tarot cards still produced. German soldiers fighting with Napoleon almost certainly introduced a Spanish modification to Dreierles that produced Baden's national game of Cego. Its relative simplicity makes it a good introduction to games of the central European Tarot family, usually called Tarock games.
+
+Name
+The origin of the name Dreierles and its alternatives, Dreierle and Dreier, is in its lowest contract, Dreier ("three-er"), which involves picking up three of the six cards in the blind (Blinder) and discarding three to one side. 
+Another name for the game is Stroßewartscego (Straßenwartscego, literally "Roadworkers' Cego"), the name implying that it is played as a substitute for Cego when a fourth player cannot be found; however, it is quite a different game from Cego. Stroßewartscego should not be confused with another regional game, Strassenwart or Vier-Anderle, which is also played with Cego cards but is not a true Tarock game.
+
+History
+The earliest record for this game dates to 1917 when, as Dreierle, it is mentioned in a poem in a Baden trade journal alongside Skat and Jassen. And during the Second World War, a tribute to a 75-year old railwayman says that, although he's having to look after the farms of his two sons who have gone to war, he is still able to enjoy his favourite pastime, Dreierlespiel.
+A 1951 article that assumes Dreierles is a simplified 20th-century variant of Cego and confirms that it was played in the 1920s. However, Michael Dummett pointed out that Dreierles almost certainly pre-dates Cego and that the latter was derived from the former. This explains the popular but misleading story that Cego was Spanish and brought home sometime after 1812 by Baden soldiers fighting for Napoleon in Spain. Martin and McLeod believe it is almost certain that, in fact, Cego was created from Dreierles when a major modification in the use of the blind was imported from a Spanish version of Ombre called Cascarela, and that this accounts for the story that Cego was brought to Baden by Napoleonic soldiers after 1812. This is also consistent with the fact that, if one strips out features that appear to have been borrowed from Skat, the rules of Dreierles are very close to the earliest known ones for Tapp Tarock, hitherto considered the progenitor of all 54-card Tarock games. Dreierles could therefore have been common in Baden before 1812 and may even be the direct ancestor of Tapp Tarock itself.
+
+Distribution
+Baden is the only region of Germany where Tarock games are still played today. Dreierles is the less common of the two games played here, however, in central Baden around Rastatt, Cego cards are only used for playing Dreierles, while Cego itself is played in south Baden, south of the River Acher. In recent years, Dreierles tournaments have been held in Bühlertal, Iffezheim, Steinmauern, and Ottersdorf, all in the county of Rastatt, as well as in Achern in the county of Ortenau. The game is also known in Malsch near Karlsruhe and east of Rastatt.
+
+Cards
+Dreierles is played with a 54-card Cego pack. There are two quite different patterns of Cego cards available today, both available online: one is an Animal Tarot pack, known as the Adler Cego pattern, and the other is a Bourgeois Tarot design, sometimes called the Black Forest Cego, the main difference being in the design of the Tarot, or trump, cards themselves (see illustration).Both patterns have 22 trumps; all bar one numbered with Arabic numerals. The highest is the unnumbered Fool, called the Stiess (pronounced "shteess") or Gstiess, and the rest rank in numerical order from 21 (highest) to 1 (lowest). An individual trump is called a Trock, Drock or Druck in the Baden dialect. The Stiess, the 21 and the 1 are collectively called the Droll or Drull. In the plain suits there are 32 cards ranking from high to low as follows:
+♥ and ♦: King, Queen, Cavalier, Jack, Ace, 2, 3, 4
+♣ and ♠: King, Queen, Cavalier, Jack, 10, 9, 8, 7
+
+Rules
+McLeod states that the rules of Dreierles are simpler than those of comparable Tarock games and that it is therefore a good introduction to the family.
+
+Introduction
+There are three players, the declarer playing alone against the two defenders. If four play, each player takes it in turn to deal and sit out. Dreierles is usually a penny ante game typically played for 10¢ per game point. Deal and play are anticlockwise. The dealer shuffles and offers the cards to the left for cutting, then takes the top six and lays them face down as the blind (Blinder or Tappen) before giving each player 16 cards each in 2 rounds of 8.
+
+Auction
+There are four positive bids which indicate how many cards the player will draw from the blind. In ascending order they are:
+
+Dreier (3 cards)
+Zweier (2 cards)
+Einer (1 card)
+Solo (none).Beginning with forehand (player to the right of the dealer), players bid once only and must outbid any earlier bids. There is no holding. If all pass, a  Räuber (robber) is played (see below). The highest bidder becomes the declarer. The opponents or defenders take the bid number of cards from the top of the blind, expose them and hand them to the declarer. They then pick up the unused portion of the blind without revealing them to the declarer, look at them and then lay them face down again; they count to the defending side at the end. Meanwhile, the declarer discards the bid number of cards to one side leaving 16 in hand; the discards counting to the declarer at the end. Kings and trumps may not be discarded. After discarding, the declarer says "ready" (fertig), whereupon a defender who bid at least Dreier may double the game value by knocking on the table. The declarer may redouble by knocking in reply.The declarer may announce an intention to take the last trick with trump 1 (pictured), the Pfeife ("fife" or "pipe"), by placing it face up on the table and leaving it there until it is played. This doubles the normal bonus of 1 game point for winning the last trick with it.
+
+Räuber
+If all pass, the blind is set aside and a Räuber played. The player who scores the most points in cards loses. Beginning with forehand, players may knock to double the game value. Forehand leads to the first trick. The Pfeife must be played to the third trick if possible. Trump 21 may not be played to a trick to which the Stiess has been played unless its holder has no other trump. The loser pays the others 2 game points each x the number of knocks. If two tie with the highest points, they each pay 1 to the third player (x 2 for each knock).
+
+Play
+The declarer leads to the first trick. Suit must be followed if possible; failing that a player must trump with a Druck if able. The trick is won by the highest trump or the highest card of the led suit if no trumps are played. The trick winner leads to the next trick. The declarer's tricks are stored with his or her discards; the defenders keep their tricks in a common pile with the unused blind cards.
+
+Scoring
+Players tot up their card points using the usual Tarock scoring scheme. The declarer needs 36 to win. Once the winner is determined, players calculate their game points. The winning side scores 1 game point for every five card points, or part thereof, over 35 and multiplies the result by the factor for the contract (see below), e.g. in a Zweier won with 46 card points there are 46 - 35 = 11 overshoot points which is rounded up (never down) to 15 for scoring purposes. So the declarer scores 15/5 x 2 = 3 x 2 = 6 game points. Players then add any bonus game points they have earned. Note that even if the declarer wins every trick, the unused cards in the blind still count to the defenders. The contracts and their factors:
+There are two types of bonus: those for combinations held in the hand at the start and those for winning the last trick with the Pfeife. The hand bonuses are personal: they are won by the individual holding that combination. The Pfeife bonuses can be team bonuses i.e. if the declarer loses the Pfeife in the last trick or fails to win an announced Pfeife, the bonus is won by both defenders. They score as follows:
+Example: Anna, Bernd and Catrin have agreed a basic tariff of 10¢. Anna plays an Einer (value: x3), lays down the Pfeife (hoping for a 20¢ bonus if she wins the last trick with it), wins the game with 43 card points and claims a bonus for Ten Trumps, but loses the Pfeife in the last trick. Bernd claims 4 Kings. So Anna earns 60¢ for the win (20¢ for the 8 card points over 35 multiplied by 3 for the Einer) and 10¢ for the Ten Trump bonus making 70¢ in all. However, she has to pay out 20¢ for the lost Pfeife, so she only receives a net 50¢ from each opponent and has to pay Bernd 10¢ for his bonus making her total winnings 2 x (60¢ + 10¢ - 20¢) - 10¢ = 90¢. Meanwhile Bernd receives 10¢ from each of the other two for his Four Kings bonus, but has to pay Anna 50¢ so ends up with a net -30¢. Meanwhile Catrin earns nothing, but has to pay Anna 50¢ for her win and Bernd 10¢ for his bonus finishing with -60¢.
+
+Ending
+A session may be played for an agreed number of rounds (a round being three deals). The last round is often played as a "Räuber or Solo" i.e. if no-one wants to play a Solo, a Räuber is played which may, by agreement, be valued at 4 game points instead of 2. Once a Solo is bid, only an opponent who hasn't yet bid may knock.
+
+Variations
+Local variations to the nomenclature, scoring and other rules are described on the Dreierles page at pagat.com.
+
+Footnotes
+References
+Literature
+Blümle, Gerold (2018). "Das badische Nationalspiel Cego" in the Wirtschaftliche Freiheit, 30 July 2018.
+Martin, Ulf and John McLeod (2018). "Playing the Game: Dreierles" in The Playing-Card, Vol. 47, No. 2, 81–84.
+Schlager, Friedrich (1951). "Das badische Nationalspiel "Zego" und die andern in Baden und an Badens Grenzen volksüblichen Kartenspiele." In Beiträge zur Sprachwissenschaft und Volkskunde: Festschrift für Ernst Ochs. Lahr (Schwarzwald): Moritz Schauenberg, 293–307.
+
+External links
+Dreierles rules in English at pagat.com.
+Dreierles rules in German by Karlheinz Hornung.
+Dreierles - Ein Badisches Kartenspiel. Rules as recalled from her childhood by Walburga Rademacher.

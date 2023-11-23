@@ -1,0 +1,38 @@
+Pupillary distance (PD), more correctly known as interpupillary distance (IPD) is the distance in millimeters between the centers of each pupil.
+
+Interpupillary Distance Classifications
+Distance PD is the separation between the visual axes of the eyes in their primary position, as the subject fixates on an infinitely distant object.
+Near PD is the separation between the visual axes of the eyes, at the plane of the spectacle lenses, as the subject fixates on a near object at the intended working distance.
+Intermediate PD is at a specified plane in between distance and near. 
+Monocular PD refers to the distance between either the right or left visual axis to the bridge of the nose, which may be slightly different for each eye due to anatomical variations but always sums up to the binocular PD.
+For people who need to wear prescription glasses, consideration of monocular PD measurement by an optician helps to ensure that the lenses will be located in the optimum position.Whilst PD is an optometric term used to specify prescription eyewear, IPD is more critical for the design of binocular viewing systems, where both eye pupils need to be positioned within the exit pupils of the viewing system. These viewing systems include binocular microscopes, night vision devices or goggles (NVGs), and head-mounted displays (HMDs). IPD data are used in the design of such systems to specify the range of lateral adjustment of the exit optics or eyepieces. IPD is also used to describe the distance between the exit pupils or optical axes of a binocular optical system. The distinction with IPD is the importance of anthropometric databases and the design of binocular viewing devices with an IPD adjustment that will fit a targeted population of users. Because instruments such as binoculars and  microscopes can be used by different people, the distance between the eye pieces is usually made adjustable to account for IPD. In some applications, when IPD is not correctly set, it can lead to an uncomfortable viewing experience and eye strain.
+
+Measuring pupillary distance
+Binocular PD measurements are done from pupil to pupil while monocular PD measurements are from either right or left pupil to center of the nose bridge. Measurements are  typically reported in millimeters. The average pupillary distance for adults is about 63mm. Different methods for measuring exist but accurate measurement can usually be determined by an eye care professional (ECP) during an eye examination. This is traditionally done with a small ruler referred to as a "PD stick", but nowadays it is more likely done using a corneal reflex based instrument placed on the nose bridge and work by sighting the corneal reflection produced by an internally-mounted coaxial light source (e.g. Essilor Corneal Reflection Pupillometer). This type of instrument, which is commonly referred to as a pupillometer, albeit incorrectly, may also be used to verify PD measurements taken with a PD stick.As an alternative to having PD measured by an ECP, a variety of web and mobile (Android and iOS) apps are now widely available. Web apps are used by a variety of online sellers of eyeglasses where an object of known size, such as a credit card, is needed to assist (size reference) the measurement process.
+Some mobile apps have eliminated the need for a reference object to make accurate PD measurements by leveraging depth imaging and advanced algorithms now available on some mobile platforms. These tools have become more prevalent as online purchasing of eyewear became more popular. Purchasing glasses online can be a potential problem if the PD measurement isn't available.
+In both the UK and most of Canada (excluding British Columbia),
+the PD measurement is categorized under dispensing rather than eyewear prescription of the person whose eyes were tested, thus there is no obligation for PD to be provided on patient request.
+
+Viewing devices
+Devices such as stereo microscopes have small exit pupils, and adjustment for user IPD is necessary. These devices can be designed to fit a large range of IPDs as factors such as size and weight of the adjusting mechanism are not overly critical. In contrast to microscopes, the weight and bulk of night vision goggles (NVGs) and helmet-mounted displays (HMDs) are large factors for wearing comfort and usability. The ANVIS 9 aviation NVGs have an adjustment range of 52 to 72 mm. The Rockwell-Collins XL35 and XL50 binocular HMDs have a range of 55 to 75 mm. The US Department of Defense 1988 Army Survey can be used to evaluate the percentage of the US Army population captured by these ranges.
+Binocular HMDs can be designed with a fixed IPD to minimize weight, bulk and cost. The fixed-IPD design strategy assumes that the exit pupil will be large enough to capture the IPD range of a targeted population. An adjustable IPD design assumes that the lateral adjustment range in conjunction with the exit pupil size is required to capture the targeted population.
+
+Databases
+Anthropometric databases are available that include IPD. These include the US Department of Defense's Military Handbook 743A and the 2012 Anthropometric Survey of US Army Personnel. These databases express the IPD for each gender and sample size as the mean and standard deviation, minimum and maximum, and percentiles (e.g., 5th and 95th; 1st and 99th, 50th or median). Representative data from the US Army's 2012 anthropometric survey are shown in the following table.
+
+Interpupillary distance (IPD) varies with respect to age, gender and race. The stereoscopic optics industry also has to take IPD variance and its extrema into account, because optical products need to be able to cope with many possible users, including those with the smallest and largest IPDs.
+
+Other applications
+IPD is also used in binocular vision science. For example, a bench-top haploscope may require setting the mirror separation for each experimental subject. Other experimental presentations may require the use of IPD to control for ocular convergence and binocular depth.Several binocular HMDs that support night vision position the sensors on the sides of the helmet, effectively extending the IPD by approximately 4x and creating hyperstereopsis. Hyperstereopsis increases ocular convergence and causes near objects to appear closer and with exaggerated depth and slant.
+IPD application is found in stereoscopy, virtual reality headsets gaming, education and training.
+
+See also
+Eyeglass prescription
+Ophthalmology
+Optometry
+Pupilometer
+
+References
+External links
+Variation and extrema of human interpupillary distance (pdf document)
+Optical Abbreviations and Glossary (pdf document)

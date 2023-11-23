@@ -1,0 +1,86 @@
+The Maddox rod test can be used to subjectively detect and measure a latent, manifest, horizontal or vertical strabismus for near and distance. The test is based on the principle of diplopic projection. Dissociation of the deviation is brought about by presenting a red line image to one eye and a white light to the other, while prisms are used to superimpose these and effectively measure the angle of deviation (horizontal and vertical). The strength of the prism is increased until the streak of the light passes through the centre of the prism, as the strength of the prism indicates the amount of deviation present. The Maddox rod is a handheld instrument composed of red parallel plano convex cylinder lens, which refracts light rays so that a point source of light is seen as a line or streak of light. Due to the optical properties, the streak of light is seen perpendicular to the axis of the cylinder.
+
+Equipment required in Maddox rod testing
+Maddox rod
+Light source at near (33 cm) and at distance (6m)
+Base in, base out, base up, base down prisms
+Trial frames
+
+Indication of use
+The Maddox rod test should be used in cases of:
+
+Small to moderate (i.e..<25pd) vertical deviations where there is simultaneous perception and normal retinal correspondence (NRC)
+Decompensated phorias.
+Acquired strabismus (rather than congenital or early onset)
+
+Method of assessment
+The method of assessing near and distance fixation is similar.
+
+Method for measuring horizontal deviations: 
+
+When performing the clinical test, the room lights should be dimmed and only one light source should be visible.
+When testing at near, the patient is to fixate on light source at 33 cm, which is held at eye level. When testing at distance, the patient is to fixate on a light source at 6m.
+Patient is instructed to fixate on the light source with both eyes opened.
+The Maddox rod is then placed over the fixating eye.
+To measure the horizontal deviation, the Maddox rod is placed in front of the right eye (it is done on both eyes) with the cylinder horizontal, making the red line vertical. The patient is then asked whether the white light is superimposed on the red line, or if it is to the left or right of the red line.If the patient saw a red line to the right and white light to the left, they are said to have esotropia or esophoria (uncrossed diplopia) in which base out (BO) prisms of increasing strength are used until the lines are superimposed.
+If the patient saw a red line to the left and white light to the right, they are said to have exotropia or exophoria (crossed diplopia) in which base in(BI) prisms of increasing strength are used until the lines are superimposed.Method for measuring vertical deviations:
+1. The Maddox Rod is help in front of the patient's right eye with the cylinders vertical, making the red line horizontal.
+2. The patient is then asked whether the white light is superimposed on the red line or if it appears above or below the red line. 
+
+If the line appears below the light, there will be a hyper-deviation in which base down prisms are used to measure and correct the deviation.
+If the line appears above the light, there will be a hypo-deviation and base up prisms are used measure and correct the deviation.
+If the white light is superimposed on the red line, there are no vertical deviations present
+
+Recording
+Examples of recordings are shown below:
+MR: sc (F) L/R 5∆ eso 8∆ (FR)
+MR: sc (F) L/5∆ eso 8∆ (FR)
+MR: sc (F) 5∆ BD 8∆BO (FR)
+sc: without correction 
+- F: far 
+- N: near 
+- FR: fixing right
+- FL: fixing left 
+- BD: base down prisms
+- BU: base up prisms
+- BO: base out prisms
+- BI: base in prisms
+- eso: esotropia
+- exo: exotropias
+- L/R: left hypertropia or right hypotropia
+- R/L: right hypertropia or left hypotropia
+
+Double Maddox rod test
+The double Maddox rod test can also be used to assess torsion and measure cyclotropias.
+The room lights should be dimmed and only one light source should be visible
+Maddox rods are placed into the trial frames, one before each eye
+Cylinders are placed into trial frame vertically, making the two red lines horizontal
+Vertical prism ( base-up, or base-down) can also be added into the trial frames to separate the two red lines (This avoids confusion if the patients claim that they only see one red line). The degree of deviation and the direction (incyclo or excyclo) can be determined by the angle of rotation that causes the line images to appear horizontal and parallel.
+The amount of cyclodeviation is measured in degrees, utilised from the scale on the trial frame
+When testing at near, the patient asked to fixate on light source at 33 cm, which is held at eye level. When testing at distance, the patient is to fixate on a light source at 6m.
+Patient is instructed to fixate on the light source with both eyes opened
+Patient is asked to rotate OR the examiner rotates the cylinders with the axis knob on the trial frame until the 2 red lines are parallel
+This test can be repeated for the secondary and tertiary positions of gaze
+
+Advantages
+Can easily be performed
+Simple and fast technique
+Can be used on children, if they can respond reliably
+Can be used to test eye muscle balance
+
+Disadvantages
+Cannot be done when there are sensory anomalies present
+Cannot be performed if a patient has suppression, as they are unable to see the light
+Cannot be performed if there is Abnormal Retinal Correspondence (ARC), as the angle of separation of the images will not correspond to the angle of deviation; defeating the purpose of the test.
+Cannot differentiate between tropias and phorias
+Not suitable for the measurement of large deviations, nor for accommodation deviation as accommodation cannot be controlled with this test 
+Subjective test
+
+References
+Dolman, P (1919). "The Maddox Rod Screen Test". Trans Am Ophthalmol Soc. 17: 235–49. PMC 1318186. PMID 16692471.
+
+See also
+Strabismus
+Retinal correspondence
+Interpretation
+Parks–Bielschowsky three-step test

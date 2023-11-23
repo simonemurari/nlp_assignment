@@ -1,0 +1,54 @@
+This is a list of national and international bicycle registers intended to counter bike theft. Registers can either be operated by public bodies or private companies. Some registers are peer-to-peer based. Some local police departments also offer to register bicycles. Bike registers can be used to check if a bike is reported as stolen and prove ownership after a stolen bike has been recovered.
+
+Africa
+South Africa
+National Bicycle Registry of South Africa, a non-profit register with free registration.
+
+Asia
+Japan
+In Japan it is mandatory to register every bicycle with the police as an anti-theft measure.
+
+Europe
+Belgiummybike.brussels, operated by the Brussels-Capital RegionBulgaria
+VELOregister.BG, a commercial register.Denmark
+Danish bicycle VIN-system, the unique VIN number of a bicycle can be looked up in the "Politi" smartphone application to see if a bicycle is reported as stolen.Germany
+Bike-ID bicycle registry, Bike-ID UG, a commercial register.
+EIN - a different approach, which does not need registration, but does create a code for the owner, which can be decoded by the police.Great Britain
+BikeRegister - The National Cycle Database, operated by Selectamark Security Systems.
+Bike Shepherd (formerly Bike Revolution), based in London, United Kingdom (and California, U.S.). As of June 2018 currently inactive.
+Stolen Bikes in the UK, UK Peer-based bike register.
+Immobilise, a free UK National Property Register for bicycles and more.HungaryBikeSafe.hu - paid service recommended and used by national police. Bike registration provides an ownership certificate for verified purchases - similar to car documents.NorwayBikemember, a commercial FG-approved register.
+Falck og Securmark Sykkelregister, a commercial FG-approved register.
+Sykkelreg.no, a free peer-to-peer based register.Romania
+RegistruldeBiciclete.ro, free bicycle register.Sweden
+Cykelregister.se, free bicycle registerBelgium
+Gevondenfietsen, free bicycle register, found bike website for local authorities and police forces
+MyBike.brussels, free bicycle registerSpain
+Biciregistro.es, free national bicycle register that includes a tracking kit by an extra price.
+
+North America
+USA and Canada
+Bike Index (Chicago, Illinois) is a free, nonprofit, peer-to-peer service with the international target audience. Bike Index was founded in 2013 and merged with Stolen Bike Registry in 2014. Bike Index has an openly available list of stolen bikes. Unlike most other registers, Bike Index has an accessible API where data is wide open to anybody who wants to use it to find and return stolen bikes.
+BikeRegistry.com - Global Bike Registration (Houston, Texas), has free signup and an international target audience. Their list of stolen bikes is openly available.
+National Bike Registry (NBR, originally based in California) is a free bicycle register. In 2017 NBR was purchased and merged with 529 Garage (based in Seattle, Washington).
+Once a bike is stolen the police can list it in National Crime Information Center.
+529 Garage is now coming into use across Canada. In Victoria, BC, for example, it has completely replaced the Victoria Police Department's bike registry [1].
+
+South America
+Brazil
+Bike Registrada
+
+Oceania
+Australia
+National Bike Register, operated by DataDot Technology Ltd.
+Australian Bike Vault, operated by non-profit organisation Stolen Bicycles Australia Ltd.New Zealand
+New Zealand Bicycle Registry, a free registration service with the openly available list of currently stolen bicycles.
+
+See also
+Danish bicycle VIN-system, a bicycle marking system where a unique code is engraved into the bicycle frame.
+
+External links
+BikeRegister (UK)
+
+
+== References ==

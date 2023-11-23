@@ -1,0 +1,14 @@
+In epidemiology, the attack rate is the proportion of an at-risk population that contracts the disease during a specified time interval. It is used in hypothetical predictions and during actual outbreaks of disease. An at-risk population is defined as one that has no immunity to the attacking pathogen, which can be either a novel pathogen or an established pathogen. It is used to project the number of infections to expect during an epidemic. This aids in marshalling resources for delivery of medical care as well as production of vaccines and/or anti-viral and anti-bacterial medicines.The rate is arrived at by taking the number of new cases in the population at risk and dividing by the number of persons at risk in the population.
+
+See also
+Incidence (epidemiology)
+Compartmental models in epidemiology
+Herd immunity
+Risk assessment in public health
+Vaccine-naive
+
+References
+External links
+The International Biometric Society
+The Collection of Biostatistics Research Archive
+Guide to Biostatistics (MedPageToday.com) Archived 2012-05-22 at the Wayback Machine

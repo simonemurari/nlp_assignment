@@ -1,0 +1,16 @@
+The FDA animal efficacy rule (also known as animal rule) applies to development and testing of drugs and biologicals to reduce or prevent serious or life-threatening conditions caused by exposure to lethal or permanently disabling toxic agents (chemical, biological, radiological, or nuclear substances), where human efficacy trials are not feasible or ethical. The animal efficacy rule was finalized by the FDA and authorized by the United States Congress in 2002, following the September 11 attacks and concerns regarding bioterrorism.
+
+Summary
+The FDA can rely on evidence from animal studies to provide substantial evidence of product effectiveness if:
+
+There is a reasonably well-understood mechanism for the toxicity of the agent and its amelioration or prevention by the product;
+The effect is demonstrated in either:
+More than one animal species expected to react with a response predictive for humans; or
+One well-characterized animal species model (adequately evaluated for its responsiveness in humans) for predicting the response in humans.
+The animal study endpoint is clearly related to the desired benefit in humans; and
+Data or information on the pharmacokinetics and pharmacodynamics of the product or other relevant data or information in animals or humans is sufficiently well understood to allow selection of an effective dose in humans, and it is, therefore, reasonable to expect the effectiveness of the product in animals to be a reliable indicator of its effectiveness in humans.FDA published a Guidance for Industry on the Animal Rule in October 2015.
+
+References
+External links
+21 CFR Parts 314 and 601, Docket No. 98N-0237 New Drug and Biological Drug Products; Evidence Needed to Demonstrate Effectiveness of New Drugs When Human Efficacy Studies Are Not Ethical or Feasible.
+What is meant by "Required Under Animal Efficacy Rule" in the search results display? FDA.gov Postmarketing Requirements and Commitments: Frequently Asked Questions (FAQ)

@@ -1,0 +1,9 @@
+ROUVY is an indoor cycling app that combines real 2D outdoor video footage of thousands of cycling routes, including load and height profile, with artificially created augmentations. including rider avatars. This creates a 3D virtual environment - the so-called augmented route. This is then viewed on a screen (TV screen, computer, or mobile phone) while the rider is sitting on their indoor training bike. Riders can use a "smart trainer" to replicate a real life ride as resistance in the bike is increased or decreased to simulate the actual gradient encountered on the augmented route. Thanks to this interconnectedness, ROUVY provides a relatively realistic riding experience for cyclists from their own home.The app allows a variety of cycling activities for riders such as hill climbing, time trials, races, group rides, structured training plans and interval training. The app also provides detailed performance data and analytics, allowing riders to track their progress over time.
+
+History
+In August 2021, the company VirtualTraining behind the Rouvy brand was bought by the investment group Pale Fire Capital allowing for global scaling. 
+Today the platform has over 700,000 registered cyclists and athletes from around the world from hobby riders to professionals. Most users are in the United States, Great Britain and Germany. In 2021 they travelled 76 million kilometres on more than 14,000 different routes.In 2020, ROUVY became the virtual partner of La Vuelta and launched La Vuelta Virtual - an annual online event that allows riders to experience the routes of La Vuelta from their home. 
+ROUVY is also the virtual partner with triathlon organizations P.T.O. and Challenge Roth
+
+
+== References ==

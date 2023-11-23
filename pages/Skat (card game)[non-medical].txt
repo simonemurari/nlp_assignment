@@ -1,0 +1,340 @@
+Skat (German pronunciation: [ˈskaːt]), historically Scat, is a three-player trick-taking card game of the Ace-Ten family, devised around 1810 in Altenburg in the Duchy of Saxe-Gotha-Altenburg. It is the national game of Germany and, along with Doppelkopf, it is the most popular card game in Germany and Silesia and one of the most popular in the rest of Poland. A variant of 19th-century Skat was once popular in the US. John McLeod considers it one of the best and most interesting card games for three players, and Kelbet described it as "the king of German card games."
+
+History
+Skat was developed by the members of a local Tarock club, the Brommesche Tarok-Gesellschaft around 1810–1813 in Altenburg, in what is now the State of Thuringia, Germany.Skat is based on the three-player game of Tarock (German for Tarot) and the four-player game of Schafkopf (forerunner of the American game Sheepshead). It has become the most loved and widely played German card game, especially in German-speaking regions. In the earliest known form of the game, the player in the first seat was dealt twelve cards and the other two players ten each. He then made two discards, constituting the Skat, and announced a contract. But the main innovation of this new game was that of the bidding process.The earliest recorded rules for "Scat" date to 1835, by when it was already popular in the Kingdom of Saxony, especially in the Duchy of Altenburg and the surrounding area. These describe a game for 3 players with German-suited cards who received 10 each in packets of 3, 2, 3 and 2, the two remaining cards being dealt to the table as a talon known as the Scat. There were just two contracts – Frage and Solo – and forehand opened the bidding or passed. A Frage bidder could be overcalled by a Solo and either could be overcalled by the same contract in a higher-ranking suit, the suits ranking in the same order as in the modern game. The declarer needed 61 card points to win and there were bonuses for scoring 90 (Schneider), taking all tricks (Schwarz) and, optionally, for holding or lacking matadors in unbroken sequence from the top. The four Unters were permanent trumps ranking above the trump suit.The first book on the rules of Skat, Das Scatspiel: Nebst zwei Liedern, was published in 1848 by one of its inventors, secondary school teacher J. F. L. Hempel. Nevertheless, the rules continued to differ from one region to another until the first attempt to set them in order was made by a congress of Skat players on 7 August 1886 in Altenburg. These were the first official rules finally published in a book form in 1888 by Theodor Thomas of Leipzig. The current rules, followed by both the International Skat Players Association, German Skat Federation and British Skat Association, date from Jan. 1, 1999.The word Skat is a Tarock term derived from the Latin word scarto, scartare, which means to discard or reject, and its derivative scatola, a box or a place for safe-keeping. The word scarto is still used in some other Italian card games to this day. Skat is completely unrelated to an American game called Scat.Nowadays, it is very popular to play the Skat game online through internet browsers.
+
+Distribution
+Skat is particularly popular in Germany. Tournament Skat is regularly held in restaurants. In contrast to most other card games, Skat is organized as a sport, with Skat associations, clubs, ranking lists and even a national league. Most German Skat clubs are affiliated to the German Skat Association (DSkV), which organizes the championships. In addition, the global organisation, the International Skat Players Association, is primarily responsible for organising the World and European Championships, but its subdivision, ISPA Germany, like the DSkV, organizes its own German individual and team championship and leagues, among other activities.Skat is played on a lesser scale in countries bordering Germany including the Netherlands, Danish southern Jutland, Poland and Austria.The member countries of ISPA are: Argentina, Australia, Austria, Belgium, Brazil, Canada, Chile, Denmark, France, Germany, Namibia, Netherlands, Paraguay, Poland, South Africa, Spain, Switzerland, UAE, Uruguay, and the USA.
+
+Rules
+Note: Because of the many variations in the rules of Skat, the rules below are necessarily general, although rules not found in official German tournament play are marked as such.
+
+General principles
+Skat is a game for three players, who are known as forehand, middlehand and rearhand, rearhand also being the dealer (see picture). At the beginning of each round, or "deal", one player becomes declarer and the other two players become the defending team. The two defenders are not allowed to communicate in any way except by their choice of cards to play. The game can also be played by four players, in which case, the dealer sits out the round that was dealt, while the player to the right of the dealer will play the role taken by the dealer in the three-player variant. Players may agree at the outset how many rounds/deals they will play for.
+A central aspect of the game is the three coexisting varieties called "suit", "grand" and "null" games, that differ in suit order, scoring and even overall goal to achieve.
+Each round of the game starts with a bidding phase to determine the declarer and the required minimum game value (explained below). Then, ten tricks are played, allowing players to take trick points. Each card has a card value (except in null games) and is worth that number of points for the player winning the trick. The total value of all cards is 120 points. The declarer's goal is to take at least 61 points in tricks in order to win that round of the game. Otherwise, the defending team wins the round. Points from tricks are not directly added to the players' overall score, they are used only to determine the outcome of the game (win or loss for declarer), although winning by certain margins may increase the score for that round.
+After each round a score is awarded in accordance with the game value. If the declarer wins they are awarded a positive score, if they lose the score is doubled and subtracted from the declarer's tally (i.e. a negative score). In tournaments a winning declarer gets an additional 50 points if they win, if the defending team wins however they receive 40 points each in addition to the declarer losing twice the game's value in points.
+
+Cards
+The pack consists of 32 cards. Many modern packs use the French pack consisting of an ace (Ass), king (König), queen (Dame), jack (Bube), 10, 9, 8 and 7 in all four suits (clubs ♣, spades ♠, hearts ♥ and diamonds ♦). Some players in Eastern and Southern Germany and Austria prefer traditional German packs with suits of acorns , leaves , hearts  and bells , and card values of deuce (Daus), king (König), Ober, Unter, 10, 9, 8, and 7 in all four suits. Until recently in Saxony and Thuringia, for example, German-suited packs were used almost exclusively. By contrast, regions of the former West Germany had adopted a French-suited pack.
+Since German reunification, a compromise Turnierbild ("Tournament Style") pack is used in tournaments that uses the shapes of the French suits but with corresponding German suit colors, green spades ♠ imitating leaves and gold diamonds ♦ imitating bells. The choice of pack does not affect the rules.
+
+Dealing
+At the beginning of each round each player is dealt ten cards, with the two remaining cards (the so-called Skat) being put face down in the middle of the table. Dealing follows this pattern: deal three cards each, then deal the Skat, then four cards each, then three cards again ("three–Skat–four–three"). In four-player rounds, the dealer does not receive any cards and skips actual play of the round. He or she may peek into the hand of one other player (if allowed to do so) but never into the Skat.
+Dealing rotates clockwise around the table, so that the player sitting to the left of the dealer will be dealer for the next round.
+
+Bidding
+After the cards have been dealt, and before the deal is played out, a bidding or auction (German: Reizen) is held to decide:
+
+Who will be declarer for the round, and thus eligible for picking up the Skat and choosing whether to have trumps and what the trump suit is
+The minimum game value needed for declarer to winThe goal for each player during the bidding is to bid a game value as high as their card holding would allow, but never higher than necessary to win the bidding. How the actual game value is determined is explained in detail below and is necessary to understand in order to know how high one can safely bid.
+It is possible for a player to overbid, which leads to an automatic loss of the game in question. Often this does not become obvious before the player picks up the Skat, or even not before the end of the game in question (in case of a hand game, when the Skat is not picked up). Players have therefore to exercise careful scrutiny during bidding, as not to incur an unnecessary loss.
+The bidding may also give away some information about what cards a player may or may not hold. Experienced players will be able to use this to their advantage.
+
+Game value
+The game value (also called hand value, German: Spielwert)  is what the game will be worth after all tricks have been played. It is determined not only by the 10 cards held, but also by the two-card Skat. The Skat always belongs to the declarer, and if it contains certain high cards this may change the game value. It is therefore not possible in general to determine the exact game value before knowing the Skat.
+The game value is determined by the type of the game and the game level as explained below for the suit, grand and null games.
+
+Suit game
+In a suit game (German: Farbspiel), one of the four suits is the trump suit.
+Each suit has a base value (German: Grundwert), as follows:
+
+This base value is then multiplied by the multiplier game level (German: Spielstufe or Gewinngrad) to determine the game value, so:
+
+game value = base value × game level.A game level of 1 for becoming declarer is always assumed. It is then increased by one for each of the following:
+
+For every matador i.e. trump (German: Spitzen) in unbroken sequence counting from the J♣ downwards. Example:
+Having all the jacks and the ace but not the 10 of the suit counts as "with 5"
+For every missing matador, if the J♣ is not held, in unbroken sequence from the top. Example:
+Having the J♦ but no higher jack counts as "without 3"
+Playing a Hand game, i.e. without picking up the skat
+Winning schneider, i.e. taking 90 or more card points
+Winning schwarz, i.e. taking all tricks.In case of a Hand game, the following special cases are allowed. Each one increases the game level by another point:
+
+Schneider is announced by declarer after the bidding
+Schwarz is announced by declarer after the bidding
+Ouvert, where the declarer plays with open cards and takes all tricks; that is Schwarz has to be announced in order to declare Ouvert in a suit gameTo summarize in tabular form:
+
+Cards in the trump suit are ordered as follows (this is important to know when counting the length of the matador's jack straight):
+
+Jack of clubs, J♣ or B♣ or U (German pack: Unter of acorns/Acorn Unter)
+Jack of spades, J♠ or B♠ or U (German pack: Unter of leaves/Green Unter)
+Jack of hearts, J♥ or B♥ or U (German pack: Unter of hearts/Red Unter)
+Jack of diamonds, J♦ or B♦ or U (German pack: Unter of bells/Bell Unter)
+Ace of trumps
+10 of trumps
+King of trumps
+Queen of trumps (German pack: Ober)
+9 of trumps
+8 of trumps
+7 of trumpsJ♣ is the highest-ranking card in a suit game and is called in German der Alte ("the old man").
+The non-trump suit cards are ranked A-10-K-Q-9-8-7 (or A-10-K-O-9-8-7 for the German pack respectively).
+As mentioned above, the cards in the Skat are to be included when determining the multiplier game level (also in case of the Hand game, where the Skat is unknown until after the deal has been played out). During bidding, each player therefore has incomplete information regarding the true game value. The final game value is calculated by multiplying the base value for the suit by the multiplier game level:
+
+Grand game
+Grand game is a special case of suit game, in which only the Jacks are trumps in the same order as in the suit game:
+
+Jack of clubs, J♣ or B♣ or U
+Jack of spades, J♠ or B♠ or U
+Jack of hearts, J♥ or B♥ or U
+Jack of diamonds, J♦ or B♦ or UAll other cards are ranked the same as in a suit game: A-10-K-Q-9-8-7.
+The base value for the grand game is 24 in the official rules. It used to be 20 until 1932, and many hobbyists continued to use 20 well into the postwar era.
+All other rules for determining game value are as in a suit game, that is, the base value of 24 is multiplied by the multiplier game level.
+
+Null game
+In the null game, declarer promises not to take any tricks at all. There is no trump suit, 10s are sorted directly above 9s, and jacks are treated as normal suit cards sorted between 10 and queen. Thus the cards are ordered: A-K-Q-J-10-9-8-7. The game values of null games are fixed, as follows:
+
+23 for a simple null game
+35 for a Null Hand game (the Skat is not picked up by declarer)
+46 for a Null Ouvert game (declarer plays with open cards)
+59 for a Null Ouvert Hand game (combination of the above two)
+
+Examples
+The following examples give a player's holding and the contents of the Skat (which will be unknown to all players during the bidding) and explain how to derive the game value.
+Example 1
+
+Holding: J♣ J♦ A♥ 10♥ K♥ 8♥ 7♥ 9♦ 8♦ 7♦
+Skat: A♠ Q♠The length of matador's jack straight will be 1 (J♣ is present, J♠ is missing). The multiplier game level will be 2 (1 for matador's jack straight plus 1 for becoming declarer).
+The possible game value now depends on which game is declared, for example:
+
+With hearts as trumps (base value is 10), the game value is 20 (10 × 2).
+If the Skat is not picked up, the game value is 30 (the multiplier game level increases from 2 to 3 for declaring Hand).
+If declarer manages to win with at least 90 trick points, the game value will be 30 as well (the multiplier game level increases from 2 to 3 for achieving Schneider).
+In the grand game (base value is 24), the game value will be 48 (24 × 2).Of course, many other possibilities exist.
+Note that game value is dependent not only on the cards held (including the Skat) but also on which game is being declared and the outcome of the play. Each holding can thus be evaluated differently by different players. A risk-taking player might be willing to declare Hand on a holding on which another player might not—these two players will therefore give different valuations to the same holding. However, after all tricks have been played, it is always possible to determine the exact game value by combining the actual holding with the type of game and outcome of the play. Only then does it becomes apparent if declarer has won or lost (if the declarer overbid).
+Example 2
+
+Holding: J♣ J♠ J♥ A♥ 10♥ K♥ 8♥ 7♥ 10♣ 7♣
+Skat: J♦ Q♠Assuming a trump suit of hearts in a suit game, this holding will have a different valuation before and after the Skat has been examined.
+Without knowledge of the Skat (assuming Hand is not declared)
+
+the multiplier game level is 4 (3 for the J♣ J♠ J♥ straight, plus 1 for becoming declarer)
+the base value is 10 (for Hearts being the trump suit)This holding can be safely valuated at 40 (10 × 4), regardless of the Skat.  With Hearts as trump, the game value will always be at least that much.
+Now, assuming declarer wins by taking 95 points in tricks, after having declared Hand and Schneider, the actual game value will be as follows:
+
+The base value is 10 (for Hearts being the trump suit)
+The multiplier game level is 11
+1 for becoming declarer
+7 for the straight of J♣ J♠ J♥ J♦ A♥ 10♥ K♥
+1 for declaring Hand
+1 for declaring Schneider
+1 for achieving Schneider (at least 90 points in tricks taken)
+The actual game value will be 110 (10 × 11)The player could have bid up to that value (110) during the bidding.  In practice this would have been too risky because only J♦ in the Skat increased the length of matador's jack straight to 7.
+Note: Most players will declare a grand game with the above hand, as it will be much more lucrative than a suit game in Hearts (declarer will concede at most two club tricks, probably achieving Schneider for a game value of at least 144 (24 × 6).
+
+More examples
+J♣ J♠: with 2, plus 1 is 3.
+J♣ J♥: with 1 (counting interrupted by the missing J♠), plus 1 is 2.
+J♣ J♠ J♥ J♦ with 4, plus 1 is 5.
+J♥ J♦: Without 2, plus 1 is 3.
+J♥ alone: This is also without 2 (counting is interrupted by the present J♥), plus 1 is 3.Now for the special cases: if you think you can do more than just win, you can add points for the special cases.
+
+J♣ J♠: With 2, plus 1 (game) plus 1 (for Hand) is 4.
+J♣ J♠: With 2, plus 1 (game) plus 1 (for Schneider) is 4.
+J♣ J♠: With 2, plus 1 (game) plus 1 (for Hand) plus 1 (for Schneider) plus 1 (for Schwarz) is 6.
+J♣ J♠: With 2, game 3, Hand 4, Schneider 5, pre-declared Schneider 6, Schwarz 7, pre-declared Schwarz 8, Ouvert 9.The highest possible multiplier game level is 18: that is with (or without) four jacks and all seven cards of trump suit (including those in the Skat, if any) 11, plus the maximum of 7 for becoming declarer, Hand, Schneider, declaring Schneider, Schwarz, declaring Schwarz and Ouvert. The lowest possible multiplier game level is 2: either with J♣, or without J♣ and with J♠ 1, plus 1 for becoming declarer.
+
+Bidding mechanics
+Order of bidding
+The order of bidding is determined by the seating order. Starting from the left of the dealer players are numbered clockwise: the first seat (German: Vorhand), the second seat (German: Mittelhand) and the third seat (German: Hinterhand). In a three-player game, the dealer will be the third seat.  In a four-player game the third seat will be to the right of the dealer.
+Bidding starts by the player in second seat making a call to the player in first seat on which the latter can hold or pass. If the first seat player holds, the second seat player can make a higher call or pass himself. This continues until either of the two players passes. The player in third seat is then allowed to continue making calls to the player who has not yet passed. Bidding ends as soon as at least two players have passed. It is also possible for all three players to pass.
+The starting order can be memorized as “deal–respond–call–continue” (German: "geben–hören–sagen–weitersagen"). The player who continues in this mnemonic is either the dealer (in a three-player game) or the player in third seat. The mnemonic is commonly used among casual players.
+Example: Anna, Bernard and Clara are playing, and seated in that order around the table. Anna deals the cards. Clara makes the first call to Bernard, who passes right away. Anna then makes two more calls to Clara, who accepts both bids. Anna then passes as well. The bidding ends, with Clara being the declarer for this round.
+
+Possible calls
+The calling player (i.e. the player currently calling the bids) may either
+
+“pass”, leaving the bidding and forfeiting the chance to become declarer in this round, or
+bid any possible game value that is higher than the highest bid made so far in this round.The responding player (i.e. the player currently responding to the bidder) may either
+
+“pass”, leaving the bidding and forfeiting the chance to become declarer in this round, or
+“accept” or "yes", staying in the bidding and waiting for further calls.Responder must wait for caller to bid or pass before passing herself.
+Except for "pass", only the possible game values are legal calls. Therefore, the lowest possible call is 18, which is the lowest possible game value in Skat. Players are free to skip intermediate values, although it is common to always pick the lowest available call while bidding.
+The sequence of possible double digit game values, beginning with 18 is 18—20—22—23—24—27—30—33—35—36—40—44—45—46—48—50—54—55—59—60—63—66—70—72—77—80—81—84—88—90—96—99 (triple digit bids are possible albeit rare in a competitive bidding). Among German players the values representing null games, especially 23, the most common one, are often replaced by the call “null”. Also, numbers are frequently abbreviated by only calling the lower digit of a value not divisible by 10 (e.g. “two” instead of “22” or “five” instead of “45”); this is unambiguous if values are always called out in order and intermediate values never skipped, as is the custom. (As the German words for "null" and "zero" are identical, this yields the rather unintuitive sequence 18—20—2—0—4—7—30 and so on.)
+
+Passing out
+If all players pass, the hand is not played and the next dealer shuffles and deals. A dealer never deals twice in a row.
+It is common in informal play to play a variant of Skat called Ramsch (junk, rummage) instead of skipping the hand and dealing for the next one. The objective in that variant is to make no trick as their points would score negatively. This is not part of the sanctioned rules, however.
+In a pass-out game, the player in first seat will be the last one to pass. If that player intends to become declarer, however, he or she has to make a call of at least 18 (picking up the Skat in that situation implies the call).
+
+Example bidding
+Players Anna, Bernard and Clara are seated in that order, clockwise; Anna is the dealer. The bidding proceeds as follows:
+
+Clara: "18"
+Bernard: "Yes"
+Clara: "20"
+Bernard: "Yes"
+Clara: "22"
+Bernard: "Pass"
+Anna: "23"
+Clara: "Yes"
+Anna: "24"
+Clara: "Yes"
+Anna: "Pass"On this deal, Clara will be declarer with a final bid of 24 (the highest accepted bid).
+
+Declaring
+The winner of the bidding becomes declarer and will play against the other two players. Before the hand is played, declarer either
+
+picks up the Skat, combines it with the hand cards, then puts two cards back face down on the table (German: drücken) or
+declares Hand (in this case the Skat remains face down on the table).In either case the two cards in the Skat count towards declarer's trick points.
+After putting two cards back into the Skat, declarer then either declares a suit game by announcing a trump suit, declares a grand game or a null game.
+If Hand has been declared, the player may make additional announcements such as Schneider, Schwarz and Ouvert.
+
+Variants
+A common variant in non-sanctioned play allows the defenders to announce "Kontra" just before the first trick is played, if they have made or held at least one call. In this case, the stakes will be doubled for the hand. Declarer, in turn, may announce “Re”, to redouble the stakes. In a less common further variation this process can be repeated twice more by announcing "Supra" and "Resupra" (or more colloquially, "Bock" [(roe) buck] and "Hirsch" [red deer], or the like, which are colloquial augments of "Reh" roe deer).
+
+Playing
+The player in the first seat sitting to the left of the dealer leads to the first trick. The other two follow in clockwise direction. Every player plays one card to the trick, which is in the middle of the table. The winner of a trick stacks the cards face down in front of him and leads to the next trick, which is again played clockwise.
+Completed tricks are kept face down in front of the players who won them, until all the cards have been played. Examining completed tricks (except for the last one) is not allowed. The tricks of the two players who are playing together are put together, either during or after play.
+
+Suit game
+The players must play a card in the same suit as the first card of the trick, if possible (“following suit”). A player who cannot follow suit may play any card (including a trump card). Trumps, including all four jacks, count as a single suit. If a trump is led, every player must also play a trump if able.
+If there are trump cards in the trick, the highest trump in it wins the trick. If there are no trumps in it, the highest card of the suit led wins the trick.
+The non-trump suit cards rank in order A-10-K-Q-9-8-7. The trumps rank the same way with the four jacks on top in the order J♣, J♠, J♥, J♦.
+
+Grand game
+In the grand game, only the four jacks are trumps in the suit order given above for a regular suit game.  All other ranks are the same as in the regular suit game (10 is ranked just below the ace).  There are thus five "suits" in the grand game (if a jack is led to a trick, the other two players must play jacks too, if they have them).
+
+Null game
+In a null game there is no trump suit, and in each suit the cards are ranked A-K-Q-J-10-9-8-7.
+The goal of a null game is for declarer not to take any tricks. If declarer takes a trick in a null game, the game is immediately lost and scored.
+
+Conceding and claiming
+Declarer may, unilaterally, concede a loss while holding at least nine cards (i.e. before playing to the second trick). Afterwards approval of at least one defender is required. Defenders may concede at any time, but may be requested by declarer to complete the play (e.g. if declarer thinks that Schneider or Schwarz is still possible).
+Claiming of remaining tricks is possible as well, but for a defender only if she would be able to take the remaining tricks herself.
+A game in which the necessary trick points have been won can not be lost, regardless of claims.
+
+Counting and scoring
+After the last trick has been played, the game is scored. Winning conditions for null game are different from suit and grand games.
+
+Winning conditions for declarer
+To win a suit or grand game, declarer needs at least 61 card points in tricks. If declarer announced Schneider, at least 90 card points are needed in order to win. The two cards in the Skat count towards declarer's tricks. If declarer announced Schwarz, all ten tricks must be taken to win.
+
+The highest-ranking cards for taking the tricks (the jacks) are not the highest scoring cards. The aces and 10s combined make up almost three quarters of the total points; taking as many as possible of them is thus imperative for winning. On the other hand, taking 7s, 8s and 9s – the blanks (Luschen) – doesn't help (or hurt) at all, unless Schwarz was declared.
+To win a null game, declarer must not take a single trick. null games are often not played through to the end, either because declarer is forced to take a trick, ending the game prematurely, or because it becomes apparent to the defenders that they will be forced to take the rest of the tricks. There are no card points in a null game.
+
+Overbid hands
+Even with the majority in card points, declarer may still lose if the game value is lower than the value bid during the auction. This is called overbidding. An overbid hand is automatically lost, leading to a negative score for declarer.
+An overbid hand is scored by determining the lowest possible game value that is a multiple of the base value of declarer's suit (or 24 in case of a grand) which is at least as high as declarer's bid. This value is then doubled and subtracted from declarer's score (negative score).
+Example: Declarer bids 30, missing the two top trumps (without 2), intending to play a club suit game (game value would be 12 × 3 = 36). They then find the J♣ in the Skat (with 1). Their game value is now only 24 (12 × 2) — they have overbid. Unless they manage to play at least Schneider (raising the game value to 36), or make a game other than clubs with a game value of at least 30, the game will be lost. They will receive a negative score of −72 (36 is the lowest multiple of 12, the base value of clubs, greater than the 30 they bid; 36 times two is 72). They can try to minimize their loss by declaring a game in Hearts instead of Clubs (base value 10 instead of 12). This will be worth only −60 points, unless opponents score Schneider against them.
+
+Scoring
+The score is always assigned to the declarer (positive or negative) in the classical scoring system.
+The score to be awarded is the actual game value. How high the player bid during the bidding is immaterial, as long as the game value is at least as high as declarer's bid (see Overbid Hands above). Note that often the score will be higher than the bidding value, because players typically do not bid as high as their hand would allow.
+For a won game, that score is added to declarer's tally. For a lost game, the score is doubled and subtracted from declarer's tally (negative score).
+Until 1998, lost Hand games did not count double, but this rule was dropped in that year. The reason was that in tournament play nearly all games played were Hand games. This increased the game level by one, but did not penalize as much as a normal game would have if lost.
+In league games, 50 points get added for each game that is won by the declarer and 40 points each get added to the tally of the defending team shall they win to lower the chance factor and to stress the skill factor. In that situation, it becomes far more important for each player to bid his or her hand as high as possible.
+Example 1: Anton is declarer. He bids 20 and declares a grand game. He then wins with 78 points in tricks. Declarer held J♣ J♠ J♦. The game value is 24 × (2 + 1) = 72 points. These are awarded to the declarer.
+Example 2: Brigitte is declarer. She bids 30 and declares a Null Ouvert game. She, however, is forced to take the ninth trick, losing the game. The game value is 46, it will be doubled and subtracted from her total score (−92 points).
+
+Variations
+Ramsch
+Ramsch ("junk") is not part of sanctioned Skat rules, but is widely practiced in hobbyist rounds, and is the variant most often suggested to be officially sanctioned. It is played if all three players pass in the bidding. There is no declarer in Ramsch; every player plays for himself, and the goal is to achieve as low a score as possible. The idea behind Ramsch is to punish players who underbid their hands.To make Ramsch more interesting, an additional rule is often played that adds a second winning condition: the Ramsch is also won by a player if that player manages to take all tricks (German: Durchmarsch i.e. "march"). At first, this seems to be not too difficult, since the other players will initially try to take as few tricks as possible and to get rid of their high-ranking cards. Once they get suspicious, however, they may thwart the effort simply by taking one trick from the player trying for the Durchmarsch.
+Suit ranks in Ramsch are the same as in the Grand game, with only the four Jacks being trumps.Hobby players often add the following rule: 10s are lower in trick taking power than Queens and Kings, but still count as ten points. Sometimes, they only count one point. There are a couple of variants to the rules concerning 10s, so this should be sorted out before starting the game. Often, the players are allowed to check and exchange cards with the skat, or decline to do so and pass the skat on to the next player, doubling the score (known as Schieberamsch). Jacks are not allowed to be passed on in this variation. The two cards in the Skat are usually added to the tricks of the player who takes the last trick. After all ten tricks are played, the player with the highest number of card points (or alternatively, every player) has their card points amount deducted from their score as negative game points. If one player takes no tricks at all (Jungfrau, English: virgin), the points of the losing hand are doubled. Some players also give a fixed value of 15 negative points to the loser and if there are two "virgins", 20.Another variation used in smaller tournaments is the Gewinner-Ramsch (winner-rubbish). If none of the players bid a Ramsch is played. Unlike the original negative game the winner is who achieves the lowest score and is awarded 23 points, the score of a won Null. Additionally they are awarded the won game. The skat is given to the player with the highest score. If two players achieve the same lowest score they will both be awarded the 23 points and the won game. While not very widely spread this variation is a nice addition as it rewards the player who most rightfully did not bid.
+
+Pinke
+Playing with a Pinke means playing for money instead of just points. This is often used in club play or regular rounds where the loser(s) pay the money into a pot which goes to a fund to pay for an end-of-season outing or meal. Sometimes it refers to a custom whereby a declarer who loses pays into a pot which is claimed by the next winner of Grand Hand.
+
+Revolution
+Revolution is a Null Hand game during which the defenders are allowed to confer and exchange cards, sometimes with a limit of two cards. It is valued at 92 points which goes against the normal Skat principle that positive games should outrank negative ones since it is higher than a simple Grand Hand.
+
+Sechserskat
+Sechserskat is played with a 36-card pack i.e. with the addition of the Sixes. It is mentioned as early as 1920.
+
+Three-player variants
+Bierskat
+Also known as Bierlachs, Bierskat ("Beer Skat") is a variant that is common in German pubs. A target score is set, typically 501, and only negative scores are recorded i.e. if the declarer wins with 33 points, the score is recorded as -33 to the two defenders. The first to -501 loses and buys the next round.
+
+Idiotenskat
+Idiotenskat ("Idiot Skat") is an amusing variant in which players play with their hands facing their opponents, so they are only able to see their opponents' cards. The game is recorded as early as 1958.
+
+Räuberskat
+Räuberskat ("Robber Skat") is a variant in which there is no bidding; instead there is a sequence of specified contracts. In turn the players must play a suit game, Grand, Null and Ramsch, once each. After viewing his or her first 5 cards, the soloist must choose one of the contracts and the game ends when all have played their four contracts i.e. after 12 deals if three play. It is considered useful for beginnings with little experience of bidding, but also an interesting alternative for experienced players. It should not be confused with the two-player variant, sometimes also called Räuberskat.
+
+Two-player variants
+There are several variants of Skat for two players:
+
+Officers' Skat
+Officers' Skat (German: Offiziersskat) is a variant for two players. Each player receives 16 cards on the table in front of him in two rows, 8 face down and 8 face up on top of them. Bidding is replaced by the non-dealer declaring a game type and trump. When a face-up card is played, the hidden card is turned over. Each deal results in a total of 16 tricks and players must agree whether a game lasts for a certain number of deals or until one player scores a certain number of game points. Scoring is similar to normal Skat.
+
+Oma Skat
+Oma Skat is also played with a third, or dummy, hand called Oma ("Grandma"). However, in this case, the hand is not exposed. Instead it is placed in a stack, face down, and the top card of the stack is played to the trick each time. Thus Oma need not follow suit.
+
+Piloten-Skat
+In Piloten-Skat ("Pilots' Skat") bidding takes place as if there were 3 players. Again the defender plays with the third hand against the soloist. After the first card is led, the third hand is exposed and played by the defender with a strawman.
+It is possible to play a modified version of the game with only two players. The cards that would be dealt to a third player are simply laid down as a “dummy” hand instead and not used.
+
+Strawman
+In Strawman Skat (Skat mit einem Strohmann or Strohmann), players are dealt 9 cards each, one hand being the straw man. There is a second skat of 3 cards that remains unused throughout the hand. After the first trick, the straw man is exposed and is played by the defender. The second skat goes, at the end, to the player who scores the most points.
+
+Skat En Deux
+In Skat En Deux, the dealer bids against the non-dealer, opening with "pass" or "18" as normal. If he passes, the non-dealer may pass or bid. Ten cards are dealt each, the spare hand going to the right of the dealer each time. This hand is played by the defender. After announcing his or her game, the defender exposes the third hand to the declarer. Thus, it is possible to predict what hand the opponent has and play much more strategically. It is sometimes used to teach new players the principles of Skat.
+
+Schmegegge Skat
+In Schmegegge Skat declarer plays against defender and a half-dummy that is played by defender. The dummy always has five cards exposed, and after each trick a new card for the dummy gets turned up, so there's always five. Play generally follows Skat but Ramsch uses 2 card tricks with dummy out of play: if both players pass initially, two cards of dummy are revealed for information, and if both pass a second time, they play 2-card tricks after a chance to exchange two cards unseen with dummy.
+
+North American Skat
+Note: North American Skat is not related to the American game ScatSkat in the United States and Canada was played for many years as an older version of the game, also known as Tournee Skat, which was based on the original German game that used suit bidding rather than point bidding. However, the old Frage contracts, which involved picking up the skat, were dropped apart from Grand Guckser. Suit bidding was officially dropped in Germany in after the First World War as a result of soldiers popularising the point bidding game. In addition, the Tourné bids were dropped and the Frage contracts retained. Otherwise Tournee Skat shares many of its rules with its modern European counterpart. Today Tournee Skat is declining in popularity and most tournament Skat players in North America play the modern game described above.
+
+Contracts
+The contracts in Tournee Skat are:
+
+Tourné
+To determine trump, declarer picks up one card of the skat and looks at it. If declarer wants this card's suit as trump, the card is shown to the other players. Otherwise the hand is played as Passt mir nicht (it doesn't suit me) and the other card in the skat is turned up to determine trump. A jack gives declarer the choice of either playing grand (jacks only) or the jack's suit as trump. Once trump has been determined, both the skat cards are added to declarer's hand and then two are removed and placed face down to begin his or her pile of cards won.
+Solo
+The skat remains on the table and declarer names trump in any suit or grand. Grand may also be played ouvert with declarer's hand spread face up for all player to see.
+Grand Guckser
+Declarer picks up both of the skat cards, adds them to his or her hand and discards two. Game is played with grand trumps. Grand Guckser is the only game in North American Skat where declarer picks up both skat cards at once.
+Null
+The skat remains untouched and declarer wagers to take no tricks. In null, cards rank A-K-Q-J-10-9-8-7.  If declarer takes a trick, then the hand is lost and a new deal commences. Null may also be played ouvert.
+Ramsch
+If middlehand (Mittelhand) and rearhand (Hinterhand) both pass, forehand (Vorhand) may not pass, but if he does not wish to bid may declare ramsch in which players each play for themselves in trying to take the fewest tricks with grand as trumps. The skat is not used.Upon determining the game, declarer may also state that he or she intends to Schneider or Schwarz for extra game points or penalties.
+
+Scoring
+Card points are the same as in German Skat: A=11, 10=10, K=4, Q=3. J=2 and all other cards have no value. The game points, however, are a bit different. Base value for the different games are as follows:
+
+Tournée: ♦ 5, ♥ 6, ♠ 7, ♣ 8, Grand 12. If a tournée is played Paßt mir nicht and declarer does not make 61 card points, then the game point penalty is doubled.
+Solo: ♦ 9, ♥ 10, ♠ 11, ♣ 12, Grand 20, Grand Ouvert 24.
+Grand Guckser: 16, 32 if lost.
+Null: 20, 40 if played ouvert.
+Ramsch: player taking the fewest card points wins 10 game points, or 20 for taking zero tricks. A player taking every trick loses 30 and other players do not win any.As in German Skat, game points in North American Skat are tallied by multiplying base game value by:
+
+1 for each top trump, either with or without, plus:
+1 for game (61 or more card points).
+2 for Schneider (91 or more card points).
+3 for Schwarz (winning every trick).
+If Schneider was declared add 1.
+If Schwarz was declared add 2.Note that if Schneider or Schwarz are declared but not made, then the contract is not met and declarer loses the amount that he or she would have won if successful. The above multipliers do not figure into games played null or ramsch.
+
+Organization of players
+League games are organized worldwide:
+
+By the International Skat Players Association [2]
+In North America by ISPA Canada and ISPA USA [3]
+Within Germany by the German Skat Association. [4]
+Within Britain by the British Skat Association. [5]
+Online by the German Skat Union [6]
+Local clubs may organise Preisskat competitionsIn the event of disputes, players may appeal to the International Skat Court in Altenburg.
+
+See also
+Glossary of Skat terms
+History of Skat
+
+Explanatory footnotes
+Citations
+General and cited references
+_ (1958). Das Neue Journal, Volume 7. Pagoden-Verlag.
+Berdichevsky, Norman (2011). An Introduction to Danish Culture. Jefferson, NC, and London: McFarland.
+Friedrich, Paul (1920). Der Tod der Weltstadt. Reform-Verlag Futuria.
+Hempel, Carl Friedrich (1839). Sitten, Gebräuche, Trachten, Mundart, häuslich und landwirthschaftliche Einrichtungen der Altenburgischen Bauern. 3rd, fully revised edn. of the Kronbiegel text. Altenburg: Schnupfhase.
+Keller, Thomas and Sebastian Kupferschmid, "Automatic Bidding for the Game of Skat" in KI 2008: Advances in Artificial Intelligence: 31st Annual German Conference on AI, Kaiserslautern: Springer, 2008, pp. 96ff. ISBN 978-3-540-85844-7.
+Lehnhoff, Karl (1995). Das Skatspiel. Eine Einführung (= Falken TaschenBuch 60151). Falken Taschenbuch-Verlag, Niedernhausen/Ts., ISBN 3-635-60151-9 (several editions).
+Lehnhoff, Karl (2011). Skat: Regeln und Tipps. Für Anfänger und Fortgeschrittene. Mit Skat-Lexikon. 18th, updated, edition. Humboldt, Hanover. ISBN 978-3-86910-178-1
+Pierer, HA (1835). Universal-Lexikon oder vollständiges encyclopädisches Wörterbuch, 18th volume (S-Schlüpfrig), Altenberg: Pierer.
+Rousselle, Hans-Peter (2015). Das Skatspiel in Theorie und Praxis, BoD, p. 31. ISBN 978-3-73573-969-8
+Stein, Oskar (1887). Geschichte des Skatspiels ["History of the Game of Skat"]. Berlin: Wilhelm Baensch.
+
+External links
+International Skat Players Association Rules in English, Spanish and French.
+"Skat" . Encyclopædia Britannica (11th ed.). 1911.
+The Skatordnung, official rules of Skat, in English.

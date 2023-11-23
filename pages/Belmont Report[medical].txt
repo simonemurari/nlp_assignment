@@ -1,0 +1,102 @@
+The Belmont Report is a 1978 report created by the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. Its full title is the Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research, Report of the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research.The Belmont Report summarizes ethical principles and guidelines for human subject research. Three core principles are identified: respect for persons, Beneficence, and Justice. The three primary areas of application were stated as informed consent, assessment of risks and benefits, and selection of human subjects in research.
+It was named the Belmont Report, for the Belmont Conference Center, where the National Commission met when first drafting the report.
+According to Vollmer and Howard, the Belmont Report allows for a positive solution, which at times may be difficult to find, to future subjects who are not capable to make independent decisions.
+
+Etymology
+The Belmont report took its name from the Belmont Conference Center in Elkridge, Maryland, 10 miles south of Baltimore where the document was drafted in part.  The Belmont Conference Center, once a part of the Smithsonian Institution, was operated by Howard Community College until the end of 2010.
+
+History
+In 1974, prompted in part by the ethical problems emerging from the Tuskegee Syphilis Study (1932–1972), the National Research Act was signed into law. This created the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research (1974–1978). It consisted of altogether 11 physicians, lawyers and scientists, 8 of them were men and three women, namely Kenneth John Ryan, Joseph V. Brady, Robert E. Cooke, Dorothy I. Height (the only African-American), Albert R. Jonsen, Patricia King, Karen Lebacqz, David W. Louisell, Donald W. Seldin, Eliot Stellar and Robert H. Turtle. 
+It was divided into a series of work groups. Several people worked on issues of autonomy, others worked on issues of beneficence, or non-maleficence, or justice. 
+The commission developed the Belmont Report over a four-year period from 1974 to 1978, including an intensive four-day period of discussions in February 1976 at the Belmont Conference Center.On September 30, 1978, the commission's report, Ethical Principles and Guidelines for the Protection of Human Subjects of Research, was released. It was published in the Federal Register on April 18, 1979.The Department of Health, Education and Welfare (HEW) revised and expanded its regulations for the protection of human subjects 45 CFR part 46 in the late 1970s and early 1980s.
+
+Ethical principles
+The Belmont Report explains the unifying ethical principles for using any human subjects for research which have formed the basis for the National Commission's topic-specific reports and regulations. The three ethical principles are:
+Respect for persons: protecting the autonomy of all people and treating them with courtesy and respect and allowing for informed consent. Researchers must be truthful and conduct no deception (integrity);
+Beneficence: the philosophy of "Do no harm" while maximizing benefits for the research project and minimizing risks to the research subjects; and
+Justice: ensuring reasonable, non-exploitative, and well-considered procedures are administered fairly — the fair distribution of costs and benefits to potential research participants — and equally.These principles remain the basis for the United States Department of Health and Human Services (HHS) human subject protection regulations. The Belmont Report continues as an essential reference for institutional review boards (IRBs) that review HHS-conducted or -supported human subjects research proposals involving human subjects, in order to ensure that the research meets the ethical foundations of the regulations.Applications of these principles to conduct research requires careful consideration of i) informed consent, ii)  assessment of risks and benefits, and  iii)selection of human subjects in research.
+
+Summary
+The summary, from the top of the Report:
+
+On July 12, 1974, the National Research Act (Pub. L. 93-348) was signed into law, there-by creating the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. One of the charges to the Commission was to identify the basic ethical principles that should underlie the conduct of biomedical and behavioral research involving human subjects and to develop guidelines which should be followed to assure that such research is conducted in accordance with those principles. In carrying out the above, the Commission was directed to consider: (i) the boundaries between biomedical and behavioral research and the accepted and routine practice of medicine, (ii) the role of assessment of risk-benefit criteria in the determination of the appropriateness of research involving human subjects, (iii) appropriate guidelines for the selection of human subjects for participation in such research and (iv) the nature and definition of informed consent in various research settings.
+The Belmont Report attempts to summarize the basic ethical principles identified by the Commission in the course of its deliberations. It is the outgrowth of an intensive four-day period of discussions that were held in February 1976 at the Smithsonian Institution's Belmont Conference Center supplemented by the monthly deliberations of the Commission that were held over a period of nearly four years. It is a statement of basic ethical principles and guidelines that should assist in resolving the ethical problems that surround the conduct of research with human subjects. By publishing the Report in the Federal Register, and providing reprints upon request, the Secretary intends that it may be made readily available to scientists, members of Institutional Review Boards, and Federal employees. The two-volume Appendix, containing the lengthy reports of experts and specialists who assisted the Commission in fulfilling this part of its charge, is available as DHEW Publication No. (OS) 78-0013 and No. (OS) 78-0014, for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402.
+Unlike most other reports of the Commission, the Belmont Report does not make specific recommendations for administrative action by the Secretary of Health, Education, and Welfare. Rather, the Commission recommended that the Belmont Report be adopted in its entirety, as a statement of the Department's policy. The Department requests public comment on this recommendation.
+
+The Belmont report itself consists of 3 clauses: A. Boundaries between Practice and Research, B. Basic Ethical Principles, C. Applications.
+
+Boundaries Between Practice and Research
+This clause establishes the differences between biomedical and behavioral research, and that the different areas of research, require different protections for human participants. Examining the differences between "practice" and "research", practice is dealing with bettering the wellbeing of an individual or group, while research is testing a theory and potentially has an unknown ending. This difference, establishes that they require different protections for human participants, and when any amount of research is occurring, it should be reviewed for the protection those involved.
+
+Basic Ethical Principles
+This clause covers, three ethical principles; Respect for Persons, Beneficence, and Justice.
+
+Respect for Persons
+This ethical principle describes individuals as autonomous agents. Stating that an autonomous agent is an individual capable of deliberation regarding their personal goals, and who is able to be guided by that deliberation. It acknowledges that while most individuals are capable of making the decision, some groups of people require more protections. Some lose their capacity for self-determination due to illness, mental disabilities, or other circumstances. Children, and the groups just mentioned, are to be granted protections, either temporarily or permanently, until the individual is capable of self-determination. These protections range from ensuring that the individual understands and is freely participating in the research, to excluding the individual from harm.
+
+Beneficence
+This principle, in short, emphasizes the maximization of benefits, and minimization of potential harms. Especially when dealing with those who require further protections, from the Respect for Persons principle. Scientific researchers are urged to consider, not just the immediate consequences, but also the long term consequences of their research.
+
+Justice
+This principle deals with the distribution of benefits and burdens of research. It puts forward 5 different formulations, on how to base the distribution, 1, all given an equal share, 2, based on need, 3, based on individual effort, 4, based on societal contribution, 5, based on merit. This principle described the circumstances of the Tuskegee Syphilis Study, and explains the importance of the participants getting recognition and the possible benefits of research. It also mentions the exploitation of unwilling prisoners, as research participants, in the Nazi concentration camps.
+
+Applications
+This clause is broken down into three parts, informed consent, assessment of risks and benefits, and selection of human subjects in research.
+
+Informed Consent
+This section is further broken down into three parts, information, comprehension, and voluntariness.
+Information: 
+Ensuring that the participants, are not only given all the relevant information, but that the information is presented in an understandable and researchable way.
+Comprehension: 
+The participants should be capable of understanding the information; if they aren't, the third party in-charge of their safety (part of the protections from the Basic Ethical Principles, the Beneficence section) should be given the information regarding the research, and presented it in an understandable manner.
+Voluntariness: 
+Participants shouldn't be under any unjustifiable pressures to participate in research. This can include coercion, undue influence by excessive or inappropriate reward, influence by a close relative, threatening to withdraw health services, and other comparable situations. Individuals should make the decision to participate without being pressured by any unwarranted sources.
+
+Assessment of Risk and Benefits
+It should be correctly assessed that the benefits should overweigh the risks.
+
+Selection of Subjects
+It should be of two types that are as follows : 
+1) Individual justice
+2) Social justice Burdens & benefits are equally shared irrespective of a person's dignity, ability, rich, poor.
+
+Application
+The Belmont Report allows for the protection of participants in clinical trials and research studies.
+Seven things nurses, as primary caregivers for individuals participating in a study, must do to ensure the rights of the participant are met are. 
+Ensure the study is approved by an IRB
+Get informed consent from the patient
+Ensure that the patient understands the full extent of the experiment, and if not, will contact the study coordinator
+Ensure the patient wasn't coerced into doing the experiment by means of threatening or bullying
+Be careful of other effects of the clinical trial that were not mentioned, and report it to the proper study coordinator
+Support the privacy of the patient's identity, their motivation to join or refuse the experiment.
+Ensure that all patients at least get the minimal care needed for their conditionResearchers must share the findings of their procedures regardless of them being good or bad results. Also in the case someone did not want to participate in research but would like treatment they cannot be turned away and must be treated with the same standard care.
+
+Upgrade since 1979
+The Belmont Report both serves as a historical document and provides the moral framework for understanding regulations in the United States on the use of humans in experimental methods.
+In 1991, 14 other Federal departments and agencies joined HHS in adopting a uniform set of rules for the protection of human subjects, identical to subpart A of 45 CFR part 46 of the HHS regulations. This uniform set of regulations is the Federal Policy for the Protection of Human Subjects, informally known as the "Common Rule". The Office for Human Research Protections (OHRP) was also established within HHS.On January 19, 2017, the 'Revised Common Rule' was issued as a Final Rule, which came into effect on January 21, 2019, and included two changes, instituting the Belmont Report as part of the Protection of Human Subjects federal policy.
+Firstly, a Department/Agency head waiver clause, which previously allowed federal department or agency heads to waive parts or all of the Common Rule without restrictions, has since been restricted by the contours of the Belmont Report. The Revised Common Rule states: "Unless otherwise required by law, department or agency heads may waive the applicability of some or all of the provisions of this policy to specific research activities or classes of research activities otherwise covered by this policy, provided the alternative procedures to be followed are consistent with the principles of the Belmont Report." [Revised Common Rule at 45 CFR 46.101(i)]
+Secondly, a Department/Agency head determinations clause, which previously provided Department/Agency heads with the power and discretion to decide, whether an activity qualifies as human research which is subject to the federal policy, has since required that "this judgment [determination] shall be exercised consistent with the ethical principles of the Belmont Report." [Revised Common Rule at 45 CFR 46.101(c)]
+
+Psychology
+In the field of psychology, the Belmont Report has been supplemented by the American Psychological Association's (APA) Ethical Principles of Psychologists and Code of Conduct. As of 2018, the APA's guidelines include the basics provided in the originally published Belmont Report, but also enhance and reinforce those established principles. Just as the Belmont Report details the principles of beneficence, respect for persons, and justice, the APA details them further and expands the three initial guidelines into five: (1) beneficence, (2) respect for persons, (3) justice, with the addition of (4) fidelity and responsibility, as well as (5) integrity. The principle of fidelity and responsibility ensures that researchers establish trust and a sense of responsibility for their study and its possible repercussions. The principle of integrity furthers this concept into honesty and accuracy throughout all professional psychological endeavors.Another area where APA guidelines move beyond the Belmont report is in the setting of standards. The APA establishes standards for all reputable members of the psychology community (particularly those members of the American Psychological Association). The association sets a code of conduct for all APA individuals, which, when violated, can result in termination of professional licensure or membership.
+One of the most important standards detailed in the APA manual is the one that requires the induction of an institutional review board (IRB), which serves the same purpose as outlined in the Belmont Report. An IRB is responsible for interpreting the established principles and ensuring the ethicality of research done on humans. Other standards are completely beyond the scope of the Belmont Report but have since been added to the APA manual. One such standard is the ethical treatment of animals (the report's full title being 'Ethical Principles and Guidelines for the Protection of Human Subjects of Research'), something that has become a resurgent topic in recent years.The APA Guidelines have evolved into a more modern approach to ethics in research, and are frequently updated (with nearly nine revisions since its original publication), building on the Belmont Report's foundation as new information becomes available and changes occur in opinion and societal acceptance.
+
+Critique
+In a 2006 study by Nancy Shore, community-based participatory researchers were interviewed for their interpretation and critique of the Belmont Report. Interviewees expressed concerns regarding the Belmont Report's ethical principles and interpretations as being one size fits all and advocated researchers to resist the tendency to rely on those principles systematically. It argues that the ethical analysis should be extended to take into account more appropriate factors, such as cultural, gender, ethnic and geographical considerations.Debate continues over the ethics and regulations of research involving human subjects because of discrepancies over the meaning and priority of the Belmont Report's basic ethical principles: respect for persons, beneficence, and justice. Notably, the Belmont Report does not specify how its three ethical principles should be weighted or prioritized. According to Albert R. Jonsen, a member of the National Commission that composed the report, the Institutional Review Board is charged with weighing these principles and deciding how they should be applied. Matters become controversial when deciding if the principles should be interpreted as more or less weighty depending upon the particular circumstances of the research in question, if the principles should be viewed as an obligation that society must undertake on behalf of its members, or if it should be viewed as giving absolute priority to respect for persons' autonomy over the general good of society.
+
+See also
+Human experimentation in the United States
+Clinical trial
+Informed consent
+Tuskegee Syphilis Study
+Menlo Report
+
+References
+External links
+
+The Belmont Report - U.S. Health & Human Services website
+Belmont Report, original version, 30 September 1978
+Belmont Report, Federal Register, 18 April 1979
+Revisiting the Belmont Report, Mar. - Apr., 2001
+comparison of the Common Rule and the Revised Common Rule
+about the Revised Common Rule

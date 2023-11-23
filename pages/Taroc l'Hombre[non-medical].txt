@@ -1,0 +1,58 @@
+Taroc l'Hombre or Tarok-l'Hombre is an extinct card game of the European Tarot card game family for three players that was played with a full pack of 78 tarot cards, known as tarocs or taroks. It emerged in Italy around 1770 as Tarocc 'Ombre but later spread to Austria and Germany. It was a crucial development, with the important idea of bidding imported from l'Hombre, hence the name.
+
+History
+Taroc l'Hombre appears to be an Austrian development of Tarocc 'Ombre, a card game originating in Lombardy, Italy, which, however, was played with a 54-card shortened, Italian-suited pack. Tarocc 'Ombre was "a development of the highest importance in the history of Tarot" because it introduced the concept of bidding. In Italy this idea fell out of favour, but not before it had crossed the Alps to other countries where "the true future of Tarot games lay in those that incorporated bidding".Among the earliest games of this type in Austria and Germany was a small family of games generally known as Taroc l'Hombre (later also Tarok l'Hombre). Dummett believes they were introduced to Germany no later than around 1770, but the earliest rules do not appear until 1795. By that stage, two variants had already been distinguished: a newer and an older type. In addition, the age of the game is indicated by the fact that the lowest bid, à Tré, was no longer played out, but forehand, if not overcalled, was just paid the minimum amount.These two variants continued to be played throughout the 19th century, but the game then faded into obscurity, the last description of its rules being published in 1905. Meanwhile 2 other variants had been recorded. The first was a form with declarations which, Dummett admits, may well be the result of a compiler wrongly combining two different games. The second is a four-player variant that appears in print even earlier than the first account of Taroc l'Hombre and which Dummett calls Tarok-Quadrille, but which the earliest source simply records as a new version of "Taroc between 4 people... played as in Quadrille".
+
+Rules
+The following rules, based on "Legistes" (1795) except where stated, remained current. They are described as the older type "which is also more difficult".
+
+Cards
+The game is played with a 78-card, French-suited, Tarock pack. Today the most widely available pack is the Tarot Nouveau pattern, originally designed in Germany but now manufactured in France. Other 78-card options, available from Piatnik as facsimiles, include a Russian version of the Bavarian Animal Tarot (Russisches Tiertarock) or Tyrolean Tarot (Tiroler Tarock) patterns.
+The Tarocs rank from XXI (highest) to I (lowest). There are two different hierarchies in the plain suits. The red suits rank from Ace (high) to Ten (low); the black suits from Ten (high) to Ace (low). The Scüs, which depicts a Pickelhering (comedy character) is one of the Tarocs, but acts as an 'excuse' as will be explained. The I is known by its usual name, the Pagat and the Ace is also called the Ponto.The card values are as follows:
+XXI, I and Scüs - 5 points each
+King (König) - 5 points
+Queen (Dame) - 4 points
+Cavalier or Knight (Caval or Reuter) - 3 points
+Valet or Jack (Valet or Bube) - 2 points
+Empty cards (leere Blätter) - 1 point for every 3 cards.
+
+Deal
+Deal and play are clockwise. The game is designed for three players. If four play, each player in rotation is the 'King' and sits out for that deal. The dealer gives 25 cards to each opponent and 28 to himself, of which he discards 3 cards as the scat, which count to him at the end. These discards must not include the XXI, Pagat or Scüs, any King or any Taroc.
+
+Auction
+There are four positive bids which, in ascending order are: à Tré, à Due, à Uno and Solo. However à Tré, also called à Trio, is not played out; instead, if the others pass, forehand (left of the dealer) is gratuitously paid the game value. In a Due, the declarer commits to scoring over 39 points with the help of 2 counting cards which he calls for from his opponents in return for 2 cards of his choice. In a Uno he may call for just one card from his opponents and in Solo, he goes it alone without the help of any additional cards. The game is won with 40 of the available 78 points; 39 is a tie (remis) and below that, the declarer has lost.Forehand has the right to bid first and may announce a Trio even without looking at his cards. But because this contract is not played and it is likely to be overcalled, he may examine and arrange his hand. If the next player bids a Due, forehand may "hold" (ich behalte es) or "pass". The second player must now pass or overcall with a Uno. If forehand holds, he needs to raise it to Solo. If they reach Solo, the bidding is over and the third player (the dealer) does not get to bid; otherwise the dealer bids against the player who did not pass. Again, the earlier player has the right to hold a bid. As Dummett points out, it is likely that the declarer could raise his bid having won the auction, although the rules are not explicit on this point.
+
+Play
+Play is clockwise and forehand leads to the first trick. Players must follow suit if possible; otherwise must play a Taroc if possible. Lacking any cards of the led suit or any Tarocs, a player may discard. The trick winner leads to the next trick. The feat of winning every trick is called a Tout and earns significant additional points.
+
+Role of the Scüs
+The Scüs is may be played at any time to avoid following suit, which is typically used to avoid losing a counter. For example, if a player has an unguarded Queen and the King of the same suit is played, he can play the Scüs to save his Queen. The Scüs is then recovered to his tricks and he gives the trick winner an 'empty card' (pip card or ordinary Taroc) from his tricks (this may be done later if he has no empty cards at the time). He may only do this once during the deal.
+
+Scoring
+The usual Tarock scoring system is used, whereby cards won in tricks are grouped in threes. For each trio, the card points are added up as per their values above and 2 deducted from the total. 
+The game values were reckoned in marques ("chips") as shown below. These were paid à personne i.e. to the successful declarer by each defender or by the unsuccessful declarer to each defender:
+A Tre - 10 marques
+A Due - 20 marques + 1 marque per point over 39
+A Uno - 30 marques + 2 marques per point over 39
+Solo - 60 marques + 6 marques per point over 39
+Tout - 200 marques (à Due), 300 marques (à Uno) and 600 marques (Solo)
+
+Variants
+"Newer Type"
+The so-called "newer type" of Taroc l'Hombre appeared at the same time as the "older type" portrayed above and both continued to be published until the popularity of the game evidently waned. "Legistes" describes it as easier than the older type. Differences in play were as follows: after having the pack cut but before dealing, the dealer set the top three cards to one side as the scat and dealt, again, 25 cards each. This time there were only 3 contracts - a Due, a Uno and Solo - but only the last two were actually played. If anyone successfully bids a Due, the cards were thrown in and the bidder receives the game value. This apparently happened often. The main difference, however, was that the declarer, not the dealer, had the use of the scat. This was a "crucial innovation" which paved the way in subsequent games of the Tarock group for expanding the range and scope of bids according to the number of cards taken from the scat.
+
+Tarok-l'Hombre with declarations
+This is only described in the 1829 edition of Neuestes allgemeines Spielbuch and incorporates many of the declarations found in Grosstarock, a form of classical tarot. These included "Three Matadors" (the combination of Mangur or XXI, Pagat and Scüs - worth 10 points) "Ten Taroks" (10 points), Cavallerie (all four court cards of one suit - 4 points). There were various other rule changes. For example, there were differences in the cards that could be discarded to the scat, the à Tré contract was dropped and the Scüs had to be played before the last three tricks. However, while Dummett does not rule out the possibility that it could have been "the last Tarok game to be played [in Austria] with 78 cards", he also suggests that it may just have been an editor's compilation of rules from different games and may never have existed in practice.
+
+Tarok-Quadrille
+The earliest account of Taroc being played "like Quadrille" appears over a decade before the first rules of Taroc-l'Hombre in the 1783 edition of Das neue königliche Hombre where it says that "recently it has been found that Taroc is played between 4 people in the manner of Quadrille". Dummett calls this "Tarok-Quadrille" and believes that, although it had probably died out by 1850, it contained "a number of unusual and interesting features." The four players form temporary alliances and play with 76 cards of a 78-card pack, the Aces of Clubs and Spades being removed. The dealer deals 18 cards each picks up the remaining 4 cards and makes 4 discards. There are declarations of Ten Taroks, full and half Cavallerie, Four Kings and Three or more Matadors. There are three bids: Frage, Mediateur and Solo. In a Frage the declarer calls for a King that he doesn't have and that player becomes his partner. In Mediateur he plays alone but may call for one card and in Solo he goes it entirely alone.A possibly related variant, known as "Tarock" but described for greater clarity in a modern source as Tübingen Tarock, was played around 1890 and at least up to the mid-20th century in Tübingen, south Germany. All 78 cards were used, the dealer discarding the extra 2, and there were two bids: Rufer, which involved calling a King as before, and Raus which was effectively the same as the Solo in Tarok-Quadrille. There were declarations for the Trull, three or more Oberers (matadors), three or more Unterers (tarocks from the bottom), Kingdom (4 Kings), Ski Kingdom (3 Kings + Ski), natural families (4 courts of one suit) and Ski families (3 + Ski). There were bonuses for Fein (= Pagat Ultimo) and penalties for losing trump 1.
+
+Notes
+References
+Literature
+Das neue Königliche l'Hombre. Hamburg: Herold. 1783.
+Der beliebte Weltmensch: welcher lehret die üblichsten Arten der Spiele. Vienna: Gerold. 1795.
+Neuestes Allgemeines Spielbuch. Vienna: C. Haas. 1829.
+Dummett, Michael (1980). The Game of Tarot. London: Duckworth. ISBN 0-7156-1014-7.
+"Legistes" (1795). Das Taroc l'Hombre: eines der feinsten Kartenspiele. Nuremberg: Monath and Kußler.
+Von Hahn, Alban (1905). Buch der Spiele. 2013 reprint by Sacha Szabo. Berlin: epubli. ISBN 978-3-8442-4417-5

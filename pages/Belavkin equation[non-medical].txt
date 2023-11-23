@@ -1,0 +1,2316 @@
+In quantum probability, the Belavkin equation, also known as Belavkin-Schrödinger equation, quantum filtering equation, stochastic master equation, is a quantum stochastic differential equation describing the dynamics of a quantum system undergoing observation in continuous time.  It was derived and henceforth studied by Viacheslav Belavkin in 1988.
+
+Overview
+Unlike the Schrödinger equation, which describes the deterministic evolution of the wavefunction 
+  
+    
+      
+        ψ
+        (
+        t
+        )
+      
+    
+    {\displaystyle \psi (t)}
+   of a closed system (without interaction), the Belavkin equation describes the stochastic evolution of a random wavefunction 
+  
+    
+      
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \psi (t,\omega )}
+   of an open quantum system interacting with an observer:
+
+Here, 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   is a self-adjoint operator (or a column vector of operators) of the system coupled to the external field, 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is the Hamiltonian, 
+  
+    
+      
+        i
+        =
+        
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle i={\sqrt {-1}}}
+   is the imaginary unit, 
+  
+    
+      
+        ℏ
+      
+    
+    {\displaystyle \hbar }
+   is the Planck constant, and 
+  
+    
+      
+        y
+        (
+        t
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        d
+        y
+        (
+        r
+        )
+      
+    
+    {\displaystyle y(t)=\int _{0}^{t}dy(r)}
+   is a stochastic process representing the measurement noise that is a martingale with independent increments with respect to the input probability measure 
+  
+    
+      
+        P
+        (
+        0
+        ,
+        d
+        ω
+        )
+        =
+        ‖
+        ψ
+        (
+        0
+        ,
+        ω
+        )
+        
+          ‖
+          
+            2
+          
+        
+        μ
+        (
+        d
+        ω
+        )
+      
+    
+    {\displaystyle P(0,d\omega )=\|\psi (0,\omega )\|^{2}\mu (d\omega )}
+  .  Note that this noise has dependent increments with respect to the output probability measure 
+  
+    
+      
+        P
+        (
+        t
+        ,
+        d
+        ω
+        )
+        =
+        ‖
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        
+          ‖
+          
+            2
+          
+        
+        μ
+        (
+        d
+        ω
+        )
+      
+    
+    {\displaystyle P(t,d\omega )=\|\psi (t,\omega )\|^{2}\mu (d\omega )}
+   representing the output innovation process (the observation).  For 
+  
+    
+      
+        L
+        =
+        0
+      
+    
+    {\displaystyle L=0}
+  , the equation becomes the standard Schrödinger equation.
+The stochastic process 
+  
+    
+      
+        y
+        (
+        t
+        )
+      
+    
+    {\displaystyle y(t)}
+   can be a mixture of two basic types: the Poisson (or jump) type 
+  
+    
+      
+        y
+        (
+        t
+        )
+        ≃
+        n
+        (
+        t
+        )
+        −
+        t
+      
+    
+    {\displaystyle y(t)\simeq n(t)-t}
+  , where 
+  
+    
+      
+        n
+        (
+        t
+        )
+      
+    
+    {\displaystyle n(t)}
+   is a Poisson process corresponding to counting observation, and the Brownian (or diffusion) type 
+  
+    
+      
+        y
+        (
+        t
+        )
+        ≃
+        w
+        (
+        t
+        )
+      
+    
+    {\displaystyle y(t)\simeq w(t)}
+  , where 
+  
+    
+      
+        w
+        (
+        t
+        )
+      
+    
+    {\displaystyle w(t)}
+   is the standard Wiener process corresponding to continuous observation.  The equations of the diffusion type can be derived as the central limit of the jump type equations with the expected rate of the jumps increasing to infinity.
+The random wavefunction 
+  
+    
+      
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \psi (t,\omega )}
+   is normalized only in the mean-squared sense 
+  
+    
+      
+        ∫
+        ‖
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        
+          ‖
+          
+            2
+          
+        
+        μ
+        (
+        d
+        ω
+        )
+        =
+        ‖
+        
+          ψ
+          
+            0
+          
+        
+        ‖
+        =
+        1
+      
+    
+    {\displaystyle \int \|\psi (t,\omega )\|^{2}\mu (d\omega )=\|\psi _{0}\|=1}
+  , but generally 
+  
+    
+      
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \psi (t,\omega )}
+   fails to be normalized for each 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  .  The normalization of 
+  
+    
+      
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \psi (t,\omega )}
+   for each 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   gives the random posterior state vector 
+  
+    
+      
+        φ
+        (
+        t
+        ,
+        ω
+        )
+        =
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        
+          /
+        
+        ‖
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        ‖
+      
+    
+    {\displaystyle \varphi (t,\omega )=\psi (t,\omega )/\|\psi (t,\omega )\|}
+  , the evolution of which is described by the posterior Belavkin equation, which is nonlinear, because operators 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   and 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   depend on 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   due to normalization.  The stochastic process 
+  
+    
+      
+        y
+        (
+        t
+        )
+      
+    
+    {\displaystyle y(t)}
+   in the posterior equation has independent increments with respect to the output probability measure 
+  
+    
+      
+        P
+        (
+        t
+        ,
+        d
+        ω
+        )
+        =
+        ‖
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        
+          ‖
+          
+            2
+          
+        
+        μ
+        (
+        d
+        ω
+        )
+      
+    
+    {\displaystyle P(t,d\omega )=\|\psi (t,\omega )\|^{2}\mu (d\omega )}
+  , but not with respect to the input measure.  Belavkin also derived linear equation for unnormalized density operator 
+  
+    
+      
+        ϱ
+        (
+        t
+        ,
+        ω
+        )
+        =
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        
+          ψ
+          
+            ∗
+          
+        
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \varrho (t,\omega )=\psi (t,\omega )\psi ^{\ast }(t,\omega )}
+   and the corresponding nonlinear equation for the normalized random posterior density operator 
+  
+    
+      
+        ρ
+        (
+        t
+        ,
+        ω
+        )
+        =
+        φ
+        (
+        t
+        ,
+        ω
+        )
+        
+          φ
+          
+            ∗
+          
+        
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \rho (t,\omega )=\varphi (t,\omega )\varphi ^{\ast }(t,\omega )}
+  .  For two types of measurement noise, this gives eight basic quantum stochastic differential equations.  The general forms of the equations include all types of noise and their representations in Fock space.The nonlinear equation describing observation of position of a free particle, which is a special case of the posterior Belavkin equation of the diffusion type, was also obtained by Diosi and appeared in the works of Gisin, Ghirardi, Pearle and Rimini, although with a rather different motivation or interpretation.  Similar nonlinear equations for posterior density operators were postulated (although without derivation) in quantum optics and the quantum trajectories theory, where they are called stochastic master equations.  The averaging of the equations for the random density operators 
+  
+    
+      
+        ρ
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \rho (t,\omega )}
+   over all random trajectories 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   leads to the Lindblad equation, which is deterministic.
+The nonlinear Belavkin equations for posterior states play the same role as the Stratonovich–Kushner equation in classical probability, while the linear equations correspond to the Zakai equation.  The Belavkin equations describe continuous-time decoherence of initially pure state 
+  
+    
+      
+        ρ
+        (
+        0
+        )
+        =
+        
+          ψ
+          
+            0
+          
+        
+        
+          ψ
+          
+            0
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \rho (0)=\psi _{0}\psi _{0}^{\ast }}
+   into a mixed posterior state 
+  
+    
+      
+        ρ
+        (
+        t
+        )
+        =
+        ∫
+        φ
+        (
+        t
+        ,
+        ω
+        )
+        
+          φ
+          
+            ∗
+          
+        
+        (
+        t
+        ,
+        ω
+        )
+        P
+        (
+        t
+        ,
+        d
+        ω
+        )
+      
+    
+    {\displaystyle \rho (t)=\int \varphi (t,\omega )\varphi ^{\ast }(t,\omega )P(t,d\omega )}
+   giving a rigorous description of the dynamics of the wavefunction collapse due to an observation or measurement.
+
+Non-demolition measurement and quantum filtering
+Noncommutativity presents a major challenge for probabilistic interpretation of quantum stochastic differential equations due to non-existence of conditional expectations for general pairs of quantum observables.  Belavkin resolved this issue by discovering the error-perturbation uncertainty relation and formulating the non-demolition principle of quantum measurement.  In particular, if the stochastic process 
+  
+    
+      
+        d
+        y
+        (
+        t
+        )
+      
+    
+    {\displaystyle dy(t)}
+   corresponds to the error 
+  
+    
+      
+        e
+        (
+        t
+        )
+        d
+        t
+        =
+        d
+        w
+      
+    
+    {\displaystyle e(t)dt=dw}
+   (white noise in the diffusive case) of a noisy observation 
+  
+    
+      
+        Y
+        (
+        t
+        )
+        =
+        X
+        (
+        t
+        )
+        +
+        e
+        (
+        t
+        )
+      
+    
+    {\displaystyle Y(t)=X(t)+e(t)}
+   of operator 
+  
+    
+      
+        X
+        (
+        t
+        )
+        =
+        λ
+        [
+        L
+        (
+        t
+        )
+        +
+        
+          L
+          
+            ∗
+          
+        
+        (
+        t
+        )
+        ]
+      
+    
+    {\displaystyle X(t)=\lambda [L(t)+L^{\ast }(t)]}
+   with the accuracy coefficient 
+  
+    
+      
+        λ
+        >
+        0
+      
+    
+    {\displaystyle \lambda >0}
+  , then the indirect observation perturbs the dynamics of the system by a stochastic force 
+  
+    
+      
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(t)}
+  , called the Langevin force, which is another white noise of intensity 
+  
+    
+      
+        (
+        ℏ
+        λ
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (\hbar \lambda )^{2}}
+   that does not commute with the error 
+  
+    
+      
+        e
+        (
+        t
+        )
+      
+    
+    {\displaystyle e(t)}
+  .  The result of such a perturbation is that the output process 
+  
+    
+      
+        Y
+        (
+        t
+        )
+      
+    
+    {\displaystyle Y(t)}
+   is commutative 
+  
+    
+      
+        [
+        Y
+        (
+        s
+        )
+        ,
+        Y
+        (
+        t
+        )
+        ]
+        =
+        0
+      
+    
+    {\displaystyle [Y(s),Y(t)]=0}
+  , and hence 
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        Y
+        (
+        r
+        )
+        d
+        r
+      
+    
+    {\displaystyle \int _{0}^{t}Y(r)dr}
+   corresponds to a classical observation, while the system operators 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   satisfy the non-demolition condition: all future observables must commute with the past observations (but not with the future observations): 
+  
+    
+      
+        [
+        X
+        (
+        s
+        )
+        ,
+        Y
+        (
+        t
+        )
+        ]
+        =
+        0
+      
+    
+    {\displaystyle [X(s),Y(t)]=0}
+   for all 
+  
+    
+      
+        s
+        ≥
+        t
+      
+    
+    {\displaystyle s\geq t}
+   (but not 
+  
+    
+      
+        s
+        <
+        t
+      
+    
+    {\displaystyle s<t}
+  ).  Note that commutation of 
+  
+    
+      
+        X
+        (
+        s
+        )
+      
+    
+    {\displaystyle X(s)}
+   with 
+  
+    
+      
+        Y
+        (
+        t
+        )
+      
+    
+    {\displaystyle Y(t)}
+   and another operator 
+  
+    
+      
+        Z
+        (
+        s
+        )
+      
+    
+    {\displaystyle Z(s)}
+   with 
+  
+    
+      
+        Y
+        (
+        t
+        )
+      
+    
+    {\displaystyle Y(t)}
+   does not imply commutation of 
+  
+    
+      
+        X
+        (
+        s
+        )
+      
+    
+    {\displaystyle X(s)}
+   with 
+  
+    
+      
+        Z
+        (
+        s
+        )
+      
+    
+    {\displaystyle Z(s)}
+  , so that the algebra of future observables is still non-commutative.  The non-demolition condition is necessary and sufficient for the existence of conditional expectations 
+  
+    
+      
+        
+          E
+        
+        {
+        X
+        (
+        s
+        )
+        ∣
+        Y
+        (
+        t
+        )
+        }
+      
+    
+    {\displaystyle \mathbb {E} \{X(s)\mid Y(t)\}}
+  , which makes the quantum filtering possible.
+
+Posterior state equations
+Counting observation
+Let 
+  
+    
+      
+        n
+        (
+        t
+        )
+      
+    
+    {\displaystyle n(t)}
+   be a Poisson process with forward increments 
+  
+    
+      
+        d
+        n
+        (
+        t
+        )
+        =
+        0
+      
+    
+    {\displaystyle dn(t)=0}
+   almost everywhere and 
+  
+    
+      
+        d
+        n
+        (
+        t
+        )
+        =
+        1
+      
+    
+    {\displaystyle dn(t)=1}
+   otherwise and having the property 
+  
+    
+      
+        (
+        d
+        n
+        
+          )
+          
+            2
+          
+        
+        =
+        d
+        n
+      
+    
+    {\displaystyle (dn)^{2}=dn}
+  .  The expected number of events is 
+  
+    
+      
+        
+          E
+        
+        {
+        n
+        (
+        t
+        )
+        }
+        =
+        ν
+        t
+      
+    
+    {\displaystyle \mathbb {E} \{n(t)\}=\nu t}
+  , where 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   is the expected rate of jumps.  Then substituting 
+  
+    
+      
+        m
+        (
+        t
+        )
+        =
+        
+          
+            
+              n
+              (
+              t
+              )
+              −
+              ν
+              t
+            
+            
+              ν
+            
+          
+        
+      
+    
+    {\displaystyle m(t)={\frac {n(t)-\nu t}{\sqrt {\nu }}}}
+   for the stochastic process 
+  
+    
+      
+        y
+        (
+        t
+        )
+      
+    
+    {\displaystyle y(t)}
+   gives the linear Belavkin equation for the unnormalized random wavefunction 
+  
+    
+      
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \psi (t,\omega )}
+   undergoing counting observation.  Substituting 
+  
+    
+      
+        L
+        =
+        
+          
+            ν
+          
+        
+        (
+        C
+        −
+        I
+        )
+      
+    
+    {\displaystyle L={\sqrt {\nu }}(C-I)}
+  , where 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   is the collapse operator, and 
+  
+    
+      
+        H
+        =
+        E
+        +
+        i
+        ℏ
+        
+          
+            ν
+            2
+          
+        
+        (
+        C
+        −
+        
+          C
+          
+            ∗
+          
+        
+        )
+      
+    
+    {\displaystyle H=E+i\hbar {\frac {\nu }{2}}(C-C^{\ast })}
+  , where 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is the energy operator, this equation can be written in the following form
+
+Normalized wavefunction 
+  
+    
+      
+        φ
+        (
+        t
+        ,
+        ω
+        )
+        =
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        
+          /
+        
+        ‖
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        ‖
+      
+    
+    {\displaystyle \varphi (t,\omega )=\psi (t,\omega )/\|\psi (t,\omega )\|}
+   is called the posterior state vector, the evolution of which is described by the following nonlinear equation
+
+where 
+  
+    
+      
+        
+          
+            
+              n
+              ~
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\tilde {n}}(t)}
+   has expectation 
+  
+    
+      
+        
+          E
+        
+        {
+        
+          
+            
+              n
+              ~
+            
+          
+        
+        (
+        t
+        )
+        }
+        =
+        ν
+        ‖
+        C
+        φ
+        
+          ‖
+          
+            2
+          
+        
+        t
+      
+    
+    {\displaystyle \mathbb {E} \{{\tilde {n}}(t)\}=\nu \|C\varphi \|^{2}t}
+  .  The posterior equation can be written in the standard form
+
+  
+    
+      
+        d
+        φ
+        =
+        −
+        
+          (
+          
+            
+              
+                1
+                2
+              
+            
+            
+              
+                
+                  
+                    L
+                    ~
+                  
+                
+              
+              
+                ∗
+              
+            
+            
+              
+                
+                  L
+                  ~
+                
+              
+            
+            +
+            
+              
+                i
+                ℏ
+              
+            
+            
+              
+                
+                  H
+                  ~
+                
+              
+            
+          
+          )
+        
+        φ
+        d
+        t
+        +
+        
+          
+            
+              L
+              ~
+            
+          
+        
+        φ
+        d
+        
+          
+            
+              m
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle d\varphi =-\left({\frac {1}{2}}{\tilde {L}}^{\ast }{\tilde {L}}+{\frac {i}{\hbar }}{\tilde {H}}\right)\varphi dt+{\tilde {L}}\varphi d{\tilde {m}}}
+  with 
+  
+    
+      
+        
+          
+            
+              L
+              ~
+            
+          
+        
+        =
+        
+          
+            ν
+          
+        
+        (
+        C
+        −
+        ‖
+        C
+        φ
+        ‖
+        )
+      
+    
+    {\displaystyle {\tilde {L}}={\sqrt {\nu }}(C-\|C\varphi \|)}
+  , 
+  
+    
+      
+        
+          
+            
+              H
+              ~
+            
+          
+        
+        =
+        E
+        +
+        i
+        ℏ
+        
+          
+            ν
+            2
+          
+        
+        (
+        C
+        −
+        
+          C
+          
+            ∗
+          
+        
+        )
+        ‖
+        C
+        φ
+        ‖
+      
+    
+    {\displaystyle {\tilde {H}}=E+i\hbar {\frac {\nu }{2}}(C-C^{\ast })\|C\varphi \|}
+  , and 
+  
+    
+      
+        
+          
+            
+              m
+              ~
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                
+                  
+                    n
+                    ~
+                  
+                
+              
+              (
+              t
+              )
+              −
+              ν
+              ‖
+              C
+              φ
+              
+                ‖
+                
+                  2
+                
+              
+              t
+            
+            
+              
+                
+                  ν
+                
+              
+              ‖
+              C
+              φ
+              ‖
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {m}}(t)={\frac {{\tilde {n}}(t)-\nu \|C\varphi \|^{2}t}{{\sqrt {\nu }}\|C\varphi \|}}}
+  .  The corresponding equations for the unnormalized random density operator 
+  
+    
+      
+        ϱ
+        (
+        t
+        ,
+        ω
+        )
+        =
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        
+          ψ
+          
+            ∗
+          
+        
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \varrho (t,\omega )=\psi (t,\omega )\psi ^{\ast }(t,\omega )}
+   and for the normalized random posterior density operator 
+  
+    
+      
+        ρ
+        (
+        t
+        ,
+        ω
+        )
+        =
+        φ
+        (
+        t
+        ,
+        ω
+        )
+        
+          φ
+          
+            ∗
+          
+        
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \rho (t,\omega )=\varphi (t,\omega )\varphi ^{\ast }(t,\omega )}
+   are as follows
+
+where 
+  
+    
+      
+        G
+        =
+        
+          
+            ν
+            2
+          
+        
+        
+          C
+          
+            ∗
+          
+        
+        C
+        +
+        
+          
+            i
+            ℏ
+          
+        
+        E
+      
+    
+    {\displaystyle G={\frac {\nu }{2}}C^{\ast }C+{\frac {i}{\hbar }}E}
+  .  Note that the latter equation is nonlinear.
+
+Continuous observation
+Stochastic process 
+  
+    
+      
+        m
+        (
+        t
+        )
+      
+    
+    {\displaystyle m(t)}
+  , defined in the previous section, has forward increments 
+  
+    
+      
+        (
+        d
+        m
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          ν
+          
+            −
+            1
+            
+              /
+            
+            2
+          
+        
+        d
+        m
+        +
+        d
+        t
+      
+    
+    {\displaystyle (dm)^{2}=\nu ^{-1/2}dm+dt}
+  , which tend to 
+  
+    
+      
+        d
+        t
+      
+    
+    {\displaystyle dt}
+   as 
+  
+    
+      
+        ν
+        →
+        ∞
+      
+    
+    {\displaystyle \nu \to \infty }
+  .  Therefore, 
+  
+    
+      
+        m
+        (
+        t
+        )
+      
+    
+    {\displaystyle m(t)}
+   becomes standard Wiener process with respect to the input probability measure.  Substituting 
+  
+    
+      
+        w
+        (
+        t
+        )
+      
+    
+    {\displaystyle w(t)}
+   for 
+  
+    
+      
+        y
+        (
+        t
+        )
+      
+    
+    {\displaystyle y(t)}
+   gives the linear Belavkin equation for the unnormalized random wavefunction 
+  
+    
+      
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \psi (t,\omega )}
+   undergoing continuous observation.  The output process 
+  
+    
+      
+        
+          
+            
+              m
+              ~
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\tilde {m}}(t)}
+   becomes the diffusion innovation process 
+  
+    
+      
+        
+          
+            
+              w
+              ~
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\tilde {w}}(t)}
+   with increments 
+  
+    
+      
+        d
+        
+          
+            
+              w
+              ~
+            
+          
+        
+        (
+        t
+        ,
+        ω
+        )
+        =
+        d
+        w
+        (
+        t
+        ,
+        ω
+        )
+        −
+        2
+        
+          R
+          e
+        
+        ⟨
+        φ
+        (
+        t
+        ,
+        ω
+        )
+        ∣
+        L
+        φ
+        (
+        t
+        ,
+        ω
+        )
+        ⟩
+        d
+        t
+      
+    
+    {\displaystyle d{\tilde {w}}(t,\omega )=dw(t,\omega )-2\mathrm {Re} \langle \varphi (t,\omega )\mid L\varphi (t,\omega )\rangle dt}
+  .  The nonlinear Belavkin equation of the diffusion type for the posterior state vector 
+  
+    
+      
+        φ
+        (
+        t
+        ,
+        ω
+        )
+        =
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        
+          /
+        
+        ‖
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        ‖
+      
+    
+    {\displaystyle \varphi (t,\omega )=\psi (t,\omega )/\|\psi (t,\omega )\|}
+   is
+
+with 
+  
+    
+      
+        
+          
+            
+              L
+              ~
+            
+          
+        
+        =
+        L
+        −
+        
+          R
+          e
+        
+        ⟨
+        φ
+        ∣
+        L
+        φ
+        ⟩
+      
+    
+    {\displaystyle {\tilde {L}}=L-\mathrm {Re} \langle \varphi \mid L\varphi \rangle }
+   and 
+  
+    
+      
+        
+          
+            
+              H
+              ~
+            
+          
+        
+        =
+        H
+        +
+        i
+        ℏ
+        
+          
+            1
+            2
+          
+        
+        (
+        L
+        −
+        
+          L
+          
+            ∗
+          
+        
+        )
+        
+          R
+          e
+        
+        ⟨
+        φ
+        ∣
+        L
+        φ
+        ⟩
+      
+    
+    {\displaystyle {\tilde {H}}=H+i\hbar {\frac {1}{2}}(L-L^{\ast })\mathrm {Re} \langle \varphi \mid L\varphi \rangle }
+  .  The corresponding equations for the unnormalized random density operator 
+  
+    
+      
+        ϱ
+        (
+        t
+        ,
+        ω
+        )
+        =
+        ψ
+        (
+        t
+        ,
+        ω
+        )
+        
+          ψ
+          
+            ∗
+          
+        
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \varrho (t,\omega )=\psi (t,\omega )\psi ^{\ast }(t,\omega )}
+   and for the normalized random posterior density operator 
+  
+    
+      
+        ρ
+        (
+        t
+        ,
+        ω
+        )
+        =
+        φ
+        (
+        t
+        ,
+        ω
+        )
+        
+          φ
+          
+            ∗
+          
+        
+        (
+        t
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle \rho (t,\omega )=\varphi (t,\omega )\varphi ^{\ast }(t,\omega )}
+   are as follows
+
+where 
+  
+    
+      
+        K
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          L
+          
+            ∗
+          
+        
+        L
+        +
+        
+          
+            i
+            ℏ
+          
+        
+        H
+      
+    
+    {\displaystyle K={\frac {1}{2}}L^{\ast }L+{\frac {i}{\hbar }}H}
+  .  The second equation is nonlinear due to normalization.  Because 
+  
+    
+      
+        
+          E
+        
+        {
+        d
+        w
+        (
+        t
+        )
+        }
+        =
+        0
+      
+    
+    {\displaystyle \mathbb {E} \{dw(t)\}=0}
+  , taking the average of these stochastic equations over all 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   leads to the Lindblad equation
+
+  
+    
+      
+        
+          
+            
+              d
+              ρ
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        [
+        K
+        ρ
+        +
+        ρ
+        
+          K
+          
+            ∗
+          
+        
+        ]
+        +
+        L
+        ρ
+        
+          L
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle {\frac {d\rho }{dt}}=-[K\rho +\rho K^{\ast }]+L\rho L^{\ast }}
+
+Example: continuous observation of position of a free particle
+Consider a free particle of mass 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  .  The position and momentum observables correspond respectively to operators 
+  
+    
+      
+        
+          
+            
+              x
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {x}}}
+   of multiplication by 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        
+          
+            
+              p
+              ^
+            
+          
+        
+        =
+        (
+        ℏ
+        
+          /
+        
+        i
+        )
+        d
+        
+          /
+        
+        d
+        x
+      
+    
+    {\displaystyle {\hat {p}}=(\hbar /i)d/dx}
+  .  Making the following substitutions in the Belavkin equation
+
+  
+    
+      
+        L
+        =
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        ,
+        
+        H
+        =
+        
+          
+            
+              
+                
+                  
+                    p
+                    ^
+                  
+                
+              
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+      
+    
+    {\displaystyle L={\hat {x}},\qquad H={\frac {{\hat {p}}^{2}}{2m}}}
+  the posterior stochastic equation becomes
+
+  
+    
+      
+        d
+        φ
+        =
+        −
+        
+          (
+          
+            
+              
+                1
+                2
+              
+            
+            (
+            
+              
+                
+                  x
+                  ^
+                
+              
+            
+            −
+            ⟨
+            
+              
+                
+                  x
+                  ^
+                
+              
+            
+            ⟩
+            
+              )
+              
+                2
+              
+            
+            +
+            
+              
+                i
+                ℏ
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        p
+                        ^
+                      
+                    
+                  
+                  
+                    2
+                  
+                
+                
+                  2
+                  m
+                
+              
+            
+          
+          )
+        
+        φ
+        d
+        t
+        +
+        
+          
+            (
+          
+        
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        −
+        ⟨
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        ⟩
+        
+          
+            )
+          
+        
+        φ
+        [
+        d
+        y
+        −
+        2
+        ⟨
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        ⟩
+        d
+        t
+        ]
+      
+    
+    {\displaystyle d\varphi =-\left({\frac {1}{2}}({\hat {x}}-\langle {\hat {x}}\rangle )^{2}+{\frac {i}{\hbar }}{\frac {{\hat {p}}^{2}}{2m}}\right)\varphi dt+{\Bigl (}{\hat {x}}-\langle {\hat {x}}\rangle {\Bigr )}\varphi [dy-2\langle {\hat {x}}\rangle dt]}
+  where 
+  
+    
+      
+        ⟨
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        ⟩
+        (
+        t
+        )
+        =
+        
+          T
+          r
+        
+        
+          {
+          
+            
+              
+                
+                  x
+                  ^
+                
+              
+            
+            ρ
+            (
+            t
+            )
+          
+          }
+        
+      
+    
+    {\displaystyle \langle {\hat {x}}\rangle (t)=\mathrm {Tr} \left\{{\hat {x}}\rho (t)\right\}}
+   is the posterior expectation of 
+  
+    
+      
+        
+          
+            
+              x
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {x}}}
+  . Motivated by the spontaneous collapse theory rather than the filtering theory, this equation was also obtained by Diosi, showing that the measurement noise 
+  
+    
+      
+        d
+        y
+        −
+        2
+        ⟨
+        
+          
+            
+              x
+              ^
+            
+          
+        
+        ⟩
+        d
+        t
+      
+    
+    {\displaystyle dy-2\langle {\hat {x}}\rangle dt}
+   is the increment 
+  
+    
+      
+        d
+        ξ
+      
+    
+    {\displaystyle d\xi }
+   of a standard Wiener process. There are closed-form solutions to this equation,  as well as equations for a particle in a linear or quadratic potentials.  For a Gaussian initial state 
+  
+    
+      
+        
+          ψ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \psi _{0}}
+   these solutions correspond to optimal quantum linear filter.  Solutions to the Belavkin equation show that in the limit 
+  
+    
+      
+        t
+        →
+        ∞
+      
+    
+    {\displaystyle t\to \infty }
+   the wavefunction has finite dispersion, therefore resolving the quantum Zeno effect.
+
+
+== References ==

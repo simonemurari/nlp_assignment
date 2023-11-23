@@ -1,0 +1,63 @@
+The CDC publishes official numbers of COVID-19 cases in the United States.
+The CDC estimates that, between February 2020 and September 2021, only 1 in 1.3 COVID-19 deaths were attributed to COVID-19. The true COVID-19 death toll in the United States would therefore be higher than official reports, as modeled by a paper published in The Lancet Regional Health – Americas. One way to estimate COVID-19 deaths that includes unconfirmed cases is to use the excess mortality, which is the overall number of deaths that exceed what would normally be expected. From March 1, 2020, through the end of 2020, there were 522,368 excess deaths in the United States, or 22.9% more deaths than would have been expected in that time period.In February 2020, at the beginning of the pandemic, a shortage of tests made it impossible to confirm all possible COVID-19 cases and resulting deaths, so the early numbers were likely undercounts.The following numbers are based on CDC data, which is incomplete.
+
+Measuring case and mortality rates
+In early 2020, deaths from all causes exceeded the seasonal average, and data from early 2020 suggest additional deaths that were not counted in official reported coronavirus mortality statistics. Until February 28, 2020, CDC testing protocols allowed tests only for people who had traveled to China. In most U.S. locations, testing for some time was performed only on symptomatic people with a history of travel to Wuhan or with close contact to such people. The numbers were reported every Monday, Wednesday, and Friday and were split into categories: individual travelers, people who contracted the disease from other people within the U.S., and repatriated citizens who returned to the U.S. from crisis locations, such as Wuhan, where the disease originated, and the cruise ship Diamond Princess.By March 26, 2020, the United States, with the world's third-largest population, surpassed China and Italy as the country with the world's highest number of confirmed cases. By April 25, the U.S. had more than 905,000 confirmed coronavirus cases and nearly 52,000 deaths, giving it a mortality rate around 5.7 percent. (In comparison, Spain's mortality rate was 10.2 percent and Italy's was 13.5 percent.)In April 2020, more than 10,000 American deaths had occurred in nursing homes. Most nursing homes did not have easy access to testing, making the actual number unknown. President Trump established a Coronavirus Commission for Safety and Quality in Nursing Homes. Subsequently, a number of states including Maryland and New Jersey reported their own estimates of deaths at nursing homes, ranging from twenty to fifty percent of the states' total deaths. A PNAS report in September 2020 confirmed that the virus is much more dangerous for the elderly than the young, noting that about 70% of all U.S. COVID-19 deaths had occurred to those over the age of 70.As of early August 2020, among the 45 countries that had over 50,000 cases, the U.S. had the eighth highest number of deaths per-capita. Its case fatality ratio, however, was significantly better where it ranked 24th in the world, with 3.3% of its cases resulting in death. Several studies suggested that the number of infections was far higher than officially reported, and thus that the infection fatality rate was far lower than the case fatality rate.The CDC estimates that 40% of people infected never show symptoms (i.e. are asymptomatic), although there is a 75% chance they can still spread the disease. And while children have a lower risk of becoming ill or dying, the CDC warns that they can still function as asymptomatic carriers and transmit the virus to adults. The American Academy of Pediatrics's weekly report from when states started reporting to September 17, 2020, tracked 587,948 child COVID-19 cases, 5,016 child hospitalizations, and 109 child deaths.Epidemiologists depend on accurate reporting of cases and deaths to advise government response, and some have questioned the reliability of the numbers of confirmed cases. Rates differ among U.S. states, and there are also racial and economic disparities. After a group of epidemiologists requested revisions in how the CDC counts cases and deaths, the CDC in mid-April 2020 updated its guidance for counting COVID-19 cases and deaths to recommend that U.S. states report both confirmed and probable ones, though the decision is left to each state.On September 25, 2020, The Lancet published the largest study at the time to measure COVID-19 antibody levels in the US population, finding that less than ten percent of the U.S. population had been exposed. The study was published at a time when, according to Newsweek, "some U.S. officials have floated the concept of herd immunity as a possible strategy to manage the national outbreak," and according to the lead author of the study, Stanford Center for Tubulointerstitial Kidney Disease director Shuchi Anand, "this study does not support that there is herd immunity." The research also uncovered racial and economic disparities in populations with COVID-19 antibodies and highlighted the need for public health intervention to address the disparities. At the time of the publication of the study, Anand announced that researchers would monitor the study participants for months to help determine the effectiveness of COVID-19 mitigation tactics.As of May 2021, the Centers for Disease Control estimated that there had been approximately 120 million infections in the United States.According to the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University as of 19:21 Eastern Standard Time (EST) on 7 August 2021, the total COVID-19 cases in the US has crossed the 35.73 million mark, with the death toll reaching 616,712.
+
+Progression charts
+New daily cases
+Number of new daily cases, with a 21-day centered moving average:
+
+Deaths per day
+Number of new daily deaths attributed to COVID-19, with a 21-day centered moving average:
+
+Weekly all-cause deaths
+Weekly predicted deaths, non-COVID excess, and COVID-related excess deaths in the U.S. based on CDC data as of April 10, 2023 which is "Predicted (weighted)" (rather than tabulated) and commonly takes 60 days to fully collate. As such, the data are split and the fields indicated by (*) are not confirmed, including both the 60-day window and any data from the CDC that had numerical inconsistencies (e.g. predicted + excess ≠ observed.) Also, key actions and milestones in the progression of the outbreak are annotated, selectively drawn from COVID-19 pandemic in the United States: Timeline.
+
+Hospitalizations
+Daily hospital and ICU occupancy numbers, as of January 3, 2023:
+
+Deaths by age
+Number of COVID-19 deaths by age as of April 11, 2023:
+
+Deaths by sex
+Number of COVID-19 deaths by sex and age as of April 12, 2023:
+
+Deaths by state
+COVID-19 deaths per million of the populations of each state, along with the District of Columbia and Puerto Rico, as of February 9, 2023:
+
+When the data was adjusted to take into account age and co-morbidities, Arizona had the highest rate of Covid-related deaths in the country (581 deaths per 100,000 people). Washington, D.C. (526 per 100,000) and New Mexico (521 per 100,000) were the second and third worst states. Hawaii, on the other hand, had the lowest adjusted Covid death rate at 147 deaths per 100,000 people. It was followed by New Hampshire (215 per 100,000) and Maine (281 per 100,000).
+
+Vaccine distribution
+Vaccinations in the U.S. per day:
+Cumulative vaccine doses administered in the U.S.
+
+Number of U.S. positive test individuals by state over time
+Data for all state charts sourced from the NY Times COVID Data, as of January 3, 2023. (This reference tends to include confirmed and suspected cases. This leads to some disparity with other sources).
+
+> 6,000,000 positive test individuals
+2,000,000–6,000,000 positive test individuals
+1,000,000–2,000,000 positive test individuals
+400,000–1,000,000 positive test individuals
+<400,000 positive test individuals
+Death projections
+On March 31, 2020, the CDC projected that eventually 100,000–240,000 Americans would die of coronavirus. The lower end of the estimate was reached within two months after the CDC made its projection, and the upper end was surpassed in November 2020. It is hard to say if the projections were accurate as some of the time they were, while others were very much off, however it was hard to predict the amount of deaths when new variants like the Omicron variant and the Delta variant were rising.
+The CDC uses an ensemble forecast, meaning it receives predictions from multiple sources and aggregates them to make its own forecast. As of December 2020, the CDC included 37 modeling groups in its ensemble forecast and was predicting the death toll 4 weeks in advance.Examples:
+
+At the end of May 2020, the CDC correctly projected the death toll would surpass 115,000 by June 20.
+At the end of July 2020, the CDC correctly projected the death toll would surpass 168,000 by August 22.
+In mid-October 2020, the CDC correctly projected the death toll would reach 230,000–250,000 by mid-November.In mid-February 2021, when the death toll had already reached 470,000, the IHME projected that the death toll would reach 600,000 by June 1. However, the death rate dropped during this time period and the total death toll on June 1 was not as high as expected, having reached only about 592,000. The total of 600,000 was reached two weeks later.In mid-September 2021, when the death toll had already reached 670,000, the IHME projected that the death toll would reach 775,000 by the end of the year. That number was reached by the end of November 2021.On January 12, 2022, when the death toll had already reached 842,000, a CDC ensemble forecast predicted that 62,000 people would die over the next four weeks.At the start of January 2023, when the US death toll had accumulated to over 1,120,000, the IHME projected that the death toll would reach 1,130,000 by April 1.
+
+Comparisons
+Epidemics of similar size (the number is the U.S. death toll):
+
+HIV/AIDS in the United States: 700,000 as of 2018
+1918 Spanish Flu: 675,000Other large epidemics:
+
+1957–1958 influenza pandemic: 116,000
+1968 Hong Kong flu: 100,000
+
+References
+External links
+
+ Media related to COVID-19 pandemic in the United States at Wikimedia Commons

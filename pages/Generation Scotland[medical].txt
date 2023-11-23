@@ -1,0 +1,122 @@
+Generation Scotland is a biobank, a resource of biological samples and information on health and lifestyle from thousands of volunteer donors in Scotland.
+The aim of Generation Scotland is to create an ethically sound, family- and population-based infrastructure to identify the genetic basis of common complex diseases. The Generation Scotland concept has been evolving for several years (see timeline), and now involves three complementary projects, the Scottish Family Health Study GS:SFHS, Genetic Health in the 21st Century GS:21CGH, and the Donor DNA Databank GS:3D. Together these projects have recruited a cohort of over 30,000 people.
+Generation Scotland is establishing multi-disciplinary skills networks in genetic epidemiology, statistical genetics and health informatics. Social scientists have been involved from the start, conducting a public consultation process and addressing ethical, legal and social issues. The output from these projects will be of value to the biomedical, sociomedicolegal, healthcare and bioindustry sectors.
+
+Background
+The main focus of Generation Scotland is on identifying the inherited factors, or genes, that influence our risk of being affected by a number of common causes of ill health, including heart disease, diabetes, mental illness, obesity, stroke and diseases of the bones and joints. Our genes also influence how we respond to different medicines. The basic idea behind Generation Scotland is that by comparing the genes in large groups of people (such as patients and healthy people, or people who respond well to a medicine and people who do not) researchers will be able to work out which genetic factors contribute to our chances of becoming unwell or of suffering from drug-related side-effects.
+Common disorders such as heart disease and diabetes are significant causes of chronic ill health and death in middle-aged people. Adverse reactions to prescription drugs delay recovery and drain healthcare resources. Generation Scotland is therefore addressing issues of major public health importance.
+Disease risk and drug response are examples of complex traits. Instead of having a single cause, complex traits typically result from a combination of factors including genes, environment and lifestyle (diet, smoking history, exercise patterns, use of other medicines etc.). Until very recently there was no efficient way of systematically searching for the genetic factors that underlie complex diseases. However the completion of the Human Genome Project, coupled with technological advances that allow rapid comparison of thousands of DNA samples, means that the necessary methods are now available.Detection of the relevant genetic factors depends on statistical analysis of data obtained by comparing the DNA of people with and without a particular trait (cases and controls, respectively). This is a powerful approach which has already yielded considerable success. However thousands of individuals must be recruited for such case-control studies to generate meaningful results and this is often beyond the means of smaller research groups.
+Generation Scotland has put in place the considerable infrastructure required to recruit the necessary numbers of participants, to collect, process and securely store the associated biological samples and data, and to make these available to the wider research community. Scientists who are planning research into the causes or treatments of common complex diseases and who have appropriate approval from a Research Ethics Committee can apply to use the resource in accordance with Generation Scotland's Access Policy. All data generated in this way will be fed back to Generation Scotland and will in turn form part or the resource.
+
+Funding
+Generation Scotland is funded by
+
+a Strategic Research Development Grant of £1.79m from the Scottish Higher Education Funding Council (2003)
+a Genetics in Healthcare Initiative grant of £4.4m from the Scottish Government Health Directorates (2004)
+a grant of £170,209 from the Chief Scientist Office Biomedical and Therapeutic Research Committee (now the Experimental and Translational Medicine (ETM) Research Committee) (2004)
+a grant of £3.8m from the Scottish Government Health Directorates (2008)
+
+Collaborators
+Generation Scotland is a multi-institution, cross-disciplinary collaboration involving
+
+the people of Scotland
+the Scottish University Medical Schools
+University of Aberdeen
+University of Dundee
+University of Edinburgh
+University of Glasgow
+the Information Services Division of NHS National Services Scotland
+the MRC Human Genetics Unit, Edinburgh
+the MRC Social and Public Health Science Unit, Glasgow
+NHS Scotland
+the Scottish School of Primary Care
+the Wellcome Trust Clinical Research Facility, Edinburgh
+UK Biobank
+
+Projects
+Generation Scotland involves several disciplines including medicine, science, education and social science. This is reflected by the diversity of projects in the Generation Scotland portfolio:
+
+Scottish Family Health Study (GS:SFHS)
+Genetic Health in the 21st Century (GS:21CGH)
+Donor DNA Databank (GS:3D)
+Public Consultation
+
+Public consultation
+Public involvement is essential for the overall success of any biobank and therefore one of the first Generation Scotland projects to get underway was a programme of public consultation. The aim of the programme is to foster a relationship of trust between potential participants and scientists and to understand and explain public reaction to a wide range of relevant issues including genetics in healthcare, the use of bioinformation, and concerns surrounding consent and confidentiality.
+
+Information technology and research infrastructure
+Biobank projects require considerable infrastructure to ensure that samples and data gathered from volunteers at the various recruitment centres are collected efficiently, processed and stored securely, and analysed effectively. Generation Scotland has designed protocols to standardise and integrate all stages of the process from volunteer recruitment to data handling. For example, a customised Laboratory Information Management System (LIMS) is being used to track samples as they move from the clinics to the Wellcome Trust Clinical Research Facility, Edinburgh for processing and storage, and then on to the research laboratories for analysis.
+
+Timeline
+The Generation Scotland concept has evolved over many years. Below is a list of the key milestones in the development of Generation Scotland and its associated projects.
+
+2020 New GS branding developed by the team for new study. Due to the Coronavirus (COVID-19) outbreak, they also began new research into the Government's regulations and their impact on mental health and well being. The new study is called CovidLife
+2019
+GS help in research to find 102 genes linked to depression and evidence of heart injury. Later in the year they were awarded funding to enrol another 20,000 volunteers into the study
+2018
+300th research application received and volunteers are celebrated for their contribution to Scottish research
+2017
+GS co-authors over 150 research papers
+2016
+GS organises a symposium in Edinburgh, co-sponsored by the Centre for Cognitive Ageing and Cognitive Epidemiology.
+2015
+New data collection for GS:SFHS starts through the Stratifying Resilience and Depression Longitudinally (STRaDL) project.
+2014
+Genetic annotation of 20,000 GS:SFHS participants is completed.
+GS co-authors its 50th research paper.
+2013
+GS:SFHS cohort description is published in the International Journal of Epidemiology.
+Genetic annotation of 10,000 GS:SFHS participants is completed.
+GS organises a symposium co-hosted by Health Science Scotland in  Surgeons' Hall, Edinburgh.
+2012
+GS receives its 100th research collaboration proposal.
+GS organises a successful GS Symposium in March, sponsored and hosted by Health Science Scotland and Nexxus, held in Glasgow.
+In February, a partnership is formed with Health Science Scotland (HSS).
+2011
+GS:21CGH receives favourable ethical opinion from NHS research ethics committee for setting up a Research Tissue Bank.
+Generation Scotland is awarded further funding from the Chief Scientist Office in April.
+In March, the final GS:SFHS participants attend a clinic, bringing the total numbers of participants to just over 24,000.
+2010
+In May, GS:SFHS starts recruitment in Aberdeen.
+GS:SFHS reaches 15,000 participants in April.
+The first journal paper arising from a GS collaborative project is published in Intelligence.
+GS:3D and GS:SFHS both receive ethical approval for setting up a Research Tissue Bank.
+2009
+GS:21CGH recruitment completed.
+GS:SFHS reaches 10,000 participants in June.
+GS:21CGH reaches recruitment targets in Aberdeen and Peterhead in February.
+2008
+Generation Scotland starts recruitment to GS:3D in Glasgow and Edinburgh in January. Recruitment is completed in July.
+2007
+The launch of GS:21CGH recruitment in Banff and Peterhead is marked by a Press Release and a report in The Press and Journal.
+UK Biobank starts recruiting in Scotland. A joint Press Release highlighting the complementary nature of the two projects is issued.
+Generation Scotland starts recruitment to GS:21CGH in Aberdeenshire and Edinburgh.
+2006
+By the end of 2006, 1000 participants have enrolled in GS:SFHS.
+Generation Scotland hosts a Symposium on Pharmacogenetics at the Royal College of Physicians and Surgeons in Glasgow.
+Multi-Centre Research Ethics Committee approval is granted for the GS:21CGH and GS:3D projects.
+Generation Scotland is officially launched on 2 February 2006 by Andy Kerr MSP, Minister for Health and Community Care, and Professors Andrew Morris and David Porteous. The launch is accompanied by a press release and newspaper and TV coverage.
+Recruitment to GS:SFHS starts in January 2006.
+2005
+The Generation Scotland Scientific Committee agrees that the Donor DNA Databank project (GS:3D) should come under the management and governance of Generation Scotland.
+Multi-Centre Research Ethics Committee approval is granted for Phase I of GS:SFHS.
+The GS:21CGH and GS:SFHS projects are jointly developed under the Generation Scotland banner.
+2004
+The Chief Scientist Office funds the GS:3D project.
+The Scottish Executive Health Department awards a Genetics in Healthcare Initiative grant of £4.4m for the GS:SFHS project.
+2003
+The Scottish Executive Health Department announces the Genetics in Healthcare Initiative.
+The Scottish Higher Education Funding Council awards a Strategic Research Development Grant of £1.79m for the GS:21CGH project.
+2002
+Scottish Enterprise supports Phase 2 business planning.
+Innogen initiates a Programme of Public Consultation and Engagement.
+The Generation Scotland plan is endorsed at a Discussion Dinner at the Royal Society of Edinburgh.
+2001
+Scottish Enterprise supports Phase 1 business planning.
+1999
+The Generation Scotland outline is endorsed by the Chief Medical Officer and the Chief Scientist.
+The University of Edinburgh pump-primes the Generation Scotland proposal
+
+References
+External links
+Generation Scotland website

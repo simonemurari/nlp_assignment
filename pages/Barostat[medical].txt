@@ -1,0 +1,9 @@
+A barostat is a device used to maintain constant pressure in a closed chamber. Its main principle is providing constant pressures in a balloon by means of a pneumatic pump.  Barostats are frequently used in neurogastroenterology research, where they are used for measuring gut wall tension or sensory thresholds in the gut.A specially designed instrument is needed in neurogastroenterology research since the gut wall has an outstanding capacity to expand and contract spontaneously and by reflex. When this occurs, a balloon placed anywhere in the gut has to be inflated or deflated very rapidly in order to maintain a constant pressure in this balloon.
+Barostat-balloon systems have been used anywhere in the gut, including the esophagus, stomach, small bowel, colon, and the rectum ampulla.Computer-driven barostats have widely been used to assess sensation and pain thresholds in the gut. Assessment of pain thresholds in the ampulla recti has been proposed as diagnostic measure in irritable bowel syndrome.A typical method for measuring thresholds is the single random staircase or tracking procedure. This is a blend of two paradigms widely used in psychophysical research: ascending stimuli (prone to perception bias) and random stimuli. The latter is regarded as unethical since pain thresholds vary over a wide range in the gut, and therefore stimuli with random intensity can hurt very much. In a tracking procedure, ascending stimuli are used until the threshold is reached. Then the tracking phase begins. If the subject rates a stimulus to be above the threshold, the next stimulus will be chosen in a random process to be a 'stair' higher than the last one or of the same intensity. If, however, the subject rates the stimulus to be under the threshold, a less intense or similar stimulus will follow. Therefore, each stimulus is unpredictable in this phase.
+
+See also
+Enteric nervous system
+Gut (zoology)
+
+
+== References ==

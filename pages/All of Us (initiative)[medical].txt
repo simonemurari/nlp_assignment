@@ -1,0 +1,57 @@
+The All of Us Research Program (previously known as the Precision Medicine Initiative Cohort Program) is a research program created in 2015 during the tenure of Barack Obama with $130 million in funding that aims to make advances in tailoring medical care to the individual. The mission of All of Us is to accelerate health and medical breakthroughs, enabling individualized prevention, treatment and care.
+The project aims to collect genetic and health data from one million volunteers. The initiative was announced during the 2015 State of the Union Address, and is run by the National Institutes of Health (NIH). The program is bilingual, with information and materials available in Spanish and English.
+
+Core values
+A set of All of Us core values is guiding the development and implementation of the All of Us Research Program: 
+
+Participation is open to all.
+Participants reflect the rich diversity of the U.S.
+Participants are partners.
+Trust will be earned through transparency.
+Participants have access to their information.
+Data will be accessed broadly for research purposes.
+Security and privacy will be of the highest importance.
+The program will be a catalyst for positive change in research.
+
+What data are collected
+Participants of the All of Us Research Program are required to complete a survey that gathers information about their lifestyle and environment. Participants in All of Us can choose to give researchers access to their electronic health records (EHR), which includes information about their individual health problems and treatment they have received. They may also be asked to provide blood and urine samples and your physical measurements.Participants may also share data gathered by wearable devices (Fitbit) and in the future be asked to participate in clinical trials.Program leaders plan to capture genomic data from select participants in 2019.
+
+Who can enroll
+Eligible adults (18 and over) can enroll with the program.  People who are not eligible are those in prison or people who cannot consent on their own 
+According to a sample consent form released in June 2018, participation in All of Us is voluntary and does not affect a participant's medical care. The form explains that if a participant quits the program, their samples will be destroyed. Children may also be able to enroll in the program.By January 2018 an initial pilot project had enrolled about 10,000 people and 2022 was targeted for one million people.  As of May 2019, enrollment numbers at the one-year launch anniversary are 187,000+ participants. More than 132,000 have already given biosamples.The NIH reported in May 2018 that they were pleased with the high enrollment by underrepresented groups including communities of color and individuals with lower incomes. Up to three-quarters of beta phase participants came from those communities.
+
+Program partners
+All of Us has more than 100 partners and champions working together to implement and support the mission and goals of the research program. Google life sciences startup Verily Life Sciences, a Google "moonshot" with a goal of "transform[ing] the way we detect, prevent, and manage disease" is one partner.
+The initiative was identified by a 2019 review as involving the public in every stage of the research.
+
+Program budget
+The All of Us Research Program budget has increased every year since it launched: FY2016 - $130 million; FY2017 - $230 million; and FY2018 - $290 million.
+
+Responses to the Initiative
+Professor Kenneth Weiss from Pennsylvania State University, in a skeptical review of this project in 2017, suggested that the funding could be better spent elsewhere.
+
+Program progress
+Enrollment
+The research program was launched for national enrollment on May 6, 2018. In the summer of 2019, one year after its official launch, All of Us had enrolled 230,000 participants, which represents almost one quarter of the program's goal of 1,000,000 individuals. Approximately 80% of those people are from groups that have been traditionally underrepresented in biomedical research. One of All of US's main goals is to include many people from diverse ancestries. By June 2020, enrollment reached approximately 350,000 individuals.
+
+All of Us Researcher Workbench
+On May 27, 2020, the All of Us research program announced the launch of their research platform, the All of Us Researcher Workbench, for beta testing. Select data collected by the initiative, including electronic health records and survey responses from the first 225,000 program participants, will be available to approved researchers through the workbench. Researchers may apply for access to the data if they have an NIH eRA Commons account (for identity verification) and are affiliated with an institution that has signed a data use agreement with All of Us.
+
+Response to COVID-19 pandemic
+In June 2020, the NIH announced that research materials collected as part of the All of Us initiative will be used to address the COVID-19 pandemic. Blood samples collected from recent volunteers will be tested for SARS-CoV-2 antibodies in order to track prior infections within the US population. Electronic health records shared by All of Us participants will also be evaluated for potential patterns associated with SARS-CoV-2 infection. All of Us also added monthly participant surveys with questions about the physical, mental, and socioeconomic impacts of the COVID-19 pandemic.
+
+Administration
+The founding program director was Eric Dishman, who stepped down to become the Chief Innovation Officer. In 2019, Joshua Denny was selected to be the second director. In October 2016, the project was renamed "All of Us".
+
+See also
+100,000 Genomes Project (UK)
+21st Century Cures Act
+Baseline Study
+Precision medicine
+precisionFDA
+
+References
+External links
+Join All of Us homepage to join the All of Us research program
+All of Us homepage at the National Institutes of Health
+NIH Innovation account on USAspending.gov

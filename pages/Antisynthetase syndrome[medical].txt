@@ -1,0 +1,32 @@
+Anti-synthetase syndrome  is an autoimmune disease associated with interstitial lung disease, arthritis, and myositis.
+
+Signs and symptoms
+As a syndrome, this condition is poorly defined. Diagnostic criteria require one or more antisynthetase antibodies (which target tRNA synthetase enzymes), and one or more of the following three clinical features:  interstitial lung disease, inflammatory myopathy, and inflammatory polyarthritis affecting small joints symmetrically. Other supporting features may include fever, Raynaud's phenomenon and "mechanics hands"-thick, cracked skin usually on the palms and radial surfaces of the digits.The disease, rare as it is, is more prevalent in women than in men. Early diagnosis is difficult, and milder cases may not be detected. Also, interstitial lung disease may be the only manifestation of the disease. Severe disease may develop over time, with intermittent relapses.
+
+Pathogenesis
+It is postulated that autoantibodies are formed against aminoacyl-tRNA synthetases. The synthetases may be involved in recruiting antigen-presenting and inflammatory cells to the site of muscle or lung injury. The specific molecular pathway of the process awaits elucidation.
+
+Antisynthetase antibodies
+The most common antibody is "Anti-Jo-1" named after John P, a patient with polymyositis and interstitial lung disease detected in 1980. This anti-histidyl tRNA Synthetase antibody is commonly seen in patients with pulmonary manifestations of the syndrome.
+The following are other possible antibodies that may be seen in association with antisynthetase syndrome: Anti-PL-7, Anti-PL-12, Anti-EJ, Anti-OJ, Anti-KS, Anti-Zo, Anti-Ha (YRS, Tyr).
+
+Diagnosis
+In the presence of suspicious symptoms a number of test are helpful in the diagnosis:
+Anti-tRNA antibody testing
+Electromyography
+Imaging such as High Resolution computed tomography
+Lung biopsy
+Muscle biopsy
+Muscle enzymes are often elevated, i.e. creatine kinase
+Pulmonary function testingIn certain situations, testing of other antibodies, specific imaging (MRI, thoracic high resolution computed tomography), and swallowing evaluation may be needed.
+
+Treatment
+Unfortunately, treatment for the anti-synthetase syndrome is limited, and usually involves immunosuppressive drugs such as glucocorticoids. For patients with pulmonary involvement, the most serious complication of this syndrome is pulmonary fibrosis and subsequent pulmonary hypertension. A case study has reported that the use of CD19-targeting CAR T cell therapy (originally used to treat lymphoma and leukemia) in a patient with refractory anti-synthetase syndrome had complete clinical remission during 200 days of follow-up post-infusion when the patient received with chimeric antigen receptor (CAR) T cells that recognize CD19⁺ B cells. This shows that CD19-targeting CAR T cells could be a new therapy for patients who do not respond to the first-line immunosuppressive drugs.Additional treatment with azathioprine and/or methotrexate may be required in advanced cases.
+
+Prognosis
+Prognosis is largely determined by the extent of pulmonary damage. Over 10 years, patients with Jo-1 antisynthetase antibodies were found to have higher survival rates (70%) than patients with non-Jo-1 antibodies (49%), with differences speculated to be caused by the presence or absence of pulmonary manifestations of antisynthetase syndrome. The most common causes of death were pulmonary fibrosis and pulmonary hypertension, and so patients with severe and aggressive interstitial lung disease requiring multi-modality therapy are advised to seek early referrals to centers capable of lung transplantation for when the disease progresses.
+
+References
+
+
+== External links ==

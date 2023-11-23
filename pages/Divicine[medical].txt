@@ -1,0 +1,24 @@
+Divicine (2,6-diamino-4,5-dihydroxypyrimidine) is an oxidant and a base with alkaloidal properties found in fava beans and Lathyrus sativus. It is an aglycone of vicine. A common derivative is the diacetate form (2,6-diamino-1,6-dihydro-4,5-pyrimidinedione).
+
+Occurrence
+Divicine is found in fava beans and in the legume Lathyrus sativus, also known as khesari, which is a cheap and robust food source commonly grown in Asia and East Africa.
+
+Synthesis
+In plants, reduced divicine is formed from the hydrolysis of the inactive β–glucoside, vicine.A simplified three-step process for artificial divicine synthesis:
+
+The benzyl group of 2-amino-5-benzyloxy-4-hydroxypyrimidine is removed by acid hydrolysis, yielding 2-amino-4,5-dihydroxypyrimidine.
+This intermediate is then treated with nitrous acid to yield the slightly soluble orange product 2-amino-6-nitrosopyrimidine-4,5-diol
+Which is then reduced with sodium dithionite to yield divicine.
+
+Reactions
+Some chemical characteristics of divicine have been examined. It is known that it vigorously reduces alkaline solutions of 2,6-dichlorophenolindophenol, phosphomolybdate or phosphotungstate and produces an intense blue colour when reacting with an ammoniacal ferric chloride solution, which is used for the identification and proof of the presence of an enolic hydroxyl group.
+Divicine is very unstable if oxygen is present and the oxidation is most rapid at alkaline pH levels. The half-life of divicine, at room temperature and neutral pH, is around half an hour. Both compounds are almost immediately destroyed by boiling, and breakdown in regular conditions can be accelerated by the presence of heavy metal ions, especially Cu2+.
+
+Toxicity
+Divicine has been deemed a hemotoxic component of fava beans and plays a role in the development of favism, a disorder that involves a hemolytic response to the consumption of broad beans due to glucose-6-phosphate dehydrogenase (G6PD or G6PDH) deficiency.  This deficiency, an X-linked recessive hereditary disease, is the most common enzyme deficiency worldwide.  It is particularly common in those of African, Asian, Mediterranean, and Middle-Eastern descent.  Symptoms of favism include hemolysis, prolonged jaundice, kernicterus, and even acute renal failure in extreme cases.Divicine reacts with oxygen in red blood cells, which creates reactive oxygen species such as hydrogen peroxide and superoxide anion. These molecules are strong oxidizers of NADPH and glutathione. G6PD deficient individuals cannot regenerate NADPH quickly enough to prevent depletion of glutathione. This depletion results in the cells having no protection against oxidative stress caused by the aglycones. Oxidative stress leads to damage of haemoglobin and disulphide bond aggregates (Heinz bodies), which result in haemolytic anaemia, called favism.Divicine is also present in and at least partially responsible for the poisonous action of Lathyrus sativus - a legume commonly grown in drought- and famine-prone regions of Asia and East Africa as an ‘insurance crop’ for human consumption and livestock feed when other crops fail to grow, despite their known health hazards.
+
+Effects on animals
+In vitro studies in rats showed that a hemotoxic dose of divicine of 1.5 mM, when added to a suspension of red blood cells, resulted in a rapid decline in cellular glutathione, formation of echinocytes and damage to the membrane skeleton. This resulted in a decrease in haematocrit.
+
+
+== References ==

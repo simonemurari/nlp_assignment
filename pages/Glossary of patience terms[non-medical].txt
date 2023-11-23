@@ -1,0 +1,178 @@
+Games of patience, or (card) solitaires as they are usually called in North America, have their own 'language' of specialised terms such as "building down", "packing", "foundations", "talon" and "tableau".  Once learnt they are helpful in describing, succinctly and accurately, how the games are played. Patience games are usually for a single player, although a small number have been designed for two and, in rare cases, three or even four players. They are games of skill or chance or a combination of the two. There are three classes of patience grouped by object.The most frequent object is to arrange the cards either in ascending sequence (e.g. from Ace to King) or descending sequence. Occasionally both forms of sequence are aimed at in the same game. The card forming the starting point of the required sequence is known as the foundation card and the sequence or family is said to be 'built up' on such card. In some cases foundation cards are picked out and placed in position beforehand; in others they are only laid down as they come to hand in course of play. In some instances the cards forming the sequence must be of the same suit as the foundation card; in others suit is disregarded. Some games permit the provisional formation of auxiliary sequences (descending or ascending), i.e. groups of cards in succession but not yet ripe to be played to the families or sequences on the foundation cards. A second object of many patiences is merely to 'pair' cards. The cards thus paired are thrown aside and, if the player is able, under the limitations of the particular game, to throw out all the cards in this way, the game is won. A third object is to throw out or dispose of any two cards which together form a particular number, say eleven or thirteen–the player's success, as before, depending on being able to get rid of all the cards in this manner.It will be obvious that the endeavour to arrange, pair, or combine the cards of a whole pack is a difficult task, varying in degree according to the rules of the particular game. The player must therefore be prepared for a good many failures even when close to success. Hence why the name 'patience games' has been give to recreations of this description.
+
+A
+alternating colour, alternative color
+Placing red on black cards or black on red cards alternately. available
+A card that is available may be picked up and laid down elsewhere. available cards
+Those that are not blocked or covered by other cards, i.e., not forbidden by the particular rules of each game, to be used. auxiliary sequence
+A pile of cards that is packed on a depot within the tableau in readiness for being built in the reverse order on the foundations when the time is right.
+
+B
+base, base card
+See foundation card. below
+A card is below another if it is nearer to the bottom of the playing board or to the player. See also beneath. beneath
+A card is beneath another if it is covered or overlapped by it. See also below. black (suits)
+The suits of Clubs and Spades. blocked
+The situation when no more legal moves can be made. In some instances the game is automatically lost; in others a grace may be used to unblock the game. Also chockered. build
+To place one card on the top of the other in sequence, or otherwise, according to the rules. To place cards in their final location, in stacks or cascades according to the rules. build down
+To place cards one on top of another in descending sequence. Cards may be 'built downward', e.g. from King to Ace. build up
+To place cards one on top of another in ascending sequence. Cards may be 'built upward', e.g. from Ace to King. buried
+See covered.
+
+C
+cascade
+Cards are built on one another, starting from the bottom up.  Each card's value and suit is face up, and should be able to be viewed by the player.  However, only the top card is available for play.  It is most commonly found in addition games. cells
+In computer games, such as freeCell, cells allow only one card at a time to be placed in them. Any card can be put in a cell. Same as space and formerly known as a depot. chockered
+See blocked.  closed
+A game of incomplete information in which cards that cannot be played are discarded to a wastepile. See also open and half-open. color, colour
+In French-suited packs there are two 'colours': red, i.e. the suits of Hearts and Diamonds, and black, i.e. the suits of Clubs and Spades. column
+A line of cards extending towards the player and usually spread, i.e. overlapping so that all are identifiable, but only the topmost card is exposed and therefore available. come out, out
+A game is 'out' or said to 'come out' when the player achieves its objective. See also get out. court card
+Picture card. The picture cards or face cards, being dressed in costume, were originally called coat cards. They are the King, Queen and Knave or Jack. covered
+A card is covered when another card lies wholly or partially over it. It is not normally available. Also buried. crown
+A suite or family is 'crowned' when the last card, often the King, is played to it.
+
+D
+deal
+To take cards from the top of  the pack and lay them on the tableau, face up unless the rules state otherwise. denomination
+See value. depot, depôt
+Position in the layout comprising a pile of cards, one card or a space waiting for a card. A depository to which cards not playable direct to foundations may be placed. discard
+To place a card on the wastepile instead of playing it to the tableau. discard pile
+See wastepile. down-card, downcard
+A card lying face down.
+
+E
+exposed
+A card is exposed when it is not covered or overlapped by another. Exposed cards are usually available.
+
+F
+face
+To turn a down-card face up. face down
+A card is face down when its picture or pip side is hidden. face up
+A card is face up when its picture or pip side is uppermost. family, families
+Cards built in sequence upon the foundation cards. fan
+A few cards, usually three, laid in an overlapping, crescent-shaped row such that only one is exposed and available. fanned
+When the cards in the pile are overlapping, but part of each card can be seen. The fan is usually crescent-shaped and three in number. foundation, foundation pile
+A pile of cards, typically squared and face-up, and built on the bottom card which is the foundation card. As the tableau is cleared, cards are moved to the foundations. foundation card
+A card on which the Patience is formed. Foundations cards are generally Kings and Aces. Also base or base card. foundation row
+A row of foundation cards or the spaces for them.
+
+G
+gap
+See space. get out
+To win a patience game; to succeed in achieving the aim of the game. See also come out. goes through
+Succeeds. See also come out and get out. grace
+A special move that might otherwise be illegal. Also called a privilege. See also merci. grace card
+A card which may be used as a grace.
+
+H
+half-open
+A game which starts off closed, i.e. with incomplete information because not all cards are visible on the table, and which becomes open as play proceeds. Thus it is a combination of chance and skill. See also closed and open. heel
+Cards set aside for later in the game. honors, honours
+The Aces together with the court cards.
+
+L
+lane
+An empty line of spaces in the tableau, which has been formed by the removal of an entire row of cards. layout
+The arrangement of cards dealt to the table at the start of the game. Parlett carefully distinguishes it from the tableau.
+
+M
+marriage
+The placing a card of the same suit on the next one above or below it in value. Any number may be placed on each other in this way. master card
+See foundation card. merci
+A rule that allows the play of a card in certain circumstances in contravention of the normal rules of the patience concerned. Similar to grace. move
+Any transfer of an available card from one place to another allowed under the rules. multiples
+Cards are placed in multiples when the sequence is a multiple of a number other than one e.g. where cards may only be placed on the card two, three, or four; higher or lower. In multiples, a Jack counts as eleven, a Queen twelve, and a King thirteen. Wrapping is often applied, i.e. if building up by two is required, then the sequence 10 - Queen - Ace - 3 - 5 is permitted.
+
+O
+open
+A game in which play begins with all cards face up on the table. Like chess, an open game is purely a game of skill. See also closed and half-open. outA game of patience or solitaire is said to be 'out' when it is solved successfully. Also called 'getting it out'.
+
+ overlap, overlapping
+A column of cards is overlapping when each succeeding card partly covers the preceding one such that it can be identified.
+
+P
+packTo pack is to place cards in sequence in an intermediate location, usually the tableau, until they can be placed on the foundations.
+A pack (also deck) is the set of cards in hand which are being dealt at the outset of the game. Normally 52 cards or a multiple thereof. However some patiences are played with a Piquet pack or Euchre pack of 32 cards. packet
+A squared up pile of cards dealt at the start of a game. Sometimes dealt such that the top card is face up and available while the ones beneath are face down. pair
+Two cards of the same rank. pass
+A succession of deals that runs through the entire stock once. Some games allow several passes through the stock; others restrict it to one pass. If the game is not out within the required number of passes, it is lost. patience
+The name of a type of card game, usually for one player, in Britain and many other countries. pile
+A stack of cards one on top of the other and squared such that only the topmost card, whether face up or face down is visible. pips
+The spots on the cards; that is, the figures of clubs, diamonds, etc. play (a card, cards)
+To place (a card) on the foundations in contradistinction to placing them elsewhere. To take up and use it in the game for building, packing or filling a space as opposed to discarding it to a wastepile. privilege
+See grace.
+
+R
+rank
+The value or denomination of a card. red (suits)
+The suits of Hearts and Diamonds. redeal, re-dealWhen the stock is empty, to take the wastepile, turn it over, and use it to reform the stock. Sometimes it must be shuffled.
+A second or follow-on deal. released cards
+Those that, by the removal of the cards that blocked them, have now become available. reserve
+Cards available for play that are not part of the foundations, talon, tableau or discard piles. reversing
+In two-pack patiences, when it is allowed to build sequences simultaneously, ascending on Ace foundations and descending on King foundations, so that when the tops cards of two foundations are in sequence (e.g. a Six and a Seven), cards may be transferred from one to the other. round the corner, around the corner
+A sequence of cards that is built 'around the corner' is one where the King and Ace are seen consecutive. e.g. Q K A 2 or 2 A K Q. Also called wrapping. row
+A line of cards placed side by side. May or may not be overlapped. rubbish heap, rubbish-heap
+See wastepile.
+
+S
+sequence, ascending sequence, descending sequence
+A cascade, pile or row of cards in order of rank. Often the aim is to form a full sequence in each suit, typically from Ace (low) to King (high). The regular succession of cards ascending from Ace to King or descending from King to Ace; a sequence need not be of one suit. shuttling
+A feature in some games whereby placing a card under an existing pile releases the top card which must be now played next. See, e.g. Travellers and its variants. singleton
+A single care of any suit. solitaire
+North American name for games of patience. space
+A gap in the tableau due to the removal of a singleton card or a pile of cards. Same as vacancy. A gap or vacancy in the layout into which cards may be played or from which cards have been removed. An empty depot. Also gap or vacancy. spots
+See pips. spread
+To overlap cards in a row or column such that each card can be made out, but only the topmost card is exposed and therefore available. squared
+When the cards in the pile are directly on top of one another. stack, stacked
+See pile. stock
+See talon. suit
+One of the four families of cards in a pack all sharing the same symbol e.g. Clubs, Spades, Hearts and Diamonds or Acorns, Leaves, Hearts and Bells. suite
+A pile of cards that has been built in sequence on a foundation card. Same as foundation pile. An Ace-suite is one based on an Ace, etc. A full sequence of 13 cards of one suit. suitable cards
+Those whose value and suit fit them to be played or placed in the tableaux.
+
+T
+tableau
+An arrangement of cards on the table, typically comprising several depots i.e. places where columns of overlapping cards may be formed, the packing taking place on the available cards on the columns. It is thus distinct from a layout, reserve, talon or wastepile. The main part of the layout on the table. Sometimes equated, confusingly, to layout. talon
+The remaining stack of cards, typically squared and face-down, that is left after the layout has been populated. These cards can be turned over into the waste, usually one-by-one, but sometimes in groups of two or three (depending on rules), whenever the player wishes. Also stock.  Sometimes equated, confusingly, to waste pile.  top card, topmost card
+See uppermost card. turn the corner, turning the corner
+In building or packing to continue the sequence after ascending to the King or descending to the Ace e.g. to run J Q K A 2 3.
+
+U
+up-card, upcard
+A card lying face up, usually at the top of a pile. See also down-card. uppermost card
+The exposed card on the top, or surface of a packet. Also top or topmost card.
+
+V
+vacancy
+See space. value
+The figures of the court cards and the number of points, pips or spots of the minor cards.
+
+W
+waste (heap)
+See wastepile. wastepile, waste pile
+A stack or pile of cards, usually from the stock or talon, that is formed when they are turned up but cannot be played immediately. The pile is usually squared and face-up and only the topmost card is available. Also rubbish heap, waste heap or discard pile. wing
+The left or right half of the tableau when it is divided in two by a clear space. worrying back
+Putting a card already built on a foundation back onto one of the depots in the tableau. Not allowed in many patiences. First introduced in Emperor Patience in 1890. wrappingBuilding around the corner.
+Using modular arithmetic to build the sequence, e.g. Queen-King-Ace-2-3, 10-Queen-Ace-3-5, 8-Jack-Ace-4-7.
+
+See also
+Glossary of card game terms
+
+Footnotes
+References
+Literature
+Arnold, Peter (2011). Card Games for One. London: Chambers. ISBN 978-0550-10201-0
+Barry, Sheila Anne (2010). Great Card Games for One. NY: Puzzlewright. ISBN 978-1402-77116-3
+Cadogan, Lady Adelaide (1872). Illustrated Games of Patience.
+Cheney, Ednah Dow Littlehale (1869). Patience: A Series of Games with Cards. Boston: Lee & Shepard.
+Dick, William Brisbane (1883). Dick's Games of Patience, Or, Solitaire with Cards. NY: Dick & Fitzgerald.
+Hoffmann, Professor [Angelo Lewis] (1892). The Illustrated Book of Patience Games. London, NY, Glasgow and Manchester: George Routledge.
+Jackson, Robin (2001). Solitaire: Over 30 Challenging Solitaire Games. NY: Barnes & Noble.
+Parlett, David (1979). The Penguin Book of Patience. London: Penguin. ISBN 0-7139-1193-X
+Parodi, Francesca (2004). Big Book of Solitaire. NY: Sterling.
+"Tarbart" (1905). Games of Patience, 2nd edition. London: Thos. De La Rue.
+Whitmore Jones, Mary (1890). Games of Patience for One or More Players. 2nd Series. London: L. Upcott Gill. NY: Scribner’s.
+
+External links
+Glossary of card game terms provided by The United States Playing Card Company

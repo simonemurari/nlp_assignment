@@ -1,0 +1,99 @@
+Sjavs is a Danish card game of the Schafkopf family that is played in two main variants. In Denmark, it is a 3-player game, played with a shortened pack of 20 cards; in the Faroe Islands, where it is very popular, it is a four-hand, partnership game using a standard Piquet pack of 32 cards.
+
+Names
+Sjavs is pronounced "shouse" and was formerly spelt Schaus or Schavs, shortened forms of Schafskopf or Schauskop, Danish words for the German game of Schafkopf.
+
+History
+Sjavs is known as early as the 19th century. It developed from the old German game of Schafkopf and was brought to Denmark by travelling journeymen (Navere), being played by craftsmen and becoming a tavern game. In 1856, it was reported that the "beloved Schafskopf has almost completely superseded all other games in the circles where Polskpas previously had the highest rank." In an 1890 novel, a 32-card, partnership game is called Gammelmandssjavs ("Old Man Sjavs") and described by one of the characters, a young man, as "only a game for old bitches". He urges his older friend to play the newly fashionable Flyvesjavs ("Flying Sjavs") in which players only receive 4 cards each and there is a 2-card skat. 
+In 1905, Sjavs was described as a card game "in use among the peasants".
+
+Danish Sjavs
+The following rules for the 3-hand Danish variant of Klørsjavs (Club Sjavs) are based on kortdrengene.dk, except where stated otherwise.
+
+Overview
+Klørsjavs is a point-trick game in which the aim is to take points in tricks. Players bid to become the declarer who may then exchange with the talon cards, known as the "cat", and then play against the two defenders. A 20-card, Danish pattern, French-suited pack is used, comprising the A K Q Kn and 5 from a standard pack. The jacks are known as knaves. Cards rank in natural order, except in clubs which is the trump suit and ranks as follows: ♣Q ♠Q ♣Kn ♠Kn ♥Kn ♦Kn ♣A ♣K ♣5. The trumps may be known as Wenzels (see also Scharwenzel and Skaervinsel).
+The card have the normal Ace-Ten values except that the 5s are worth 10 points because there are no 10s. The aces and 5s are known as "counters" because of their high value. There are thus 120 points in the game. One player is nominated as the scorer.
+
+Deal
+The scorer is usually the first dealer. Thereafter the deal rotates to the left. After shuffling and offering to the right to cut, the dealer deals a packet of 3 cards each, then 2, face down, to the table, and another 3 cards each (3-(2)-3), so that each player has 6 cards and there are 2 in the cat.
+
+Bidding
+Beginning with forehand to the dealer's left. There is now a single round of bidding in which players may "play" or "pass". As soon as any player announces "play", the bidding is over and that player becomes the declarer. If all pass, the cards are redealt.
+
+Exchanging
+The declarer may now exchange with the cat – called 'stroking the cat' – by discard 2 cards and picking up the cat. The declarer may re-look at the discards up to the point when the first card is led. If the declarer chooses not to use the cat, it is left unseen until the end. In either case the discards or the cat and any points therein count to the declarer at the end.
+
+Play
+Forehand leads to the first trick. Players must follow suit if able, otherwise may play any card. The trick is won by the highest card of the led suit, or the highest trump if any trumps are played. The trick winner leads to the next trick.
+
+Scoring
+The declarer needs to score at least 61 to win. Each player begins with 60 øre (= points) and øre are deducted for losing as follows:Declarer scores 120 points: defenders lose 16 øre each
+Declarer scores 91-119 points: defenders lose 8 øre each
+Declarer scores 61-90 points: defenders lose 4 øre each
+Declarer scores 1-60 points: declarer loses 8 øre
+Declarer takes no tricks: declarer loses 16 øre (or 8 if he or she folded before play began)
+The first player to reach 0 øre or below has lost and pays the agreed penalty e.g. a round of drinks, a sum of money (such as 10 kr) or performs 10 press-ups. If two players reach 0 in the same deal, the one with the lower score in the previous deal loses. If that was the same, a decider is played. A player finishing on 60 øre may also be penalised with e.g. a bottle of port.
+
+Variations
+Four-hand Danish Sjavs
+18 cards are used, the 2 red queens being dropped, and the deal is 2-(2)-2. There are 114 points in play and the declarer's thresholds are 58 points to win and 86 for a double win.
+
+Auction Sjavs
+Players bid for any of several contracts:
+Game (Spil) is the normal game in which the declarer exchanges with the cat.
+Strike (Stryger) is a bid to win without exchanging and outranks the normal game. Announced by saying "strike" or thumping the skat.
+Tout is a bid to take all tricks and outranks Strike.
+Strike Tout (Strøget tout) is a bid to take all tricks without exchanging and outranks all other bids.There is one round of bidding with immediate raise. In this variant, 10s are used instead of fives and trumps are nominated by the declarer. The declarer earns 1 jeton from each opponent for a normal win, 4 for a Strike, 10 for Tout and 15 for Strike Tout. If the opponents fail to take at least 31 card points, they are jan and lose double; if they fail to take a trick, they lose triple. If the declarer loses the payments are reversed.
+
+Faroese Sjavs
+Sjavsur is the Faroese relative of Sjavs and probably an older variant. Again the name is derived from the German Schafkopf. It may be played by two to four people, but four playing in partnerships is the most common form. If three play, the winning bidder plays the other two. The following rules are for the four-player game.
+
+Overview
+Faroese Sjavs uses 32 cards from a standard pack, the numerals 2 to 6 being left out. There are 6 permanent trumps which rank as follows: ♣Q ♠Q ♣J ♠J ♥J and ♦J. Cards have their usual Ace-Ten values giving a total of 120 points in the pack. The declarer thus needs over 60 to win. There are bonuses for scoring 90 or more and for taking all tricks. Players start with 24 points and the objective is to get down to 0 and have a few 'crosses'. A cross is awarded for reaching 0 while the opposing team remains stuck on 24.
+
+Deal
+Normally the player who is the scorer deals first. The dealer shuffles well and lays the cards in front of the cutter, the player on the right, who knocks or cuts the pack. If the cutter knocks, players are dealt all 8 cards at once; if the cards are cut, the dealer deals two rounds of 4 cards each. In the event of a misdeal, the cards are redealt by the next dealer.
+
+Auction
+The player to the left of the dealer opens the auction, followed by the rest in turn. The aim is to decide who will choose trumps. A player must have at least 5 cards in one suit in hand in order to bid, otherwise must say "pass". A player who is unable to overcall the preceding players must also pass.<When bidding, a player should always announce the longest suit in hand. This is the one with most cards, including the permanent trumps. If there ar two of equal length, a bid in clubs is better than one in another suit, also called a simple bid (meld í simplum). A simple bid may be overcalled by one in clubs by saying "better" .e.g. if someone has already bid "5", it may be overcalled by "5 better" (even if the earlier bidder also intended to entrump clubs).
+
+Play
+Forehand leads to the first trick and the trick winnner leads to the next. If no trumps are played, the highest card of the led suit wins the trick; otherwise the highest trump wins. Suit must be followed if possible; otherwise any card may be played. However, if a trick is trumped a later player must overtrump.
+
+Scoring
+The game points won are deducted from the starting total of 24. If the declaring team win they score game points as follows:
+Simple game, 61-89 points: 2 /
+Simple game, 90-120 points: 4 /
+Simple game, all tricks: 12 /
+Simple game; one player takes all tricks: 16
+Clubs, 61-89 points: 4 /
+Clubs, 90-120 points: 8 /
+Clubs, all tricks: 16 /
+Clubs; one player takes all tricks: 24If the declaring team lose, the defenders score as follows:
+Simple game: 4
+Clubs: 8If no-one bids, the winning team always get 4 points. In the event of a tie, 60-60, the winners of the next game score an additional 2 points in a simple game or 4 points in clubs. The scoresheet is drawn up as a ladder with the two teams marked "We" and "They" (Vit and Tit).The system described by John McLeod at pagat.com is more elaborate if the defenders win. If the declaring side score 31-59, the defenders get 4 in a simple game or 8 if clubs were trumps. If the declarers score 0-30, they get 8 or 16 respectively, and if the declaring team fail to take a trick the defenders score 16 regardless. Winning all tricks is a vol, scoring 30 or fewer is a javn (equivalent of a jann), escaping this is at vera javnfrujjur.
+
+Variations
+McLeod also records a version of Faroes Sjavs played at Tórshavn on the island of Streymoy as well as a three- and two-hand variant and variations from the island of Suðuroy. These are summarised below:
+
+Three-hand Faroese Sjavs
+Each player receives 10 cards and 2 are dealt to the skat. If the cutter cuts, cards are dealt 3-(1)-4-(1)-3; if the cutter knocks, players receive 10 cards in one packet with 1 skat card being dealt between each packet of 10. Bidding is as per the four-hand game, but the declarer must play alone against the other two players. The declarer may exchange 1 or 2 cards with the skat without viewing the skat card(s) before discarding. The skat and any discards count towards the declarer at the end. If the soloist wins, points are deducted as in the four-hand game; if the defenders win, each deducts the relevant number of points.
+
+Two-hand Faroese Sjavs
+A row of 4 downcards is dealt in front of each player followed by a row of 4 upcards on top of the first row. The remaining cards are then dealt out with each player receiving 8 hand cards. The upcards count as hand cards both in bidding and play. Once an upcard is played, the card beneath may be turned at the end of the trick.
+
+Suðuroy Sjavs
+On Suðuroy, they play with the following variations:
+Cards are dealt 3-2-3 unless the cutter knocks.
+There is usually no double win for reaching 0 with the opponents on 24 nor any bonus for a single player winning all tricks.
+In the event of a 60-60 tie, the winners of the next game gets and extra 2 points if they called trumps or 4 if they were the defenders.
+
+Footnotes
+References
+Bibliography
+Parlett, David (2008), The Penguin Book of Card Games, London: Penguin, ISBN 978-0-141-03787-5
+Pontoppidan, Henrik (1890). Natur. Copenhagen: Schubotheske Forlag.
+
+External links
+Faroeses Sjavs.
+Danish Sjavs (Swedish).

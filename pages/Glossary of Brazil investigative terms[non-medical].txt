@@ -1,0 +1,349 @@
+This glossary contains Brazilian terms related to criminal or corruption investigations, and supporting concepts from politics, the law, government, criminology, and law enforcement.
+This glossary is not a general or indiscriminate list of terms from Brazilian Portuguese, and is limited in scope. Because this is a specialized glossary, the first meaning(s) listed for a term will be the one(s) related to topics within the scope of this glossary, even if that is not the most common meaning in the spoken or written language for the term in a more general context.
+Words which present no particular issues of translation or understanding, such as governador ("governor"), investigação ("investigation"), operação ("operation") are generally not included. Words which may appear to be obvious on the surface, but which have specialized meanings in certain contexts, are included (e.g., prisão: not just "prison", but also "arrest"; or recurso: not just "resource", but also "appeal", "appellate"). Common expressions for governmental agencies or positions are included for convenience (Supremo Tribunal Federal), even if the translations are straightforward, as they come up frequently in definitions of less obvious terms.
+There is one alphabetical list, with headwords in Portuguese or English, and aliases, translations, or explanations given as appropriate. This glossary concerns meaning and usage in Brazilian Portuguese. To avoid constant repetition, where the word Portuguese appears alone, it means Brazilian Portuguese.
+
+A
+Active corruption
+see also corrupção ativa
+The act of offering a corrupt payment or service. See corrupção ativa.
+
+Acordo de leniência  
+
+see pt:Acordo de leniência; also Leniency agreement
+a leniency agreement between a company and legal authorities. It's an agreement a company enters into with law authorities, to reduce their exposure to fines for criminal activity in exchange for something; typically an agreement to assist in investigations. Part of the Anti-Corruption Act. Chapter 5 of the Anti-corruption Act provides the legal underpinning for companies to enter into leniency agreements with the authorities.Similar to delação premiada in its plea bargaining aspect, but a leniency accord deals with a company's assets not its employees.
+
+See also Odebrecht leniency agreement (Odebrecht–Car Wash leniency agreement).
+
+Anti-Corruption Act  
+
+see Brazilian Anti-Corruption Act
+a law enacted in 2014 targeting corrupt practices (pt:Lei anticorrupção (Brasil)) among business entities doing business in Brazil. It defines civil and administrative penalties, as well as the possibility of reductions in penalties for cooperation with law enforcement under a written acordo de leniência (Leniency agreement). See #Lei anticorrupção (Brasil). Aliases: Clean Company Act; Law no. 12.846/2013
+
+Apartamento funcional  
+
+Executive apartment set aside in the capital, Brasília, by the government for the use of members of the Chamber of Deputies while they are in the capital, typically half the week.
+
+Atibaia  
+See sítio de Atibaia. 
+
+Autor  
+see also: querelante, réu
+1.  
+plaintiff or claimant in a civil suit.
+Syn: querelante. See also réu.
+Expressions: parte autora: plaintiff ("complaining party")
+2.  In other contexts: in the more common, non-legal sense, just like "author" in English.
+
+B
+Brazil cost
+
+see also pt:Custo Brasil
+the increased cost of doing business in Brazil based on in-country factors, such as administrative corruption, excessive bureaurocracy, dysfunctions in import-export operations, inefficiency in public services, and others. The concept derives from the more general one of "country cost"; see the article, Ease of doing business index.
+
+Bribery department
+see setor propina
+An English rendering sometimes used for the Brazilian slang term setor propina for a department at Odebrecht S.A.
+
+C
+Caixa dois 
+see also: Slush fund
+a slush fund. Literally, "cashbox two", this is a repository of unrecorded funds not reported to the appropriate tax authorities, and typically used as a slush fund for bribery or money laundering operations.
+
+Código de Processo Penal 
+see pt:Código de Processo Penal; Penal Code of Brazil
+the Penal Procedure Code of Brazil. The set of laws designed to regulate Brazil's criminal proceedings. It is under the exclusive jurisdiction of the Federal Government, through the National Congress to legislate on criminal procedure. Usually abbreviated CPP in Portuguese.
+
+Colaboração premiada  
+see also: colaboração premiada, delação premiada
+Literally: "rewarded collaboration"; a type of plea bargain; it is the common name for the legal term delação premiada. Established in the Anti-corruption Act in 2014.
+See the Usage note at delação premiada.
+
+Concussão  
+see pt:Concussão
+the act of demanding improper advantage (vantagem indevida for oneself or others, directly or indirectly, by someone in public office, either during their term or before or afterward if related to their function while in office. Penal code Article 316. One of several crimes that are considered a "crime against public administration". 
+
+Condução coercitiva  
+see also: pt:Condução coercitiva
+A compulsory order to appear, to assist in an investigative or judicial proceeding, either as a victim, a witness, an expert, and so on. Not an arrest, but has the power of enforcement behind it, based on CPP. Has some features in common with a "material witness" in U.S. law. Compare prisão (1. "arrest") and prisão preventiva.
+
+Translation note: Machine translation will often emit the expression coercive driving as part of the translation into English; this is *never* a correct translation for this phrase. There is no accepted expression in English that conveys the sense of the Portuguese term.
+
+Constituição do Brasil   
+see pt:Constituição do Brasil
+The current constitution is the Brazilian Constitution of 1988 (officially: Constituição da República Federativa do Brasil de 1988). Also known as the Constituição cidadã ("Citizen's Constitution") because of its birth in the process of the return to Democracy after the end of the period of military dictatorship in Brazil (1964–1985).
+
+Constitution
+See Constituição do Brasil.
+
+Corrupção ativa
+see active corruption, pt:Corrupção ativa
+literally, "active corruption". Corrupção ativa consists in the act of offering any kind of benefit or advantage (economic, or otherwise) to a public official, to cause them to perform an official act, or to prevent or delay them from performing such an act. The crime consists in the intent to offer the unfair advantage, regardless whether it actually occurs. It is governed by article 333 of the Penal Code, and is considered a crime against public administration. See also vantagem indevida.
+
+Corrupção passiva
+see passive corruption, pt:Corrupção passiva
+literally, "passive corruption". A crime committed by a public official, which consists in soliciting or receiving, for themselves or on behalf of someone else, an undue benefit (see vantagem indevida)), or a promise of such benefit. The term "passive" doesn't refer to initiation of a corrupt action, but who receives the benefit. For example, if a driver offers a cop money in order to avoid a ticket, and the cop accepts, the cop has committed passive corruption (and the driver has simultaneously committed active corruption). If the cop suggests the bribe, it's still passive. (See CP Art. 317.) Considered a "crime against public administration".
+
+CPP  
+Abbr. for Código de Processo Penal.
+
+Crime against public administration 
+See crime contra a administração pública.
+
+Crime contra a administração pública  
+see active corruption, passive corruption
+Literally, a "crime against public administration". A group of crimes in the Código de Processo Penal (CPP; Penal Code) that are characterized by their distortion of public administration and which injuriously affect the legality, impartiality, morality, or efficiency of public administration. .
+
+D
+Delação premiada   
+see pt:Delação premiada; colaboração premiada
+literally, "rewarded whistleblowing" (or, "rewarded informing"). The most common gloss for this in English is "plea bargain [agreement]". (also seen, much less frequently (about 10%), is leniency agreement, but see acordo de leniência). A legal process by which a suspect is offered a specific reduced sentence prescribed by the law, in return for turning in accomplices, or aiding in investigations. Applies only to individuals. The common name for this is colaboração premiada. The concept is similar to a plea bargain agreement, which results in a reduced penalty (fine, prison time) in return for investigative assistance. Established in the anti-corruption Act of 2014.  Contrast: acordo de leniência, which applies only to juridical persons.
+
+Usage note: There is some fuzziness even in the Brazilian press concerning the use of delação premiada (which applies exclusively to people) and acordo de leniência (which applies to business entities, not people) and occasionally the wrong term is used. The confusion in the English language press is greater, partly because the legal concepts in the two countries are not identical, and "plea bargain" may be used for both terms. As a rule of thumb, if it's about reduction in monetary penalties for a company, it's a "leniency agreement"; if it's about a reduction in fines or prison time for an individual, that's more like a "plea deal" or "plea bargain".
+
+Desdobramento 
+see pt:wikt:Desdobramento
+Literally, an "unfolding". In the context of Operation Car Wash, as in pt:Desdobramentos da Operação Lava Jato, it is an offshoot. (Also seen, less often, are spin-off or outgrowth to represent desdobramentos in English sources about Operation Car Wash). In the context of talking about one particular Operação, already named, it can be translated simply as Operation. Not to be confused with Operation Car Wash "phases" (fases) which is a different breakdown of investigations, numbered and named, starting with phase 1 in March 2014.
+
+ Desembargador
+see Desembargador; pt:Desembargador;  juiz
+apellate judge; Title given to justices in the courts of second instance. Compare Ministro. See Usage note at Juiz.
+
+Dólar-cabo  
+(see pt:Dólar-cabo
+an illegal dollar wire transfer. A neologism in Portuguese; no stable English term has claimed primacy yet; several have been offered. It is the practice of trading dollars in the gray market for deposit in an institution abroad. This may or may not involve actual cross-border transfers of money. The practice is a crime under article 22 of Lei dos Crimes contra o Sistema Financeiro (Law concerning crimes against the Financial System). It is often used in money laundering schemes. Still a neologism in the Brazilian press, and often found inside double quotes, often with explanatory text following. In English, various calques and translations have been proposed, including "dollar-cable", "cable-dollar", and others, but usually very tentatively, and with double quotes.
+
+ See also euro-cabo.
+
+Doleiro
+(see pt:Doleiro; pt:wikt:Doleiro
+a money dealer; black-market money dealer; literally, "dollar-er" ("dollar-dealer"). Someone who buys and sells dollars on the gray market. They also transfer funds between countries on behalf of companies or individuals not authorized by the Central Bank of Brazil to perform exchange operations, or which are outside the official mechanisms of registration and control. While this may be legal in some contexts, in others it is an indicator of possible money laundering or tax evasion activities. In this context, a doleiro is someone who converts currencies without authorization, or beyond limits allowed by law. See also: dólar-cabo.
+Expressions:
+
+doleiro dos doleiros – dealer of dealers
+
+F
+Falsidade ideológica  
+see pt:Falsidade ideológica
+fraudulent misrepresentation. lit., "ideologically false"; often seen adjectivally as ideológicamente falso ("ideologically false"). This is a type of fraud involving inclusion of false information in an otherwise valid document. This is defined in article 299 of the Penal code.
+Example: a doctor signs a certificate excusing someone from work who was not sick. The signature is real, the information in the document is false.
+Contrast: falsidade material.
+
+Falsidade material  
+lit., "materially false"; this is a type of fraud involving creation of a phony document. Also seen adjectivally as materialmente falso ("materially false"). This is defined in article 299 of the Penal code. Example: an employee creates a false affidavit excusing them or someone from work who was not sick, and forges the doctor's signature.Contrast: #Falsidade ideológica. The key difference between the two, is that where falsidade material describes a forgery, falsidade ideológica describes a real document with false information.
+
+Federal judge  
+see juiz federal.
+
+Federal Regional Court 
+see Tribunal Regional Federal (TRF).
+
+First instance
+see primeira instância
+A lower court. Contrast second instance.
+
+Foro privilegiado  
+see pt:Foro privilegiado
+Official name: "foro especial por prerrogativa de função".
+Foro privilegiado is the common term for this.
+Context: "pessoas com foro privilegiado", as in this example from Operação Leviatã (Operation Leviathan):
+
+A operação focou a parte do esquema que repassava dinheiro só para o PMDB porque a parte do PT, não envolvendo pessoas com foro privilegiado, tramita na Justiça Federal do Paraná.
+The operation focused exclusively on that part of the scheme that involved money passed on to the PMDB; because the portion involving the PT was being processed in the Federal Court of Paraná since it didn't include individuals with foro privilegiado status.
+It is a method of determining a jurisdictional question, namely what venue has jurisdiction over certain high public officials in certain penal actions, based on their position or function. Normally, most people in Brazil, if accused of certain crimes, start off in lower courts (primeira instância) and their cases may proceed to higher courts (segunda instânica) according to law. For a limited subset of people, namely those with the foro privilegiado status, they start right off in the higher courts. The Brazilian Constitution specifies which officials have foro privilegiado; the list includes the President of the Republic, Senators, Federal Deputies, State Deputies, ministers of State, Governors; and only while they still hold office. See pt:foro especial por prerrogativa de função for details.
+
+Formação de quadrilha  
+(see Formação de quadrilha; pt:wikt:quadrilha; quadrilha
+gang formation; conspiracy; criminal conspiracy
+
+Expressions: acusados de formação de quadrilha –  "accused of federal racketeering" (chiefly U.S. usage)
+
+Funcional  
+1.   An adjective for funcionário, a company employee or civil servant funcionário
+2.   When combined with apartmento, has a special meaning; see apartamento funcional
+3.   In common parlance, cognate to English "functional".
+
+J
+Judge
+Can be any of  juiz , Desembargador, or Ministro, depending on the type of judge, and the instância.
+
+Judiciary branch 
+See Poder Judiciário
+
+Juiz
+see pt:Juiz, pt:wikt:juiz, juiz federal, desembargador
+1.  A judge of the  first instance.
+Expressions:
+pt:juiz de paz: justice of the peace.
+juiz de instrução: investigative judge; examining magistrate.Usage note: it's a peculiarity of Brazilian terminology surrounding judgeships, that judges in courts of different degrees or levels (grau de jurisdição) are known by different honorific titles, depending on what level they are in the hierarchy of the judicial branch. The term juiz is used for judges of the first instance. See also: Desembargador (2nd instance), and Ministro (3rd instance).
+2.  court.
+3.  referee.
+
+Juiz federal 
+A judge of the first instance in the common Federal Justice system (Justiça Federal comum) who deals with legal cases involving the Union (União) or its federal entities.
+
+Justiça Federal 
+(see pt:Justiça Federal
+The Federal Courts, or Federal Justice system, is one of two parts of the judiciary branch. It consists of the federal judgeships, which represent the first instance (primeira instância), and the Federal Regional Courts (TRF), which represent the second instance (segunda instância).
+
+P
+Poder executivo  
+see pt:Poder executivo
+The executive branch of government; one of the three branches (ramos) of the Brazilian government.
+
+Poder judiciário  
+see pt:Poder Judiciário do Brasil
+lit. "Judicial power" (or "authority"); the judicial branch. One of the three branches of the federal government, according to the Constitution. The judiciary branch is based on three degrees of jurisdiction (grau de jurisdição). It is made up of five things: 1. the Supreme Federal Tribunal (STF), 2. Superior Court of Justice (STJ), 3. Federal Regional Courts (TRF) and Federal judges, 4. military judges and tribunals, and 5. tribunals and judges of the states, the Federal District, and the territories. See Instância.
+
+Poder legislativo  
+see pt:Poder legislativo
+legislative branch (lit. "legislative power"; legislative authority). One of the three branches of the federal government ordained in article 1 of the Constitution, consisting of the National Congress, is exercised by the Chamber of Deputies and the Senate. Each state of the Union is represented by three Senators of the Republic, elected by majority vote, and the seats in the Chamber of Deputies are divided according to the population of each state, and the deputies elected by proportional vote.
+
+Poder público  see pt:Poder público; pt:wikt:poder público
+1.  The ensemble of state institutions with authority to carry out the affairs of State; the three branches of the federal government: Poder executivo, Poder judiciário, Poder legislativo.
+2.  
+In the plural, "poderes públicos" may have a different meaning: public authorities, official authority; similar to the non-specific sense of "the authorities" in English.
+
+Policia especializada  
+See delegacia especializada.
+
+Primeira instancia  
+The first, or lowest level of the three degrees of jurisdiction (grau de jurisdição) in the Poder Judiciário (judiciary branch). These include Federal judge#Brazil (Juiz federal). See segunda instância.
+
+Prisão domiciliar  
+ House arrest.
+
+Prisao em flagrante  
+see flagrante.
+
+Preventive detention
+see pt:Prisão preventiva
+See prisão preventiva. Compare remand.
+
+Prisão 
+see pt:Prisão, pt:wikt:prisão Contrast: condução coercitiva.
+1.  Arrest. In the sense of "arrest", it comes in three forms (modalidades) in Brazil: flagrante, temporária, and preventiva. Contrast: condução coercitiva.
+2.  Jail.
+3.  Imprisonment.
+
+Prisão preventiva 
+see pt:Prisão preventiva
+Roughly, "preventive detention", but not exact equivalents. Prisão preventiva is a pre-trial, precautionary detention defined by CPP §311–316. Not to be confused with sentença (post-trial sentencing). The English preventive detention is broader in scope; the Portuguese one may be more like pre-trial remand.
+
+Prisão temporária
+see pt:Prisão temporária
+A type of precautionary detention, which may be used in the investigation of a serious crime. A "temporary pre-trial detention". A 1989 law replaced the former prisão por averiguação (investigatory detention) which was found to be contrary to fundamental rights under the 1988 charter. Only used in certain high crimes where it might impede the investigation if the subject were not detained, and where they have no fixed address or their identity cannot be established.
+
+Q
+R
+Recurso  
+(see pt:Recurso processual)
+1.  An appeal to a court. An instrument to request alteration of a prior court decision to a court of the same or higher instance, on the same case.
+Expressions:
+entrar com um recurso: file an appeal
+_____ de recurso: appellate _____
+2.  (in the plural) recursos: funds.Expressions:
+desvio de recursos – diversion of funds
+3.  In contexts outside of law or finance: the primary meanings of recurso are "resource", "feature".
+
+Rewarded collaboration
+see colaboração premiada
+literal translation of colaboração premiada}.
+
+Rewarded whistleblowing
+see delação premiada
+literal translation of delação premiada.
+
+S
+Segunda instância  
+see also desembargador, primeira instância, terceira instância
+The middle level of the three degrees of jurisdiction (grau de jurisdição) in the Poder judiciário (judiciary branch). A court of second instance is analogous to a Court of appeals or appellate court in Anglo-Saxon jurisprudence. See primeira instância.
+
+Setor propina 
+
+literally, "bribery section", or "bribery department". This is a slang term or nickname for Odebrecht S.A.'s Structured Operations Division (Setor de Operações Estruturais), because it was that department within the company that was responsible for managing and paying kickbacks and bribes.Usage note: There isn't sufficient usage in English sources to have settled on one term for this, but "bribery department" is present in a BBC report.
+
+Sítio de Atibaia  
+
+lit., "the Atibaia site". known in English as the "Atibaia case" or "Atibaia site", and other terms. In context after a first use, the property is also referred to as the "ranch", the "house", the "farmhouse", the "case", the "site case", etc.; and in Portuguese, sometimes as the "sítio Santa Bárbara".
+ "O sítio de Atibaia" is the name given by the press to a property in Atibaia, a town in the interior of São Paulo state, which was central to the second conviction of President Lula in Operation Car Wash, which increased his sentence from 13 to 17 years. The formal owner of the property was Fernando Bittar, ex-colleague of Fabio Luis Lula da Silva (Lulinha), son of Lula. It was seized by the judge as part of Lula's sentence.
+
+STF  
+abbreviation for Supremo Tribunal Federal.
+
+STJ  
+abbreviation for Superior Tribunal de Justiça.
+
+Superfaturamento 
+see Superfaturamento
+Overbilling, especially on a government project with corrupt intent. The Federal Police indicated in a 2010 report that around R$700 million ($180 million) was overbilled in 300 public works projects, and that of every 100 Reals spent, on average R$ 29 were overbilled.
+
+Superior Tribunal de Justiça  
+see STJ; Superior Court of Justice 
+Superior Court of Justice, also known as the STJ. The highest appellate court in Brazil for non-constitutional questions of federal law. Justices in STJ (as in other Superior Courts) are called "minister" not "justices" or "judges"; not to be confused however, with ministers from the executive branch.
+
+Supremo Tribunal Federal  
+see Supreme Federal Court; pt:Supremo Tribunal Federal
+The Supreme Federal Court is the highest Court in Brazil, and is considered a court of third instance. Abbreviated STF in Portuguese.
+
+T
+TCEJ 
+An abbreviation for Tribunal de Contas do Estado.
+
+TCE-RJ 
+see also TCE-RJ
+An abbreviation for pt:Tribunal de Contas do Estado do Rio de Janeiro.
+
+TCU
+An abbreviation for Tribunal de Contas da União.
+
+ Terceira instância  
+Literally, "third instance" (see instância). There is no third instance of the judiciary branch defined in the Constitution. However, the Superior Tribunals are sometimes known informally as the "third instance", because decisions taken by tribunals of the first and second instances can be reviewed by superior courts. See also instância extraordinária.
+
+Tribunal Regional Federal  
+see also Federal Regional Court
+
+Regional Federal Courts. There are six regional federal courts, each covering several Brazilian states. They are established by articles 107 and 108 of the Constitution. Together with Federal judges, the six TRFs make up the Justiça Federal (Federal Courts), which is part of the Poder Judiciário (judiciary branch). Each TRF has seven (or more) judges of the second instance named by the President, who hold court around the region of their jurisdiction, using local facilities. See for example, TRF-4. abbreviation: TRF.
+
+Tribunal Regional Federal da 4ª Região  
+see pt:Tribunal Regional Federal da 4ª Região
+Federal Regional Court of Region 4 (abbr: TRF-4, TRF 4) is one of the five Federal District Courts (Tribunais Regionais Federais). It is a court of second instance (segunda instância) that has jurisdiction over the three states of Paraná, Santa Catarina, and Rio Grande do Sul, and is headquartered in Porto Alegre, Rio Grande do Sul. It was inaugurated in 1989, and has 27 judges (desembargadores).
+
+U
+Undue advantage
+see vantagem indevida, corrupção ativa, corrupção passiva
+Illicit funds. Literally, "undue advantage" is a literal translation of vantagem indevida, from a type of corruption called Recebimento de vantagem indevida: literally, "Receipt of undue advantage" (or "illicit", "improper", "unfair", "unjustifiable", etc.) advantage (or "benefit", "profit", "gain", etc.) This is a form of corruption, either active (corrupção ativa) or passive (corrupção passiva) involving payment or receipt of improper advantage (economic or otherwise) or the promise of it, from someone in public office, or before or after their term of office if related to their function while in office. The term comes up in several places in the CPP, including article 217 (regarding corrupção passiva), article 316 (concussão), article 333 (corrupção ativa), and others.
+Usage note: Since there isn't an exact equivalent in common law, and the noun phrase can be awkward in certain contexts, rewording it as an adverbial phrase might work better in some cases: "X illicitly profited from", or "...earned illegal gains from", etc.
+
+V
+Vantagem indevida 
+see undue advantage, pt:Recebimento de vantagem indevida)
+literally, "undue advantage".
+
+W
+See also
+Glossary of French criminal law
+Offshoots of Operation Car Wash
+Phases of Operation Car Wash
+pt:Categoria:Crimes – "Crime" category on pt-wiki
+pt:Categoria:Direito penal – Criminal law
+pt:Categoria:Governo do Brasil – Government of Brazil
+pt:Categoria:Operação Lava Jato – Operation Car Wash
+pt:Categoria:Política do Brasil – Politics of Brazil
+
+References
+Notes
+
+Citations
+
+External links
+Legislação brasileira traduzida para o Inglês – official English translations of the Constitution, and dozens of other Brazilian laws
+Glossary of the Banco Central
+About pt:Condução coercitiva:
+Jusbrasil
+Lex Magister
+Juris Blog
+Constitution of the Federative Republic of Brazil; (in English) pdf; 432 pages
+Constituição da República Federativa do Brasil (in Portuguese)
+Michaelis dictionaries – a set of bilingual, online Brazilian dictionaries
+Operation Car Wash glossary – somewhat light-hearted, but has serious information about terms; by Gabriela Goulart, editor at O Globo.

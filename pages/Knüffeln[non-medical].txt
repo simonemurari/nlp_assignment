@@ -1,0 +1,86 @@
+Knüffeln is a very old trick-taking card game for four players, playing in pairs, that is still played in North Germany. Once considered the national game of Frisia, Knüffeln is a descendant of Karnöffel, the oldest identifiable European card game in the history of playing cards with a continuous tradition of play down to the present day.Knüffeln, itself several centuries old, became popular in Frisia in North Germany and, despite being described in 1924 as in danger of extinction, is still taught and played in North Frisia. Like its parent, it uses a 48-card pack, has a highly unusual hierarchy and cards with special properties, including the "surprising feature" of two chosen suits whose cards have a range of trump-like powers or no powers at all. Another oddity is that partners are allowed to openly communicate with one another and try to bluff the opposition about their hands and each side has a 'director' who may instruct the partner on the cards to play.
+
+Background
+Knüffeln is an ancient card game that was played in Martin Luther's day (early 1500s) and was brought to the North Frisian region centuries ago; tradition has it during the Thirty Years' War (1618–1648). It was described in detail by Bernhard in 1924 who noted that it was Frisia's "national game". He called it an "amusing and sociable game in which success depended on daring and careful thought, the creation of fact and fiction, aided by the luck of the cards." He went on to remark that it was on the verge of extinction as the younger generation were turning to 'modern' games such as Skat.Around 1865 it is one of the many card games played by farmers at Christmas alongside, Brausbart, Dreikart, Fünfkart, Neunkart (Fett und Mager), Fips, Scherwenzel, Hahnrei and others.In 1938, Grünberg notes that "before the war we mostly played Solo. Now everyone plays Skat. Only in the pub, when there is a lot of conversation is a social game of cards played, and that game is called Knüffeln".Despite Bernhard's pessimism, Knüffeln has survived to this day, being played almost exclusively in "parts of Frisia and on the geest", especially around the district of Viöl in North Frisia. It has been described as "a very social game, which requires a lot of communication if one is to be successful." One of the reasons given for its popularity is that "it cannot be compared with any other card game and is therefore very interesting. Although it seems incomprehensible to outsiders" it can be picked up quite quickly. Courses and competitions are held regularly, for example, in Bohmstedt and Norstedt. Other villages such as Klockries or Drelsdorf have regular Knüfeln evenings.The game goes under various other names in the literature, notably Knüffel, Knüfeln,   Karnüffel and Karnüffeln, the last two names also being used for its parent game of Karnöffel.
+
+Cards
+Knüffeln is played with 48 cards from a standard French-suited pack, the Tens or Fives and any Jokers being removed. In the region where it is still played, French-suited cards of the Berlin pattern are used.
+
+Rules
+The following rules are based on Bernhard (1924) supplemented, where stated, by other sources.
+
+Aim
+The primary aim is to win five tricks in each deal.
+
+Features
+Knüffeln has the following features that are unusual in card games:
+Five permanent matadors (top cards), known as the 'old ones' (Olen or Alten)
+Two chosen suits comprising cards with different trump-like powers and those with no powers at all
+No requirement to follow suit
+Open communication between players, including bluffing to mislead one's opponents, is allowed
+
+Card powers
+There are five matadors, the 'Old Ones' or Olen, which rank in the order shown in the table below (highest on left). They are followed by the twelve 'beaters' (Stechkarten) of the chosen suits which have trump-like powers but rank in an unusual order. Then come the chosen 7s and the free cards (chosen 8s and 9s) whose power depends on whether they are led to a trick or not. Essentially they only have privileges when led; the chosen Sevens becoming unbeatable. Finally there are the chosen 5s, whose chief value is that may be exchanged before play starts for one of the upcards of the same chosen suit. The following table shows the ranking and powers of the matadors and chosen cards taking, by way of example, Clubs and Hearts as the two chosen suits. To 'beat' means to go over an earlier card, thus heading the trick and winning it if not subsequently beaten.The Old Ones have the following names: ♥2 - the Twe, ♣4 - the Waag, ♠8 - the Dulle, ♥9 - the Hartenool, ♦9 - the Rutenool.
+
+The cards of the plain or 'unchosen suits' rank in their natural order as shown in the table below. If one of these is led to a trick, the trick is taken by the highest card of that suit unless beaten by an Old One or by a high enough beater i.e. an Ace may be taken by a chosen 6 or higher, a King by a chosen 2 or higher, a Queen by a chosen 3 or higher and the rest by any beater.
+
+Preliminaries
+The game is played by four players in two teams of two; the partners sitting opposite one another. The dealer shuffles the cards and offers them to rearhand (the player to the left) for cutting. The cutter may look at the three lowest cards; any Old Ones are placed face up on the table. Next the dealer deals nine cards to each player, in three packets of three, and turns the next two over to determine the chosen suits. These cards are called the 'chosen ones' (Wääl). If the second card is of the same suit, the dealer turns another card and, if necessary, more until a different suit appears. If four cards of the same suit are turned, all the cards are thrown in and reshuffled and redealt by the same dealer. If, in the process, two or more of the same suit are faced, the higher (or highest) is retained face up and the rest returned to the stock.
+
+Exchanging
+Any player with a 'dog' (chosen 5) may now exchange it for the chosen upcard of the same suit. Anyone with a chosen Queen may exchange it for an Old One of the same suit that was faced during cutting and placed on the table. If a chosen Queen is 'sleeping' (i.e. in the stock), the King 'inherits' this privilege; otherwise the Old Ones remain on the table.
+
+Playing
+Forehand (left of the dealer) leads off. There are no constraints on play to a trick. The trick winner is decided as follows:
+If a chosen 7 is led it always wins
+If an Ole or beater is led, the trick is won by the highest Ole or beater played
+If a free card (chosen 8 or 9 that is not an Ole) is led, it wins unless beaten by an Ole, chosen A or J
+If an unchosen A is led it wins unless beaten by an Ole or chosen A, J or 6
+If any K is led it wins unless beaten by an Ole, chosen 2 or higher beater, or A of the same (unchosen) suit
+If any Q is led it wins unless beaten by an Ole, chosen 3 or higher beater, or A of the same (unchosen) suit
+If a Dog (chosen 5) is led it wins unless beaten by an Ole or any chosen beater (4 or higher)
+If any other unchosen card (J or lower) is led it wins unless beaten by an Ole, chosen 4 or higher beater, or higher card of the same suitNote that if the led card is beaten, that card may in turn be beaten by a later card according to the same rules. Thus the winner may well depend on the order in which the cards are played.
+The deal is won by the first team to make five tricks.
+
+Bonuses
+A jann is achieved when a team wins the first five tricks in a row; it scores double.In most later rules, a march (Durchmarsch or Dörchspill) is achieved if all nine tricks are won. If using a slate, a 'chicken ladder' is chalked on it (see below). When a team wins a march, its players each earn a punch on the spot and the ladder is erased and redrawn. If playing for small stakes, a march wins triple or quadruple.
+
+Raising the stakes
+If a team has won two tricks, they may lead a card, face down, effectively doubling the points. If their opponents take up the challenge and win five tricks, they score two points. If not, the challengers score two. If they 'strike the flag' i.e. fold, they concede a point to the challengers.In later rules this is called 'turning and looking' (Drein un Seen or Drehen und Sehen) and there is no restriction on when players may lead a card face down. The opponents may look at the card, thus playing on and accepting the higher game value, or 'run away' (lopen or davonlaufen) and concede the current deal.
+
+Scoring
+At the start of the game, 4 horizontal lines are chalked up on a slate and divided by a vertical one to form 2 'ladders' side by side, one for each team. Scoring is recorded as follows:
+Single win  - erase one 'rung' of the ladder
+Double win (Jann) - erase two rungs
+Triple win (Durchmarsch) - erase three rungsWhen the fourth rung is erased, the slate is wiped clean and the losers are given a large blob or Knüppel (●)  on their side of the slate. If the winning team erases its fourth rung while their opponents have yet to score, the loses get 2 dots, known as a 'pair of spectacles' or Brille.
+
+Communication
+Unlike most other games, in Knüffeln partners are allowed to talk to one another and ask questions, in a roundabout way, to discover the strength of one another's hands. However, this is also done to deceive the opponents and "even fibbing is allowed." Typical communication might include:
+
+Kannst du ock wat hollen? – "Have you got an Ole?"
+Ick bin nich recht to Huus - "I haven't got any good cards" (lit. "I'm at home, unwell")
+Dat spelen se up de Heide bi Regenwedder – "That's a poor lead" (lit. "That's what they play in the heath in rainy weather.")
+Du mußt erst, ick schall oldsch – "You must [go] first and I'll [take it with an] Ole."
+Ik heff nich recht wat to bringen, du muß verbetern – "I don't have anything good to play; you must do better."
+Kann ik nich, mußt en Steker speeln! – "I can't, you must play a beater!"
+Macker, heft noch wat? – "Mate [Mucker], do you have anything left?"
+Een Spill mak ik – "I'll make one trick"
+Kannst alleen de Rest maken? Nee? Ik maak sacht een Spill. Twe hebbn wi. Du gar nich? Denn mööt wi betaaln. – "Can you make the rest alone? No? I’ll probably take one trick. We have two already. You have nothing at all? In which case, we'll have to pay."
+
+Footnotes
+References
+Literature
+_. (1865). "Weihnachten in Schleswig-Holstein" in Die Grenzboten, Vol. 4; Vol. 24, pp. 974–986.
+Appeles, P. (1984). Spielregeln – Knüffeln. Folio N2 – 51, Dorfarchiv Hattstedt.
+Bernhard, J. F. (1924). "Das Karnüffeln (Knüffeln): Ein friesisches Kartenspiel" in Die Heimat. Monatsschrift d. Vereins zur Pflege der Natur- und Landeskunde in Schleswig-Holstein und Hamburg, ed. by Gustav Fr. Meyer, Kiel, Vol. 34, pp. 70–72.
+Dummett, Michael (1978). "Reviews of "Der Nidwaldener Kaiserjass Und Seine Geschichte" and "Der Kaiserjass, Wie Er Heute in Nidwalden Gespielt Wird"". The Playing Card. 9 (4).
+Dummett, Michael (1980). The game of Tarot: from Ferrara to Salt Lake City, Duckworth, London. ISBN 978-0-7156-1014-5
+Eaton, Paul (2021). "Knüffeln: the Karnöffel of Frisia." in The Playing-Card, the Journal of the International Playing-Card Society, Vol. 49, No. 4, Apr–Jun 2021, pp. 149–157.
+Feddersen, Hans (2019). "Knüffeln – Spielregeln".
+Grünberg, Peter (1938). "Knüffeln" in Die Heimat, Vol. 48, No. 1. Heimat und Erbe, Flensburg, pp. 27/28.
+Grünberg, Peter (undated). "Knüffeln" in unknown source, probably Die Heimat, pp. 189–190.
+Mensing, Otto (1931). Schleswig-Holsteinisches Wörterbuch, 3rd volume, K - P, Wachholtz, Neumünster.
+Von Leyden, Dr. Rudolf (1978). "Der Nidwaldner Kaiserjass und seine Geschichte" in Beiträge zur Geschichte Nidwaldens, Vol 37, pp. 151-163.
+
+External links
+Knüffeln at pagat.com.

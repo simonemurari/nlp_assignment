@@ -1,0 +1,82 @@
+Tapp (Swabian: Dapp or Dappen) is a trick-taking, card game for 3 or 4 players using 36 French-suited cards that is played in the south German region of Swabia, especially in the former Kingdom of Württemberg. It is the French-suited offshoot of German Tarok; its German-suited form being called Württemberg Tarock (German: Württembergischer Tarock) in that region.  Tapp is one of a family of similar games that include Bavarian Tarock, the Austrian games of Bauerntarock and Dobbm, and the American games of Frog and Six-Bid Solo. Although probably first played in the early nineteenth century, the game of Tapp is still a local pastime in its native Württemberg, albeit in a greatly elaborated form.
+
+History
+German Tarok
+Tapp has its origins in German Tarok which was an attempt to play the German tarot game of Grosstarock with an ordinary 36-card German-suited pack. German Tarok emerged in the late 18th century and was popular enough for card packs to be designed for it and named 'Tarok' packs. The earliest version of this three-player game had Hearts as a permanent trump suit and the dealer kept the 3-card skat, discarding 3 cards before play began. Thus there was no bidding. This was superseded around 1840 by a more interesting and challenging game initially called Sansprendre, but which later took over the name of German Tarok. In this game there was an auction in which players could bid Frage to exchange with the skat and play alone against the two defenders, or bid Solo to play without the use of the skat. In either case, the skat belonged to the declarer at the end. German Tarok became very popular, especially in Bavaria, through to the First World War.
+
+Tapp (19th century)
+As early as 1879, Anton describes the game of Tapp with a third contract. This was effectively the Swabian name of the game otherwise called German Tarok in Bavaria and elsewhere. In this game the original bid of Solo became Coeursolo or Herzsolo ("Heart Solo") and Solo became, in effect, a Suit Solo where the declarer could nominate another suit as trumps and, as in Herzsolo does not use the tapp. This variant Dummett calls Tapp. Since Beck described the earlier version in the 1980s, it would appear that the two variants co-existed for over a century.In 1901, Tapp was reported to be one of the most popular penny ante games in the city of Pforzheim in Baden alongside Cego, Sixty-Six, Skat and Tarrock (possibly Dreierles).
+
+Tapp or Dapp (20th century)
+The later version of Tapp, also called Dapp or Dappen in the south German dialect, appears to be an elaboration of the original game in which the contracts of Frage, Solo and Heart Solo – together with the bonuses for a slam (Tout) – have been supplemented by Rufer, Bettel and Ramsch. This expanded variant had emerged no later than the period following the Second World War.In the village of Backnang, 30 kilometres northeast of Stuttgart, the older farmers regularly played Dapp (Dabba) with 36 cards and contracts including suit games, Bettel, Rufer, Durch and Ramsch (Swabian: ãnn Rõndå). Some played for money that went into a tin called a Kirchles that they saved up and donated to buy confirmation clothing for poor children at church. They were known as Kirchlesdabbr (church Dapp players).However, according to Dummett, it is highly likely that the original versions of Tapp were still being played in Swabia in the 1970s and there is also evidence that an early variant, simply called Tarock, has survived in Bavaria.Since at least 2017 there have been local Dapp tournaments in the village of Igelsberg in the Black Forest.Related Swiss games played today include Zuger Tapp and Schellen Tapp; both are designed, however, for four players. They are played with Swiss cards.
+
+Names
+In 1879, Anton refers to the 3-contract game as Tapp, but cites other names as Württembergischer Tarok, Solo and Sans Prendre. In 1947 it is recorded in Bohemia as Sans Prendre, the name being a reference to play without picking up the talon. In 1951, Schlager knows the game as Tapp, Tappen or Dappen and records that it is extensively played in the Swabian region of Württemberg with either German- or French-suited cards. In 1983, Beck just refers to the 2-contract game as the Württembergische Variante.
+
+Cards
+Card packs marketed as Jass/ Tapp cards were sold until around 2020 specifically for the game, but a shortened French pack of 36 cards may also be used. If German-suited cards are used, a Schafkopf/Tarock pack will be needed. All are now easily obtainable online. The originally 36-card Württemberg pattern packs with German-suit symbols ceased production in the 1980s and only 2x24 card packs are now obtainable in that pattern (used for Binokel and Gaigel).
+
+Card points
+Tapp traditionally consists of 9 cards in the four suits of Hearts (Herz), Diamonds (Karo), Clubs (Kreuz) and Spades (Schippen or Pik), with the following values:
+
+Card ranking
+The trick-taking ability or ranking of the cards within their individual suits from Ace / Deuce (highest) to Six (lowest) is shown by the sequence in the table below.
+
+Rules
+The following versions will be described:
+
+Württemberg Tarock (Württembergischer Tarock), the two-contract version based on Dummett and Beck.
+Classic Tapp, the three-contract variant described by Anton and summarised by Dummett.
+Modern Tapp or Dapp, the modern, multi-contract game described by NSV.
+
+Württemberg Tarock
+Württemberg Tarock is described by Beck as a south German variant of 'German Tarock'. It is a game for three players, played with 36 German-suited (Dummett). Deal and play are clockwise and Hearts are permanently trumps. Cards follow the Deuce/Ace - Ten ranking and card values described above.
+
+Dealing and bidding
+Dealer shuffles, offers the cut to his right, and then places 3 cards as a talon or tapp on the table. He then deals 11 cards to each player in packets (4 – 3 – 4). A pot may be used as in Bavarian Tarock.
+There are two bid options: Frage and Solo.  Frage is a bid to score 61 or more points against the two defenders with the aid of the tapp, i.e. the winning bidder may pick up the tapp and exchange up to 3 cards with it, laying his discards to one side. Solo is identical, but the talon is not picked up. In either case, the tapp and any discards belong to the declarer. Bidding starts with forehand who says "pass", "Frage" or "Solo". A player who bid Frage' earlier may "hold" a higher bid of Solo.
+
+Before the first trick is played, the declarer may announce a Tout, also called a Schwarz, Durchmarsch or Valat, the last term being the same as that used in true Tarock games. This is a contract to take all the tricks. If all pass, the cards are thrown in and the next dealer takes over.
+
+Playing
+Forehand leads to the first trick. Players must follow suit (Farbzwang) or trump if unable to follow (Trumpfzwang) but there is no compulsion to head the trick (i.e. no Stichzwang). The trick is won by the highest card of the led suit or highest trump if trumps are played. The two defenders keep their tricks in a single pile.
+
+Scoring
+The declarer must score 61 points to win. If both sides score 60, the game is drawn and no-one scores. The winner(s) score 1 game point for every point above 60. This is doubled for a Solo. A Tout is worth double (Anton) or triple (Beck) the normal score. If a pot is used, the dealer antes two to the pot at the start of the deal. If a Frage is lost, the declarer pays the same amount to the pot as to each defender. If a Solo is won, the declarer claims the pot; if lost, he doubles it.
+
+Classic Tapp
+The rules for classic Tapp as described by Anton are the same as those for Württemberg Tarock described above, except that now we see the introduction of the French-suited pack, an additional bid and slightly different scoring. Essentially Solo becomes Herzsolo or Coeursolo (Heart Solo) and the new bid of Solo is a Suit Solo with the declarer choosing a suit other than Hearts as trumps. Frage is referred to by Meyer as Coeurfrage, emphasising that Hearts remained trumps for that contract.
+
+Scoring
+In Frage. the winner(s) earn a game point for every four card points (or part thereof) scored. In Solo this is effectively doubled i.e. the winner(s) earn a game point for every two card points scored. A pot may be used as described above.
+
+Modern Tapp or Dapp
+By the time of the post-war period, Tapp had been elaborated well beyond its original rules. It is recorded that during this period it was a popular game with Swabian farmers and was played by three players with 36 cards or 4 with 32 cards. Contracts included: suit games, Bettel, Rufer, Durch and Ramsch.NSV have published rules online that appear to reflect this new version of the traditional Württemberg game. The Ace-Ten ranking and point system are retained. The full rule set is here and its main features are:
+
+Dealing and bidding
+Deal and play are anti-clockwise. This is the same as Tarock games from which the Tapp family is derived. The first dealer is chosen by lot e.g. the first to draw an Ace. If three play, 11 cards each are dealt and 3 to the tapp (4-3-tapp-4). If four play, 8 cards each are dealt and 2 packets of 2 to the tapp (3-tapp-2-tapp-3). Sometimes a 32-card Skat pack is used.
+The player to the right of forehand starts the bidding by saying "play" (ich spiele) or "pass" (weg). After the first round of bidding, there is a second round where those who want to play state their contract and the highest contract wins. The contracts and their values are:
+If all pass, a Ramsch is played, whereby players aim to score as few points as possible. Winner of last trick takes the tapp. The player with the most points pays the others 5c or 10c if they have no tricks (Jungfer).
+
+Play
+Forehand leads to the first trick, players must follow suit if able. If unable to follow suit, they must play a trump; lacking either they may discard. There is no requirement to head the trick. Highest trump wins or, if none are played, the highest card of the led suit. Trick winner leads to the next trick. The tapp belongs to the declarer except in a Ramsch.
+
+Settling
+In a Frage or Solo, the game is lost if the declarer fails to score at least 61 points. In other games the declarer must achieve the aim of losing or winning every trick. If the declarer wins, each defender pays him the game value; if he loses, he pays each defender the game value.
+
+Footnotes
+References
+Bibliography
+_ (1839). Das Sansprendre-Spiel in Regeln zur richtigen Auffassung und Ausführung desselben nach seinen verschiedenen Nuancen dargestellt (SSR). Bayreuth: Grau 50 pp.
+_ (1881). Ausführliche Anleitung zum Deutschtarokspielen, nebst einem Anhange, enthaltend: ein Verzeichniß über alle technischen oder Kunstausdrücke, Provinzialismen und vulgären Bezeichnungen, welche bei diesem Spiele vorkommen (AAD). Munich: Cäsar Fritsch. 88 pp.
+_ (1889). Tarok (Sans prendre): Gründliche und praktische Anleitung zu diesem beliebten Kartenspiele auf Grund vieljähriger Übung zusammengestellt von einem erfahrenen Spieler (TSP). 3rd edn. Munich: Dr. Wildsch. 17 pp.
+Anton, Friedrich (1879). Encyclopädie der Spiele (3rd ed.). Leipzig: Wigand.
+Beck, Fritz (1983). "Die Württembergische Variante". Tarock komplett (12 ed.). Vienna: Perlen-Reihe. pp. 168–169.
+Braun, Franz (1966). Spielkarten und Kartenspiele. Hanover.{{cite book}}:  CS1 maint: location missing publisher (link)
+Dummett, Michael (1980). The Game of Tarot. London: Duckworth.
+Eaton, Paul (2022). "German Tarok - Part 3: Württemberg Tapp". The Playing-Card. International Playing Card Society. 51 (3): 64–71. ISSN 1752-671X.
+Honl, Ivan (1947). Z minulosti karetní hry v Cechach : nekolik stranek z kulturní historie. Prague: Zikes. OCLC 1342241717.
+Meyer (1889). Meyers Konversationslexikon. Vol. 15 (4 ed.). Leipzig and Vienna: Verlag des Bibliographischen Instituts.
+Schlager, Friedrich (1951). "Das badische Nationalspiel 'Zego' und die andern in Baden und an Badens Grenzen volksüblichen Kartenspiele". In Müller, Karl Friedrich (ed.). Beiträge zur Sprachwissenschaft und Volkskunde: Festschrift für Ernst Ochs. Lahr, Schwarzwald: Schauenburg.
+Sirch, Walter (2008). Vom Alten zum Zwanzger - Bayerische Kartenspiele für Kinder und Erwachsene - neu entdeckt (in German). Bayerischer Trachtenverband.
+Stolz, Aloys (1901). Geschichte der Stadt Pforzheim. Pforzheim: Städt. Tagblatts.

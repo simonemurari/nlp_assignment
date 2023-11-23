@@ -1,0 +1,62 @@
+The Maddox Wing is an instrument utilized by ophthalmologists, orthoptists and optometrists in the measurement of strabismus (misalignment of the eyes; commonly referred to as a squint or lazy eye by the lay person). It is a quantitative and subjective method of measuring the size of a strabismic deviation by dissociation of the eyes brought about by two septa which are placed in such a way as to present  fields to either eye separated by a diaphragm at the centre.  The right eye sees a red and white arrow, each of which point to a scale with numbers seen by the left eye; the red arrow points to the vertical red scale and the white arrow points to the horizontal white scale. A third arrow located to the right and below the horizontal white scale is used to measure torsion
+
+Indications
+The Maddox Wing measures the size of heterophorias (latent deviations) and small heterotropias (manifest deviations) at near when normal retinal correspondence (NRC) is present. It is especially helpful when patients present with symptoms of diplopia (double vision) with no apparent cause. Unsuspected torsional deviations may also be revealed where there are no symptoms present. It is a quick and convenient method of measuring the size of a deviation and is generally used in association with a number of other tests before a full diagnosis is determined.
+
+Equipment
+The Handle:
+The handle is retractable and is located at the base of the instrument. This is where the patient holds the apparatus.
+The Eye Piece:
+Located anteriorly, the eye piece is where the patient looks into.
+The Eye-piece lens holder:
+Mainly used to hold lens for patients who have difficulties seeing the board with their glasses
+The Septa:
+There are 2 septa that separates the eye piece so that the patient has two separate fields of view.
+The Scale Card:
+Used to measure the deviation of heterophorias, small heterotropias (with NRC) and also torsion. The scale card has the horizontal, vertical and torsional scales. The board also contains the red and white arrows. This will be further discuss throughout the video.
+The Torsion Lever:
+On the measuring board there is an adjustable lever which the patient subjectively aligns to measure torsion.
+
+Method
+The Maddox Wing test is performed at near with the instrument held in reading position, slightly inferior (approximately 15° depression and 33 cm away). The room or location of the test should be brightly illuminated and the patient's optical correction (e.g. glasses, bifocals, multifocals, contact lens) is required to be worn. In the event that correction cannot be worn due to the obstruction of vision through the eye piece, lenses may be placed within the lens holder before each eye. The examiner instructs the patient to hold the Maddox Wing and identify the number that the white (vertical arrow) and red (horizontal arrow) arrows point to on their respective scales.
+Example instructions and examiner questions:
+
+"Hold the device up to your eyes and look into the eye piece as if you're reading a book"
+"What number is the white arrow pointing to?"
+It is important for the examiner to ask "Is it actually pointing to the number (e.g. number 4) or in between two numbers (e.g. between the numbers 3 and 5)?" This avoids possible confusion as only the odd numbers show on one side of the scale and the even figures on the other, if misinterpreted, diagnosis may be incorrect.
+"What number is the red arrow pointing to?"
+" I want you to lift the red torsion lever and hold it parallel to the red arrow"
+
+Recording
+Example:
+
+MW: cc exo 10∆ R/L 7∆ excyclo 4° OR MW:  cc  -10∆ R/L 7∆ excyclo 4°
+MW cc eso 5∆ өKey:
+
+Interpretation
+With the maddox wing, you cannot differentiate between a manifest deviation or latent deviation. The white arrow on the white X-Axis measures for horizontal deviations in which, odd numbers represent eso deviations and even numbers represents exo deviations. The red arrow on the red Y-Axis measures for vertical deviations; odd numbers represent right hyper deviations and even numbers represents left hyper deviations. In the absence of a deviated eye, both red and white arrows point to zero, indicating that there is no deviation present. The presence of torsion is determined subjectively; the patient is instructed to take hold of the torsion lever and make it straight.
+
+Advantages
+Time efficient method of measuring strabismus
+Measures horizontal, vertical and torsional deviations
+Hand held instrument
+Not a difficult skill to learn and since the numbers can be read only the patient accommodates sufficiently which makes the test much more reliable
+Can be used on children
+
+Disadvantages
+Contraindicated where abnormal retinal correspondence (ARC) or suppression are present
+The dissociative nature of the test may cause irregularities in measurements
+Does not differentiate between latent and manifest strabismus
+Septa is easily bent, may lead to incorrect results as one eye sees both arrows and numbers
+Cannot be performed in the distance
+
+Considerations
+Time must be allowed for dissociation of the eyes to take place
+Numbers and arrows should be seen clearly. Relaxation of accommodation can result in an increase in exophoria and a decrease in esophoria, leading to an inaccurate result
+The examiner should check the function of the Maddox Wing Instrument before use; the septa can be easily bent, leading to the septa not covering the intended view. When that happens one eye can see both arrows and numbers which gives inaccurate results.
+
+References
+
+Clinical Orthoptics (3rd ed.). Hoboken: John Wiley & Sons. 2012. p. 104. ISBN 9781118341599.
+Pointer, Jonathan S. (September 2005). "An enhancement to the Maddox Wing test for the reliable measurement of horizontal heterophoria". Ophthalmic and Physiological Optics. 25 (5): 446–451. doi:10.1111/j.1475-1313.2005.00303.x. PMID 16101952. S2CID 19238853.
+Trevor-Roper, P.D.; Curran, Peter V. (1984). The eye and its disorders (2nd ed.). Oxford ; Boston: Blackwell Scientific Publications ; St. Louis, Mo. : Distributors, USA, Blackwell Mosby. pp. 249–250. ISBN 0-632-01003-7.

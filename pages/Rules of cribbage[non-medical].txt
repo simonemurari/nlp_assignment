@@ -1,0 +1,110 @@
+The rules here are based on those of the American Cribbage Congress and apply to two-, three- or four-player games, with details of variations being listed below.
+
+The deal
+Cribbage uses a standard 52-card deck of cards. The jokers are removed; the suits are equal in status. The players cut for first deal, with the player cutting the lowest card (the ace counts as one, and is the lowest card) dealing first. If the cutters tie, the cards are re-shuffled and re-cut. The deal then alternates from hand to hand. Note that because the crib (explained below) belongs to the dealer, winning the first deal confers a scoring advantage: if the game ends in an odd number of deals, the first dealer will have received an extra crib, sometimes enough to decide the game.
+The dealer shuffles, offers the deck to the player on their right to cut (required in tournament play), and deals cards singly to each player, starting with the player on the dealer's left. For two players, each is dealt six cards (though some play with five cards dealt to each player and two to the crib). For three or four players, each is dealt five cards. In the case of three players, a single card is dealt face down in front of the dealer to start the crib. Cards must be dealt so that each player ends up with four cards after the crib is formed, and the crib should also have four cards. During the deal, if any card is exposed by the dealer or found face-up in the deck, cards must be redealt.
+
+The crib
+Once the cards have been dealt, each player chooses four cards to retain, discarding the other one or two face-down to form the "crib" that will be used later by the dealer. At this point, each player's hand and the crib will contain exactly four cards.
+
+Example cribs
+Two players
+Three players
+The starter
+The player on the dealer's left cuts the undealt portion of the deck (leaving at least 4 cards), and the dealer reveals the top card of the bottom section, called the "starter" or the "cut", placing it on top of the deck face up. (It is illegal to peek at any other cards in the deck during this process.) If this card is a jack, the dealer scores two points for "his heels". The game can end on a cut of a jack for the dealer.
+
+The play
+The play (often called pegging) starts with the player on the dealer's left and continues clockwise. Each player lays one card in turn onto the table so that it is visible, stating the cumulative value, or count, of the cards played so far. (For example, the first player lays a 4 and says "four", the next lays a 7 and says "eleven", and so on). Face cards are worth ten; aces are worth one. Each player's cards are retained face up on the table in front of that player, so that the hands can analyzed during play and then later be gathered and scored (see “The show,” below).
+The count must not exceed 31, so a player who cannot lay a card without bringing the count above 31 passes by saying "Go". The other players continue to lay cards in turn until no cards can be played without exceeding 31. Players must lay a card if able to do so without exceeding 31. The last player to lay a card scores two points if 31 is reached exactly ("31 for two"); otherwise one point is scored, e.g., "29 for one", or "30 for one", etc. The one-point score is known as "One for go", or simply "Go". The count is then reset to zero and play resumes, starting with the player to the left of the last card played.  Players with cards remaining repeat this process until all cards have been played. The last card played is treated as a final "go" as described above: two points for making the final count 31, or one point otherwise.
+In addition to scoring one or two points for the last card, players score points according to the following rules:
+
+fifteen-two
+two points for making the cumulative count exactly fifteen ("fifteen two")
+runs
+three points for completing a run of three cards, regardless of the order in which they are laid (a 6, then a 4, then a 5 is a run of three even though they were not laid in order)
+four points for completing a run of four
+five points for completing a run of five
+six points for completing a run of six
+seven points for completing a run of seven (e.g., playing 2, 4, 6, A, 3, 5 and 7)
+pairs
+two points for laying a card of the same rank as the previous card, thus completing a pair
+six points for laying a third card of the same rank (a "pair royal" or "trips")
+twelve points for laying a fourth card of the same rank (a "double pair royal" or "quad")If a card completes more than one scoring combination, then all combinations are scored. For example, if the first three cards played are 5s, the second one scores two points ("ten and a pair") and the third scores eight (“fifteen-two and a pair royal for six, makes eight”). Card combinations cannot span a reset; once the total reaches 31 (or a Go has been scored) and counting has restarted at zero, cards already played are no longer available for runs or pairs. During this phase of play run combinations cannot span a pair; in a play of 2, 3, 3, 4 the pair interrupts the run so only the pair is counted for points.
+Players choose when to lay each card in order to maximise their score according to the scheme shown below. The first player to reach 121 wins the game.
+
+Example plays
+Two players
+Three players
+The show
+Once the play is complete, each player in turn receives points based on the content of their hand. Starting with the player on the dealer's left, players spread out their cards on the playing surface and calculate their score. The starter card turned up at the beginning of play serves as a fifth card shared in common by all hands; thus each player's score is based on their own four cards along with the starter card. Scoring combinations are the following:
+
+fifteens
+two points for each distinct combination of two or more cards totalling exactly fifteen (counting aces as one, face cards as ten)
+runs
+three points for a run of three consecutive cards (regardless of suit)
+four points for a run of four
+five points for a run of five
+pairs
+two points for a pair of cards of the same rank
+six points for three cards of the same rank (known as a "pair royal", comprising three distinct pairs)
+twelve points for four cards of the same rank (a "double pair royal", comprising six distinct pairs)
+flush
+four points for a flush, where all four cards in the hand are of the same suit, with an additional point if the starter card is also of that suit. (Note that four suited cards including the starter, but missing one of the cards in the hand, does not score for flush.)
+his nob(s)
+one point for holding the jack of the same suit as the starter card ("one for his nob" or "... his nobs")Common combinations are often recognized and scored as a unit. For example, a run of three cards with an additional card matching one of the three in rank, e.g., 2–2–3–4, is termed a "double run of three" and scores eight according to the above rules (two distinct runs of three and two for the pair); 2–2–3–4–5 is a "double run of four" for ten points (two distinct runs of four and two for the pair). Even more valuable are "triple runs", e.g., 2–2–2–3–4, scoring fifteen (three distinct runs of three, plus three distinct pairs) and "double-double" or "quadruple runs", e.g., 2–3–3–4–4, scoring sixteen (four distinct runs of three, plus two pairs). Combined runs may also include fifteens: a 24 hand, the largest commonly seen, can comprise a double-double run and four fifteens: for example, 4–4–5–5–6 or 6–7–7–8–8.
+The dealer scores their hand last and then turns the cards in the crib face up. These cards, in conjunction with the starter card, are scored by the dealer as an additional hand. The rules for scoring the crib are the same as scoring a hand, with the exception of the flush: a four-card flush in the crib is not scored unless it is also the same suit as the starter card (for a total of five points).
+The highest possible score for a hand is 29 points: a starter card of a 5, and a hand of 5, 5, 5, J with the jack being the same suit as the starter card. The score might be announced thus:
+
+Fifteen two, fifteen four, fifteen six, fifteen eight [four J-5 combinations],fifteen ten, fifteen twelve, fifteen fourteen, fifteen sixteen [four 5–5–5 combinations],double pair  royal [six pairs of 5s] for twelve makes twenty-eight,and his nobs makes twenty-nine.
+Scores between 0 and 29 are all possible, with the exception of 19, 25, 26 and 27. Players may colloquially refer to a blank hand (one scoring no points) as a "nineteen hand".
+
+Example scores
+Two players
+Three players
+The end
+After the dealer has scored the crib, all cards are collected and the deal passes to the player on the dealer's left. The next round starts with the deal.
+Although the rules of cribbage do not require it (except in tournament play), the traditional method of keeping score is to use a cribbage board. This is a flat board, usually made of wood, with separate series of holes that record each player's score. It is usually arranged in five-hole sections for easier scoring. Players each have two pegs that mark their current and previous scores, and all scoring is done by moving the back peg ahead of the front peg.
+When a player reaches the target score for the game (usually 121), the game ends with that player the winner.
+
+Match
+A match (much like tennis) consists of more than one game, often an odd number (3 games, 5 games, 7 games etc.). The match points are scored on the cribbage board using the holes reserved for match points. On a spiral board, these are often at the bottom of the board in a line with 5 or 7 holes. On a traditional board, they are often placed in the middle of the board or at the top/bottom.
+
+Two player game
+In a two player game of cribbage a player scores one match point for each game won. Their opponent will begin the next game as first dealer. If a player skunks their opponent (reaches 121 points before their opponent scores 91 points) then that player scores one extra match point for that game (two match points in total). If a player double skunks their opponent (reaches 121 points before their opponent reaches 61), then they score two extra match points for the game (four match points in total). If a player triple skunks their opponent (reaches 121 points before their opponent reaches 31 points), they automatically win the match regardless of how many match points are needed to win. Double and triple skunks are not included in the official rules of cribbage play and are optional. There are several different formats for scoring match points.
+
+Example match
+Example of a full match using Free play rules. The match is first player to score 5 match points.
+
+Three player game
+Winner takes all
+When playing a three player match in a winner takes all format, the winner scores two match points (just like in two-way cribbage) for each game won. If he/she skunks just the third opponent, they score an additional match point (3 total) with second place receiving one point. If he/she double skunks both opponents, he/she still scores three match points but second place would not receive any points at all.
+
+Continued play
+In continued play format, the winner of the match earns two match points for three player cribbage and four match points for five player cribbage (plus applicable match points if the player has skunked/double skunked their opponents). The remaining players play until there is a second winner, who scores one match point for three player cribbage and two match points for five player cribbage (with no extra points for skunking opponents). In five player cribbage, the remaining three players play until there is a third winner, who scores one match point (with no extra points for skunking opponents).
+
+Variations
+Three players: Five cards are dealt to each player and one card directly to the crib, and each player then discards one card to the crib, as shown in the examples above. Three players can score individually, with the winner the first to reach 121, or in a "two against one" team format, where the two-player team must score 121 to win before the lone player reaches 61. Another variation of the "two against one" team format, is that prior to the cut, the lone player picks up the crib, examines all 8 cards, and then discards 4 cards to the crib.  Both the team and lone player need to reach 121 to win.Another three player variation is to deal five cards to each player except the dealer who gets six cards.  The dealer deals the first and last card to themself and then discards two cards to the crib, the other players each discard one card.Four players: Five cards are dealt to each player, each of whom discards one to the crib. The players can play as individuals or as two sets of partners.
+Five-card cribbage (called the "old game"): The two players are dealt five cards each, two of which are discarded into the crib. The crib thus consists of four cards but each hand only three. The first non-dealer gets a three-point start, the play (pegging) goes up to 31 only once and does not restart. The game is won by the first player to reach 61 points.
+Five players #1: Five cards are dealt to each player except the dealer, who has only four cards.  The four non-dealers each discard one card to the crib.
+Five players #2: Five cards are dealt to each player.  The players each discard one card to the crib. All hands are scored normally using the "starter" card. When the dealer counts the crib, the "starter" card is not used; only the five cards in the crib are used. (As usual for a crib, only a 5-card flush can score, so all 5 crib cards must be the same suit, and the dealer receives 5 points for this flush.)
+Ten-Card: Usually played with two players, this variant consists of each player being dealt ten card to start. Each player still throws two to the crib but then split the remaining cards into two sets of four. Only one of these new hands is used during pegging but each will be counted separately during the reveal. This faster paced version results in higher scoring hands that require more strategy in creating the best combination of cards.
+Muggins: This is a scoring variant in which a player who fails to count all the points to which he is entitled in the play or the show loses the unclaimed points to an opponent who calls "muggins" or "cut throat".
+Lowball (or "Loser's Crib"): This is a misère variant in which the normal rules apply but the aim is to avoid scoring. The loser is the first to 121.
+Jokers-Wild: In this variant, jokers are fully wild, with their rank and suit decided only at the moment of play. The choice of card may even replicate a card already in play, allowing for 5 of a kind (20 points), 6 of a kind (30 points), etc.  When a joker is cut as the starter, the dealer scores 2 for heels and each player may choose a different rank and suit for the joker when hands are scored.
+Jokers-Naught: In this variant, Jokers have the numerical value of zero. This enables runs from below the ace, e.g., 0-1-2. Noting that each 0 adds a unique permutation for a combination of fifteen, one Joker doubles value of the combinations of 15 in the hand, e.g., 8 + 7 = 15 and 8 + 7 + 0 = 15. Two jokers quadruple the value of the combinations of 15 in the hand. Since Jokers have no suit, they are excluded from flush counting. Thus, a hand of 4H-5H-6H-Joker-Joker counts as 3 for the hand of all (3) hearts, one combination of 15, quadrupled for the jokers, and 3 for the run 4-5-6, totaling 3 + 8 + 3 = 14. When pegging, a fifteen can be achieved up to two times by playing jokers on the fifteen, since 15 + 0 + 0 = 15. Also, when pegging, 31 is not automatically a go, as a joker may be subsequently played upon 31. The last joker played would get the go for two. Finally, flipping over a Joker at the cut is worth one point.
+Toss Fives: This is a variant in which players must discard any 5s they may have into the crib (even an opponent's crib).
+Three Runs:In this variant, only runs of threes are counted, but are counted for each independent combination. Thus, a run of four will contain two independent runs of three for 6 points; a run of five with three independent runs of 3 will be worth 9. Double runs of four will contain either 3 or 4 independent runs of three depending on whether the pair is at the end or the middle, garnering 9+2=11 or 12+2=14 points respectively. During pegging, only runs of threes are counted. A player playing a 5 after a 2, 3, and 4, will only get 3 points for the last 3 point run.
+Auction Cribbage: In Auction Cribbage, any player may bid for the points in the crib after the cards are dealt. Bidding continues in turn until no further bids are offered; the winning bidder then immediately deducts that number of points from their hand; the crib is scored at the usual time and its points awarded to the winning bidder for that round.  If no bid is placed, the dealer retains the crib.
+Null point penalty: When a player scores zero points during "the show", their opponent scores one point. This applies to both players' hands as well as in the crib.
+Back 10 (Backup Ten): The hand and the crib must contain points. If either hand does not, the owner of the hand must go back ten points.
+Canadian Doubles: A variation on doubles, the dealer and the player to the dealer's left are dealt 10 cards each. Both players keep 4 cards, give their partners 4 cards and throw two to the crib. Play proceeds normally. This game is normally over in four deals, at most five.A number of variations have been devised for playing solitaire forms of Cribbage.
+
+Cribbage Solitaire: This plays much like Cribbage without pegging.  Two cards are discarded to the crib from a hand of six cards, and after this is repeated, both hands and the crib are scored, using an additional random card as the starter card.
+Cribbage Squares: Cards are dealt one at a time into a 4x4 grid, with the player deciding in which of the 16 spaces each card is placed. Finally, a 17th card is turned up as starter.  Each horizontal row and vertical column is considered as a hand, and is scored accordingly.
+
+References
+External links
+1909 "Hoyle's" rules
+Cribbage rules from Cribbage Corner
+Official tournament rules of the American Cribbage Congress
+Cribbage Scoring Chart

@@ -1,0 +1,78 @@
+German Solo or just Solo is a German 8-card plain-trick game for 4 individual players using a 32-card, German- or French-suited Skat pack. It is essentially a simplification of Quadrille, itself a 4-player adaptation of Ombre. As in Quadrille, players bid for the privilege of declaring trumps and deciding whether to play alone or with a partner. Along with Ombre, Tarock and Schafkopf, German Solo influenced the development of Skat. Parlett calls it a "neat little descendant of Quadrille" and "a pleasant introduction" to the Ombre family of games.
+
+Name
+The game is often called German Solo in English and German sources to distinguish it from other national games such as American Solo, Spanish Solo and English Solo. However, it was often known locally just as Solo or, in the Münsterland, as Sollo. Historically it was also referred to as German Ombre and some American publications actually call the game Ombre.
+
+History
+Different nations have card games called "Solo" which, although not identical, have a "common base". The German game, Solo, descends from the French Quadrille and has been described as "a pleasant introduction to games of the stock of Hombre." The game is mentioned in the literature as early as 1776, being played for a 4 pfennig stake. In 1794, it is mentioned in the poem, Junker Kord by Johann Heinrich Voss, where a footnote describes it as "a card game of the lower classes." In 1796, we learn that students, probably of Leipzig University, liked to repair to disreputable bars to play Solo or Schafkopf for a couple of Dreiers.In the late 18th century, the three player version of German Solo was often referred to as German Ombre (Dütsch Lumber or Deutsch(e) l'Hombre), a game popular with "the lower classes" in northern Germany. However, the normal four-hand version of Solo was commonly called German Ombre, as was a variant also called Casco or Kauf-Solo was also known by this name.Its earliest rules appear in Hammer (1812), while, in 1820, Von Abenstein says it may be regarded as a German card game because it is frequently played by Germans (especially the middle classes) and with German-suited cards. It goes back a long way, being mentioned, for example, in the Theater-Journal für Deutschland in 1779 and described in the Bavarian Courier in 1826 as being played at home around the table by the "master craftsmen, journeymen and apprentices", along with Schafkopf, Kreuzmariage, Matzlfangen, Grünober and others.In 1839, it is described as the "German Hombre" and "with great cause" because it is really an emulation of French Quadrille or four-player Hombre. At that time it was popular with the middle classes, especially across the whole of north Germany down to the River Lahn and Rhine region. In Prussia, Saxony and the like it was usually played with German-suited cards and that factor alone – having 32 cards instead of 40 – made it simpler than Hombre. In 1836 it was being played in Mecklenburg by the lower classes, exclusively with French-suited cards, alongside Dreikart, Fünfkart and Schafskopf, the dignitaries playing Whist, Boston, Ombre, Faro and, less often, Solo as well.In north Germany it was the most popular game in the period leading up to the First World War; afterwards it was superseded by Skat. As Grünberg notes in 1938 "before the war we mostly played Solo. Now everyone plays Skat. Only in the pub, when there is a lot of conversation is a social game of cards played, and that game is called Knüffeln".The game is still recorded in modern Anglo-American and German games compendia and Gisela Muhr (2014) says it is mainly found in the Münsterland region of central Germany, where it is dialectically known as Sollo, but appears to be threatened with extinction.
+
+Cards
+Hierarchy
+
+Historically the game was played with a pack of 32 German-suited cards. More recent sources vary, some using German- and others using French-suited cards. Aces rank high and Tens rank low.
+The top three cards, sometimes known as matadors, in descending order, are the Ober of Acorns, trump 7 and Ober of Leaves, often known by names borrowed from Ombre: Spadille, Manille and Baste. In German, they are also called the Alte ("Old One" or "Old Woman"), Spitz ("Top") and Bass (from Basta in Ombre). If French-suited cards are used, Spadille is the Queen of Clubs and Baste is the Queen of Spades.
+Neither Spadille nor Baste count as members of their natural suits. Below the matadors, cards rank normally, except for omitting any Obers or Queens that are permanent trumps. Thus, depending on which suit is chosen, the trump suit will contain either 9 or 10 cards.
+In the Münsterland variant known as Sollo, only 24 cards are used, the 8s and 9s being omitted.
+
+Rules
+The following rules are based on the Erweitetes Spielregelbüchlein aus Altenburg (1988).A 32-card German-suited pack is used with cards ranking as above and the matadors are called Spadille, Manille and Baste. First dealer is chosen by lot and play is clockwise. Dealer shuffles, offers to the right for cutting and deals 8 cards each in batches of 3–2–3. The declarer is determined by a bidding process described below. Declarer decides which suit will be trumps, and plays either in alliance with a partner or as a soloist.
+
+Bidding
+The following three bids can be made in ascending order.
+
+Frage
+In a Frage, the declarer aims to take five of the eight tricks with the help of a partner. The declarer chooses the trump suit and names a plain suit Ace he or she does not have. For example, the declarer may say "Hearts with the Ace of Leaves" and whoever holds that Ace becomes the declarer's partner. The partner must not reveal this; instead their identity will become clear during play. If all four Aces are held, the declarer may call a King in one of the plain suits.
+
+Grossfrage
+A Grossfrage must be announced by a player who is dealt both the Spadille and Manille unless they intend to call a Solo or a Solo has already been bid in which case they may pass. A Grossfrage is played as a Frage, but is worth more. The declarer names a plain suit Ace and whoever holds that Ace will be declarer's partner. This time the partner must reveal this and choose the trump suit, which may not be the suit of the called Ace. During the bidding, a Grossfrage in Acorns has precedence over the same contract in other suits.
+
+Solo
+In a Solo the declarer chooses the trump suit and plays alone with the aim of taking at least five tricks. An Acorn Solo takes precedence over a Solo in other suits.
+
+Bidding procedure
+The procedure is bidding with immediate hold or raise. First, eldest hand bids "Frage" or passes. If eldest hand did not pass, the next player may pass or bid higher. Eldest hand must then respond with "pass", hold with "yes", or name an even higher game. The second player must now pass or bid even higher. Once one of the two players passes, the third player may will either pass or make an even higher bid. Finally, the fourth player bids, and after another player has passed the remaining player declares at least the mode of play which he or she bid.
+
+Mussfrage
+If all four players pass, then the player who holds the Spadille (O or ♣Q) has to play a Force (Mußfrage). This is played like a Grossfrage but scores less than a Frage.
+
+Play
+Trick play is as in Whist. Forehand leads to the first trick. Players must follow suit if possible; if not, they can play anything. Whoever plays the highest trump or, if no trumps are played, the highest card of the suit led, wins the trick and leads to the next trick.
+The declaring party, i.e. the soloist or, in an alliance, the declarer declarer's partner, must win 5 of the 8 tricks. If declarer's party wins the first 5 tricks they can stop the game to get a bonus for prime. Or they can continue playing: they cannot score prime but may be able to score a Durchmarsch (slam, lit. "all tricks") by winning all tricks.In a Frage or Grossfrage, if the suit of the called Ace or King is led, the called card must be played. If that hasn't happened by the fifth trick, the declarer may ask "partner?" (Helfer?) and the partner responds "here" (Hier!). In this case, a slam is not permitted. A Frage with Acorns as the trump suit has precedence during the auction, but is played in the same way as a Frage in other suits.
+
+Scoring
+Scoring rules were relatively complicated and not uniform. The following simpler rules are from an anthology that appeared in the late 20th century, when the game had already largely fallen out of use. In this version, only declarer's party scores (positively or negatively).
+The base value of a declaration is 1 point for a Force, 2 for a Frage or Solo, 3 for a Großfrage and 6 for Solo. There is a bonus of 2 points for prime, 4 points for Tout (slam, and 6 points for Tout if it was announced along with the declaration. There is also a bonus to the winners of 2 points if the 3 matadors were dealt to the same party.
+The bonus for Tout accrues if declarer's party continues playing after winning the first 5 tricks, whether they make it or not, and the bonus for Tout also accrues whenever it is declared. The bonus for prime only applies if declarer's party stops after the 5th trick. The base value plus any scores is added or subtracted to the scores of declarer and declarer's partner (if any), provided they achieve their objective, which is winning 5 or all tricks. If they do not meet their goal, it is subtracted from their scores.
+
+Variations
+There is a preferred suit (couleur favorite), e.g. clubs or the suit of the first contract that was satisfied. A contract in the preferred suit ranks higher than the same contract in a different suit but lower than the next higher contract in a different suit. A declarer who at some point during the auction bid the preferred suit, must in every case play in the preferred suit. Games in the preferred suit score double.
+Mediateur is a contract that ranks between big beg and solo. Declarer demands the ace of a specific suit and receives it from the opponent who holds it. Declarer returns any other card face down.
+There are numerous relatively complicated scoring variants that involve a pot and side-payments.
+The three matadors (Spadille, Manille and Baste) may be reneged under when a lower trump is led. More precisely, if a player holds no other trumps than matadors and the card led to the current trick is a trump which is not a matador or lower than the matadors held by the player, then the player may discard a non-trump instead of following suit.
+
+Notes
+References
+Literature
+Sintenis, Christian Friedrich (1776). Veit Rosenstock, auch genannt Rosenbaum, Rosenstrauch, Rosenthal, Rosier. Part 1. Frankfurt and Leipzig.
+_ (1779). Theater-Journal für Deutschland, Vol. 12.
+_ (1826). Der Bayerische Landbote.
+_ (1834). Neuestes Spielbuch, Vienna: Haas.
+_ (1839). Neuestes Spielbuch. 2nd improved and expanded edn. Vienna: Carl Haas. 205 pp.
+_ (1988). Erweitertes Spielregelbüchlein aus Altenburg, 8th edn. Altenburg: Altenburger Spielkartenfabrik.
+Grünberg, Peter (1938). "Knüffeln" in Die Heimat, Vol. 48, No. 1. Heimat und Erbe, Flensburg, pp. 27/28.
+Hammer, Paul (1811). Die deutschen Kartenspiele. Weygand, Leipzig, pp. 25–192.
+Hoffmann, Detlef and Margot Dietrich (1982). Das Skatspiel: Geschichte – Bilder – Regeln. Lucerne: Bucher. ISBN 978-3-7658-0392-5
+Hoffmann, Karl Friedrich Vollrath (1836). Deutschland und seine Bewohner, Vol. 4. Stuttgart: J. Scherble.
+Mannhalt, T. (1830). Gesetzbuch für Spielgesellschaften oder die vier interessantesten Kartenspiele: Whist, Solo, Boston und L'Hombre, in allen ihren Umrissen formell und intellectuell dargestellt etc. Berlin: Schüppel.
+Muhr, Gisela (2014). Spritz'! Z'rück! Un' druff! – Klassische Kartenspiele aus dem teutschen Wirtshaus. Rheinbach: Regionalia.
+Parlett, David (1991). A History of Card Games, OUP, Oxford. ISBN 0-19-282905-X
+Parlett, David (2008). The Penguin Book of Card Games, Penguin, London. ISBN 978-0-141-03787-5
+Pierer, H.A. (1863). "Solo" in Pierer's Universal-Lexikon, Vol. 16. Altenburg. pp. 263–264.
+Schütze, Johann Friedrich (1800). Holsteinisches Idiotikon. Hamburg: Heinrich Ludwig Villaume.
+Schwetschke, Dr. Karl Gustav (1863). Geschichte des L'Hombre ["History of Ombre"]. Halle: G. Schwetschke.
+Von Abenstein, G.W. (1820). Neuester Spielalmanach für Karten-, Schach-, Brett-, Billard-, Kegel- und Ball-Spieler. Berlin: Hann.
+Voss, Johann Heinrich (1796). Gedichte, Vols. 1-2. Frankfurt and Leipzig.
+
+External links
+US version of German Solo at pagat.com
+Münsterland Sollo. Variant played in the Münsterland.

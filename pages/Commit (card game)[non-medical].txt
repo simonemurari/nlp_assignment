@@ -1,0 +1,81 @@
+Comet is a very old, French card game of the stops family for 2 to 5 players that is still played today. It was originally called manille, but acquired a new name on the appearance of Halley's comet in 1682. It is not related to the modern trick-taking game also called manille. The American game of commit is an evolution of comet.
+
+History
+Games of the Stops family trace their history back to the 17th century French game of Hoc de Mazarin, which was named after Cardinal Mazarin, prime minister to Louis XIV and an avid card player. Hoc was a three-stage game akin to Poch, but where the third stage involved getting rid of cards in numerical sequence with the aid of wild cards known as hocs. It was this final stage that evolved into the much simpler game, originally called manille, but which was given a new name on the appearance of Halley's comet in 1682.Early sources state that the name manille was given on a whim whereas the name "comet" probably came from the resemblance of the runs of cards played during the game to the long trail of light behind a comet.Comet may well have been played in royal circles in Britain as early as the 17th century, shortly after its renaming. In response to a question about the origin of the nickname of the 9 of Diamonds as the curse of Scotland, a correspondent of The Gentleman's Magazine in 1786, states that:
+
+when the Duke of York (a little before his succession to the crown) came to Scotland, he and his suite introduced a new game, there called 'comet,' where the ninth of diamonds is an important card. The Scots who were to learn the game felt it to their cost; and from that circumstance the ninth of diamonds was nicknamed the 'curse of Scotland'."
+This appears to refer to James II, formerly the Duke of York, who ascended the throne in 1685.   From 1812 onwards there are references to a very similar game called red nines being played in well-to-do circles in England which may descend from classic comet.In 1752, a new variant appeared which, to distinguish it, was called "le nouveau Jeu de la Cométe" ("the new game of Comet"), the original game being referred to as l'Ancienne Cométe ("ancient comet").In the mid-19th century, the American variant called commit emerged, the rules of which have also changed slightly over time.Comet appears to have died out in France in the early 20th century, while its rules continue to be published in English sources to the present.
+
+Ancient comet or manille
+The earliest known rules for the original game were described in the 1718 edition of Académie Universelle des Jeux, and still give manille as the primary name with Commette or Comete as an alternative. When the new variant was introduced later, this earlier version was referred to as l'Ancienne Cométe or "ancient comet".The game is intended for two to five players, but it was considered "too boring" with just two players. The aim is to be first to empty one's hand by playing cards out in ascending order up to a King. Suits are irrelevant.
+
+Preliminaries
+A standard 52-card pack is used. Cards rank in their natural order, aces low. The ♦9 is the manille or comet and is a wild card that may represent any other card.
+Players start with 10 jetons and 9 fiches, each fiche being worth 10 jetons, for a total of 100 jetons. They agree the tariff per jeton.Since "there is an advantage in being first hand", the privilege is decided by lot e.g. by cutting cards or playing a card face up to the table and dealing a card to each player. The one with the highest of the same suit as the table card becomes first hand in the opening deal.Dealer shuffles the pack and offers it to be cut, before dealing the cards in packets of three or four and placing any remainder face down on the table out of play.
+
+Play
+First hand leads any card, but it makes sense to choose a low card of the longest ascending sequence held. As cards are played, the player names them by saying e.g., "Six, seven, eight, nine and without ten". Holding a ten, the next in turn continues by saying e.g. "Ten, jack and without queen". The next may continue with "Queen and king". The king is a stop; the player who plays it receives one jeton from each opponent and may start a new sequence with any card held. If the next in turn is unable to continue the sequence, that player passes by saying e.g. "Without ten". If no-one can continue the sequence, the last to play a card receives one jeton from each opponent and then starts a new sequence.The player with manille may play it in place of any other card and is paid one fiche by each opponent on doing so. The bonus is forfeited if it is not claimed before the next card is played.
+
+Winning and scoring
+The game ends as soon as one player becomes the first to shed all their hand cards. That player becomes the winner and collects one jeton for every point still held in the opponents' hands. Court cards are worth 10 jetons each and pip cards are worth their face value, aces being valued at 1.A player left with the manille in hand when the game ends, pays a fiche (or alternatively four jetons) to each opponent plus nine jetons to the winner for the value of the card. Likewise, players left with kings at the end pay 10 to the winner for each king still held.It may be agreed that the losers will pay one jeton per card left in their hands regardless of their value.
+
+New comet
+The "new" game of comet that appeared in 1752 required two packs of cards from which the eight aces were removed. The packs were then reorganised, with all the red cards in one pack and all the black ones in the other. The ♦9 was put in the black pack and the ♣9 in the red pack; they were the "comets". Otherwise suits were irrelevant as before. The packs were used alternately.The aim was the same: on one's turn to play cards in ascending sequence and be first to empty one's hand. It could be played by two or three players, or four in two teams of two. Eighteen cards were dealt to each player, in threes, leaving 12 in the talon. First hand could demand a redeal if their hand was poor.First hand led any card and play was as before. However, a player with four cards of one rank could play them all at once. Similarly a player with three nines, with or without the comet, or with two or three kings, could play them at the same time.If a player went out by playing the comet as a nine, the bonus and game were paid quadruple. Otherwise ending with the comet was worth double. A player left with the comet in hand when the winner went out, also paid double. A jeton was worth ten points "as in Piquet".New comet also recognised for the first time the achievement of "making an opera" i.e. where first hand went out immediately before anyone else played a card. This doubled the game or quadrupled it if the comet was the last to be played. If the comet was played last as a nine, the game was worth x 16 and the points in hand were multiplied by 8.A carte blanche was worth 50 points to its holder or 100 if it included the comet.
+
+Modern comet
+Today, comet is still played in an almost identical way to 18th-century "new comet". The following rules are based on Morehead, Frey and Mott-Smith (1991).
+
+Preliminaries
+Two to five may play using two standard 52-card packs. The aces are discarded, the packs divided into a red and a black pack and the ♦9 and ♣9 swapped and used as wild cards known as comets. Cards rank in their natural order and suits are ignored during play. Players draw cards and the one with the lowest deals first. Dealer shuffles and lets the player to the right cut, before dealing clockwise beginning with eldest hand. The number of cards dealt is: 18 if two play, 12 if three play, 10 if four play and 9 if five play. The remainder are laid aside face down and out of the game as a dead hand. The aim is to be first out by playing ascending runs of cards up to the king.
+
+Play
+Eldest leads any card and continues to play cards on top of one another in ascending sequence, announcing each card as it is played until unable to continue, whereupon eldest announces "without" plus the name of the next higher card. For example, a player with a run of 7, 8, 9 says "7, 8, 9 without 10". Turn then passes to the left and the next player may continue the sequence with e.g. "10, jack, without queen" or says "pass" if unable to continue, whereupon the next in turn has the same options. Kings are stops as usual and a player who plays a king may start a new sequence with any card. If a player calls "without..." and the rest pass, that player may start a new sequence.A player with four cards of the same rank or with 3 nines, with or without the Comet, may play them all at once. The Comet is wild as usual; it counts as any designated rank and is a stop i.e. the player playing it may begin a new sequence.
+
+Scoring
+During play, a player playing the comet earns two chips from each opponent. This value increases by two every time the comet is dealt, in succession, to the dead hand. As soon as it is dealt to any player, it reverts to a value of two.The first player to go out by shedding all hand cards has won and earns one chip per card point for all cards left in the opponents' hands, the courts being worth 10 and pips their face value. A player with the comet in hand pays double for every card held including the comet. If a player went out by playing the comet last, the game is worth double, or quadruple if it was played as a natural nine.Opera: If eldest goes out immediately, the game may be valued at double for opera, although this works best with two players, in which case if the dealer can also make an opera, the game is drawn.
+
+Variants
+Two-hand comet
+Sometimes modern Comet is described primarily as a two-hand game in which each player receives 18 cards from the red or black pack. Arnold (2011) describes a version in which the use of a cribbage board and target score of 121 is recommended. The value of the comet does not vary but if the loser still has the comet in hand, all scores are doubled. If the winner goes out by playing the comet, the score is doubled, or quadrupled if it represents a nine. A non-dealer going out on the first turn, wins double unless the dealer can also do this in which case it is a tie.
+
+Three to five-hand comet
+The variant for three to five players is as per modern Comet above, but three players are dealt 12 cards each; four are dealt 10 each and five are dealt 9 each. Play is clockwise. If all pass, the last player to play a card begins a new sequence. Games may be a whole number of rounds and players should keep both plus and minus scores.
+
+Six to eight-hand comet
+Variants for playing with up to eight players exist, with one such rule set suggesting that two additional seven or eight cards are removed for games with seven players, and three additional seven or eight cards are removed for games with six or eight players.
+
+Commit
+Commit is an old American variant of comet, the name simply being a corruption of the latter, but its rules have changed over time. The earliest account occurs in an 1857 American Hoyle and it continues to feature in compendia today.
+
+Commit (1857)
+Hoyle's Games record a single-pack version for any number of players in which the 8♦ is removed and the whole pack dealt out, including a "spare hand" for the purpose of making stops. Players play cards in sequence and the aim is to be first out. The ♦ is wild and may be played in lieu of any other card to prevent a stop. The 7♦ and all kings are stops and the same player may start a new sequence. Otherwise whenever a stop occurs, if no-one can continue it, the player who played the last card may start again. When an ace or king is played, the player receives a counter from each opponent. The first to go out wins and receives a counter for every card still held in the opponents' hands with the exception of the 9♦ which exempts the player from paying.
+
+Commit (1991)
+The 1991 Hoyle gives separate rules for games that it calls comet and commit. In comet a double pack is used and play is very much like modern comet. However, in commit only one pack is used. Players ante a stake to a pool. The cards are fully dealt out – there is no active spare hand – each player receiving the same number and any remainder is laid away face down. Suit is disregarded and the play is as before. However, there are quite different rules concerning the comet. It may still be played in place of any card, but when it is, the player may either continue the original sequence or continue with the 10♦. If unable to do either, the next in turn has the same options. Playing the comet earns two chips from each opponent; playing a king earns one. The first to go out wins the pool, one chip for each king still held in an opponent's hand and two from a player who still holds the comet.
+
+Commit (2011)
+In Arnold (2011), the following changes to Hoyle (1991) apply:
+Cards: three players: 15 cards; four: 12; five: 10; six: 8; and seven: 7.
+Suits: Cards are played in suit sequence.
+Comet:When the comet is played, its player has first option to continue the original sequence or with a ♦10.
+Once the comet is played, players cease playing in clockwise order; instead the player holding the next card in suit sequence plays it.
+
+Footnotes
+References
+Bibliography
+_ (1718). Académie Universelle des Jeux. Paris: Le Gras.
+_ (1752). La Plus Nouvelle Académie Universelle des Jeux. Amsterdam and Leipzig: Arkstee and Merkus.
+_ (1761). 'Académie Universelle des Jeux. Amsterdam: de la Compagnie.
+_ (1857). Hoyle's Games. American Edition. International Book Co., Anners, Henry, New York. Domino.
+_ (2014). The Card Game Bible. London: Hamlyn.
+Arnold, Peter (2011). Chambers Card Games, 2nd edn. London: Chambers Harrap. ISBN 978-0550-10179-2
+Chapman, Fanny (1812). The Diaries of Miss Fanny Chapman. 1812 diary. Original held by the Alexander Turnbull Library in the National Library of New Zealand.
+Harris, Tim (2006). Revolution: The Great Crisis of the British Monarchy, 1685–1720. ISBN 0-7139-9759-1
+Morehead, Albert H, Richard L. Frey and Geoffrey Mott-Smith (1991). The New Complete Hoyle Revised, rev. by Richard L. Frey, Tom Smith, Phillip Alder and Matt Klam. London, New York, Toronto, Sydney and Auckland: Doubleday. ISBN 0-385-24962-4
+Parlett, David (1991). A History of Card Games, OUP, Oxford. ISBN 0-19-282905-X
+Parlett, David (2008). The Penguin Book of Card Games, Penguin, London. ISBN 978-0-141-03787-5
+
+External links
+How to Play Comet at catsatcards.com. Modern Comet, two packs, 2-5 players.
+Comet at gamerules.com. Modern two-hand comet, two packs.
+Comet at Denexa Games. Classic Comet for 4-8 players with one pack.

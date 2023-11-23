@@ -1,0 +1,121 @@
+Watten, regionally also called Waddn, Watteln or Wattlung, is a card game that is mainly played in Bavaria, Austria, Switzerland and South Tyrol, including Ladinia. There are several main variants: Bavarian, Bohemian, South Tyrolean (Stichwatten), (Austrian) Tyrolean, Kritisch and Blind Watten. It is usually a 4-player game, which is "by far the most interesting", but it may also be played by 2 or 3 players. According to Parlett, Watten is "hard to describe [but] fun to play and easy to learn."
+
+Origin
+According to tradition the game emerged in its present form in the Kingdom of Bavaria during the time of the Napoleonic Wars. At that time, allied French and Bavarian troops spent their spare  time together in their military encampments. The name came from the French phrase, va tout, which meant "last trump". However, Tyrolean historian, Hans Fink, believes the game originated in formerly Austrian South Tyrol and came from the Italian word battere (in Ladinian: báte), "beating" or "thumping". This is supported by sources that given Batten as a colloquial name in South Tyrol. In Italian the game is called Batadù, Battadù or Baten.
+Historical references are patchy, but in 1881 a Watten tournament is reported in Niederdorf in the Puster Valley in South Tyrol in which 30 players from the village of Bruneck competed against 30 from Niederdorf and Welsberg, the latter winning by 47 games to 43. They were part of a Watten Association founded in Welsberg.
+In 1911 in Chieming an altercation over cheating arose during a Wattspiel (game of Watten) in which a man was stabbed.
+
+Bavarian Watten
+In Bavaria, the most common form of the game uses three permanent top trumps called "Criticals". It is primarily a game for four players, with the partnered pairs of players sitting opposite one another across the card table. It is usually played with a German-suited Bavarian or Franconian pattern pack, each player being dealt five cards. The aim for each pair is to win three tricks per hand.
+
+Cards
+A 32-card German-suited pack is used.
+
+Criticals
+The three permanent highest trumps are the three "Criticals" (Kritische or Kritten):
+
+K is Maxi, the highest card in the game, named after King Maximilian I of Bavaria.
+7 or 6 is Belli, the second highest card, the Weli
+7  is Spitz ("Point").
+
+Strikers
+Then follow the four Strikers (Schläge; singular Schlag), four cards of a specified number or rank. The card which is both a Striker and a trump is the Chief Striker (Hauptschlag), Captain (Hauptmann) or Right One (Rechter). It is the fourth highest card after the Criticals. The three remaining Strikers, also called Left Ones (Linke) do not have a particular order of precedence; instead the first one played always wins.
+
+Trump suit
+After the Strikers come are the cards in the trump suit. Trumps beat all the remaining cards that are not Criticals or Strikers. The trumps rank in the following order as far as tricks are concerned:
+
+Ace (Ass), usually called the Sow (Sau)
+King (König, Sesseldrucker = "armchair potato")
+Ober (Saalflitzer or Speisenträger = "waiter")
+Unter (Bochramma)
+10 (Eisenbahner or Bahner = "railwayman", Bahnschwellenhupfer)
+9 (Brotzeit = "snack")
+8 (Fenstersteck = "window frame")
+7 (Notschrei = "cry for help")
+
+Shuffle and cut
+Before the cards are dealt, they are shuffled by the dealer and cut by the player to the right. If the bottom card of the cut stack is a Critical, the cutter may schleck ("keep") it. The dealer then has the right to view and take the next card if it is Critical. In the rare case of a third underlying Critical, the cutter may take that too. If the cutter waives the right to schleck, the dealer may not schleck either. The cutter may also take a card that is not Critical as a bluff. However, if all five moves of the game are executed without the cutter playing a Critical, the team are penalized 2 points.
+
+Deal
+The dealer deals five cards each, usually in packets of three and two, clockwise and in turn beginning with forehand. If the cutter or dealer have taken a Critical, they get fewer cards at this point in order to get a hand of five cards.
+
+Strikers and trumps
+Dealer and forehand look at their cards. Forehand then nominates any card rank as Strikers i.e. A, K, O, U, 10, 9 8 or 7. The dealer then selects the trump suit. Before these announcements, either the dealer or forehand may ask  for a redeal by saying "better ones please!" (Schönere!). If the other player agrees, both their hands (but not those of the other players) are discarded and they are dealt five more. Alternatively, the other player can refuse and play must continue with the cards already dealt.
+It is common to offer the dealer the option of a "striker swap?" (Schlagwechsel or Schlagtausch), i.e. to exchange who announces Strikers. The dealer may accept this and announce the Strikers, whereupon forehand announces trumps; forehand continuing to play first. Alternatively the dealer may reject the request, in which case everything stays as it was.
+
+Play
+Once Strikers and trumps are settled, forehand leads to the first trick, followed by the other players in clockwise order. The trick is won by the highest trump or the highest card of the led suit if no trumps were played. The trick winner leads to the next trick and the remaining players follow in turn. If a trick is won without a Critical, Trump or Striker, i.e. only with a higher-quality card in the suit played, it is described as being dant gestochen ("won effortlessly").
+Unlike many other card games, there is no compulsion in Watten to follow suit or win the trick. An exception is the leading of the Chief Striker as the first card of a hand accompanied by the call "Trump or Critical!" (Trumpf oder Kritisch!; colloquially Kirch oda Kapejn). In this case, the opponents must either play a Critical or a trump card (the other Strikers are exempt from this rule). The partner has to play a trump, but does not have to play a Critical. If the Chief Striker is beaten by a Critical, the remaining players no longer have to play a trump. Prior to leading the Chief Striker, the player may ask the partner "will it cause damage?" (schadet er?) to check whether it will weaken the partner's hand.
+
+Machine
+If a player has all three Criticals or (regionally different) another card combination which, regardless of the order in which it is played, inevitably leads to winning at least three tricks, this is called a Machine or Engine (Maschine). Some rules require such a player to reveal his or her hand before play begins, automatically winning the game with 2 points. Another rule variant provides for the player to choose between revealing the cards and automatically receiving 3 points, or continuing to play in the hope of achieving 4 points by bluffing.
+
+Raising
+If a player or team wishes, they may, when on lead, raise the number of points played for during the hand by one. Their opponents may then fold, whereupon the challengers immediately win the hand with two points, or accept and continue playing for the three points. The challenge may be repeated as often as desired, raising the winning score by one each time, but must be done alternately by the teams i.e. a team cannot raise twice in succession. This gives an opportunity to bluff. A player raises by asking "[are you] going?" (Gehst? or Geht?). The response may be "we'll see!" (Schauen!) or "No!" (Nein) if the challenge is accepted, or "yes" (Ja) and the cards thrown in face down if the player or players challenged choose to concede. Alternatively players may raise by saying e.g. "Four?" A raise may also be accepted by playing a card. A player raises or responds on behalf of the team.
+
+Winning
+Traditionally a slate is used to score with lines (||||) being chalked up to represent points. The team that takes 3 tricks wins the hand and scores the number of points being played for i.e. 2 if there were no raises or more if raises were accepted. A game is usually won by scoring 11 (or 15) points. At 9 or 10 (13 or 14) points you are 'tight' (gespannt), which means you cannot raise the score. This is indicated on the slate by chalking a line through the points scored so far (||||| ||||), so that it is also called "struck out" (gestrichen). Each hand is then played for three points, but the tight team, if it feels it will lose, may 'go' after the announcement of trumps and Strikers, conceding just 2 points to their opponents.
+In one variant, both parties may no longer 'eliminate' in this situation; the tight team receives 2 points for a win, the trailing team automatically receives 3 points for a win (even if their opponents give up). But it may be raised to a 4-point game.
+At the end of a hand, either the winning or losing team receives a black blob (●), the so-called Bummerl or a Bohne, on the slate.
+A penalty of 3 points is often imposed for game infringements, for example if a 'tight' player bets.
+The surreptitious removal of so-called 'trick-winning cards' is often referred to as Packeln or packing. In some regions packing is not only allowed, but is an integral part of the game.
+
+Signalling
+Because the partners in a team do not know the cards that each has, signalling to one another (known as deuten, funken or mucken) using facial expressions and gestures is not only allowed, but a full part of the game. To that end, partners agree secret signals beforehand. Typical signals are: 
+
+Max or Mattl - purse lips
+Weli - wink right eye
+Spitz - wink left eye
+Captain / Chief Striker - shrug right shoulder
+Striker - shrug left shoulder
+Trump 7-10 - move little finger
+Trump Unter - move ring finger
+Trump Ober - move middle finger
+Trump King - move index finger
+Trump Sow - move thumb or fist
+No trumps (void) - look upwardsOther signals may be sent, e.g. to suggest who should (attempt to) beat which of the opponents' cards or what card the player will play. No signalling is allowed before the Strikers and Trumps are decided; up to that point only the dealer and forehand may look at their cards. Usually one of the two partners in a team takes the lead (for one or more rounds). It is important to leave one's opponents unclear about one's own cards and, at the same time, to learn as much as possible about their cards by observation and deduction.
+
+Variants for two, three and six players
+There are variants for two players (forehand decides the Strikers; dealer chooses Trumps), three players (forehand cuts, chooses Strikers and trumps and plays against two defenders, who form a team) and six players (in South Tyrol 2 teams of 3 players).
+
+Regional differences
+There are regional variations of Watten, so it is advisable for players new to the area to enquire  about any differences.
+The way cards are dealt varies from region to regions. They may be dealt individually, or in two packets of 3 + 2 (Bavaria) or 2 + 3 (South Tyrol) cards.
+
+Bavaria
+In Bavaria they usually play Watten with 32 cards and the Criticals are: K, 7 and 7.
+In several parts of Bavaria, the demand "Trump or Critical" (Trumpf oder Kritisch) or "Trump or Fool" (Trumpf oder Narrisch) may be announced. This means that the Striker is also regarded as a trump if the first player to follow the leading player has no trumps. The Striker must then be played ("Pepper" variant). Although not all cards are dealt in Watten, in Bavaria for traditional reasons it was not considered as illegal gambling even when betting for money. On the contrary, Watten prize competitions are very popular and strongly promoted by the organizers. This assessment of Watten is, however, no longer undisputed. At least one criminal complaint of unauthorized gambling has been made.In Franconia, they usually play the Bavarian variant described above, but with some variations. Thus, the first time the Chief Striker is played, all other players with a trump card must declare the fact, even if the Chief Striker is beaten by a Critical. Here a player is "officially" allowed to ask the partner schadd er (East Franconian for schadet er) to find out whether this move takes an important trump out of the partner's hand and thus endangers their chances of success (e.g. if the partner only has a single, relatively high trump). Also terms like Ausschaffen (to "expel" i.e. to raise or bet) and Schub? ("push?" i.e. "are you going?") are used instead of the more usual ones.
+
+Austria
+In Austria, especially in North Tyrol, Salzburg and Upper Austria the main difference is that the second highest Critical is the 6 or Weli. In certain parts of Carinthia a fourth Critical is added: the U (Bugl), which is then the highest Critical card. Typically, they play for up to 11 points in Carinthia. From 9 points you are gsponnt ("taut") or kronk ("unwell") and may no longer make a bet, since 2 points (the minimum bet in a game) ensures victory. If this happens, the opposing team records. In many places in Carinthia, so-called "Watter Tournaments" are played, where the valley communities play different variants, mostly however critical or non-critical - four-player Watten. There is usually an entry fee and prizes. It is often also possible to nachkaufen. Mostly, however, as in regional and national tournaments, a 'non-critical' variant is played, in which only Strikers and trump cards have greater trick-taking power. Practically unbeatable cards are called the Rechters (e.g.: Chief Striker + another Striker: two Rechters) and cards that can only be beaten by the Chief Striker are called the Linken (e.g.: three Strikers + Sow of Trumps: four Linke; two Strikers + Sow of Trumps: three false Linken).
+In North Tyrol, as in South Tyrol, they often play with a Guaten as the highest card and less often with a Beasn (the card just below the Rechter) as the second highest card. Furthermore, in North Tyrol the four-player Ladinern, also called Ladinisch Watten or Blind Watten, is very popular. In South Tyrol, deuten is forbidden.
+
+Italy
+In the South Tyrolean variant, Blind Watten (Blindwatten), also called Ladinian Watten (Ladinisch Watten or Latinern), neither Deuten nor discussing tactics are allowed. This considerably increases the difficulty of the game because the two partners who have not bet must either guess or find out by observation what was bet.
+Another different in the South Tyrolean variant is that, for those players who have bet, Farbzwang applies, so that should a trump card, the Rechte or the Guate be played, they must follow suit with a trump if they have one (the Rechte and the Guate do not have to be played). Alternatively they can take the trick with a better card.
+In Blind Watten, trumps and Strikers are determined as follows: after the deal, the dealer and forehand show each other their lowest cards. Unlike Blind Watten, in Latinern the cards need  not be sorted beforehand in order to prevent manipulation of the lowest card. The suit of the dealer's lowest card determines the trump suit for this hand. The value of forehand's lowest card determines the Striker. After the cards are revealed to each other, one player from each team knows the trump suit and the Striker, the other two have to guess this information during the course of the game. Only after the end of the hand - if necessary - is the trump suit made known.
+To make it a little easier for the two players who are initially playing 'blind', it is useful to reveal the last trick played after the winner of the trick has been announced. This makes it easier to work out the trump suit and Strikers by a process of elimination. After the next trick is finished, the old trick is then turned over and can no longer be examined.
+A team immediately loses the current hand if one of the two players makes statements or gives clues that give away the trump suit or Strikers.
+
+See also
+Bohemian Watten
+
+Footnotes
+References
+Literature
+_ (1881). Pustertaler Bote: (Brunecker Zeitung), No. 48. 2 December 1881. Bruneck: Mahl. pp. 189 – 190.
+Auer, Hubert (2015). Watten, Bieten und Perlaggen. Perlen-Reihe Vol. 659. Perlen-Reihe Verlag, Vienna. ISBN 3852234336
+Förderkreis Perlaggen Südtirol (2014). Perlåggen in Südtirol: mit Watten & Bieten. Raetia, Bozen. ISBN 978-88-7283-523-4
+Hafele, Max and Meinhard Eiter (1999). Das Tiroler Watterbuch. Löwenzahn. ISBN 3-7066-2211-4.
+Haider, Friedrich (1985). Tiroler Brauch im Jahreslauf. Tyrolia-Verlag.
+Kastner, Hugo; Folkvord, Gerald Kador (2005). Die große Humboldt-Enzyklopädie der Kartenspiele die ersten 500 Jahre (Orig.-Ausg ed.). Baden-Baden: Humboldt. ISBN 3-89994-058-X.
+Parlett, David (2008). The Penguin book of card games. London: Penguin. ISBN 978-0-141-03787-5.
+Sirch, Walter (2008). Vom Alten zum Zwanzger – Bayerische Kartenspiele for Kinder and Erwachsene – neu entdeckt. Bayerischer Trachtenverband.
+
+External links
+Watten rules at pagat.com (in English)
+Watten: Tirols liebstes Kartenspiel ("Watten - Tyrol's most popular card game" - in German)
+Ein bayerischer Exportschlager erklärt vom Profi ("A Bavarian export hit explained by a professional" - in German)
+Tournament Watten rules at wattturnier.de (in German)
+Watten rules at www.kartenspiele-regeln.de (in German)
+Watten, Wattn - detailed Austrian rules and variations.

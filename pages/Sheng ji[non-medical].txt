@@ -1,0 +1,207 @@
+Sheng ji is a family of point-based, trick-taking card games played in China and in Chinese immigrant communities. They have a dynamic trump, i.e., which cards are trump changes every round. As these games are played over a wide area with no standardization, rules vary widely from region to region.
+The game is most commonly played with two decks of cards, which can be called bāshí fēn (八十分, 'eighty points'), tuō lā jī (拖拉機, 'tractor'),  shuāng kōu (雙摳, 'double digging out'), or shuāng shēng (雙升, 'double upgrade'); another variant is called zhǎo péngyǒu (找朋友, 'Finding Friends'), which has five or more players and two or more decks. Alternatively, it can be played with one deck, in which case the game may be called dǎ bǎi fēn (打百分, 'competing for a hundred points') or sìshí fēn (四十分, 'forty points').
+The article below mainly describes the bashi fen variant, with players playing with two decks and in fixed partnerships.
+
+Players and objective
+The game is played with four players in fixed partnerships, with players sitting across each other forming a team. Each team has a rank that they are currently playing, henceforth referred to as their score. At the beginning of a match, both teams start at a score of 2.One team is designated the "declarers" (also known as "defenders") and the other team is designated the "opponents" (also known as "attackers"). This designation of teams is determined in the process of the game and will change frequently.
+The objective and scoring for each team is slightly different:
+
+If the "declarers" prevent the "opponents" from taking 80 points in tricks during a round, the "declarers" score is incremented by one, and the declarers remain as the declarers.
+If the "opponents" take 80 points in tricks during a round, the "opponents" score is not incremented, but the opponents become the declarers for the next round and have the chance to increment their score. However, in some variations, if the opponents exceed 80 points in tricks, their score is incremented according to various thresholds.Ultimately, the final objective of the game is to raise the team's score above ace, while preventing the other team from doing so. When a team passes (rather than exactly attains) a score of ace, a match usually ends with their victory. This may take several hours, so shorter games may end at a lower threshold, or begin with players' scores higher than two. If an even longer game is desired, players can wrap back around to 2 after passing ace.
+
+The deck
+The game is played with two French-suited standard decks, including two jokers per deck, giving a total of four jokers and 108 cards overall. In general, there is one deck for every two players, so for example, a six-player game would use three decks, giving six jokers and 162 cards in total.The jokers are separated into red and black (or colloquially known as "big" and "small" respectively). Because there are no standards for jokers, some card decks include two identical jokers, which then have to be marked as "big" and "small".
+The order of the cards depends on the dominant (trump) suit and rank, which are determined before every round. The typical order, from highest to lowest, is:
+
+Red jokers
+Black jokers
+Cards in both the dominant suit and rank
+Other cards in the dominant rank, equally ranked
+Other cards in the dominant suit, following the descending order ace through 2
+Cards in other suits, following the descending order ace through 2where the first five categories are all considered to be part of the trump suit. It is possible to play with only a dominant (trump) rank without a dominant suit. In that case, the first four categories are all considered to be part of a fifth (trump) suit, while the other four suits all fall into the sixth category.
+If two or more equally ranked cards or combinations are played during a trick, the first one played wins.
+For example, in a certain round, if the seven of clubs (7♣) is dominant, then the order of the cards is:
+
+Red jokers
+Black jokers
+7♣
+Seven of any other suit (i.e., 7♥, 7♦, 7♠, equally ranked)
+A♣, K♣, Q♣, J♣, 10♣, 9♣, 8♣, 6♣, 5♣, 4♣, 3♣, 2♣
+Cards in other suits, following the order ace, king, queen (excluding 7), etc., down to 2.Note that the other sevens are no longer considered members of their respective suit, but are now considered part of the trump suit; moving the other sevens to the trump suit means the rank 8 and 6 cards are adjacent for all suits. The trump suit consists of the red jokers, which are equally ranked with each other, followed by the black jokers, sevens of clubs, sevens of other suits, and the remainder of the trump suit, ordered from A to 2.
+If play proceeds without a declared suit as trump, a fifth (dominant) suit is created consisting of the jokers and the dominant rank cards. Each of the dominant rank cards is equal. For example, consider the case where the dominant rank is 7 and there is no declared dominant suit:
+
+Point cards
+In the deck, only kings, 10s, and 5s are worth points when taken as a trick. All kings and 10s are worth 10 points each, while 5s are worth 5 points each, although the presence of the points do not affect the order of the cards. In two decks, there are a total of 200 points:
+
+8 kings (×10) = 80 points
+8 10s (×10) = 80 points
+8 5s (×5) = 40 pointsAll other cards do not award points.
+Because the winning criteria for the round depends only on the number of points scored by the opponents:
+
+The declarers do not need to keep track of the points scored by the tricks the declarers have taken, and may set aside the cards after the trick is taken.
+The opponents only need to keep track of the point cards in the tricks the opponents have taken, and may set aside non-point cards after the trick is taken.
+
+Dealing
+The cards are dealt to each player in Chinese fashion, where the players take turns drawing one card at a time in counter-clockwise order. The deal is initiated in one of two ways:
+
+One player shuffles the cards and lets any other player cut, then draws the first card.
+One player shuffles the cards, then turns over one of them.  That player then counts off the number of positions equivalent to the face-up card going counter-clockwise, starting from their own seat, where aces count as one, jacks as 11, queens as 12, and kings as 13. If the card turned over is a joker, another card must be turned over. The player whose position is indicated after the count draws the first card after the player to their left cuts.Drawing continues until everyone has drawn 25 cards, leaving a pool of 8 reserve cards, also known as the bottom  (底牌), which will be examined by the dealer prior to the start of play. During the initial drawing of the cards, the dominant (trump) suit is determined by bidding.
+
+Determining the dominant suit and rank
+The dominant rank is always equal to the score of the declarers in any particular round. Since both teams start with a score of 2, the dominant rank in the first round is 2. When the declarers obtain a score of 5, the rank for that round is 5; when the score of the declarers is raised to 7, the rank is 7, and so on.
+
+The dominant suit, on the other hand, is determined during the drawing of cards: any player may bid a suit by revealing a card in the dominant rank; the suit of that card becomes the dominant suit. For example, if the rank is 7, a player may reveal a 7♥, resulting in hearts becoming the dominant suit.
+If other player(s) do not agree to the dominant suit set, they may override the bid by revealing doubles of another suit in the same rank to cancel the original bid, making the doubled suit the dominant suit. For example, consider a round where the dominant rank is 9. Player North reveals a 9♥ to make hearts dominant, but Player East then reveals a pair of 9♣, overriding North's initial bid and making clubs the dominant suit. In order to prevent this, North may bid another 9♥, making a pair which takes precedence over East's override bid and secures the declaration of hearts as the dominant suit.
+Any new override bids must exceed prior bids. Players are not allowed to reinforce their partner's bid. In some variations, one or more joker cards may be included in a bid, allowing three or more cards in a bid. A player who has already made a bid for the trump suit may only "reinforce" their bid by adding card(s) to their original bid.In some variations, players may bid two identical jokers(e.g., black joker, black joker) to declare no-trump rounds, where there is no dominant suit and the trump suit will only consist of the jokers and the eight cards of the trump rank (all equally ordered). A single joker is not allowed as a valid no-trump bid.In other cases, where no bids are made to determine the dominant suit, then the first card in the kitty is turned over, and its suit is adopted as the dominant suit. If the card turned over is a joker, there are three potential actions:
+
+turn over the subsequent card
+play no-trumps round
+reshuffle the cardsIn other variations, the cards in the kitty are continuously turned over until the trump rank appears, in which that suit is the trump and no more cards are flipped. If no cards of the trump rank appear, the biggest card's suit is trump, or if two cards are tied for biggest, then the one flipped first is declared the trump suit.
+
+Determining declarers and dealers
+The next action is taken by the dealer, also known as the leader of the declarers (当庄). The dealer starts every round, and plays an important role in helping their team increase their rank in that round.
+
+In the first round, the dealer can be determined during the draw:The first player to reveal any rank 2 card from the cards they drew will instantly become the dealer, and that player's team becomes the declarers while the other team becomes the opponents.
+The first player to reveal a pair of identical rank 2 cards will become the dealer, as a variation
+The first player to reveal a pair of identical joker cards will become the dealer, as a variation
+In subsequent rounds, if the declarers have defended their points in the previous round, they will remain as declarers, but the partner of the previous dealer will become the new dealer. If the opponents have taken 80 points in tricks, they will become the new declarers, with the player sitting on the right of the previous dealer becoming the new dealer.
+
+Concluding the deal
+Once the initial draw has concluded, the dealer then picks up all the reserve cards, integrates them into their hand, and then discards the same number of cards into a pile in the center, known as the kitty. The cards in the kitty are kept unopened throughout the duration of that round and may or may not be turned over thereafter, depending on the result of the last trick in the round.
+Because the dealer is a member of the declarers, they may be motivated to leave point cards in the kitty, preventing or hindering the opponents from reaching 80 points. However, some variants apply a multiplier to the points left in the kitty and add it to the opponents' score, depending on the outcome of the last trick. The multiplier is 
+  
+    
+      
+        
+          2
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle 2^{n+1}}
+  , where 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is the largest unit of pairs played at any point during the last trick, so for example, if only single cards were played in the last trick, 
+  
+    
+      
+        n
+        =
+        0
+      
+    
+    {\displaystyle n=0}
+   and the multiplier is 2; on the other hand, if three consecutive pairs were played in the last trick, 
+  
+    
+      
+        n
+        =
+        3
+      
+    
+    {\displaystyle n=3}
+   and the multiplier is 
+  
+    
+      
+        
+          2
+          
+            4
+          
+        
+        =
+        16
+      
+    
+    {\displaystyle 2^{4}=16}
+  .
+Sometimes a player who has no cards in the trump suit, or, in other variations, no point cards in their hand, may force a redeal by showing their hand to everyone.
+
+Play
+The dealer leads the first trick by playing any single card or combinations of cards, and the game proceeds like most trick-taking games, where the other players take turns to play their cards in a counter-clockwise direction.: §3.7  The player who plays the highest-ordered card or combination of cards takes that trick and leads the next trick. All cards taken by the declarers may be set aside for the rest of the round; point cards taken by the opponents count towards their number of points collected, and should be kept, but other cards may be similarly set aside.
+
+Tricks
+The trick may be led by playing one or more cards in one of four possible structures (meaning card count, sequences, and pairings). Each structure has different rules for what is allowed to be played by the following players:: §3.7.1 
+As a general rule, the other players must follow the lead by playing the same number of card(s). More specifically, the players are required to follow the lead by playing, in descending order of priority:: §3.7.2 
+Follow lead's suit and structure
+Follow lead's suit, using additional cards from lead's suit to match lead's card count; this may be supplemented by additional cards from other suits if needed to match lead's card count
+Play any cards in any suit, matching lead's card count, if player has no cards in the suit used to lead the trick; there is no obligation to follow lead's structure when breaking suit
+Ruff the trick with cards in the trump suit matching the lead's structure, if player has no cards in the lead's suit and the lead's suit was not the trump suitThe trick can be won only by a play that matches the lead suit and structure, or the trump suit and lead's structure.: §3.7.3
+
+Single card lead
+Any single card (单张) may be played to lead a trick. Subsequent players must follow lead's suit if they have cards in the same suit; if a trump card is used to lead the trick, the other players must play a trump card, if they still have any.
+The trick is taken by the player who put down the highest-ordered card of the suit used in the lead unless one or more cards from the trump suit were played. If trump suit cards were played, the highest trump played takes the trick. In case of ties, the winning card that was played the earliest wins the trick.: §4.4
+
+Double cards lead
+A pair (对子) or double is valid only with two cards that have identical rank and suit, so two different-suited trump rank cards, two ordinary non-trump cards with the same value, or a combination of a red joker and a black joker are not counted as a double. For example, if 7♣ is trump, 7♠-7♥ (despite being both in the trump suit), or Q♠-Q♦ (despite both being of equal rank) are not considered doubles.
+After a double cards lead, the other players must also follow by matching suit and structure (double cards), if possible; for players who do not have double cards in the suit lead, they must play separate cards in the same suit if they have them. If they have no cards in the lead suit, they may play any cards from other suits, or a double from the trump suit to "ruff" the trick.
+In this case, if trump-suited doubles are played, the highest-ordered trump double wins the trick; otherwise, the highest-ordered double in the suit lead wins. Two singles may not beat a double even if they are both higher-ordered than the double. For example, in a round with trump 7♣, if a diamond double was led, (9♦-9♦) beats J♦-Q♦ (higher order, but single cards) and also beats J♣-Q♣ (higher order and trump suit, but single cards), but not (5♣–5♣), which is lower order but trump suit and matches lead structure.
+
+Consecutive double cards lead
+If a player has two (or more) pairs of cards with consecutive ranks in the same suit (aka a "tractor", 拖拉机), that player may play that combination to lead the trick. In this case, the other players must follow suit by playing cards according to the following priority, if they have them:
+
+Other consecutively-ranked doubles (tractor) in the same suit
+Other doubles in the same suit
+Other singles in the same suitThe first combination, if all consecutively-ranked and of a greater order than the suit lead, wins the trick. Only when a player does not have any other card in the suit played, then he is allowed to play cards of other suits, or ruff the combination with the same number of consecutively-ranked pairs in the trump suit.
+The table below describes whether some combinations are considered as consecutive doubles; if otherwise, the cards may still be lead, but will instead follow the multiple-cards combination rules (see next section).
+
+Multiple cards combination
+A player may lead with a combination of multiple cards (甩牌) if they have them, provided that each of the singles or doubles played are the largest in the suit and no other player has larger combinations in that round. Leading such combinations usually result in the leading player's favour.
+
+If any card(s) in the combination may be bested by another player in the suit lead, they will be asked, by that player, to take back the cards that are the largest in the suit, and play any of the single/double/tractor cards that may be bested as penalty.
+Any non-trump combinations played are subjected to be bested (ruffed) by trump cards played by other players. Combinations ruffed do not require taking back of cards, but this is not guaranteed (see rule 1 above).
+Any single trump card or trump doubles may, respectively, beat a single card or double cards in the combination.
+Consecutive non-trump doubles may only be ruffed by consecutive trump doubles.
+Any combinations with cards that are not trump, yet do not follow the suit lead may not take the trick.
+
+Scoring
+At the end of a round, all points taken by the opponents are collected and counted, while other cards may be discarded. The last trick of that round is also taken into consideration:
+
+If the declarers win the last round, then the point count ends there.
+If the opponents win the last round, then the pile of 8 cards in the kitty is turned over, and any points in there are multiplied through the table below. and added to the opponents' point count (hence allowing the point count to increase above 200):In total, if the opponents capture 80 points or more, then they become the new declarers, and the other team becomes the opponents.The results of the opponents' point count determine the change of scores or dealers as such:
+
+Thereafter, all cards are recollected and shuffled, and the next round thus begins.
+
+Variants
+Number of decks played
+The game may also be played with single or multiple deck, in which the number of cards in the kitty and the number of points as criteria for increasing ranks need to be revalued.
+For single decks, it is typical to use 6 cards for the kitty (each player being dealt 12 cards each in a deck of 54 cards) and 40 points as the requirement to swap teams, and no double cards will be played, but combinations of cards may still be allowed. This variant is commonly known as "forty points" (四十分) or "competing over a hundred points" (打百分).
+For multiple (N) decks, the kitty size varies across regions. 40N is usually used as the point requirement to swap teams, and the rule of combinations may still apply, but exceptions are only granted to full N-tuples (e.g. with three decks, doubles are still subject to the rule of combinations and players will have to take back their cards where necessary).
+
+Other variants
+Spin-offs of bashi fen include zhao pengyou, where five players play with two decks in fluid partnerships, with rules similar to that of fluid-partner Bridge. In this case, the dealer may call a particular card, and its owner will be his partner. The playing rules stay largely the same.
+
+Miscellaneous optional rules
+In some variations, the playing of certain scores, especially scores involving point cards, might be mandatory and cannot be skipped. For example, if 10 is mandatory and a team goes up 2 ranks after playing 9, they will have to play 10 first, instead of going straight to jack.
+Sometimes, other players can change the trump after the dealer has discarded the kitty, and change the kitty again. This variation is called chao dipi (炒地皮),  'bidding for the land'.
+In some variations, the number of cards used by the opponents to win the last trick determines the factor which the points in the kitty are multiplied by; if the opponents won the last trick with doubles, the points would be quadrupled, while if the last trick is won with a combination of three cards, then the points would increase sixfold, and so on.
+When jacks (or aces) are the dominant rank, and the opponents' team wins the last trick with a J (or an A, respectively), the scores of the members of the declarers' team go back to 2 (or J). This is also called "hook and needle" because of the shapes of J and A. The players whose rank goes down is called as being "hooked back" or "needled back".
+The 5♥ and sometimes also the 5♦ may be taken as the highest cards, i.e. hong wu (红五), 'red five'. If a trick containing one or more red 5s (or 5♥ only, depending on variant) is won by the opposing team, the player whose red 5 is captured is penalized.
+
+See also
+Dou di zhu
+Four color cards
+Gnau
+Tien len
+Zi pai
+Wild escape
+
+Notes
+References
+External links
+McLeod, John, ed., Da Bai Fen 打百分, Card Games Website
+Da Bai Fen   at BoardGameGeek
+Finding Friends (Zhao Pengyou) rules in English
+Differences between the Chinese card game "Tractor" and Bridge

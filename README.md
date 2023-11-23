@@ -1,0 +1,19 @@
+# First assignment
+## The classification of texts using wikipedia.
+
+The problem to solve is attributing to a text given in input (only English language) a class among two: medical/non-medical. The implementation could be performed by using, at your choice, OpenNLP (Java library), NLTK (Python library), SpaCy technology https://spacy.io/, a pre-trained technology for pipelines in Python, or the GATE Java technology that is online at https://gate.ac.uk/. The usage of pre-annotated texts (in Wikipedia there is a set of annotations you will find within the text itself, that you can use as means to identify medical documents and separate them from non-medical) can be the base of any implementation admissible. You will be permitted to implement solutions based on Naive Bayes methods, both on Bag Of Words without any pre-processing or pre-processed by the SnowBall stop word list, stemming methods based on Porter's algorithm and finally lemmatization based on the WordNet Lemmatizer. You will also be permitted to implement a solution based on Logistic Regression approach, again with a feature extraction based on pre-processing with a Naive classifier, or extracted directly from Wikipedia based on the annotated keywords. Also in this case, texts could be pre-processed or not. Notice that to access wikipedia files you could use API that are well documented, including in the documentation itself the rules and the netiquette constraints to take into consideration. You can find a direct link to the rules, access to the API and methods to implement API invocation at https://www.mediawiki.org/wiki/API:Main_page.
+
+Within the deadline you should deliver the project in form of an accessible GitHub link, that you shall insert in the online text you need to edit simultaneously. In that text, moreover, please describe the project in a short way by devising the operational structure and the actual pipeline you employe for the solution, along with the chosen technology. If you used Gate, please settle the project either on cloud (and thus allow me to access) or send a downloaded loadable version.
+
+## Comments
+For this project I used the Python programming language in a Jupyter Notebook and the library NLTK for the preprocessing of the documents and the classification tasks. The corpus is made of 1500 Wikipedia pages gathered using the Wikipedia-API package looking recursively at pages from selected Wikipedia categories referred to medical and non-medical domains. The pages are labelled automatically in relation to the Wikipedia category they are from and after that I did a manual revision to delete mislabeled or ambiguous pages and replaced them. 800 pages are labeled as medical and 700 as non-medical, the part of gathering and labeling them was not done in one single instance but in multiple instances after seeing the results of the classifier on the corpus. 
+
+I did not feed the classifier the raw pages but I preprocessed them (after shuffling the corpus to avoid any bias): I tokenized them, removed the stopwords and then stemmed the remaining words. After that I collected the 4000 most common words in the preprocessed corpus and created the set of features as a Bag Of Words: a dictionary, for every preprocessed page, where the keys are the most common words and their value is True if that word appears in that page or False if doesn't. In the end I split the set of features into a training set and a test set with a 80/20 ratio so the classifier was trained on 1200 pages and tested on 300 and I used the NaiveBayesClassifier from NLTK as a classifier to do the text classification.
+
+The results are:  
+Precision: 0.95  
+Recall: 0.92  
+F1 score: 0.93  
+Accuracy: 0.93  
+
+In the notebook you can find the commented code and also the classification report and the confusion matrix to have a more in-depth look at the results.

@@ -1,0 +1,25 @@
+Complement decay-accelerating factor, also known as CD55 or DAF, is a protein that, in humans, is encoded by the CD55 gene.DAF regulates the complement system on the cell surface. It recognizes C4b and C3b fragments that are created during activation of C4 (classical or lectin pathway) or C3 (alternative pathway). Interaction of DAF with cell-associated C4b of the classical and lectin pathways interferes with the conversion of C2 to C2b, thereby preventing formation of the C4b2a C3-convertase, and interaction of DAF with C3b of the alternative pathway interferes with the conversion of factor B to Bb by factor D, thereby preventing formation of the C3bBb C3 convertase of the alternative pathway. Thus, by limiting the amplification convertases of the complement
+cascade, DAF indirectly blocks the formation of the membrane attack complex.This glycoprotein is broadly distributed among hematopoietic and non-hematopoietic cells. It is a determinant for the Cromer blood group system.
+
+Structure
+DAF is a 70 kDa membrane protein that attaches to the cell membrane via a glycophosphatidylinositol (GPI) anchor.
+DAF contains four complement control protein (CCP) repeats with a single N-linked glycan positioned between CCP1 and CCP2. CCP2, CCP3, CCP4 and three consecutive lysine residues in a positively charged pocket between CCP2 and CCP3 are involved in its inhibition of the alternate complement pathway. CCP2 and CCP3 alone are involved in its inhibition of the classical pathway.
+
+Pathology
+Paroxysmal nocturnal hemoglobinuria
+Because DAF is a GPI-anchored protein, its expression is reduced in persons with mutations that reduce GPI levels such as those with paroxysmal nocturnal hemoglobinuria (PNH). In PNH disorder, red blood cells with very low levels of DAF and CD59 undergo complement-mediated hemolysis. Symptoms include low red blood cell count (anemia), fatigue, and episodes of dark colored urine and other complications.
+
+Infectious diseases
+DAF is used as a receptor by some coxsackieviruses and other enteroviruses. Recombinant soluble DAF-Fc has been tested in mice as an anti-enterovirus therapy for heart damage; however, the human enterovirus that was tested binds much more strongly to human DAF than to mouse or rat DAF. Echoviruses and coxsackie B viruses that use human decay-accelerating factor (DAF) as a receptor do not bind the rodent analogues of DAF. and DAF-Fc has yet to be tested in humans.
+Binding of DAF to human HIV-1 when the virons are budding from the surface of infected cells protects HIV-1 from complement mediated lysis.
+
+See also
+List of human clusters of differentiation
+CD59
+
+References
+Further reading
+External links
+Decay-Accelerating+Factor at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Cromer blood group system at BGMUT  Blood Group Antigen Gene Mutation Database at NCBI, NIH
+Overview of all the structural information available in the PDB for UniProt: P08174 (Complement decay-accelerating factor) at the PDBe-KB.

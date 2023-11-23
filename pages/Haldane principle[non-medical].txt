@@ -1,0 +1,36 @@
+In British research policy, the Haldane principle is the idea that decisions about what to spend research funds on should be made by researchers rather than politicians. It is named after Richard Burdon Haldane, who in 1904 and from 1909 to 1918 chaired committees and commissions which recommended this policy, which has evolved over time since then. 
+The 1904 committee recommended the creation of the University Grants Committee which has evolved via the Universities Funding Council into the current higher education funding councils: Research Councils UK, Higher Education Funding Council for England, Scottish Funding Council and Higher Education Funding Council for Wales.
+
+Haldane Principle 1918
+In 1918 Haldane's committee produced the "Haldane Report".  The report suggested that research required by government departments could be separated into that required by specific departments and that which was more general.  It recommended that departments should oversee the specific research but the general research should be under the control of autonomous research councils, which would be free from political and administrative pressures that might discourage research in certain areas.  The principle of the autonomy of the research councils is now referred to as the Haldane Principle. The first research council to be created as a result of the Haldane Report was the Medical Research Council.
+
+Haldane Principle 1939–1971
+The principle has remained enshrined in British Government policy, but has been criticised and altered over the years.  In 1939 J. D. Bernal argued that social good was more important than researchers' freedom in deciding the direction of research.  Solly Zuckerman criticised it in 1971 for its artificial separation of basic and applied science, and the consequent elevation of the status of the former.
+A major revision to the application of the Haldane Principle in British research funding came in the early 1970s with the Rothschild Report of 1971, and its implementation which transferred about 25% of the then Research Council funds, and the decisions on the research to be funded with them, back to government departments, a move later undone by Margaret Thatcher's government.
+
+Haldane Principle 2010
+In a written ministerial statement on 10 December 2010 the Minister for Universities and Science (David Willetts) further elaborated on the definition of the Haldane Principle. Broadly he defined the principle that the tactical implementation of government funding, i.e. which projects to fund should be a decision for academics using a process of peer review.
+
+"The Haldane principle means that decisions on individual research proposals are best taken by researchers themselves through peer review. This involves evaluating the quality, excellence and likely impact of science and research programmes. Prioritisation of an individual research council’s spending within its allocation is not a decision for Ministers...There are areas where Ministers should have no input: Ministers should not decide which individual projects should be funded nor which researchers should receive the money. This has been crucial to the international success of British science."
+David Willetts also gave a further definition of how this tactical implementation might be guided. "Overall, excellence is and must remain the driver of funding decisions, and it is only by funding excellent research that the maximum benefits will be secured for the nation."
+David Willetts continued that overall strategic budget setting was the responsibility of government. "At the other end of the spectrum there are decisions that ultimately must be for Ministers, albeit informed by external advice; these include the overall size of the funding for science and research and its distribution between the research councils, the national academies and higher education research funding."
+
+Haldane Principle 2017
+There is currently a debate about the extent to which the principle is still applied in practice.The Higher Education and Research Act 2017, which merged the research councils and the research part of the Higher Education Funding Council for England into UK Research and Innovation, enacted the Haldane principle as section 103(3): The “Haldane principle” is the principle that decisions on individual research proposals are best taken following an evaluation of the quality and likely impact of the proposals (such as a peer review process). The law did not use David Willetts' definition that "Overall, excellence is and must remain the driver of funding decisions, and it is only by funding excellent research that the maximum benefits will be secured for the nation."
+
+References
+Sources
+Putting Science and Engineering at the Heart of Government Policy - Innovation, Universities, Science and Skills Committee Contents: The Haldane Principle Today, accessed online at https://publications.parliament.uk/pa/cm200809/cmselect/cmdius/168/16807.htm
+Duffy, M.P. (1986). The Rothschild Experience: Health Science Policy and Society in Britain. Science, Technology, & Human Values 11 68-78. (Available at JSTOR with subscription.) Duffy cites the following sources:
+Bernal, J.D. (1939) The Social Function of Science. London: Routledge and Kegan Paul.
+Zuckerman, S. (1971). Times Literary Supplement p. 1385 (5 November 1971).
+The Rothschild Report (1971). A Framework for Government Research and Development. London: HMSO.
+The Haldane Report (1918). Report of the Machinery of Government Committee under the chairmanship of Viscount Haldane of Cloan. London: HMSO.
+Noam Chomsky, "Academic Freedom and the Corporatization of Universities"
+Alexander Bird and James Ladyman "Free Inquiry"
+
+Further reading
+Gummett, P. (1980) Scientists in Whitehall. Manchester: Manchester University Press.
+
+External links
+David Edgerton: The 'Haldane Principle' and other invented traditions in science policy, in: History and Policy, July 2009

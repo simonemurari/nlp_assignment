@@ -1,0 +1,30 @@
+The Crohn's Disease Activity Index or CDAI is a research tool used to quantify the symptoms of patients with Crohn's disease.  This is of useful importance in research studies done on medications used to treat Crohn's disease; most major studies on newer medications use the CDAI in order to define response or remission of disease.  As Crohn's disease is a disease with a variety of symptoms that affect quality of life, the quantification of symptoms may be of secondary importance to a quantitative assessment of the effect on quality of life.  This has been addressed by the Inflammatory Bowel Disease Questionnaire (IBDQ) and other indices of quality of life for patients with Crohn's disease.
+
+Components of the index
+The CDAI was developed by WR Best and colleagues from the Midwest Regional Health Center in Illinois, in 1976.  The index consists of eight factors, each summed after adjustment with a weighting factor.  The components of the CDAI and weighting factors are the following:
+*One point each is added for each set of complications:
+
+the presence of joint pains (arthralgia) or frank arthritis
+inflammation of the iris or uveitis
+presence of erythema nodosum, pyoderma gangrenosum, or aphthous ulcers
+anal fissures, fistulae or abscesses
+other fistulae
+fever during the previous week.Remission of Crohn's disease is defined as CDAI below 150.  Severe disease was defined as a value of greater than 450.  Most major research studies on medications in Crohn's disease define response as a fall of the CDAI of greater than 70 points.
+
+Harvey-Bradshaw index
+The Harvey-Bradshaw index was devised in 1980 as a simpler version of the CDAI for data collection purposes.  It consists of only clinical parameters:
+general well-being (0 = very well, 1 = slightly below average, 2 = poor, 3 = very poor, 4 = terrible)
+abdominal pain (0 = none, 1 = mild, 2 = moderate, 3 = severe)
+number of liquid stools per day
+abdominal mass (0 = none, 1 = dubious, 2 = definite, 3 = tender)
+complications, as above, with one point for each.A score of less than 5 is generally considered to represent clinical remission.
+A Simple Index of Crohn's disease activity has also been developed.
+
+Validation of the CDAI
+While the CDAI is considered to be the gold standard for assessing disease activity in Crohn's disease, validation of the index has been varied.  A key criticism of the CDAI is that it does not incorporate a subjective assessment of quality of life, endoscopic factors, or systemic features, such as fatigue into its calculation.  The CDAI correlated well with protein loss in the bowel in patients with protein losing enteropathy.
+
+Inflammatory Bowel Disease Questionnaire
+As most symptoms of Crohn's disease broadly affect quality of life, attempts have been made to incorporate physical, social, and emotional performance characteristics into tests for severity of Crohn's disease.  The Inflammatory Bowel Disease Questionnaire (IBDQ) was developed to incorporate elements of social, systemic and emotional symptoms, as well as bowel related symptoms into an activity index.  In a study of 305 patients in Ontario, the IBDQ was found to correlate well with the CDAI in assessing disease activity, but had the added benefit of being a more robust tool for determining the effect of symptoms on perceived quality of life.
+
+
+== References ==

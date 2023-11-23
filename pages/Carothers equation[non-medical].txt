@@ -1,0 +1,562 @@
+In step-growth polymerization, the Carothers equation (or Carothers' equation) gives the degree of polymerization, Xn, for a given fractional monomer conversion, p.
+There are several versions of this equation, proposed by Wallace Carothers, who invented  nylon in 1935.
+
+Linear polymers: two monomers in equimolar quantities
+The simplest case refers to the formation of a strictly linear polymer by the reaction (usually by condensation) of two monomers in equimolar quantities. An example is the synthesis of nylon-6,6 whose formula is [−NH−(CH2)6−NH−CO−(CH2)4−CO−]n
+from one mole of hexamethylenediamine, H2N(CH2)6NH2, and one mole of adipic acid, HOOC−(CH2)4−COOH. For this case
+
+  
+    
+      
+        
+          
+            
+              
+                X
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              −
+              p
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {X}}_{n}={\frac {1}{1-p}}}
+  In this equation
+
+  
+    
+      
+        
+          
+            
+              
+                X
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\bar {X}}_{n}}
+   is the number-average value of the degree of polymerization, equal to the average number of monomer units in a polymer molecule. For the example of nylon-6,6  
+  
+    
+      
+        
+          
+            
+              
+                X
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+        =
+        2
+        n
+      
+    
+    {\displaystyle {\bar {X}}_{n}=2n}
+   (n diamine units and n diacid units).
+
+  
+    
+      
+        p
+        =
+        
+          
+            
+              
+                
+                  N
+                  
+                    0
+                  
+                
+                −
+                N
+              
+              
+                N
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle p={\tfrac {N_{0}-N}{N_{0}}}}
+   is the extent of reaction (or conversion to polymer), defined by
+
+  
+    
+      
+        
+          N
+          
+            0
+          
+        
+      
+    
+    {\displaystyle N_{0}}
+   is the number of molecules present initially as monomer
+
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   is the number of molecules present after time t. The total includes all degrees of polymerization: monomers, oligomers and polymers.This equation shows that a high monomer conversion is required to achieve a high degree of polymerization.  For example, a monomer conversion, p, of 98% is required for 
+  
+    
+      
+        
+          
+            
+              
+                X
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\bar {X}}_{n}}
+   = 50, and p = 99% is required for 
+  
+    
+      
+        
+          
+            
+              
+                X
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\bar {X}}_{n}}
+   = 100.
+
+Linear polymers: one monomer in excess
+If one monomer is present in stoichiometric excess, then the equation becomes
+
+  
+    
+      
+        
+          
+            
+              
+                X
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+        =
+        
+          
+            
+              1
+              +
+              r
+            
+            
+              1
+              +
+              r
+              −
+              2
+              r
+              p
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {X}}_{n}={\frac {1+r}{1+r-2rp}}}
+  r is the stoichiometric ratio of reactants, the excess reactant is conventionally the denominator so that r < 1. If neither monomer is in excess, then r = 1 and the equation reduces to the equimolar case above.The effect of the excess reactant is to reduce the degree of polymerization for a given value of p. In the limit of complete conversion of the limiting reagent monomer, p → 1 and 
+
+  
+    
+      
+        
+          
+            
+              
+                X
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+        →
+        
+          
+            
+              1
+              +
+              r
+            
+            
+              1
+              −
+              r
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {X}}_{n}\to {\frac {1+r}{1-r}}}
+  Thus for a 1% excess of one monomer, r = 0.99 and the limiting degree of polymerization is 199, compared to infinity for the equimolar case. An excess of one reactant can be used to control the degree of polymerization.
+
+Branched polymers: multifunctional monomers
+The functionality of a monomer molecule is the number of functional groups which participate in the polymerization. Monomers with functionality greater than two will introduce branching into a polymer, and the degree of polymerization will depend on the average functionality fav per monomer unit. For a system containing N0 molecules initially and equivalent numbers of two functional groups A and B, the total number of functional groups is N0fav. 
+
+  
+    
+      
+        
+          f
+          
+            a
+            v
+          
+        
+        =
+        
+          
+            
+              ∑
+              
+                N
+                
+                  i
+                
+              
+              ⋅
+              
+                f
+                
+                  i
+                
+              
+            
+            
+              ∑
+              
+                N
+                
+                  i
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle f_{av}={\frac {\sum N_{i}\cdot f_{i}}{\sum N_{i}}}}
+  And the modified Carothers equation is
+
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        =
+        
+          
+            2
+            
+              2
+              −
+              p
+              
+                f
+                
+                  a
+                  v
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle x_{n}={\frac {2}{2-pf_{av}}}}
+  , where p equals to  
+  
+    
+      
+        
+          
+            
+              2
+              (
+              
+                N
+                
+                  0
+                
+              
+              −
+              N
+              )
+            
+            
+              
+                N
+                
+                  0
+                
+              
+              ⋅
+              
+                f
+                
+                  a
+                  v
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {2(N_{0}-N)}{N_{0}\cdot f_{av}}}}
+
+Related equations
+Related to the Carothers equation are the following equations (for the simplest case of linear polymers formed from two monomers in equimolar quantities):
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      
+                        X
+                        ¯
+                      
+                    
+                  
+                  
+                    w
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  
+                    
+                      1
+                      +
+                      p
+                    
+                    
+                      1
+                      −
+                      p
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        M
+                        ¯
+                      
+                    
+                  
+                  
+                    n
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  M
+                  
+                    o
+                  
+                
+                
+                  
+                    1
+                    
+                      1
+                      −
+                      p
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        M
+                        ¯
+                      
+                    
+                  
+                  
+                    w
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  M
+                  
+                    o
+                  
+                
+                
+                  
+                    
+                      1
+                      +
+                      p
+                    
+                    
+                      1
+                      −
+                      p
+                    
+                  
+                
+              
+            
+            
+              
+                P
+                D
+                I
+              
+              
+                =
+              
+              
+                
+                  
+                    
+                      
+                        
+                          
+                            M
+                            ¯
+                          
+                        
+                      
+                      
+                        w
+                      
+                    
+                    
+                      
+                        
+                          
+                            M
+                            ¯
+                          
+                        
+                      
+                      
+                        n
+                      
+                    
+                  
+                
+                =
+                1
+                +
+                p
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}{\bar {X}}_{w}&=&{\frac {1+p}{1-p}}\\{\bar {M}}_{n}&=&M_{o}{\frac {1}{1-p}}\\{\bar {M}}_{w}&=&M_{o}{\frac {1+p}{1-p}}\\PDI&=&{\frac {{\bar {M}}_{w}}{{\bar {M}}_{n}}}=1+p\\\end{matrix}}}
+  where:
+
+Xw is the weight average degree of polymerization,
+Mn is the number average molecular weight,
+Mw is the weight average molecular weight,
+Mo is the molecular weight of the repeating monomer unit,
+Đ is the dispersity index. (formerly known as polydispersity index, symbol PDI)The last equation shows that the maximum value of the Đ is 2, which occurs at a monomer conversion of 100% (or p = 1). This is true for step-growth polymerization of linear polymers. For chain-growth polymerization or for branched polymers, the Đ can be much higher.
+In practice the average length of the polymer chain is limited by such things as the purity of the reactants, the absence of any side reactions (i.e. high yield), and the viscosity of the medium.
+
+
+== References ==

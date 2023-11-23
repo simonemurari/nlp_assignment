@@ -1,0 +1,17 @@
+A medical condition is termed heterogeneous, or a heterogeneous disease, if it has several etiologies (root causes); as opposed to homogeneous conditions, which have the same root cause for all patients in a given group.  Examples of heterogeneous conditions are  hepatitis and diabetes.  Heterogeneity is not unusual, as medical conditions are usually defined pathologically (i.e. based on the state of the patient), as in "liver inflammation", or clinically (i.e. based on the apparent symptoms of the patient), as in "excessive urination", rather than etiologically (i.e. based on the underlying cause of the symptoms).  Heterogeneous conditions are often divided into endotypes based on etiology.
+Where necessary to determine appropriate treatment differential diagnosis procedures are employed.
+
+Endotype
+An endotype is a subtype of a condition, which is defined by a distinct functional or pathobiological mechanism. This is distinct from a phenotype, which is any observable characteristic or trait of a disease, such as morphology, development, biochemical or physiological properties, or behavior, without any implication of a mechanism. It is envisaged that patients with a specific endotype present themselves within phenotypic clusters of diseases.
+One example is asthma, which is considered to be a syndrome, consisting of a series of endotypes. This is related to the concept of disease entity
+
+Heterogeneity in medical conditions
+The term medical condition is a nosological broad term that includes all diseases, disorders, injuries and syndromes, and it is specially suitable in the last case, in which it is not possible to speak about a single disease associated to the clinical course of the patient.
+While the term medical condition generally includes mental illnesses, in some contexts the term is used specifically to denote any illness, injury, or disease except for mental illnesses. The Diagnostic and Statistical Manual of Mental Disorders (DSM), the widely used psychiatric manual that defines all mental disorders, uses the term general medical condition to refer to all diseases, illnesses, and injuries except for mental disorders. This usage is also commonly seen in the psychiatric literature. Some health insurance policies also define a medical condition as any illness, injury, or disease except for psychiatric illnesses.As it is more value-neutral than terms like disease, the term medical condition is sometimes preferred by people with health issues that they do not consider deleterious. It is also preferred when etiology is not unique, because the word disease is normally associated to the cause of the clinical problems. On the other hand, by emphasizing the medical nature of the condition, this term is sometimes rejected, such as by proponents of the autism rights movement.
+The term is also used in specialized areas of medicine. A genetic or allelic heterogeneous condition is one where the same disease or condition can be caused, or contributed to, by varying different genes or alleles. In clinical trials and statistics the concepts of homogeneous and heterogeneous populations is important. The same applies for epidemiology
+
+See also
+Endotype, each one of the etiological subclasses of a given heterogeneous condition.
+
+
+== References ==

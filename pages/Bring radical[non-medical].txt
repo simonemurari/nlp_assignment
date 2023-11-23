@@ -1,0 +1,1342 @@
+In algebra, the Bring radical or ultraradical of a real number a is the unique real root of the polynomial
+
+The Bring radical of a complex number a is either any of the five roots of the above polynomial (it is thus multi-valued), or a specific root, which is usually chosen such that the Bring radical is real-valued for real a and is an analytic function in a neighborhood of the real line. Because of the existence of four branch points, the Bring radical cannot be defined as a function that is continuous over the whole complex plane, and its domain of continuity must exclude four branch cuts.
+George Jerrard showed that some quintic equations can be solved in closed form using radicals and Bring radicals, which had been introduced by Erland Bring.
+In this article, the Bring radical of a is denoted 
+  
+    
+      
+        BR
+        ⁡
+        (
+        a
+        )
+        .
+      
+    
+    {\displaystyle \operatorname {BR} (a).}
+   For real argument, it is odd, monotonically decreasing, and unbounded, with asymptotic behavior 
+  
+    
+      
+        BR
+        ⁡
+        (
+        a
+        )
+        ∼
+        −
+        
+          a
+          
+            1
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle \operatorname {BR} (a)\sim -a^{1/5}}
+   for large 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  .
+
+Normal forms
+The quintic equation is rather difficult to obtain solutions for directly, with five independent coefficients in its most general form:
+
+The various methods for solving the quintic that have been developed generally attempt to simplify the quintic using Tschirnhaus transformations to reduce the number of independent coefficients.
+
+Principal quintic form
+The general quintic may be reduced into what is known as the principal quintic form, with the quartic and cubic terms removed:
+
+If the roots of a general quintic and a principal quintic are related by a quadratic Tschirnhaus transformation
+
+the coefficients α and β may be determined by using the resultant, or by means of the power sums of the roots and Newton's identities. This leads to a system of equations in α and β consisting of a quadratic and a linear equation, and either of the two sets of solutions may be used to obtain the corresponding three coefficients of the principal quintic form.This form is used by Felix Klein's solution to the quintic.
+
+Bring–Jerrard normal form
+It is possible to simplify the quintic still further and eliminate the quadratic term, producing the Bring–Jerrard normal form:
+
+Using the power-sum formulae again with a cubic transformation as Tschirnhaus tried does not work, since the resulting system of equations results in a sixth-degree equation. But in 1796 Bring found a way around this by using a quartic Tschirnhaus transformation to relate the roots of a principal quintic to those of a Bring–Jerrard quintic:
+
+The extra parameter this fourth-order transformation provides allowed Bring to decrease the degrees of the other parameters. This leads to a system of five equations in six unknowns, which then requires the solution of a cubic and a quadratic equation. This method was also discovered by Jerrard in 1852,
+but it is likely that he was unaware of Bring's previous work in this area.(pp92–93) The full transformation may readily be accomplished using a computer algebra package such as Mathematica
+or Maple.
+As might be expected from the complexity of these transformations, the resulting expressions can be enormous, particularly when compared to the solutions in radicals for lower degree equations, taking many megabytes of storage for a general quintic with symbolic coefficients.Regarded as an algebraic function, the solutions to
+
+involve two variables, d1 and d0; however, the reduction is actually to an algebraic function of one variable, very much analogous to a solution in radicals, since we may further reduce the Bring–Jerrard form. If we for instance set
+
+then we reduce the equation to the form
+
+which involves z as an algebraic function of a single variable 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , where 
+  
+    
+      
+        a
+        =
+        
+          d
+          
+            0
+          
+        
+        (
+        −
+        
+          d
+          
+            1
+          
+        
+        
+          )
+          
+            −
+            5
+            
+              /
+            
+            4
+          
+        
+      
+    
+    {\displaystyle a=d_{0}(-d_{1})^{-5/4}}
+  . This form is required by the Hermite–Kronecker–Brioschi method, Glasser's method, and the Cockle–Harley method of differential resolvents described below. 
+An alternative form is obtained by setting
+
+  
+    
+      
+        u
+        =
+        
+          
+            v
+            
+              
+                
+                  d
+                  
+                    1
+                  
+                
+                
+                  4
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle u={v \over {\sqrt[{4}]{d_{1}}}}}
+  
+so that
+
+  
+    
+      
+        
+          u
+          
+            5
+          
+        
+        +
+        u
+        +
+        b
+        =
+        0
+        
+        ,
+      
+    
+    {\displaystyle u^{5}+u+b=0\,,}
+  
+where 
+  
+    
+      
+        b
+        =
+        
+          d
+          
+            0
+          
+        
+        (
+        
+          d
+          
+            1
+          
+        
+        
+          )
+          
+            −
+            5
+            
+              /
+            
+            4
+          
+        
+      
+    
+    {\displaystyle b=d_{0}(d_{1})^{-5/4}}
+  . This form is used to define the Bring radical below.
+
+Brioschi normal form
+There is another one-parameter normal form for the quintic equation, known as Brioschi normal form
+
+which can be derived by using the rational Tschirnhaus transformation
+
+to relate the roots of a general quintic to a Brioschi quintic. The values of the parameters 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   and 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   may be derived by using polyhedral functions on the Riemann sphere, and are related to the partition of an object of icosahedral symmetry into five objects of tetrahedral symmetry.This Tschirnhaus transformation is rather simpler than the difficult one used to transform a principal quintic into Bring–Jerrard form. This normal form is used by the Doyle–McMullen iteration method and the Kiepert method.
+
+Series representation
+A Taylor series for Bring radicals, as well as a representation in terms of hypergeometric functions can be derived as follows. The equation 
+  
+    
+      
+        
+          x
+          
+            5
+          
+        
+        +
+        x
+        +
+        a
+        =
+        0
+      
+    
+    {\displaystyle x^{5}+x+a=0}
+   can be rewritten as 
+  
+    
+      
+        
+          x
+          
+            5
+          
+        
+        +
+        x
+        =
+        −
+        a
+        .
+      
+    
+    {\displaystyle x^{5}+x=-a.}
+   By setting 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          x
+          
+            5
+          
+        
+        +
+        x
+        ,
+      
+    
+    {\displaystyle f(x)=x^{5}+x,}
+   the desired solution is 
+  
+    
+      
+        x
+        =
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        −
+        a
+        )
+        =
+        −
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        a
+        )
+      
+    
+    {\displaystyle x=f^{-1}(-a)=-f^{-1}(a)}
+   since 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   is odd.
+The series for 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle f^{-1}}
+   can then be obtained by reversion of the Taylor series for 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   (which is simply 
+  
+    
+      
+        x
+        +
+        
+          x
+          
+            5
+          
+        
+      
+    
+    {\displaystyle x+x^{5}}
+  ), giving
+
+where the absolute values of the coefficients form sequence A002294 in the OEIS. The radius of convergence of the series is 
+  
+    
+      
+        4
+        
+          /
+        
+        (
+        5
+        ⋅
+        
+          
+            5
+            
+              4
+            
+          
+        
+        )
+        ≈
+        0.53499.
+      
+    
+    {\displaystyle 4/(5\cdot {\sqrt[{4}]{5}})\approx 0.53499.}
+   
+In hypergeometric form, the Bring radical can be written as
+It may be interesting to compare with the hypergeometric functions that arise below in Glasser's derivation and the method of differential resolvents.
+
+Solution of the general quintic
+The roots of the polynomial
+
+can be expressed in terms of the Bring radical as
+
+and its four conjugates. The problem is now reduced to the Bring–Jerrard form in terms of solvable polynomial equations, and using transformations involving polynomial expressions in the roots only up to the fourth degree, which means inverting the transformation may be done by finding the roots of a polynomial solvable in radicals. This procedure gives extraneous solutions, but when the correct ones have been found by numerical means, the roots of the quintic can be written in terms of square roots, cube roots, and the Bring radical, which is therefore an algebraic solution in terms of algebraic functions (defined broadly to include Bring radicals) of a single variable — an algebraic solution of the general quintic.
+
+Other characterizations
+Many other characterizations of the Bring radical have been developed, the first of which is in terms of "elliptic transcendents" (related to elliptic and modular functions) by Charles Hermite in 1858, and further methods later developed by other mathematicians.
+
+The Hermite–Kronecker–Brioschi characterization
+In 1858, Charles Hermite
+published the first known solution to the general quintic equation in terms of "elliptic transcendents", and at around the same time Francesco Brioschi
+and Leopold Kronecker
+came upon equivalent solutions. Hermite arrived at this solution by generalizing the well-known solution to the cubic equation in terms of trigonometric functions and finds the solution to a quintic in Bring–Jerrard form:
+
+into which any quintic equation may be reduced by means of Tschirnhaus transformations as has been shown. He observed that elliptic functions had an analogous role to play in the solution of the Bring–Jerrard quintic as the trigonometric functions had for the cubic. For 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   and 
+  
+    
+      
+        
+          K
+          ′
+        
+        ,
+      
+    
+    {\displaystyle K',}
+   write them as the complete elliptic integrals of the first kind:
+
+where
+
+Define the two "elliptic transcendents":
+
+They can be equivalently defined by infinite series:
+If n is a prime number, we can define two values 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   and 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   as follows:
+
+and
+
+When n is an odd prime, the parameters 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   and 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   are linked by an equation of degree n + 1 in 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  , 
+  
+    
+      
+        
+          Ω
+          
+            n
+          
+        
+        (
+        u
+        ,
+        v
+        )
+        =
+        0
+      
+    
+    {\displaystyle \Omega _{n}(u,v)=0}
+  , known as the modular equation, whose n + 1 roots in 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   are given by:
+and
+
+where 
+  
+    
+      
+        ε
+        (
+        n
+        )
+      
+    
+    {\displaystyle \varepsilon (n)}
+   is 1 or −1 depending on whether 2 is a  quadratic residue modulo n or not, respectively, and 
+  
+    
+      
+        m
+        ∈
+        {
+        0
+        ,
+        1
+        ,
+        …
+        ,
+        n
+        −
+        1
+        }
+      
+    
+    {\displaystyle m\in \{0,1,\ldots ,n-1\}}
+  . For n = 5, we have the modular equation:
+with six roots in 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   as shown above.
+The modular equation with n = 5 may be related to the Bring–Jerrard quintic by the following function of the six roots of the modular equation (In Hermite's Sur la théorie des équations modulaires et la résolution de l'équation du cinquième degré, the first factor is incorrectly given as 
+  
+    
+      
+        [
+        φ
+        (
+        5
+        τ
+        )
+        +
+        φ
+        (
+        τ
+        
+          /
+        
+        5
+        )
+        ]
+      
+    
+    {\displaystyle [\varphi (5\tau )+\varphi (\tau /5)]}
+  ):
+Alternatively, the formula
+is useful for numerical evaluation of 
+  
+    
+      
+        Φ
+        (
+        τ
+        )
+      
+    
+    {\displaystyle \Phi (\tau )}
+  . According to Hermite, the coefficient of 
+  
+    
+      
+        
+          e
+          
+            n
+            π
+            i
+            τ
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle e^{n\pi i\tau /5}}
+   in the expansion is zero for every 
+  
+    
+      
+        n
+        ≡
+        4
+        
+        (
+        mod
+        ⁡
+        5
+        )
+      
+    
+    {\displaystyle n\equiv 4\,(\operatorname {mod} 5)}
+  .The five quantities 
+  
+    
+      
+        Φ
+        (
+        τ
+        )
+      
+    
+    {\displaystyle \Phi (\tau )}
+  , 
+  
+    
+      
+        Φ
+        (
+        τ
+        +
+        16
+        )
+      
+    
+    {\displaystyle \Phi (\tau +16)}
+  , 
+  
+    
+      
+        Φ
+        (
+        τ
+        +
+        32
+        )
+      
+    
+    {\displaystyle \Phi (\tau +32)}
+  , 
+  
+    
+      
+        Φ
+        (
+        τ
+        +
+        48
+        )
+      
+    
+    {\displaystyle \Phi (\tau +48)}
+  , 
+  
+    
+      
+        Φ
+        (
+        τ
+        +
+        64
+        )
+      
+    
+    {\displaystyle \Phi (\tau +64)}
+   are the roots of a quintic equation with coefficients rational in 
+  
+    
+      
+        φ
+        (
+        τ
+        )
+      
+    
+    {\displaystyle \varphi (\tau )}
+  :
+which may be readily converted into the Bring–Jerrard form by the substitution:
+
+leading to the Bring–Jerrard quintic:
+
+where
+
+The Hermite–Kronecker–Brioschi method then amounts to finding a value for 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   that corresponds to the value of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , and then using that value of 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   to obtain the roots of the corresponding modular equation. We can use root finding algorithms to find 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   from the equation (*) (i.e. compute a partial inverse of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  ). Squaring (*) gives a quartic solely in 
+  
+    
+      
+        
+          φ
+          
+            4
+          
+        
+        (
+        τ
+        )
+      
+    
+    {\displaystyle \varphi ^{4}(\tau )}
+   (using 
+  
+    
+      
+        
+          φ
+          
+            8
+          
+        
+        (
+        τ
+        )
+        +
+        
+          ψ
+          
+            8
+          
+        
+        (
+        τ
+        )
+        =
+        1
+      
+    
+    {\displaystyle \varphi ^{8}(\tau )+\psi ^{8}(\tau )=1}
+  ). Every solution (in 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  ) of (*) is a solution of the quartic but not every solution of the quartic is a solution of (*).
+The roots of the Bring–Jerrard quintic are then given by:
+
+for 
+  
+    
+      
+        r
+        =
+        0
+        ,
+        …
+        ,
+        4
+      
+    
+    {\displaystyle r=0,\ldots ,4}
+  .
+An alternative, "integral", approach is the following:
+Consider 
+  
+    
+      
+        
+          x
+          
+            5
+          
+        
+        −
+        x
+        +
+        a
+        =
+        0
+      
+    
+    {\displaystyle x^{5}-x+a=0}
+   where 
+  
+    
+      
+        a
+        ∈
+        
+          C
+        
+        ∖
+        {
+        0
+        }
+        .
+      
+    
+    {\displaystyle a\in \mathbb {C} \setminus \{0\}.}
+   Then
+
+is a solution of
+
+where
+
+The roots of the equation (**) are:
+
+where 
+  
+    
+      
+        sin
+        ⁡
+        α
+        =
+        4
+        
+          /
+        
+        
+          A
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sin \alpha =4/A^{2}}
+  
+(note that some important references erroneously give it as 
+  
+    
+      
+        sin
+        ⁡
+        α
+        =
+        1
+        
+          /
+        
+        (
+        4
+        
+          A
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \sin \alpha =1/(4A^{2})}
+  ). One of these roots may be used as the elliptic modulus 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  .
+The roots of the Bring–Jerrard quintic are then given by:
+
+for 
+  
+    
+      
+        r
+        =
+        0
+        ,
+        …
+        ,
+        4
+      
+    
+    {\displaystyle r=0,\ldots ,4}
+  .
+It may be seen that this process uses a generalization of the nth root, which may be expressed as:
+
+or more to the point, as
+
+The Hermite–Kronecker–Brioschi method essentially replaces the exponential by an "elliptic transcendent", and the integral 
+  
+    
+      
+        
+          ∫
+          
+            1
+          
+          
+            x
+          
+        
+        d
+        t
+        
+          /
+        
+        t
+      
+    
+    {\textstyle \int _{1}^{x}dt/t}
+   (or the inverse of 
+  
+    
+      
+        exp
+      
+    
+    {\displaystyle \exp }
+   on the real line) by an elliptic integral (or by a partial inverse of an "elliptic transcendent"). Kronecker thought that this generalization was a special case of a still more general theorem, which would be applicable to equations of arbitrarily high degree. This theorem, known as Thomae's formula, was fully expressed by Hiroshi Umemura
+in 1984, who used Siegel modular forms in place of the exponential/elliptic transcendents, and replaced the integral by a hyperelliptic integral.
+
+Glasser's derivation
+This derivation due to M. L. Glasser generalizes the series method presented earlier in this article to find a solution to any trinomial equation of the form:
+
+In particular, the quintic equation can be reduced to this form by the use of Tschirnhaus transformations as shown above. Let 
+  
+    
+      
+        x
+        =
+        
+          ζ
+          
+            −
+            
+              
+                1
+                
+                  N
+                  −
+                  1
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle x=\zeta ^{-{\frac {1}{N-1}}}\,}
+  , the general form becomes:
+
+where
+
+A formula due to Lagrange states that for any analytic function 
+  
+    
+      
+        f
+        
+      
+    
+    {\displaystyle f\,}
+  , in the neighborhood of a root of the transformed general equation in terms of 
+  
+    
+      
+        ζ
+        
+      
+    
+    {\displaystyle \zeta \,}
+  , above may be expressed as an infinite series:
+
+If we let 
+  
+    
+      
+        f
+        (
+        ζ
+        )
+        =
+        
+          ζ
+          
+            −
+            
+              
+                1
+                
+                  N
+                  −
+                  1
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle f(\zeta )=\zeta ^{-{\frac {1}{N-1}}}\,}
+   in this formula, we can come up with the root:
+
+By the use of the Gauss multiplication theorem the infinite series above may be broken up into a finite series of hypergeometric functions:
+
+and the trinomial of the form has roots
+
+A root of the equation can thus be expressed as the sum of at most N − 1 hypergeometric functions. Applying this method to the reduced Bring–Jerrard quintic, define the following functions:
+
+which are the hypergeometric functions that appear in the series formula above. The roots of the quintic are thus:
+
+This is essentially the same result as that obtained by the following method.
+
+The method of differential resolvents
+James Cockle
+and Robert Harley developed, in 1860, a method for solving the quintic by means of differential equations. They consider the roots as being functions of the coefficients, and calculate a differential resolvent based on these equations. The Bring–Jerrard quintic is expressed as a function:
+
+and a function 
+  
+    
+      
+        
+        ϕ
+        (
+        a
+        )
+        
+      
+    
+    {\displaystyle \,\phi (a)\,}
+   is to be determined such that:
+
+The function 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   must also satisfy the following four differential equations:
+
+Expanding these and combining them together yields the differential resolvent:
+
+The solution of the differential resolvent, being a fourth order ordinary differential equation, depends on four constants of integration, which should be chosen so as to satisfy the original quintic. This is a Fuchsian ordinary differential equation of hypergeometric type, whose solution turns out to be identical to the series of hypergeometric functions that arose in Glasser's derivation above.This method may also be generalized to equations of arbitrarily high degree, with differential resolvents which are partial differential equations, whose solutions involve hypergeometric functions of several variables.
+A general formula for differential resolvents of arbitrary univariate polynomials is given by Nahay's powersum formula.
+
+Doyle–McMullen iteration
+In 1989, Peter Doyle and Curt McMullen derived an iteration method that solves a quintic in Brioschi normal form:
+
+The iteration algorithm proceeds as follows:
+
+Set 
+  
+    
+      
+        Z
+        =
+        1
+        −
+        1728
+        C
+      
+    
+    {\displaystyle Z=1-1728C}
+  
+Compute the rational function  where 
+  
+    
+      
+        g
+        (
+        Z
+        ,
+        w
+        )
+      
+    
+    {\displaystyle g(Z,w)}
+   is a polynomial function given below, and 
+  
+    
+      
+        
+          g
+          ′
+        
+      
+    
+    {\displaystyle g'}
+   is the derivative of 
+  
+    
+      
+        g
+        (
+        Z
+        ,
+        w
+        )
+      
+    
+    {\displaystyle g(Z,w)}
+   with respect to 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+  
+Iterate 
+  
+    
+      
+        
+          T
+          
+            Z
+          
+        
+        [
+        
+          T
+          
+            Z
+          
+        
+        (
+        w
+        )
+        ]
+      
+    
+    {\displaystyle T_{Z}[T_{Z}(w)]}
+   on a random starting guess until it converges. Call the limit point 
+  
+    
+      
+        
+          w
+          
+            1
+          
+        
+      
+    
+    {\displaystyle w_{1}}
+   and let 
+  
+    
+      
+        
+          w
+          
+            2
+          
+        
+        =
+        
+          T
+          
+            Z
+          
+        
+        (
+        
+          w
+          
+            1
+          
+        
+        )
+        
+      
+    
+    {\displaystyle w_{2}=T_{Z}(w_{1})\,}
+  .
+Compute  where 
+  
+    
+      
+        h
+        (
+        Z
+        ,
+        w
+        )
+      
+    
+    {\displaystyle h(Z,w)}
+   is a polynomial function given below. Do this for both 
+  
+    
+      
+        
+          w
+          
+            1
+          
+        
+        
+      
+    
+    {\displaystyle w_{1}\,}
+   and 
+  
+    
+      
+        
+          w
+          
+            2
+          
+        
+        =
+        
+          T
+          
+            Z
+          
+        
+        (
+        
+          w
+          
+            1
+          
+        
+        )
+        
+      
+    
+    {\displaystyle w_{2}=T_{Z}(w_{1})\,}
+  .
+Finally, compute  for i = 1, 2. These are two of the roots of the Brioschi quintic.The two polynomial functions 
+  
+    
+      
+        g
+        (
+        Z
+        ,
+        w
+        )
+        
+      
+    
+    {\displaystyle g(Z,w)\,}
+   and 
+  
+    
+      
+        h
+        (
+        Z
+        ,
+        w
+        )
+        
+      
+    
+    {\displaystyle h(Z,w)\,}
+   are as follows:
+
+This iteration method produces two roots of the quintic. The remaining three roots can be obtained by using synthetic division to divide the two roots out, producing a cubic equation. Due to the way the iteration is formulated, this method seems to always find two complex conjugate roots of the quintic even when all the quintic coefficients are real and the starting guess is real. This iteration method is derived from the symmetries of the icosahedron and is closely related to the method Felix Klein describes in his book.
+
+See also
+Theory of equations
+
+References
+Notes
+Other
+Sources
+External links
+Hazewinkel, M. (2001) [1994], "Tschirnhausen transformation", Encyclopedia of Mathematics, EMS Press
+Weisstein, Eric W. "Bring–Jerrard Quintic Form". MathWorld.
+Weisstein, Eric W. "Bring Quintic Form". MathWorld.
+Weisstein, Eric W. "Ultraradical". MathWorld.

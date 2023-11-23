@@ -1,0 +1,152 @@
+The London Ambulance Service NHS Trust (LAS) is an NHS trust responsible for operating ambulances and answering and responding to urgent and emergency medical situations within the London region of England. The service responds to 999 phone calls across the region, and 111 phone calls from certain parts, providing triage and advice to enable an appropriate level of response.
+It is one of the busiest ambulance services in the world, and the busiest in the United Kingdom, providing care to more than 8.6 million people, who live and work in London. The service is currently under the leadership of chief executive Daniel Elkeles and chair Andrew Trotter OBE QPM.  The service employs around 5,300 staff.
+It is one of ten ambulance services trusts in England providing emergency medical services, and is part of the National Health Service, receiving direct government funding for its role.
+The LAS responded to over 2.1 million 999 calls for assistance, and over 1.2 million incidents in the year ended March 2020. Incidents rose by 20,000 in 2015/16, putting more pressure on the service. All 999 calls from the public are answered at one of the two Emergency Operations Centres (EOC) in Waterloo or Newham who then dispatch and allocate the appropriate resources. To assist, the service's command and control system is linked electronically with the equivalent system for London's Metropolitan Police. This means that police updates regarding specific jobs will be updated directly on the computer-aided dispatch (CAD) log, to be viewed by the EOC, and the resources allocated to the job.
+
+History
+In 1818, a parliamentary select committee had recommended that provision be made for carrying infectious patients in London "which would prevent the use of coaches or sedan chairs" but nothing was done. In 1866, a Hospital Carriage Fund provided six carriages to hospitals in the metropolitan area, for the use of patients with smallpox or other infectious diseases, provided that they pay for the hire of the horses. The first permanent ambulance service in London was established by the Metropolitan Asylums Board (MAB) in 1879, when a new Poor Law Act empowered them "to provide and maintain carriages suitable for the conveyance of persons suffering from any infectious disorder". The first became operational at The South Eastern Fever Hospital, Deptford, in October 1883. In all, six hospitals operated horse-drawn "land ambulances", putting almost the whole of London within 3 miles (4.8 km) of one of them. Each ambulance station included accommodation for a married superintendent and around 20 drivers, horse keepers and attendants, nurses, laundry staff and domestic cleaners. A fleet of four paddle steamer "river ambulances" transported smallpox patients along the River Thames to Deptford, where they could be quarantined on hospital ships, departing from three special wharves at Rotherhithe, Blackwall and Fulham. At Deptford, in order to transfer patients between the hospitals at Joyce Green and Long Reach near Gravesend, a horse-drawn ambulance tramway was constructed in 1897 and extended in 1904. In 1902, the MAB introduced a steam driven ambulance and in 1904, their first motor ambulance.  The last horse-drawn ambulances were used on 14 September 1912.Although the MAB was legally supposed to be transporting only infectious patients, it increasingly also carried accident victims and emergency medical cases. The Metropolitan Ambulance Act, 1909, empowered the London County Council to establish an emergency ambulance service, but this was not established until February 1915 and was under the control of the chief of the London Fire Brigade. Also in 1915, the MAB Ambulance Section were the first public body to employ women drivers, due to the number of men who had volunteered for military service. By July 1916, the London County Council Ambulance Corps was staffed entirely by women.By 1930, the MAB was the largest user of civil ambulance services in the world, however the Local Government Act 1929 meant that work of the MAB was taken over by the London County Council, which also took charge of the modern fleet of 107 MAB motor ambulances, together with 46 ambulances which were run by local Poor law unions. Taken with the 21 ambulances already operated by the LCC, this provided a comprehensive service for all kinds of illness and accident, which was under the direction of the Medical Officer of Health for the County of London. The LCC also took control of the River Ambulance Service, but it was disbanded in 1932.
+During World War II, the London Auxiliary Ambulance Service was operated by over 10,000 auxiliaries, mainly women, from all walks of life. They ran services from 139 Auxiliary Stations across London. A plaque at one of the last to close, Station 39 in Weymouth Mews, near Portland Place, commemorates their wartime service.In 1948, the National Health Service Act 1946 made it a requirement for ambulances to be available for anyone who needed them. The present-day London Ambulance Service was formed in 1965 by the amalgamation of nine existing services in the new county of Greater London, and in 1974, after a reorganisation of the NHS, the LAS was transferred from the control of local government to the South West Thames Regional Health Authority. On 1 April 1996, the LAS left the control of the South West Thames Regional Health Authority and became an NHS trust.In late 2017, LAS adopted the Ambulance Response Programme, which altered the targets for response times to 999 calls to reflect patient outcomes by removing hidden waiting times after a successful trial by the Yorkshire Ambulance Service, West Midlands Ambulance Service and South Western Ambulance Service.
+
+Structure
+As an NHS Trust, the LAS has a Trust Board consisting of 13 members. The board includes; a non-executive chairman, five of the service's executive directors (including the chief executive), and seven non-executive directors.The chief executive and chief ambulance officer have responsibility for oversight of seven directorates:
+Accident and emergency operations
+Information Management and Technology
+Finance
+People and Organisational Development
+Medical
+Patient transport services (PTS)Operations are directed from two control rooms: one in central London and one in east London, both of which have the ability to take over control entirely if required.
+Special events in London are co-ordinated from the service's event control room, also located in east London.
+During mass casualty incidents, the command structure works on three (or four) levels: gold, silver and bronze.
+Platinum command: government level command (COBR)
+Gold command: strategic command, located in a situation room close to the main Emergency Operations Centre (EOC) and not only managing the incident, but also ensuring that normal service function continues with reduced resources.
+Silver command: tactical command, from the control room managing the incident;
+Bronze command: on-site operational commanders managing sectors within the incident.This system was used effectively in response to the 7 July 2005 London bombings.
+
+Staff ranks and roles
+The LAS employs a number of operational staff in different departments
+
+Call centres and control rooms
+In addition to the 999 emergency service, LAS operates 111 urgent care services covering north east and south east London.
+In the year to March 2020, the service answered and triaged 2.08 million 999 calls, 1.22 million 111 calls, and attended 1.18 million incidents.
+The 999 and 111 call centres and control rooms employ a total of 1,655 staff.
+
+Ambulance Services
+The Ambulance Services directorate provides front-line crews formed of paramedics, emergency medical technicians and emergency ambulance crew, and non-emergency transport services. The department also provides incident response officers who are operational commanders, and provide 24/7 operational management. Clinical team managers also provide operational command resilience but primarily provide 24/7 clinical management and leadership.
+Ambulance operations employs a total of 4,957 staff.
+
+Medical Directorate
+The Medical Directorate provides advanced paramedic practitioners in critical care who are specially trained to deal with critically ill patients, and who can provide interventions outside the normal scope of practice of a paramedic like mechanical ventilation and sedation. Advanced paramedic practitioners in urgent care support the LAS aim to reduce conveyance rates by managing more patients in the home environment without the need for a hospital admission.
+
+999 Operations
+The 999 Operations department provides the staff to work in the EOCs, such as call-takers and dispatchers. The department also contains the clinical hub which is staffed by clinical advisors undertaking hear and treat, and clinical team navigators providing clinical support to frontline crews, other EOC staff and maintain oversight of clinical safety at the operational level.
+
+Resilience and Special Operations
+The Resilience and Special Operations department employs paramedics in the Hazardous Area Response Team (HART), who are specially equipped to deal with casualties at height, in water, or urban search and rescue. There are two HART teams, one each covering the east and west of London. A Tactical Response Unit contains paramedics specially trained to work in the warm zone of active shooter incidents. Helicopter emergency medical service (HEMS) paramedics working for London's Air Ambulance Charity also fall under this department.
+
+Front-line roles
+Front-line roles in the trust include:
+
+Advanced paramedic practitioner - responding to the most critically ill patients. In 2018, the trust announced plans to recruit up to 60 more advanced paramedic practitioners, of which there were then only 15, with the intention to treat more lower acuity patients at the scene or join them up with community-led services.
+HEMS paramedic - aircrew paramedic responding with London's Air Ambulance Charity alongside a doctor
+Paramedic - typically hold a BSc in paramedic science, but may also have been trained 'in-house' to the Institute of Healthcare Development (IHCD) paramedic qualification.
+Emergency medical technician - trained to the (now discontinued) IHCD ambulance technician qualification or FutureQuals level 4 diploma for associate ambulance practitioners.
+Assistant ambulance practitioner - trained in ambulance emergency and urgent care support.
+Non-emergency ambulance crew - work for the non-emergency transport service to providing a response to patients who are ill or injured but do not require the skills of a frontline clinician.London's Air Ambulance Charity work alongside and is dispatched by LAS, who also provides paramedics to the charity, to work alongside doctors who are sourced from national and international hospitals.
+
+Pioneer services
+LAS published its strategy for 2018/19 – 2022/23 in April 2018. It focused heavily on in introduction of what it describes as "pioneer services". These are services which are focused on delivering a more tailored treatment package to specific and significant groups of patients in the community including:
+
+Urgent care: Managing low acuity patients in the community with the use of advanced paramedic practitioners (urgent care). These paramedics will have additional training, testing, referral and prescribing capability, which in the trial in south London reduced conveyance from 63% to 36.6% of the target patient group.
+Falls: A paramedic with additional training and equipment paired with an assistant to appropriately assess elderly fallers in a timely manner, treat as required and be able to make additional referrals to ensure patients are supported at home.
+Mental health: Ensuring that a suitable mental health clinician is available to patients 24/7 by having registered mental health nurses (RMN) available in the clinical hub, as well as introducing vehicles with a RMN paired with a paramedic to provide appropriate assessment and treatment for people experiencing a mental health crisis. This includes transport to more appropriate facilities than an emergency department where possible.
+Maternity: An ambulance rapid response vehicle with a registered midwife and paramedic with an increased ability to assess and treat on scene, as well as increased access to community services enabling mothers to stay at home where possible.
+End of life: LAS will invest in knowledge and skills involving these patients, developing stronger links with hospices and review the pharmacology available to the crews to make this stage of life as comfortable and dignified as possible.
+
+Volunteers
+Volunteers make up a small but significant proportion of front line ambulance staff that respond to emergency calls in London. Voluntary responders vary in skill level, but their principal purpose remains the same. That is to attend medical emergencies as quickly as possible to improve the patient's chance of survival, saving lives which may have been lost without the additional resources being available to the ambulance service. Importantly, the deployment of any voluntary responder will not replace the automatic allocation of a regular front line ambulance.
+There are two principal roles for volunteers within the London Ambulance Service. These roles include:
+
+Emergency responder - clinically trained volunteers who operate in marked response cars with blue lights and wear full service uniform, typically working double-crewed and doing shifts of up to ten hours day and night. These come from public-sector backgrounds, including policing.
+Community responder - defibrillator trained St John Ambulance volunteers attending on call from their homes and responding to 999 calls in their own car without blue lights alongside ambulances.LAS volunteers are supported by London Ambulance Service Voluntary Responder Group, providing logistical and financial assistance to keep volunteers operational. LAS can also call upon auxiliary aid from external voluntary organisations such as St John Ambulance and the British Red Cross, as demonstrated in the 7 July 2005 London bombings.
+LAS also utilises the GoodSAM app to alert off duty trained medical persons to a nearby cardiac arrest and the location of nearby automated external defibrillators.
+
+Fleet
+The LAS operates around 450 emergency ambulances. In addition it can deploy around 100 fast response units in various cars, motorcycles, or bicycles.
+Although not a part of the LAS, London's Air Ambulance Charity is deployed by the LAS from its base at the Royal London Hospital in Whitechapel using either its ground RRVs or its helicopter.
+As well as accidents and emergencies, the LAS operates a 195-vehicle patient transport service (PTS). Previously a centrally funded service, this element of the LAS is now subject to an open market and is required to tender for work from primary care trusts (PCTs) and other NHS bodies. As well as being contracted by a number of London hospitals and PCTs to take patients to and from their pre-arranged hospital or clinic appointments, the PTS responds to ad hoc journey requests and provides specialist transfer facilities.Cycle responders, who operate in areas such as the City of London, the West End, Stratford, Kingston Town Centre as well as Heathrow Airport, use custom built Rockhopper mountain bikes manufactured by Specialized Bicycle Components.In 2017, 140 new Mercedes Sprinter ambulances were introduced and 60 new Volkswagen Tiguan to be incorporated into the fast response unit fleet.
+
+Notable incidents
+The LAS plays a significant role whenever an incident causes mass casualties in London. Examples include:
+
+Provisional IRA bombing campaign: 1969–1997, a list of these and other bombings in London to which the LAS responded can be found here.
+Moorgate tube crash: 28 February 1975, the train driver and 42 passengers were killed
+King's Cross fire: 18 November 1987, 31 people died in a major fire in the Underground station
+Clapham Junction train crash: 12 December 1988 35 people were killed and 69 seriously injured
+Marchioness disaster: 20 August 1989, A pleasure boat, Marchioness, was in collision with a dredger; 51 people died
+Cannon Street rail crash: 8 January 1991, Two people were killed and over 500 injured
+Southall rail crash: 19 September 1997, an InterCity 125 collided with a freight train on the Great Western Main Line resulting in 7 deaths and 139 injured persons.
+Paddington train crash: 5 October 1999, Two trains collided a short distance outside of Paddington station, resulting in the deaths of 31 and 523 persons injured
+7 July 2005 suicide attacks: Four simultaneous suicide bombings across London resulting in 56 deaths (including 4 assailants) and at least 700 persons injured. Voluntary aid services needed to assist the LAS due to scale of the attacks.
+2012 Summer Olympics
+Croydon tram derailment: 9 November 2016, a tram derailed in south London resulting in 7 deaths and 62 persons injured
+Westminster attack: 22 March 2017, A vehicular ramming and knife attack resulting in 6 deaths (including the assailant) and 49 persons injured
+London Bridge Attack: 3 June 2017, A vehicular ramming and knife attack resulting in 11 deaths (including 3 assailants) and 48 persons injured
+Grenfell Tower fire: 14 June 2017 in Kensington, causing 72 deaths and over 70 injuries.
+Parsons Green bombing: 15 September 2017, A non-fatal bombing of a London Underground train resulting in 30 injured persons.
+
+Contracting services
+Due to an increase in demand, the LAS has used private ambulance companies, and some charities, to provide additional everyday operational cover. This is largely to ensure set response targets are met and so that the level of resources available to the service stays at a safe level. The future of private ambulances within the LAS is unclear. In March 2014, operational difficulties were reported at Hillingdon Hospital because the private ambulances did not appear on the A&E hospital alert system.As of 2022, LAS contracts out to two private company, EMFS Group and Polaris Medical who both provide Bariatric services as well as a small number of ambulances. LAS also deploys St John Ambulance mutual aid crews to a limited range of low acuity calls. 
+In November 2021 the trust announced that it would be directly employing the 500 staff in "make ready" teams who are responsible for cleaning and restocking ambulances before they are taken out. They have been employed by Mitie for some years.
+
+CQC performance rating
+In its last inspection of the service in September 2019, the Care Quality Commission (CQC) gave the following ratings on a scale of outstanding (the service is performing exceptionally well), good (the service is performing well and meeting our expectations), requires improvement (the service is not performing as well as it should) and inadequate (the service is performing badly):
+
+Difficulties and criticisms
+In 2000, the LAS faced funding difficulties and an increase in the volume of 999 calls, and it was criticised for poor performance in its response times. The service was sued for negligence in the case of Kent v Griffiths. The chief executive at the time, Michael Honey, left his post after talks with other members of LAS management.In 2010, the service lost its funding for the emergency care practitioner (ECP) role and existing ECPs were told they must change to a different role within the service, or leave.A fire in the basement of its Waterloo base in October 2010 caused the LAS to relocate the EOC to the back-up control room in east London due to an interruption to the building's power supply. The service took the step of urging the public to find other means of transport to hospital for anyone with non-life-threatening injuries.In 2013, the LAS was named by the Care Quality Commission as one of 26 healthcare providers in England failing to operate with sufficient staff.In September 2014, the trust announced that it would reduce the number of category C calls (the least serious) which receive an ambulance response by 15%.  These calls will be triaged by a call handler and either referred to NHS 111 or given telephone advice by a paramedic. In 2014 only 64% of category A patients were reached within eight minutes and it is hoped that by this measure there will be an improved response to the most urgent calls. It has also implemented a system of "intelligent conveyancing" where ambulances avoiding hospitals that are known to be under pressure. This has reduced the average waiting time for handover from ambulance to hospital staff by 180 seconds, though the average journey time has increased by 27 seconds.In December 2014, it asked other ambulance services for help after its busiest ever week with 11,008 call outs for the most seriously ill and injured. Demand is up 15% on the same time last year. Help has only been requested previously in respect of events like the Olympics or the 2005 bombings. The service has more than 400 vacancies and has had problems recruiting people.  It is failing to reach its response targets. In 2014/15, the trust recruited 175 paramedics from Australia.The trust was placed into special measures following a report by the Care Quality Commission (CQC) in November 2015, which rated it "inadequate" overall and raised "significant concerns" about its performance. 54 inspectors visited 16 ambulance stations and emergency operation centres in June. Criticisms focussed on: 
+
+a "culture of harassment and bullying" and a perception that "discrimination" was not dealt with.  Verbal and physical abuse, ostracisation, sexual harassment, misuse of power and cyber-bullying had been featured in an earlier independent report
+long working hours, with high levels of stress and fatigue reported by a large number of "demoralised" frontline staff
+response times which had deteriorated since March 2014 with a consistent failure to meet the national benchmark of 75% of patients with life-threatening conditions receiving treatment within eight minutes
+many frontline vacancies, and insufficient appropriately trained paramedics to ensure patients were consistently safe and received good care
+lack of necessary equipment
+insufficient understanding of the challenges staff experienced by senior managers and board members
+insufficient supervision for newly qualified paramedics from senior colleagues
+failure to review major incident procedures, which are supposed to be reviewed annually, or to ensure all staff were aware of themOn 23 May 2018, LAS was taken out of special measures by the CQC, being rated good overall and outstanding in patient care. The report noted that the trust needed to focus on ensuring safe staffing levels of the control room, diversity amongst staff and improvements in management of mental health.
+
+7/7 bombings
+Concerns were raised in internal LAS documents over the performance of radios and communication equipment used in the emergency operations after the 7/7 attacks. Again, the sheer volume of emergency calls received made radio communications difficult and put pressure on staff in the ambulance control room. Staff were also hampered in their use of mobile phones as the mobile phone networks were temporarily brought down during the day. In July 2009, the new radio system recommended after the bombings was rolled out.
+Despite the changes after 7/7, the LAS was criticised in 2010 for failures to provide fully working radios to its frontline staff. Health and safety inspections found that some radios failed during heavy rain and staff sometimes had to do without. Crews also raised concerns that the panic buttons on their radios did not work properly.
+
+Innovation
+In 1974, the LAS commissioned a computer-aided despatch system that remained unused for 13 years because union members refused to operate it. A replacement system failed acceptance tests in 1990 and a further replacement system was designed and ordered. On 26 October 1992, the LAS started to use the new computer-assisted dispatch (CAD) system, known as LASCAD. Poorly designed and implemented, its introduction led to significant delays in the assigning of ambulances, with anecdotal reports of 11-hour waits. A subsequent enquiry found no evidence to support union claims that up to 30 people may have died as a result of the crash. The crash coincided with hundreds of control room exceptions messages related to alerts that crews responding to emergencies had not reported mobile, and the ambulance had not moved 50 metres (160 ft) within 3 minutes of despatch. The then-chief executive, John Wilby, resigned shortly afterwards. This failure is often cited in case studies of poor engineering management.A software upgrade in July 2006 led to repeated system crashes during August. As a result, dispatchers had to go back to old pen-and-paper methods.On 8 June 2011, the LAS attempted to implement a new CAD system, called CommandPoint, costing £18 million, and built by Northrop Grumman, an American aerospace and defence technology company.
+During its implementation it developed technical problems and was replaced by a pen-and-paper method for several hours, until a decision was taken to revert to the previous system, CTAK, in the early hours of 9 June. It was later announced that a review of the difficulties experienced would be undertaken.A second attempt at implementing CommandPoint took place on 28 March 2012. The trust was considering terminating its contract with Northrop Grumman if the re-attempt to go live with the new system failed. Despite a drop in response times to "Category A" (life-threatening) emergency calls in the period immediately after implementation, which coincided with above average demand, the LAS stated that "The new system is now familiar to all control room staff and demand has returned to more or less predicted levels, with a corresponding increase in performance".On the morning of 1 January 2017, one of the busiest nights of the year due to new year celebrations, a system failure impacted the system for several hours. Between 00:30 and 05:15 control room staff had to fall back on pen and paper methods.  Response times were further impacted by the concurrent failure of the web based tracking system and of automated satellite navigation systems for ambulance crews. This required location details to be passed by radio and then manually entered into satellite navigation systems in vehicles. The ambulance service stated that an investigation would be launched to establish the reasons for the system failure.In October 2019, the service adopted a platform called GoodSAM, which enables control room staff to connect to a callers' smartphone and assess seriously injured patients via a video link. They can locate a caller and check a patient's pulse from the scene. Using the service in the first month staff decided not to use an air ambulance in 38 of the 67 cases where it was used. It plans to expand the use of the technology across 999 and 111 calls.
+
+Finance
+In April 2015, the trust asked its commissioners for £27M extra funding to help it recruit more staff and buy new vehicles.
+
+Popular culture
+London Ambulance Service has appeared in multiple documentary series including:
+
+Men in the Ambulance - 1974
+Bloomsbury 3 - 1986
+Red Base One Four - Channel 4 - 1996
+Condition Critical Channel 5 - 2000
+999: What's Your Emergency? Channel 4 Series 2 - 2013
+An Hour To Save Your Life BBC Series 1-3 2014-2016
+Ambulance BBC series 1 (2016) and series 6 (2020)
+
+See also
+Emergency medical services in the United Kingdom
+British Red CrossOther London emergency services:
+
+London Fire Brigade
+British Transport Police
+City of London Police
+Metropolitan Police
+Royal National Lifeboat Institution
+
+References
+External links
+
+Official website 
+Inspection reports from the Care Quality Commission

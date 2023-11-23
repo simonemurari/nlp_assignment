@@ -1,0 +1,95 @@
+Grosstarock (German: Großtarock) is an old three-handed card game of the Tarock family played with a full 78-card Tarot pack. It was probably introduced into the southern German states around 1720 but spread rapidly into Austria and northwards as far as the Netherlands and Scandinavia. It only survives today in Denmark where it is called Tarok.
+Classical Grosstarock is not related to the modern 54-card game known as Viennese Grosstarock which developed out of Zwanzigerrufen.
+
+History
+This form of Tarot game was introduced into Germany from France around 1720, its initial terminology and mode of play being typically French. The original game - which may be referred to as classical Taroc (Tarocspiel or Taroc-Spiel) - was a simple, three-hander with no bidding but several card combinations, as can be seen from descriptions in the 1750s. However, it differed from its French predecessor in having significantly fewer declarations; in addition, the Fool had to be played before the last three tricks, not just before the final trick, and there was a new emphasis on the Pagat Ultimo bonus.The next development of the game is first described in the 1783 edition of Das neue Königliche l'Hombre which, for the first time, records a feature whereby a player taking no tricks is able to score all the points. Dummett sees this as the distinguishing mark of the game he calls Grosstarock and believes that this name was not introduced until the mid-19th century. More recent research has revealed that, in fact, the name Grosstarock was being used far earlier than that. For example, it is recorded in 1785 that "Großtarock" was one of several card games played in Göttingen, and, in 1803, a Professor Wildt wrote that "the so-called Gross-Taroc, in which 6 to 7 ultimo’s are possible, and several are tried at the same time, really requires more mental effort than the usual chess game." Meanwhile German authors use the term more widely; for example, Mayr and Sedlaczek refer to the 1754 rules as the "oldest surviving form" of Grosstarock, while Alscher describes the Danish version as "Danish Grosstarock".According to Dummett, the name 'Grosstarock' ("Great Tarock") was coined at a time when the 78-card game was being threatened by competition from newer games played with a shortened, 54-card pack. However, there is no evidence of 54-card games being played in northern Germany and Denmark where Grosstarock was popular in the late 18th and early 19th century, so it may be that the name arose in southern Germany or Austria and migrated north with the game or that the name was coined to avoid confusion with Tarok l'Hombre which was popular across Germany as stated in contemporary sources such as the 1838 ladies' encyclopaedia, the Damen Conversations Lexikon. As Tarok l'Hombre became more popular among the middle classes during the 19th century, Grosstarock continued to be played by the common folk, which may have resulted in another name for it: Schustertaroc or Schuster Tarock (literally: "Cobbler's Tarock").In Germany and Austria, Grosstarock continued to be played throughout the 19th century. Dummett believed that it did not survive the First World War, but Hülsemann states in 1930 that Grosstarock was still popular in southern Germany and Austria, while in 1892, the Coburger Zeitung confirms that Tarok is only native to Austria and Bavaria. Neither country produces 78-card Tarock packs any longer.
+The game was known in Denmark as early as 1770 where it was played at the royal court. The first rules were published in 1786, and by 1840 they already included features that are peculiar to the Danish variant, such as separate pots for the King and Pagat ultimo. The Danes also retained the anticlockwise mode of play and adopted a very wide range of declarations, although some authors counselled against having too many.The game is still played in Denmark today where it is usually called Tarok. However, this game is also referred to – for clarification – in English as Danish Tarok or Danish Tarock. The modern Danish game is played in a form that Martin argues is close to the original German Grosstarock. The Danes produced their own Tarok cards from the mid-18th century, initially based on the Bavarian Animal Tarot pattern and later to Jacob Holmblad's own design, but manufacture of all Danish Tarok cards had ceased by 1939, so nowadays they use imported French Tarot Nouveau packs. In 2010, the Danish Tarock Association (Dansk Tarokforbund) was formed and, today, there are local clubs in Aarhus, Aalborg, Allerød, Blovstrød, Brabrand, Fredericia, Hjørring, Holbæk, Kalundborg (the Royal Tarock Club and the Kalundborg Tarock Club), Nørrebro, Randers and Westre.
+
+Equipment
+Grosstarock is played with a French suited pack of 78 cards. Originally these were of the German animal tarot type. The earliest pattern may have been the Besançon pattern tarots which were introduced from the Alsace, but were made in Germany as early as the 1720s. They were followed by the earliest animal tarots utilizing Lyonnais face cards, made around 1740 in Strasbourg and also in Germany up to the early 19th century.The Bavarian animal tarot was designed by Andreas Benedict Göbl of Munich, Bavaria around 1765. He replaced the Lyonnais face cards with the Bavarian version of the Paris pattern. Though widely copied and becoming the most widespread animal tarot, it died out in the early 19th century, so players may have switched to the Belgian Animal Tarot pattern or to other patterns such as Wüst's Bourgeois Tarot. Despite their names, both originated in Germany. The Belgian pattern continued to be made until the late 19th century, while the Bourgeois Tarot is still made, but only in a 54-card version. However, a facsimile of a Russian derivative of the 78-card Bavarian Animal Tarot pattern (Russisches Tiertarock) is available from Piatnik.
+Around 1800, double-ended versions of the Bavarian Paris pattern appeared. Of these the Adler Cego pattern is the only animal tarot pattern still in common use, but it is no longer made with 78 cards. As a result, Danish Tarok players today use French Tarot Nouveau cards. In all cases the packs comprise the following cards:
+
+Two black suits (Clubs and Spades) ranking as follows: K (high) Q C V 10 9 8 7 6 5 4 3 2 A (low)
+Two red suits (Hearts and Diamonds) ranking thus: K (high) Q C V A 2 3 4 5 6 7 8 9 10 (low)
+Twenty one Tarocs or Taroks as permanent trumps
+One unnumbered card, the Sckis, Scüs or Excuse (German Taroc), Sküs (Grosstarock), Scies or Scus (Danish Tarok), which 'excuses' the player from following suit.Note that, in some rules, all suits were ranked in their natural order with Aces low.In addition, present-day Danish players also use two pots and coloured jetons for scoring.
+
+Aim
+The aim in every case is to score points by capturing counting cards in tricks and to earn bonuses through declarations and certain accomplishments during the play.
+
+Taroc
+The earliest rules in German for a Tarock game were published in 1754 in Regeln bey dem Taroc-Spiele. They were reprinted in the 1755 edition of the games compendium, Palamedes Redivivus, and elaborated in Die Kunst, die Welt (1756). Although German Grosstarock packs are no longer produced, the game may be played using the standard 78-card, French Tarot pack which is readily available, or using 78-card facsimile packs of the Animal Tarot or other early Tarock patterns which are occasionally printed. The following is summary of the early rules:
+
+Preliminaries
+The game is played between three players. Four may play with one player in turn, known as the 'King', sitting out for the deal. Play is anticlockwise. The dealer distributes 5 rounds of 5 cards each, keeping the last 8 cards himself. He then discards 3 cards which count to him at the end. They must not include any Kings or Tarocs unless he only has exactly 3 Tarocs including the Pagat, in which case they may be discarded. In addition, a combination of the Pagat, Sckis or Excuse (the Fool) and another Taroc is a legal discard. There are penalties for misdealing.
+
+Declarations
+Opening with the dealer, players now make any of the following declarations which earn payments from each opponent in 'game points' as shown:
+
+Declarations must be made before play starts, otherwise they do not count.
+
+Play
+Players must follow suit,  or trump if unable; otherwise they may discard any card. If a player loses the Pagat during the game, he pays a penalty of 5 points to each adversary. If it is lost in the last trick, he pays 10 points. However, if he wins the last trick with the Pagat, he is paid a bonus of 10 points from each opponent.
+The Excuse cannot be beaten nor can it win a trick. But its owner may play it at any time instead of another card. He retrieves the Excuse from the trick, lays it away in his own trick pile and gives the trick winner a low card of his choice, from his tricks, in exchange. The Excuse must be played by the 3rd last trick. If it is held until that point and its owner is on lead, he must surrender the lead to the player on his right and play the Excuse in his turn. In addition, the Excuse may not be held when its owner has run out of Tarocs, but must be played to the next trick in which he is void in the led suit. If a player takes no tricks but has the Excuse at the end, he is paid 4 points from each adversary.
+
+Scoring
+The game is scored in 'game points'. These must not be confused with 'card points' which represent the value of individual cards and are used to determine who won the deal and by how much. Scoring works as follows:
+
+Card points: First players add up the card points won in tricks. Kings are worth 5, Queens 4, Cavaliers 3 and Valets 2 card points each. The Pagat, Excuse and XXI are also worth 5 each. The remainder are non-scoring blanks. Scoring is carried out in threes, players sorting their tricks so that there is one scoring card and two non-counters in each triplet. The rules state that "in this way there are exactly 78 points in the pack", which means that there are always 7 triplets consisting solely of non-counters that are worth 1 point each. Players then work out their overshoot or undershoot points i.e. the number of points above or below 26.
+Game points: Players score game points for a) the game, b) declarations and c) the Pagat bonus. For the game, they are paid as many game points as they have scored overshoot points or pay out as many as they have undershoot points. For example if A makes 40 in card points, B makes 20, and C makes 18; B pays 26-20 = 6 game points to A and C pays 26-18 = 8 game points to A. A thus receives 14 game points which equal his overshoot points i.e. 40-26 = 14. These are then added to the game points for declarations and winning or losing the Pagat mentioned above.
+
+Grosstarock
+Dummett describes Grosstarock rules in Ten Tarot Games, based on a number of sources. Once again it is a three-hand game, but this time dealing and play are clockwise. Dealer distributes all the cards in packets of five, leaving himself with the last eight cards. He then discards three cards which must not include a King or Tarok 21. He must not discard any other Taroks unless he has the Pagat (Tarok 1) and no more than 2 others.
+
+Declarations
+Beginning with the dealer, players may make any of the following announcements which score points as shown:
+
+Play
+The player to the left of the dealer leads to the first trick; thereafter the winner of the trick leads to the next one. Players must follow suit, or trump if unable, but there is no compulsion to win a trick. Tricks are won by the highest Tarok or, if no Tarok is played, the highest card of the suit led. The Sküs may not take a trick, but is may be played at any time to any trick. Normally it is retrieved by its owner and a low card given to the trick winner in exchange from the trick pile; however, if played to the last three tricks it is captured by the trick winner.
+
+Scoring
+Card points: At the end of the deal, player count up the card points they have won in tricks. The process is slightly different from that in early German Taroc. For a start, the card values for scoring purposes are: Honours (Tarok 21, Pagat/Tarok 1, Sküs) – 5 points,  Kings – 5 points, Queens – 4 points, Cavaliers – 3 points, Jacks – 2 points and all others (the Ladons) – 1 point. Cards are grouped in threes again, but this time their points are totted up and two deducted per triplet. So a Queen, Jack and 7 count as 4+2+1−2 = 5. Once again, the whole pack contains 78 points.Game points. Scoring for the game is as in German Taroc above. A player who scores exactly 26 card points pays and receives nothing. Those scoring above 26 receive as many game points as they have in excess of 26; those scoring below 26 have to pay as many games points as they fall short. In addition there are the game points for declarations (see table above) and the following game points for bonuses and penalties:There are also options for players to announce a Vole beforehand; if successful, this scores 52 if announced before the 1st trick, 38 if before the 13th and 31 if before the 20th trick. Failure incurs the same penalty in reverse. A Nolo may also be announced; if successful, scoring 36 if announced before the 1st trick and 31 if before the 13th. If it fails, the normal payments for bonuses, penalties and card points are made; in addition, a 10-point penalty is incurred if it was announced before the 1st trick and 5 points if before the 13th trick. All bonuses are paid by both opponents to the player who earns them and all penalties are paid to both opponents by the player who incurs them.
+
+Danish Tarok
+The following rules are based on those published in 2011 by the Danish Tarok Association who point out that rule variations are permitted and that each local club may have its own version of the rules.
+
+Preliminaries
+In addition to the card pack, Danish Tarok also makes use of two pots – a King pot and a Pagat pot – and jetons for scoring, ideally with denominations of 5, 10, 20 and 100 points. At the start of the game, each player antes 20 points into each pot and lots are drawn to decide the first dealer.
+If either pot is empty, everyone antes 20 points to it, otherwise the dealer tops it up with a 5 point stake. The dealer then deals all the cards out, to the right in packets of five. He then takes the 3 remaining cards into his hand and must lays away 3 cards to the skat. The skat must not contain any matadors (Pagat, Scies, Tarok 21) or Kings, and must not include any cards used in declarations unless this cannot be avoided, in which case the dealer must show them. Taroks may only be discarded if it leaves the dealer void in that suit,  may never be discarded. If a Tarok is discarded, the dealer must disclose the fact.
+
+Declarations
+Following the discard, all players must declare any scoring combinations in their hands, the dealer going first. Players are paid the score shown by each opponent. Failing to make a declaration when you could, incurs a penalty. The following declarations are possible:
+
+Play
+Play is to the right and forehand (right of dealer) leads to the first trick. Players must follow suit or trump if unable (here the Scies may be counted as a Tarok but does not win the trick). A player need not head the trick but may underforce. The trick winner leads to the next trick. 
+The Scies may be used as a wild card in declarations or during play. It may be used in more than one declaration. It does not count as a Tarok when discarding to the skat or if a player has no other Taroks and is thus entitled to a redeal. During the game the Scies may be played at any time, its owner stating the suit it represents. If neither opponent can follow suit, the next player in turn may re-designate the suit for that trick.  When the Scies is played it never wins the trick, but is recovered and the trick winner is given a low card from Scies player's trick pile in exchange. A player may demand that the Scies is played to the antepenultimate trick, but there is a penalty for getting this wrong. It may not be played to the penultimate trick and, if played to the last, it is captured by the trick winner.
+A Nolo is the achievement of failing to take any tricks and earns a special bonus. It invalidates any ultimos by another player; but losing an ultimo still incurs a penalty. There is no payment for winning the last trick and the Noloist is penalised for losing a King or the Pagat.
+
+Scoring
+Card points. Players add up their points from cards won in tricks as in Grosstarock. Players earn 5 game points for every 5 card points scored above 24 and pay 5 game points for every 5 card points below 28.
+Game points: As before, players score game points for points won in tricks, for declarations and for bonuses or penalties. However, game points for points won in tricks are scored differently, in that players receive 5 game points for every 5 card points scored above 24 and pay 5 game points for every 5 card points below 28. Game points for declarations are given above; those for bonuses and penalties are as follows:All bonus points are paid by both opponents to the player who earns them, and all penalty points are paid to both opponents by the player who incurs them.
+
+Footnotes
+References
+Bibliography
+Regeln bey dem Taroc-Spiele. Leipzig. 1754.
+Die Kunst, die Welt erlaubt mitzunehmen in den verschiedenen Arten der Spiele. Vol. 2. Vienna and Nuremberg: Georg Bauer. 1756.
+_ (1783). Das Neue Königliche l'Hombre. Hamburg: Herold.
+Alscher, Hans-Joachim (2003), ed. Tarock: mein einziges Vergnügen. Leoben: Obersteirisches Druck- und Verlagsges.
+Dummett, Michael (1980b). Twelve Tarot Games. London: Duckworth. ISBN 0-7156-1488-6.
+Dummett, Michael (1980). Twelve Tarot Games. London: Duckworth. ISBN 0-7156-1488-6.
+Dummett, Michael and John McLeod (2009). A History of Games Played with the Tarot Pack: Supplement. Oxford: Maproom.
+Dyck, Johann Gottfried (1755). Palamedes Redivivus. Leipzig.
+Furr, Jerry Neill (2009). "Grosstarock" in Tarocchi: Introducing the Card Games for Tarot. Philebus. ISBN 978-1448-60972-7
+Herloßsohn, Carl (1838). Damen Conversations Lexikon, Vol. 10 (Tableaux-Zwischenart). Adorf: Verlags-Bureau.
+Hülsemann, Robert (1930). Das Buch der Spiele. Leipzig: Hesse and Becker.
+List, Gottlieb Christian Heinrich (1785). Beyträge zur Statistik von Göttingen. Berlin.
+Martin, Ulf (2015). "The Tarock of the Skat Inventors. Part I: Grosstarock Redefined" in The Playing-Card, Vol. 44, No. 3, Oct – Dec 2015, Journal of the International Playing-Card Society, ISSN 1752-671X, pp. 134-147.
+Mayr, Wolfgang and Robert Sedlaczek (2001). Das große Tarockbuch. Vienna and Frankfurt/M: Deuticke.
+Møller, Hans J. (2011). "Two Centuries of Danish Tarok Rules" (PDF).
+
+External links
+Danish Tarok Association (Dansk Tarokforbund) home page.
+Grosstarock rules.
+Grosstarock (rules for Danish Tarock).
+Tübinger Tarock (Four-handed relative played around 1890)

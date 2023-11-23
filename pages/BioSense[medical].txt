@@ -1,0 +1,20 @@
+BioSense is a program of the Centers for Disease Control and Prevention (CDC) that tracks health problems as they evolve and provides public health officials with the data, information and tools they need to better prepare for and coordinate responses to safeguard and improve the health of the American people.
+By integrating local and state-level information, CDC will provide a timely and cohesive picture at the regional (i.e., multistate) and national levels and improve BioSense's utility.
+The key components of the BioSense program redesign are to:
+
+Help build health monitoring infrastructure and workforce capacity where needed at the state, local, tribal, and territorial levels
+Facilitate the interchange of information that can be used to coordinate responses and monitor health-related outcomes routinely and during an event
+Retain the original purpose of BioSense to detect and characterize events (or health-related threats) early by building on state and local health departments systems and programs
+Expand the utility of BioSense data to multi-use [and all-hazard] beyond early event detection and to contribute information for public health situational awareness, routine public health practice, and improved health outcomes and public health
+Improve the ability to detect emergency health-related threats by supporting the enhancement of systems to signal alerts for potential problems
+Increasing local and state jurisdictions participation in BioSense
+Advances in science and technology
+
+BioSense mandate and establishment
+Mandated in the Public Health Security and Bioterrorism Preparedness Response Act of 2002, the CDC BioSense Program was launched in 2003 to establish an integrated national public health surveillance system for early detection and rapid assessment of potential bioterrorism-related illness.
+
+BioSense 2.0
+By November 2011, the Redesigned BioSense (or BioSense 2.0) will develop a community-controlled environment (architecturally distributed in a cloud-based model) governed by the Association of State and Territorial Health Officials (ASTHO), in coordination with the Council of State and Territorial Epidemiologists (CSTE), National Association of County and City Health Officials (NACCHO), and International Society for Disease Surveillance (ISDS).  ASTHO will offer this service to states for receiving and managing syndromic surveillance information.The cloud-based BioSense 2.0 environment allows State and Local health departments to access data that will support potential expansions of their syndromic surveillance systems under the Meaningful Use program. States that elect to use this utility will each have a secure "zone" that they control and can use to manage or share their syndromic surveillance information.
+
+
+== References ==

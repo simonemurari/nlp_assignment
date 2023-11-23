@@ -1,0 +1,159 @@
+Big two (also known as deuces, capsa, pusoy dos, dai di and various other names) is a card game of Cantonese origin. It is similar to the games of Zheng Shangyou, daifugō, president, crazy eights, cheat, and other shedding games. The game is very popular in East Asia and in Southeast Asia (due to overseas Chinese influence), especially throughout mainland China, Hong Kong, Vietnam, Macau, Taiwan, Indonesia, the Philippines, Malaysia and Singapore. It is played both casually and as a gambling game. It is usually played with two to four players, the entire deck being dealt out in either case (or sometimes with only 13 cards per player, if there are fewer than four players). The objective of the game is to be the first to play off all of one's cards.
+
+Names
+This card game has many other names, including big deuce and top dog. In Mandarin Chinese it is 大老二, pinyin: dà lǎo èr; in Cantonese, 鋤大弟, sho tai ti (among other transliterations, including chor dai di, and rendered in jyutping tonal notation as co4 daai6 di2), or simply dai di. It is cap sa in Hokkien, 十三, meaning "thirteen" (coming from the number of cards dealt to each player), a name is commonly used in Indonesia. In Malta, it is often referred to as ciniza ('Chinese') or giappuniza ('Japanese'), due to its East Asian origin. In English, it is sometimes ambiguously called Chinese poker because of its use of poker hands, but this name more often applies to another game of an entirely different nature.
+A variant is called pusoy dos in Filipino, or in other Philippine dialects chikicha (also sikitcha).A commercial version of the game was published as Gang of Four by Days of Wonder in 1990.
+Big two is sometimes confused with tien len (a.k.a. thirteen); the two games differ primarily in that big two involves poker hands, while tien len does not.
+
+Rules
+Valid combinations
+Cards may be played as singles or in groups of two, three or five (var. 1 and 8), in combinations which resemble poker hands. The leading card to a trick sets down the number of cards to be played; all the cards of a trick must contain the same number of cards. The highest ranking card is 2 instead of A. The combinations and their rankings are as follows, mostly based on poker hands:
+
+Single cards: Any card from the deck, ordered by rank with suit being the tie-breaker. (For instance, A♠ beats A♥, which beats K♥.)
+Pairs: Any two cards of matching rank, ordered as with singular cards by the card of the higher suit. (A pair consisting of the K♠ and K♦ beats a pair consisting of K♥ and K♣.)
+Triples: Three equal ranked cards, three twos are highest, then aces, kings, etc. down to three threes, which is the lowest triple. In some variations, a triple can only be played as part of a five-card hand.
+Five-card hands: There are five (var. 2) different valid five-card hands, ranking from low to high as follows (the same ranking as in poker, where applicable):Straight (also known as a snake in Cantonese or mokke in Malaysia): Any 5 cards in a sequence (but not all of the same suit). Rank is determined by the value of the biggest card, with the suit used only as a tie-breaker. Therefore 3-4-5-6-7 < 2-3-4-5-6, since 2 is considered the largest card in the 2-3-4-5-6 straight. The largest straight is A-2-3-4-5, second 2-3-4-5-6, third 10-J-Q-K-A while the smallest straight is 3-4-5-6-7.
+Flush (also known as a flower or sama bunga in Malaysia): Any 5 cards of the same suit (but not in a sequence). Rank is determined by Face value of the cards (highest first, then each lower card in order). Suit (♠,♥,♣,♦), is used to break ties. In some popular variations, flushes are not permitted as a playable hand, and thus it is the lowest possible combination.
+Full house (also known as a gourd in Chinese): a composite of a three-of-a-kind combination and a pair. Rank is determined by the value of the triple, regardless of the value of the pair. Also known as a Fullen.
+Four-of-a-kind + One card (nicknamed King Kong, tiki, or Bomb or ampat batang in Malaysia, or Iron bullet (tieji) in Chinese): Any set of 4 cards of the same rank, plus any 5th card. (A four-of-a-kind cannot be played unless it is played as a five-card hand) Rank is determined by the value of the 4 card set, regardless of the value of the 5th card. It is also known as a poker. (Some play the Four-of-a-kind hand as the beat all, therefore nicknamed the bomb, King Kong, or also tiki.) In some variations, when a bomb was dealt, it immediately makes the 2s to be the lowest cards in the game (with 2 of diamonds becoming the lowest)
+Straight flush: A composite of the straight and the flush: five cards in sequence in the same suit. Ranked the same as straights, suit being a tie-breaker. (Sometimes also called a "bomb" (or tiki or sunn) in Malaysia, greater than a four-of-a-kind)The dealer (who may be chosen by cutting the cards, as usual) shuffles the deck to begin with and begins dealing out the cards singly, starting with the person of his right, in a counter-clockwise manner around the table. The cards are dealt out among the players as far as they can go while retaining an equal number of cards for each player. Leftover cards (not possible if there are 4 players) are then given to the player holding the 3♦. If this card is in the kitty, then the holder of the next lowest card adds them to his pile (var. 5). The Joker cards are not used under normal rules and are taken out before dealing.
+At the beginning of each game, the player with the 3♦ (var. 6 and 9) starts by either playing it singly or as part of a combination, leading to the first trick. Play proceeds counter-clockwise, with normal climbing-game rules applying: each player must play a higher card or combination than the one before, with the same number of cards. Players may also pass, thus declaring that they do not want to play (or do not hold the necessary cards to make a play possible). A pass does not hinder any further play in the game, each being independent, referred to as jumping-back. (var. 14).
+When all but one of the players have passed in succession the trick is over (some variations have when 1 player has passed the trick is over), and the cards are gathered up and a new trick is started with all players, initiated by the last player to play. When a player plays the 2♠ either as a single or as part of a pair of 2s, it is often customary for that player to start the next trick immediately by leading a new card or combination, since the 2♠ cannot be beaten whether as a single or as part of a pair of 2s, and the passes are mere formalities.
+It is often courteous for a player to warn others when they are one playing combination away from winning. The goal is, then, for the other players to play (and get rid of) as many cards as possible while avoiding the combination that would allow the calling player to win the game. For example, if said player has one last single card, the other players would play doubles or other combinations to force that player to pass.
+The game ends when one player runs out of cards. Refer to scoring section.
+In most popular variations, ending with a single or double two is not allowed.
+
+Reshuffling
+If a player receives a hand with only 3 points or less, they may declare their cards, and the cards shall be reshuffled and dealt again. Common point counting rules are as follows: J=1, Q=2, K=3, A=4, 2=5, others=0. These point-counting rules may vary from game to game, or may be voided. A variation states that a player holding a hand with no cards with faces on them (namely Jacks "J", Queens "Q", and Kings "K") may request a reshuffle and the cards shall be dealt again. In addition, if a player has four twos, it may be mandatory to have a reshuffle.
+
+Scoring
+Scoring varies from region to region. The most common version is that after a game, each player with cards remaining valued at one point each, and doubles if they have 10 or more cards, or triple is all 13 cards are intact and not played at all. The points is then paid to the winner. (Example: North player wins, and East, West, and South respectively still had 3, 11, and 8 cards left, then East would score -3, West would score -22, South would score -8, and North would score +33.) 
+Any unused 2's, or a Four-of-a-kinds or Straight Flushes also doubles the points paid to the winner. If the winner ends the game by discarding a 2, a four-of-a-kind, or a Straight flush, the base points will also be doubled, but does not stack regardless of an ending hand. (Example: North players wins with a 2 as a last discard, and East, West, and South respectively still had 3, 9, and 8 cards left with the West had an unused Straight Flush and South left with an unused 2, then East would score -6, West would score -36, South would score -32, and North would score +74.)
+Likewise for a three-player game, a player with 17 cards remaining is deducted triple points. A player with more than 11 cards and less than 17 cards remaining is deducted double points. An alternative scoring method to deduct one point per remaining card, is to double the count for each unused 2's.
+
+Penalty for assistance
+If Player B won a game by playing their last card (the case of more than one card played is excluded) after Player A has played theirs and Player A could have prevented this from happening by playing a higher card, Player A deemed to have assisted Player B.
+There are several ways to penalize Player A. The most common way is for Player A to be deducted the total points that the other two losers have lost on top of their own so that the other two may win some points.
+This rule can vary between styles of play. If the scoring system is based on ranks (e.g. who finishes first, second, third or last), the rule would not apply.
+
+Variations
+Smack-Down: Can be played to defeat the "big 2" only when the 2♠ is played as a single. A smack-down is either four-of-a-kind or a run of pairs (Example: 4-4-5-5-6-6), and is often executed with a violent smack of the playing surface. The run of pairs may be any length of at least 3. After a smack-down has been played, any player is allowed to "smack-back" with a higher four-of-a-kind or run of pairs of equal length as the smack-down. The “Smack-Down" and the “Smack-Back" originated on the first floor of the Meyerhoff Chemistry Building at UMBC and is often culminated with a violent smack of the playing surface.
+If a player leads off with three 3s, the following player is required to play three 2s if no other play is possible.
+Some allow four-of-a-kind without extra card; 2s rank high, as usual.
+Some variations allowing four-of-a-kind without extra card do not allow for two pairs.
+Some allow four-card combinations (two pairs or four cards alone, without an odd card). Four-of-a-kind beats two pairs.
+Some allow a sixth five-card combination called "two pair junk" or "butterfly", consisting of two pairs (of different ranks) and one odd card (the junk); rank is determined by the highest pair. This combination ranks below the straight.
+Some allow the three-of-a-kind poker hand, consisting of a triple and two junk cards. This combination ranks below the straight.
+Or it can be more specific, known as "sisters", where two consecutive pairs are played, with any random card. This combo is lower than a straight, making it the weakest five-card combo in the game, if it is played. An example of sisters is double jack, double queen and a single nine. This would be beaten by a double king, double ace and a three (only the "sisters" count, not the random card.)
+3-K-K-A-A > 9-J-J-Q-Q (tie-breaker rules vary)
+Some variations allow for straights longer than five cards, or even as short as three cards.
+There are many variations on ranking straights, suit of last card is tie-breaker unless otherwise stated.
+3-4-5-6-7 < ... < 10-J-Q-K-A < A-2-3-4-5 < 2-3-4-5-6 (suit of 2 is tiebreaker; Malaysian variant)
+3-4-5-6-7 < ... < 10-J-Q-K-A < J-Q-K-A-2 (Indonesian variant)
+3-4-5-6-7 < ... < 10-J-Q-K-A < 2-3-4-5-6 (Suit of 2 is tiebreaker) < A-2-3-4-5 (suit of 2 is tiebreaker; Singapore/Hong Kong variant)
+2-3-4-5-6 < 3-4-5-6-7 < ... < 9-10-J-Q-K < 10-J-Q-K-A < A-2-3-4-5 (suit of A is tiebreaker)
+2-3-4-5-6 < 3-4-5-6-7 < ... < 9-10-J-Q-K < A-2-3-4-5 (suit of A is tiebreaker) < 10-J-Q-K-A
+3-4-5-6-7 < ... < 10-J-Q-K-A (Vietnamese variant)
+A-2-3-4-5 < 3-4-5-6-7 < ... < 9-10-J-Q-K < 10-J-Q-k-A < 2-3-4-5-6 (suit of 2 is tiebreaker; Taiwan variant)
+Some rank flushes by highest suit, K-Q-J-10-8 in spades defeating A-K-Q-J-9 of diamonds.
+Some discard the extra cards. Some play that the lowest cards are consciously removed to avoid having the 2♠, the highest card, in the kitty. Yet others give the kitty to the holder of the lowest diamond (not necessarily the lowest card).
+Whereas sometimes in a three-player game, the extra card is not revealed (or is revealed), and the holder of 3♦ is given a chance to make a decision to or not to trade his/her 3♦ for the extra card. If he/she does, the starting player will be 3♣ holder, or the previous winner depending on the rules.
+Some switch ♦ and ♣, to conform to contract bridge tradition, and play begins with the 3♣. Another variation rearranges the suit ranks from (lowest to highest) ♣, ♦, ♠, ♥. Another variation of suit ranks is (lowest to highest) ♣, ♠, ♥, ♦. Taiwan rule of suit ranks is (lowest to highest) ♣, ♦, ♥, ♠.
+In some variations, suit rankings are not used, for example, a 3-single cannot be used to beat any other 3-single, and an 8-high straight cannot be used to beat any other 8-high straight.
+A variant to discourage passing disallows a player from playing any further cards to a trick after he or she passes.
+A rare variation involves a three-player game, where each is dealt 17 cards. A "Dragon" consists of 13 cards in straight (A-K-Q-J-10-9-8-7-6-5-4-3-2), is considered a valid combination and may be played once the player has gained control of the game. Suit of 2 is tie-breaker.
+In Malta, a dragun or "dragon" is not a thirteen-card straight, but it is the initial thirteen cards that the player is dealt, consisting of six pairs and any other single card. A player who is dealt a dragon immediately wins the game. However, if the dragon contains a pair of 3s it is called a dragun bla-bajd and the player immediately loses.
+In tournaments, starting the game with 3♦ is only true for the first round. In subsequent rounds, the winner of the previous round plays first.
+If only two players are available, deal thirteen cards each and play as normal. When one player passes she or he is forced to pick up one card from the remaining deck and add it to his hand. This variation is taken from the card game Go Fish.
+If three people are playing, deal four thirteen-card hands as if a fourth players were present. The hand to receive the last card that would normally become the dealer's now becomes the "ghost hand". No one plays the ghost hand and its cards are not shown, play continues as normal.
+If three people are playing, deal three seventeen-card hands, leaving one left over. The one card is placed in the middle, and whichever player possesses the two of spades or three of diamonds receives that card.
+In some places, owning 4 Twos is also a condition for Immediate Win. Some play Immediate Win rule in three-player game too. There are more cards involved, the chance of occurring and points transfer is therefore very high. On the contrary, some variations said that it is an automatic draw when a player has all four 2s, as having these cards gives the player such a great amount of power.  The chance of getting four 2s is 
+  
+    
+      
+        
+          
+            
+              
+                
+                  (
+                
+                
+                  48
+                  9
+                
+                
+                  )
+                
+              
+            
+            
+              
+                
+                  (
+                
+                
+                  52
+                  13
+                
+                
+                  )
+                
+              
+            
+          
+        
+        =
+        0.264106
+        %
+        =
+        1
+        :
+        379
+      
+    
+    {\displaystyle {\frac {\tbinom {48}{9}}{\tbinom {52}{13}}}=0.264106\%=1:379}
+   games.
+In some rules, four-of-a-kind + one card, and straight flush, can also be played on a pair or a single card, regardless of value.
+Some players rank all poker hands with traditional poker rules, except for the full house 2, which is higher than full house ace, and a hand must be won exactly, not just by a tiebreaker of suit.
+In some rules, a single 2♠ is not allowed to be played as the last card. Others do not allow any combination that includes the 2 of spades to be played as the last hand.
+A four-of-a-kind can be used to beat all card combinations that lack a four-of-a-kind.
+Some require the person to call "last card" when he/she only has one card left right after the last play. If the person holding the last card won, but forgot to call "last card" beforehand, he/she will take the penalty of all the other player's remaining cards, while other players will score 0.
+In some variations, a straight is considered higher than a flush. This can be determined beforehand.
+In Hawaii, a game variant called penning is played. The main difference is that the ranking of cards is diamonds high, followed by hearts, then spades, and clubs as lowest. When playing with three or four people, the 2nd and 3rd place titles are done by person with the lowest card going first.
+Joker rules: Jokers are added to the deck, and they can be played as any card with any suit. Also, the jokers are deemed higher than the Two of Spades, but the black joker is considered higher than the red joker. Another variation sets the joker as valueless: it can be played to beat any card, but any card can be played to beat the joker(s). These variations allow for more in-depth and strategic game play.
+No poker rules (a.k.a. no soccer ball rules): The players are not allowed to play a different type of 5 card hand over the current. For example, a full house can not be played over a straight.
+In some variations, any five-card combination can be played on top of any other five-card combination with a lower card value, e.g. 4-5-6-7-8 can be played on top of 7-7-7-6-6 even though full house is higher than straight in traditional big two.
+Some variants do not score; rather, play continues till all but one person have rid all cards, and at the end, players are ranked according to the order they got rid of their cards, e.g. 1st, 2nd, 3rd etc.
+The direction of play (clockwise or anti-clockwise) can be determined by a race between the two players on either side of the leader (previous round winner, or holder of 3♦).
+Playing with two decks: this enables up to eight players per game (and is required for five-of-a-kind hands to be possible). In this case, five-of-a-kind defeats four-of-a-kind, but may or may not defeat a straight flush. Players may or may not be allowed to play a hand equivalent to the previous hand, such as 3♦ followed by the other 3♦.
+Some variations do not allow any of the 2s to be played as the last single card of a player's hand.
+
+Big two president variation
+The usual rules of big two apply, with the following features borrowed from the game of president:
+
+The first player to clear all his cards becomes the President for the next round. The players next to the new President can follow the President's last play if possible (singleton, pair, three-of-a-kind, 5 cards). If no one can follow the President's last play or choose not to do so even when able (the player immediately next to the President has a strong incentive not to follow), the player next to the President gains control and may start a new sequence of his own. Eventually, this will produce the Vice-President, followed by the Vice-Scum. The last player remaining becomes the Scum for the next round.
+The first game proceeds without anyone being President, Vice-President, Vice-Scum and The Scum.
+Subsequent games involve the following:
+President passes their lowest 2 cards to the Scum. The scum passes their highest 2 cards to president. (A variant to this allows the President to pass any 2 cards, and after receiving cards. This can make a difference as their 2 lowest cards may form a five-card hand.)
+Vice-president passes their lowest 1 card to vice-scum. Vice-scum passes their highest 1 card to vice-president.
+
+Team play
+It is possible to play in teams of two with four total players. Teammates are positioned on the opposite side of each other, making them face each other. Teammates are not allowed to communicate with each other by any means regarding their cards, preferred combinations or the quality of their hands.
+The winning team is determined by the total number of cards held by each team when one of the players runs out of cards. This means that even if a player on a team manages to play their last card, the opposing team can still win by card count. (Ex: Mike and Dave are on one team against Lionel and Brendan. Mike has 4 cards, Dave has 5, and Lionel has 10 by the time Brendan plays his last card. Mike and Dave win the game by having a total of 9 cards in their hands against Lionel's 10.) Any player can ask what the card count is for each team at any point.
+If the card count is tied at the end of a game, all players proceed to a five-card shootout. Each player receives five cards and the game is played as normal. The lowest card holder starts and play proceeds with the same team grouping. Further ties lead to further five card hands; this determines the final winner of the original game.
+
+Cheating
+Players in collusion with one another have massive advantages over any non-colluding player(s). The basic strategy of colluding players is to preserve the high "control" cards against the non-colluder(s), and not to waste these cards amongst themselves. This strategy is called "holding" or "warrening". Other collusive techniques include signaling (through the played cards, e.g. odd/even as in bridge, or non-verbal cues) where the strength of the hand, number of controls, hand type, exact high cards, and other features of the hands are transmitted to the partner.
+Other cheating methods includes false shuffles, kiddening, peeking and cold decking. Cheating, especially collusive techniques, is rampant in online and higher stakes games.Another method of cheating is practiced in in-person games, and involves concealing the number of cards a player has by stacking their hand tightly together, so that other players will mistake the cheating player for having fewer cards than he or she actually does. This may lead other players to exhaust their higher cards earlier on the assumption that their opponent has almost won.
+
+See also
+Chinese poker
+Dou di zhu (similar rules, played with three players)
+Gnau
+Zi pai
+Four color cards
+Daguai luzi also known as wild escape or the joker's way
+
+
+== References ==

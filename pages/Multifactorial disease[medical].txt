@@ -1,0 +1,33 @@
+Multifactorial diseases are not confined to any specific pattern of single gene inheritance and are likely to be caused when multiple genes come together along with the effects of environmental factors.In fact, the terms ‘multifactorial’ and ‘polygenic’ are used as synonyms and these terms are commonly used to describe the architecture of disease causing genetic component. Multifactorial diseases are often found gathered in families yet, they do not show any distinct pattern of inheritance. It is difficult to study and treat multifactorial diseases because specific factors associated with these diseases have not yet been identified. Some common multifactorial disorders include schizophrenia, diabetes, asthma, depression, high blood pressure, Alzheimer’s, obesity, epilepsy, heart diseases, Hypothyroidism, club foot, cancer, birth defects and even dandruff. 
+The Multifactorial threshold model assumes that gene defects for multifactorial traits are usually distributed within populations.  Firstly, different populations might have different thresholds. This is the case in which occurrences of a particular disease is different in males and females (e.g. Pyloric stenosis). The distribution of susceptibility is the same but threshold is different. Secondly, threshold may be same but the distributions of susceptibility may be different. It explains the underlying risks present in first degree relatives of affected individuals.
+
+Characteristics
+Multifactorial disorders exhibit a combination of distinct characteristics which are clearly differentiated from Mendelian inheritance.
+
+The risk of multifactorial diseases may get increased due to environmental influences.
+The disease is not sex-limited but it occurs more frequently in one gender than the other; females are more likely to have neural tube defects compared to males.
+The disease occurs more commonly in a distinct ethnic group (i.e., Africans, Asians, Caucasians etc.)
+The diseases may have more in common than generally recognized since similar risk factors are associated with multiple diseases.
+Families with close relatives are more likely to develop one of the disease than the common population. The risk may heighten anywhere between 12 and 50 percent depending on the relation of the family member.
+Multifactorial disorders also reveal increased concordance for disease in monozygotic twins as compared to dizygotic twins or full siblings.
+
+Risk Factors
+The risk for multifactorial disorders is mainly determined by universal risk factors. Risk factors are divided into three categories; genetic, environmental and complex factors (for example overweight).
+Genetic risk factors are associated with the permanent changes in the base pair sequence of human genome. In the last decade, many studies have been generated data regarding genetic basis of multifactorial diseases. Various polymorphism have been shown to be associated with more than one disease, examples include polymorphisms in TNF-a, TGF-b and ACE genes, as well as mutations in BRCA1. BRCA2, BARD1, and BRIP1.Environmental risk factors vary from events of life to medical interventions. The quick change in the patterns of morbidity, within one or two generations, clearly demonstrates the significance of environmental factors in the development and reduction of multifactorial disorders. Environmental risk factors include change in life style (diet, physical activity, stress management) and medical interventions (surgery, drugs).
+Many risk factors originate from the interactions between genetic and environmental factors and referred as complex risk factors. Examples include epigenetic changes, body weight, pollution, and plasma cortisol level.
+
+Multifactorial Disorders; Continuous or Discontinuous
+Autosomal or sex-linked single gene conditions generally produce distinct phenotypes, said to be discontinuous: the individual either has the trait or does not. However, multifactorial traits may be discontinuous or continuous.
+Continuous traits exhibit normal distribution in population and display a gradient of phenotypes while discontinuous traits fall into discrete categories and are either present or absent in individuals. It is interesting to know that many disorders arising from discontinuous variation show complex phenotypes also resembling continuous variation  This occurs due to the basis of continuous variation responsible for the increased susceptibility to a disease. According to this theory, a disease develops after a distinct liability threshold is reached and severity in the disease phenotype increases with the increased liability threshold. On the contrary, disease will not develop in the individual who does not reach the liability threshold. Therefore, an individual either having disease or not, the disease shows discontinuous variation.
+An example of how the liability threshold works can be seen in individuals with cleft lip and palate. Cleft lip and palate is a birth defect in which an infant is born with unfused lip and palate tissues. An individual with cleft lip and palate can have unaffected parents who do not seem to have a family history of the disorder.
+
+History
+Francis Galton was the first scientist who studied multifactorial diseases and was the cousin of Charles Darwin. Major focus of Galton was on ‘inheritance of traits’ and he observed “blending” characters. The average contribution of each several ancestor to the total heritage of the offspring  and is now known as continuous variation. When a trait (human height) exhibiting continuous variation is plotted against a graph, the majority of population distribution is centered around the mean.   Galton’s work is contrary to work done by Gregor Mendel; as the latter studied “nonblending” traits and kept them in different categories.  The traits exhibiting discontinuous variation, occur in two or more distinct forms in a population as Mendel found in color of petals.
+
+See also
+Genetic disorders
+polygenes
+Quantitative trait locus
+
+
+== References ==

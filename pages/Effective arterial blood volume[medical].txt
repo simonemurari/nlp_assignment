@@ -1,0 +1,11 @@
+Effective arterial blood volume (EABV) refers to the adequacy of the arterial blood volume to "fill" the capacity of the arterial vasculature. Normal EABV exists when the ratio of cardiac output to peripheral resistance maintains venous return and cardiac output at normal levels. EABV can be reduced, therefore, by factors which reduce actual arterial blood volume (hemorrhage, dehydration), increase arterial vascular capacitance (cirrhosis, sepsis) or reduce cardiac output (congestive heart failure). EABV can be reduced in the setting of low, normal, or high actual blood volume. Whenever EABV falls, the kidney is triggered to retain sodium and water.
+
+Maintenance of EABV
+In cases of edema, increases in extracellular fluid (ECF) is associated with a corresponding decrease in EABV.  The kidneys detect changes in EABV and through Na+ excretions, they attempt to restore EABV balance.  The kidney mechanisms used to restore EABV include, (1) increased sympathetic nerve activity; (2) decreased Atriopeptin (ANP) secretion from the atria; (3) increased oncotic pressure (Starling forces); (4) increased activity of the Renin–angiotensin–aldosterone system.
+
+See also
+Extracellular fluid
+Veins
+
+
+== References ==

@@ -1,0 +1,106 @@
+Illustrated Tarock (German: Illustriertes Tarock) or Illustrated Dreiertarock is an Austrian card game that has been described as the "queen" of all three-handed Tarock games played with the 54-card pack. It was thought by Mayr and Sedlaczek to be extinct but, in 2009 when the two Tarock authors were guests on an ORF radio programme, players from Vienna called in who confirmed they still played the game. It is sometimes called Point Tarock which, however, is a different, probably extinct, game, albeit a close cousin. Although it has "a reputation for being a little more convoluted than the others", Furr maintains that this is not so, but recommends that players become familiar with Tapp Tarock before attempting this game.
+
+History and etymology
+Illustrated Tarock is one of a family of classical Austrian card games known as Tarock games; so much so, that the area of the former Austro-Hungarian Empire, in which they have a strong tradition, has been described as 'Tarockania'. These games have been featured in literature such as Herzmanovsky-Orlando's Masquerade of the Genii and Johann Nestroy's Zu ebener Erde und im ersten Stock. There are numerous variations of Tarock, many still played today, including the challenging four-player games of Königrufen (the "game of kings"), Zwanzigerrufen and Neunzehnerrufen, the original three-handed game of Tapp Tarock and its derivatives, and the "attractive" two-hander of Strawman Tarock.In 1923, Unger published rules for Tapper (i.e. Tapp Tarock) which incorporated several additional optional bonuses such as Uhu, Absolut and Grammopoi, all of which eventually became part of Illustrated Tarock. After the Second World War, Löw printed a similar set of rules in 1954 under the name of Point Tarock. An elaboration known as Illustrated Tarock was recorded by Beck from 1965 and reprinted into the 1980s. Other versions are recorded by Grupp (1974), Alscher (2004), Bamberger (2011), Mayr and Sedlaczek (2015) and Stöckl (2019).
+
+Name
+There is no consensus over the name of this game, which is variously called Illustrated Tarock (Illustriertes Tarock) or Point Tarock or both. However, both these names are also used for another, simpler, form of game that involves point-bidding, some calling that game Point Tarock and others, Illustrated Tarock. Since illustriertes implies "embellished", there is a logic in using Point Tarock for the variant that involves point-bidding and Illustrated Tarock for the more complex variant here that is embellished (Dummett suggests "embroidered") with additional announcements and bonuses making it "the queen of all Tarock games played with the 54-card pack, at least of three-handed ones." As Mayr and Sedlaczek explain, "the term 'illustrated' describes those card games that offer additional options of play."
+
+Cards
+Like other Tarock games in Austria and other lands of the former Habsburg Empire, Illustrated Tarock uses a 54-card deck of the type described in the article on Königrufen. This deck contains 22 tarocks as trumps (I – XXI + Sküs) and 32 suit cards in the four French suits of Hearts, Diamonds, Spades and Clubs. The game uses the same values as other Austrian tarock games like Königrufen.
+5 Points – Kings, I, XXI, Sküs; 4 Points – Queens; 3 Points – Cavaliers; 2 Points – Valets; 1 Point – remaining tarocks and pip cards
+Scoring of card points is carried out using the Tarock scoring scheme by grouping cards into threes. From the points in each triplet, 2 are deducted e.g. King + Cavalier + X = 9 points, minus 2 points gives 7 points. If fewer than 3 cards remain, 2/3 points are deducted from the total. 1/3 or 2/3 points are rounded up or down at the end to the nearest whole number.
+
+Rules
+An overview of rule sets showing the three main stages of development are given below. First, an example of the early, much simplified rules by Löw; next, the highly complex rules described by Beck; and, finally, the streamlined modern rules by Mayr and Sedlaczek.
+
+Early simple variant (1954)
+Deal
+Dealer shuffles and offers to the pack to the left for cutting. Six cards are then placed face down on the table to form the talon; then the remainder are dealt, anti-clockwise beginning with the forehand, in packets of four; each player receiving 16 cards. If, after the deal, a player has no Tarocks in his hand, he shows his hand and the dealer re-deals.
+
+Auction
+There are four positive contracts: 3 Blatt ("Three Cards"), 2 Blatt ("Two Cards"), 1 Blatt ("One Card") and Solo. They have a game value of 3, except for Solo which is 8. 
+Forehand begins by saying pass (weiter) or naming any contract. If a player passes, the right to bid goes to the next player in clockwise order. Once a player has bid, the next player may accept it (gut heißen) by saying "good" (gut), take it over with "take" or "I'll take it" (Ablösung), which raises the game value to 4, or name a higher bid. If his bid is 'taken over', the first player must accept or "hold" it (mein Spiel). If held, the second player may take it over again by saying "retake" (zweite Ablösung), in which case the game value rises to 5. Once either player drops out of the bidding by saying "good", the third player may now accept it with "good" or outbid it with a higher contract. Once a player has passed or accepted a bid, he may not take any further part in the auction. In addition, once a player announces a Solo the auction ends immediately; there is no option to take it over or hold.
+The bid winner becomes the declarer and exposes the talon (except in a Solo) without changing the card order. If he bid 3 Blatt, he must take either the top or bottom three cards, add them to his hand and discard three to start his trick pile. In a 2 Blatt, he picks up the top, middle or bottom pair of the talon and discards two cards; in a 1 Blatt, he may select any card and  discards one. The discards must not include the Sküs, Mond, Pagat or any Kings. A Tarock may only be discarded if there is no option and it must be placed face up. The discards count to the declarer at the end; the unselected talon cards are placed face down to start the defenders' trick pile and count to them. They may not be looked at thereafter until the end of the deal. Summary:
+
+Announcements
+The declarer may announce "40" before talon pickup, which is an intention to score at least 40 card points and earns 5 game points if successful. The opponents may respond with "contra", doubling the bonus score. After pickup, he may announce "Pagat", the intent to win the last trick with the lowest Tarock; or, optionally, "Uhu", the intent to do the same with the penultimate trick with the Tarock II. He may also announce "50", an intent to score 50 or more card points. When he has finished, the declared announces "ready" (es liegt), whereupon the defenders now accept the game and announcements by saying "good" or contra them separately. Each defender may also announce a Pagat or Uhu, the bonus counting to the individual, not the team. The points for these declarations are shown in the table below.
+
+Play
+Forehand leads to the first trick and the winner of the trick leads to the next. Players must follow suit or, if unable, play a tarock. If neither is possible, they may play any card. A trick is won by the highest card of the led suit, or highest tarock if any are played. Tricks are placed face down and players may only view their own tricks.
+
+Scoring
+Card points are added up using the usual Tarock scoring system (see above). Thirty-six points are needed to win. If the declarer wins, those points in excess of 35 are 'overshoot points'; if he loses, the points by which he falls short of 35 are 'undershoot points'. These count towards the score.
+The basic game value is 3, except in the case of a Solo when it is 8, or if, during the auction, the winning bid was 'taken', in which case it is 4, or 'retaken' in which case it is 5. If the declarer wins, his score comprises the game value (3, 4, 5 or 8) plus overshoot points plus any bonus points. This raw score is doubled if he played a 2 Blatt, trebled for a 1 Blatt and quadrupled for a Solo. The losers each score for any bonuses they achieved; these are also multiplied depending on the contract. If the declarer loses, the defenders score the game value plus undershoot points plus any bonuses. Again, their raw score is increased by any multiplier. If an announced bonus fails, the points go to the opposition; likewise if the Pagat is played to the last trick and lost, the bonus for Pagat ultimo goes to the side that captured it. 
+Examples: if A declares a 2 Blatt with Pagat ultimo and wins it with 37 points, but loses the Pagat in the last trick, he scores (3 + 2) x 2 = 10 points. Meanwhile B and C score 10 x 2 = 20 each for the captured Pagat. If A declares a Solo with 50, wins with 51 points and declares a Royal Trull, he scores (8 + 15 + 3) x 4 = 26 x 4 = 104 points. If he only scores 49 points, he gets (8 + 3) x 4 = 44 points and the defenders each get 15 x 4 = 60 for the failed "with 50".
+Game is 100 game points and there is a further 10 point bonus for any player who has 100 or more points when the game ends.
+The possible bonuses are summarised in the table below:
+
+Complex variant (1950s–1980s)
+The rules given here were first published by Fritz Beck in 1956 and reprinted into the 1980s. They are confused in places, so this overview incorporates corrections and clarifications by Dummett.
+
+Deal
+Deal and play are anti-clockwise. A player is nominated as the dealer by lots. The dealer shuffles, and the player on his left cuts or knocks. Six cards are dealt face down to for a talon. The rest of the cards, even if they have been 'knocked', are dealt in four packets of four cards.
+
+Auction
+Before the auction (Lizitation), players examine their cards to decide whether they will bid. As before, there are four positive contracts: Dreiblatt, Zweiblatt, Einblatt and Solo, all with a basic game value of 3.
+The bidding process is as before with the following exceptions: only the lowest bid of Dreiblatt may be 'taken over' (das Spiel lösen = 'take over the game') by an announcement of Unterer and this may only happen once, raising the game value to 4. If it is held, the game is worth 5. If all pass, the cards are redealt; alternatively players may agree to play a Trischaken (see below).
+
+Announcements
+Following the auction, the declarer may now make announcements both before and/or after picking up from the talon. Announcements made beforehand score double. The defenders, in clockwise order, must now say "good" (gut) to each announcement or "contra" if they wish to challenge it. A contra at this stage quadruples the value of the announcement. 
+The talon pickup is as before. Once he has finished laying his discards away, the declarer announces "I'm done" (ich liege) and makes any post-pickup bonus declarations. Again, the defenders must accept each announcement with "good" or may double it with "contra".
+A summary of the contracts is given in the table below:
+
+Play
+Forehand leads to the first trick. Subsequently, the player who wins a trick leads to the next trick. Higher suit cards beat lower ones of the same suit; tarocks beat suit cards and lower tarocks. Players must follow suit if able, but do not have to head the trick. If the led suit cannot be followed, a tarock must be played if possible, otherwise any card may be thrown.
+
+Scoring
+Players total the card points won in tricks using the usual Tarock scoring system and the excess (overshoot or undershoot) points are calculated. 
+The score is worked out as before; the winner's game points = (G + E + B) x M, where G is the game value, E are the excess points, B are the points earned from bonuses and M is the multiplier. The game value, G,  is always 3 unless an Unterer was declared, in which case it is 4, or held, in which case it is 5. Excess points those above or below 35 and bonus points are shown in the table below. The multiplier, M, is given in the contract table and is the same as with Löw: Dreier: x 1, Zweier: x 2, Einser: x 3 and Solo: x 4.
+Example: A wins the auction with a contract of Zweiblatt and Pagat Ultimo declared after talon pickup and wins the deal and the Pagat ultimo with 39 card points. His 'raw score; is 3 points for the game, 4 for excess points and 10 for the ultimo. He scores (3 + 4 + 10) × 2 = 17 x 2 = 34 game points. Had he lost the Pagat ultimo he would have scored 14 and his opponents 10 each.
+In a Trischaken there are no bonuses but a win scores 5 points, 10 points are deducted for losing it and there is an extra 5 points for winning with no tricks.
+Illustrated Tarock is played in series. A series ends as soon as at least one player reaches 100 game points, whereupon the player with the highest score is the winner. Players who earn 100 points receive 10 extra points. The notation is done line by line. Either each player can write down their own scores or a player (the Schreiber) is drawn by lot and records everybody's results.
+The possible bonuses are summarised below:
+
+Modern streamlined variant (2016)
+In 2016, Mayr and Sedlaczek published streamlined rules for 'Illustrated Dreiertarock' which are summarised below.
+
+Deal
+The dealer shuffles and offers to his left for cutting, before dealing 8 cards each, 2 packets of 3 cards to the table and then another 8 cards to each player.
+
+Auction
+There are four positive bids: Dreiblatt, Zweiblatt, Einblatt and Solo with a different set of game values again: 3, 5, 7 and 10. 
+Bidding is much simplified. Players bid clockwise in order and may either "pass" (weiter), accept a bid by a preceding player with "good" (gut) or overcall with a higher bid. There is no taking or holding and players may jump straight to a higher bid. The bid winner becomes the declarer, makes any pre-pickup announcements, exposes the talon (except in a Solo) and exchanges in the normal way. He may not raise his bid. If all pass, the cards are redealt; there is no Trischaken. The contracts are summarised in the following table:
+
+Announcements
+If the declarer decides to make any announcements before the pickup, he announces the game and then the bonuses e.g. "Dreiblatt with Pagat ultimo!" or "Zweiblatt with Absolute". The defenders may contra either; at this point it quadruples the score. The declarer may "recontra" which multiplies the game value or bonus by 16. "With 40", "with 50" and Valat may be announced together and in that order e.g. “with 40” before pickup and "with 50" and Valat after pickup. They may be contra’d separately. A contra to the game also applies to overshoot or undershoot points.1 "Without Trull" and "without Kings" are not obligatory. If either is announced before pickup and fails when the talon is exposed, the bonus is lost but the game continues. If a game is lost, they are automatically lost as well.
+
+Play
+Play is as before; this time players may view their own tricks and talon cards during the game and heir opponent's last trick until the next is played.
+
+Scoring
+Card points are scored using the usual Tarock scoring scheme; 36 being needed to win. 
+Game points are calculated as before. Example: A wins a Zweiblatt with 40 with 41 card points. He scores (5 + 6 + 10) x 2 = 42 game points. Had he won with 39 points, he would have scored (5 + 4) x 2 = 18 points, and the defenders would have scored 10 x 2 = 20 game points for the lost "with 40".
+Game is 100 and when a player exceeds 100, he and anyone else with 100 or more gets an extra 10. If played for money, use 1 point = 1 or 2¢.
+The simplified suite of bonuses is summarised in the table below.
+
+Strategy
+Valat is when a player wins all the tricks in a game and is not allowed in some rule variants. However, in a game of three players, there is very rarely a distribution of cards that enables a silent Valat to be achieved. The possibility of winning an announced Valat is even rarer.
+
+Footnotes
+References
+Literature
+Alscher, Hans-Joachim, ed. (2003). "Tarock" mein einziges Vergnügen. Vienna. ISBN 3-85498-283-6.{{cite book}}:  CS1 maint: location missing publisher (link).
+Bamberger, Johannes (2011). Tarock: Die schönsten Varianten (22nd ed.). Vienna. ISBN 978-3-99006-000-1.{{cite book}}:  CS1 maint: location missing publisher (link)
+Beck, Fritz (1965). Tarock komplett (4th ed.). Vienna: Perlen-Reihe.
+Beck, Fritz. (1972). Tarock komplett. Alle Spiele. Perlen-Reihe. Vol. 640. Vienna: Perlen-Reihe.
+Dummett, Michael. Twelve Tarot Games. London: Duckworth (1980). ISBN 0-7156-1488-6.
+Dummett, Michael (1980). The Game of Tarot. London: Duckworth. ISBN 0-7156-1014-7.
+Furr, Jerry Neill (2009). "Illustrated Tapp". Tarocchi: An introduction to the many games played with tarot cards. Philebus.
+Grupp, Claus D. (1975). Kartenspiele. Wiesbaden: Falken-Verlag Erich Sicker. ISBN 3-8068-2001-5.
+Kastner, Hugo; Folkvord, Gerald Kador (2005). Die große Humboldt-Enzyklopädie der Kartenspiele. Baden-Baden: Humboldt. ISBN 978-3-89994-058-9.
+Löw, Hans (1954). 20 Kartenspiele (2nd ed.). Vienna: Pechan.
+Ulmann, S. (1890). Das Buch der Familienspiele. Vienna, Munich and Pest: A. Hartleben.
+Mayr, Wolfgang and Robert Sedlaczek. Das große Tarock Buch. Perlen Reihe Vol. 642, Vienna – Frankfurt/M. o. J. (2001). ISBN 3-85223-462-X.
+Mayr, Wolfgang; Sedlaczek, Robert (2016). Die Strategie des Tarock Spiels (5th ed.). Vienna: Atelier. ISBN 978-3-902498-22-9.
+Stöckl, Sasha (2019). Das illustrierte Tarock. Graz.
